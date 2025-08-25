@@ -25,7 +25,6 @@ frontend/.vite/
 frontend/dist/
 frontend/.env
 frontend/.env.*
-frontend
 
 node_modules
 data
