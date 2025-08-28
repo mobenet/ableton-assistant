@@ -1,5 +1,5 @@
 
-
+(Flask + LangChain + Chroma + sentence-transformers + PyTorch):
 - model used for embedding the base knowledge: E5 intfloat/multilingual-e5-base -Idiomes: e5 multilingüe funciona bé amb anglès, castellà i català. Pots barrejar-ho tot sense problemes. SentenceTransformer.encode ja fa batching intern. Si vols més control, accepta paràmetres com batch_size=...ß
 
 
@@ -400,3 +400,230 @@ Recordatoris ràpids:
 * Si vols **guardar l’historial** al navegador, puc afegir un `localStorage` per missatges en 5 línies.
 
 Si vols, digue’m quin **logo / paleta** exacte d’Ableton t’agrada i t’ho deixo clavat. 💛
+
+
+
+PRUEBAS: # he ido cambiando min_relevance para ir probando soluciones 
+        # -> si min_relevance <= 0.5 todos pasan, pero si min_relevance > 0.5 todos los docs fallan
+        - cambiar K en rag retriever 
+
+
+
+why pydantic: 
+Porque te da **argumentos estructurados y validados** para las tools. En tu código lo usas así:
+
+```py
+class RAGStrictInput(BaseModel):
+    query: str
+    k: int = 5
+    min_relevance: float = 0.2
+
+@tool("ask_rag_strict", args_schema=RAGStrictInput)
+def ask_rag_strict(query: str, k: int = 5, min_relevance: float = 0.2): ...
+```
+
+### ¿Qué aporta Pydantic aquí?
+
+1. **Esquema JSON para function-calling**
+   LangChain genera a partir del `BaseModel` el **schema** (tipos, descripciones, defaults) que envía a OpenAI para que el LLM pueda **elegir y rellenar** bien los parámetros de la tool.
+
+2. **Validación y conversión**
+   Si el modelo (o tu frontend) manda `"k": "5"`, Pydantic lo convierte a `int`; si llega algo inválido, **lanza error** claro antes de ejecutar tu función.
+
+3. **Defaults y documentación**
+   Puedes fijar valores por defecto y `description=` en `Field(...)`. Eso mejora cómo el **modelo entiende** cuándo usar cada parámetro y cómo rellenarlo.
+
+4. **Robustez**
+   Evita que el agente llame la tool con parámetros mal formados (faltantes, tipos erróneos, valores fuera de rango) y te ahorra bugs silenciosos.
+
+5. **Trazabilidad**
+   En LangSmith ves los **inputs tipados** de cada tool run; es más legible que un dict suelto.
+
+### ¿Podrías no usar Pydantic?
+
+Sí, podrías:
+
+```py
+@tool
+def ask_rag_strict(query: str, k: int = 5, min_relevance: float = 0.2): ...
+```
+
+LangChain infiere un schema básico a partir de las **anotaciones de tipo**, pero:
+
+* Pierdes **descripciones** ricas por parámetro.
+* La **validación** es más pobre.
+* Para estructuras anidadas o constraints (rangos, enums) se vuelve difícil sin Pydantic.
+
+### Resumen corto
+
+Pydantic te da **schema + validación + conversión + defaults** para que el **LLM llame herramientas de forma segura y precisa**. Por eso lo usas en `RAGStrictInput`, `TempoInput` y `PitchInput`. Sin Pydantic funcionaría “más a pelo”, pero con menos fiabilidad y peores errores.
+
+
+
+@tool: 
+Te refieres a **`@tool`**.
+Es un **decorador** de LangChain (no de Python estándar) que **convierte una función normal en una “herramienta”** que los agentes pueden invocar mediante *function calling*.
+
+## ¿De dónde viene?
+
+De **LangChain Core**:
+
+```python
+from langchain_core.tools import tool
+```
+
+## ¿Qué hace exactamente?
+
+* Lee el **nombre** y la **docstring** de tu función para construir la **descripción** de la tool.
+* Inspecciona la **firma** de la función o un **`args_schema`** (Pydantic `BaseModel`) para generar el **JSON Schema** de parámetros que se envía al modelo (OpenAI) como “tools”.
+* Devuelve un objeto “Tool” que puedes poner en tu lista `TOOLS` y pasar a `create_openai_tools_agent(...)`.
+
+Así, cuando el LLM decide usar una tool, LangChain sabe **qué nombre** tiene, **qué parámetros** acepta y cómo **llamar** a tu función con esos parámetros.
+
+## Formas de usarlo
+
+### 1) Inferencia a partir de tipos
+
+```python
+from langchain_core.tools import tool
+
+@tool
+def suma(a: int, b: int) -> int:
+    """Suma dos enteros."""
+    return a + b
+```
+
+* LangChain infiere el schema de `a` y `b` por las anotaciones de tipo.
+
+### 2) Con nombre explícito y “return\_direct”
+
+```python
+@tool("calculator", return_direct=False)
+def calculator(expression: str) -> str:
+    """Evalúa una expresión tipo '60000/120'."""
+    ...
+```
+
+* `name="calculator"`: nombre visible para el agente.
+* `return_direct=True`: el **resultado de la tool** se devuelve **directamente** como respuesta final del agente (sin otra pasada por el LLM). Úsalo solo si quieres cortar el flujo.
+
+### 3) Con `args_schema` (Pydantic) para parámetros estructurados
+
+```python
+from pydantic import BaseModel, Field
+
+class TempoInput(BaseModel):
+    bpm: float = Field(..., description="Beats per minute")
+    note: str = Field("1/4", description="1/1, 1/2, 1/4, 1/8, 1/16...")
+
+@tool("tempo_calculator", args_schema=TempoInput)
+def tempo_calculator(bpm: float, note: str = "1/4") -> str:
+    """Convierte BPM a milisegundos por figura."""
+    ...
+```
+
+* Con `args_schema` le das al agente un **schema robusto** (tipos, defaults, descripciones, validación).
+
+## ¿Cómo se usa en tu agente?
+
+Tú registras las tools:
+
+```python
+TOOLS = [ask_rag_strict, web_search, calculator, tempo_calculator, pitch_converter]
+```
+
+y construyes el agente:
+
+```python
+agent = create_openai_tools_agent(llm, TOOLS, AGENT_PROMPT)
+```
+
+El LLM ve esas tools (nombre, schema) y, si el prompt/política lo sugiere, **propone** llamar a una con ciertos argumentos; LangChain ejecuta tu función decorada y pasa la **observación** de vuelta al LLM para que **redacte** la respuesta final (salvo `return_direct=True`).
+
+## Resumen
+
+* `@tool` = “haz que esta función sea invocable por el agente”.
+* Viene de `langchain_core.tools`.
+* Usa tu firma o un `args_schema` para construir el **JSON Schema** que OpenAI entiende.
+* Tu **docstring** se convierte en la **descripción** que el LLM lee para decidir cuándo usarla.
+
+
+
+
+ISSUES: 
+HE tenido issues con la gestion de idioma y top score i min relevance. A veces cuando preguntava en españo, me decia que no habia info suficiente en los videos y empleaba web search pero aun asi me devolvia las sources de los youtube., eso sucede porque sí hay videos pero al ser la query en español, los docs que encuentrea tienen una top score muy baja que hace que devuelva un no context i por lo tanto se pone a buscar en web  -> quise arreglarlo pero lo deje pasar
+
+duckduckgo search
+
+
+
+
+
+
+
+Resumen conceptual del flujo
+
+Tu backend llama agent_ask("pregunta", session_id).
+
+get_agent_runnable() te da un agente con memoria (creado una única vez).
+
+El prompt (system) le ordena: intenta ask_rag_strict primero.
+
+Si ask_rag_strict devuelve NO_CONTEXT, entonces usa web_search.
+
+Si hay cálculos, puede llamar tempo_calculator / calculator / pitch_converter.
+
+El agente reúne resultados y siempre añade “Sources:” si usó RAG o web.
+
+Devuelve out["output"] al backend → frontend.
+
+
+
+
+
+3) “LLM as judges” (para accuracy)
+
+Es una metodología de evaluación automática donde otro LLM actúa como “juez” que califica tus respuestas. Útil cuando no tienes humanos para etiquetar o quieres medir rápido precisión/grounding.
+
+Modos típicos
+
+Con referencia (gold answer):
+Le das al juez: pregunta, tu respuesta, respuesta de referencia → Te devuelve “Correcta / Parcial / Incorrecta” + justificación.
+
+Sin referencia pero con contexto (RAG):
+Le das pregunta, tu respuesta, contextos recuperados → El juez decide si tu respuesta está soportada por el contexto (no-hallucination).
+
+Qué medir
+
+Correctness (QA): ¿responde a la pregunta?
+
+Groundedness: ¿está respaldada por las fuentes del RAG?
+
+Context Precision/Recall: ¿cuánto del contexto recuperado era relevante / cuánta info relevante faltó?
+
+Citations: ¿las URLs/timestamps realmente respaldan lo que se afirma?
+
+
+Qué debes medir (mínimo)
+
+Correctness (con referencia)
+¿Tu respuesta coincide con la “gold answer” esperada? Útil para preguntas cerradas.
+
+Groundedness (con contexto RAG)
+¿Tu respuesta está respaldada por los snippets recuperados? Minimiza alucinaciones.
+
+Opcionales útiles:
+
+Citations: ¿las URLs/timestamps citadas realmente soportan lo dicho?
+
+Instruction following: ¿respeta formato, incluye “Sources:”, etc.?
+
+
+
+python -m eval.eval_rag
+(.venv) PS C:\Users\Lain\Documents\0_IRONHACK\WORK\PROJECTS\final\ableton-assistant> python -m eval.eval_rag
+[EVAL] samples=8  avg_correctness=0.7625  avg_groundedness=0.85
+[EVAL] wrote C:\Users\Lain\Documents\0_IRONHACK\WORK\PROJECTS\final\ableton-assistant\eval\eval_rag_results.jsonl
+(.venv) PS C:\Users\Lain\Documents\0_IRONHACK\WORK\PROJECTS\final\ableton-assistant> python -m eval.eval_rag
+C:\Users\Lain\Documents\0_IRONHACK\WORK\PROJECTS\final\ableton-assistant\.venv\Scripts\python.exe: Error while finding module specification fo
+r 'eval.eval_rag' (ModuleNotFoundError: No module named 'eval')                                                                               

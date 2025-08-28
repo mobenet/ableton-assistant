@@ -1,6 +1,5 @@
 # rag_chain.py
 import os # per llegir variables d'entorn
-import json
 from typing import List, Dict, Any # per anotar tipus (llistes, dicts..)
 from functools import lru_cache
 
@@ -57,7 +56,12 @@ def _source_from_meta(meta: Dict[str, Any]) -> Dict[str, Any]:
         }
     # manual / altres fonts
     return {"type": "manual", "url": meta.get("source", "")}
-
+"""
+Muchos docs pueden venir del mismo vídeo y mismo segundo (p. ej., ventanas solapadas), así que aquí quitamos duplicados.
+¿Cómo deduplica?
+Crea una clave (url, timestamp) para cada fuente.
+Mantiene la primera aparición y descarta repes con el mismo par.
+Ojo: si cambia el timestamp, NO se deduplica (mismo vídeo en segundos distintos => se conservan como fuentes distintas, que es lo que quieres)."""
 def _dedupe_sources(sources: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     seen = set()
     out = []
@@ -170,6 +174,12 @@ def answer_query(query: str, k: int = 5) -> Dict[str, Any]:
     docs: List[Document] = retriever.invoke(query, config=run_config)
     sources = _dedupe_sources([_source_from_meta(d.metadata or {}) for d in docs])
 
+    if not docs:
+        answer = (
+            "I don't have enough info in the local index for that.\n"
+            "Consider searching the web.\n\nSources:\n"
+        )
+        return {"answer": answer.strip(), "sources": []}
     # Garanteix 'Sources:' si l'LLM se n'oblida
     if "Sources:" not in answer:
         answer += "\n\nSources:\n" + "\n".join(

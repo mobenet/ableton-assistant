@@ -15,9 +15,9 @@ venv/
 instance/
 
 # --- LangChain / vector DB ---
-chroma_db/
-*.sqlite
-*.parquet
+# chroma_db/
+# *.sqlite
+# *.parquet
 
 # --- Node / Vite (frontend) ---
 frontend/node_modules/
@@ -35,3 +35,5 @@ tmp/
 # --- Misc ---
 *.coverage
 coverage/
+
+./notes.md

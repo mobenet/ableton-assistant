@@ -14,8 +14,7 @@ from tqdm import tqdm
 
 from langchain.docstore.document import Document
 from langchain_chroma import Chroma
-from langchain_core.embeddings import Embeddings
-from sentence_transformers import SentenceTransformer
+
 
 # ----------------- Config -----------------
 MANUAL_JSON = "data/manual_chunks/manual_chunks.json"
@@ -224,7 +223,6 @@ def main():
         vs.add_documents(all_docs[i:i+batch])
         print(f"[INFO] Indexed {min(i+batch, len(all_docs))}/{len(all_docs)}")
 
-    vs.persist()
     print("[INFO] Chroma persisted to", CHROMA_DIR)
 
 if __name__ == "__main__":
