@@ -10,7 +10,7 @@ chromadb>=0.5.5
 sentence-transformers>=2.7.0
 transformers>=4.44.0
 torch>=2.2.0
-numpy<2.0  # compatibilitat amb torch/sentence-transformers
+numpy<2.0  # 
 
 # Models locals (Ollama)
 ollama>=0.1.8
@@ -19,11 +19,11 @@ langchain-ollama>=0.1.3
 # API i UI
 flask>=3.0.3
 flask-cors>=4.0.0
-gradio>=4.37.2  # per prototips ràpids
+gradio>=4.37.2 
 
 # Speech
-openai>=1.40.0   # per si vols STT/TTS amb API
-whisperx>=3.1    # opcional, whisper millorat per local
+openai>=1.40.0   
+whisperx>=3.1   
 
 # Utils
 tqdm>=4.66.5

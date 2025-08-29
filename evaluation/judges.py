@@ -4,7 +4,6 @@ from typing import List, Dict, Any
 from langsmith import traceable
 from langchain_openai import ChatOpenAI
 
-# ---------- Juez de "Correctness" con referencia ----------
 @traceable(name="judge.correctness")
 def judge_correctness(
     llm: ChatOpenAI,
@@ -33,10 +32,8 @@ def judge_correctness(
         Respond ONLY valid JSON.
     """
     msg = llm.invoke([("system", sys), ("user", usr)])
-    # Intenta parsear JSON; si no, construye fallo robusto
     try:
         data = json.loads(msg.content)
-        # sanea valores
         v = str(data.get("verdict","")).upper()
         if v not in {"CORRECT","PARTIAL","INCORRECT"}:
             v = "PARTIAL"
@@ -47,13 +44,12 @@ def judge_correctness(
     except Exception:
         return {"verdict":"PARTIAL","score":0.0,"justification":"Judge output not JSON."}
 
-# ---------- Juez de "Groundedness" con contexto RAG ----------
 @traceable(name="judge.groundedness")
 def judge_groundedness(
     llm: ChatOpenAI,
     question: str,
     answer: str,
-    contexts: List[str],   # cada item: "[- URL] snippet..."
+    contexts: List[str],   
 ) -> Dict[str, Any]:
     """
     Returns: {verdict: SUPPORTED|PARTIALLY_SUPPORTED|NOT_SUPPORTED, score:0..1, cites:[indices], justification:str}

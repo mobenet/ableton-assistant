@@ -37,15 +37,25 @@ export default function App() {
   }, [messages, sending]);
 
   const push = (m) => setMessages((x) => [...x, m]);
-
+  const speakAllRef = useRef(false);
+  useEffect(() => { speakAllRef.current = speakAll; }, [speakAll]);
   // ---- TTS (servidor /tts) ----
   async function speak(text) {
-    if (!text) return;
+    const clean = stripSources(text);
+    if (!clean) return;
+
     try {
-      const blob = await api.postJsonForBlob("/tts", { text, voice, format: audioFmt });
-      const url = URL.createObjectURL(blob);
+      // si mentrestant s'ha posat OFF, no parlem
+      if (!speakAllRef.current) return;
+
+      const blob = await api.postJsonForBlob("/tts", { text: clean, voice, format: audioFmt });
       const el = audioRef.current || new Audio();
       if (!audioRef.current) audioRef.current = el;
+
+      // si en acabar el fetch ja està en OFF, no reproduïm
+      if (!speakAllRef.current) return;
+
+      const url = URL.createObjectURL(blob);
       el.src = url;
       await el.play().catch(()=>{});
     } catch (e) {
@@ -76,7 +86,22 @@ export default function App() {
     push({ role: "assistant", text: answer });
     if (speakAll) await speak(answer);
   }
-    
+  function stripSources(t) {
+    return (t || "").replace(/\n+?Sources:\s*[\s\S]*$/i, "").trim();
+  }
+
+  function toggleSpeak() {
+    setSpeakAll(prev => {
+      if (prev) { // estem passant de ON -> OFF
+        const el = audioRef.current;
+        if (el) {
+          try { el.pause(); el.currentTime = 0; el.src = ""; } catch {}
+        }
+      }
+      return !prev;
+    });
+  }
+
   // ---- Enviar por texto ----
   // async function onSend(e) {
   //   e?.preventDefault?.();
@@ -137,46 +162,61 @@ export default function App() {
       rec.ondataavailable = (ev) => { if (ev.data?.size) chunksRef.current.push(ev.data); };
       rec.onstart = () => setRecording(true);
 
-      rec.onstop = async () => {
-        setRecording(false);
-        // ¿pulsación muy corta? => instrucción de “mantener”
-        const dt = Date.now() - (pressStartedAtRef.current || 0);
-        if (dt < 300) {
-          push({ role: "assistant", text: "To talk, keep the mic button pressed." });
-          chunksRef.current = [];
-          return;
-        }
-        // build the audio blob we just recorded
-        const blob = new Blob(chunksRef.current, { type: rec.mimeType || "audio/webm" });
-        chunksRef.current = [];
+  rec.onstop = async () => {
+    setRecording(false);
 
-        try {
-          // 1) STT
-          const form = new FormData(); 
-          form.append("audio", blob, "q.webm");
-          
-          const stt = await fetch(
-            `${serverUrl.replace(/\/$/, "")}/voice?session_id=${encodeURIComponent(sessionId)}&voice=${encodeURIComponent(voice)}&format=${encodeURIComponent(audioFmt)}`,
-            { method: "POST", body: form }
-          );
-          // const q = (stt?.text || "").trim();
-          // if (!q) { push({ role: "assistant", text: "I couldn't hear anything. Try again." }); return; }
-          if (!stt.ok) {
-            let e = null; try { e = await stt.json(); } catch {}
-            throw new Error(e?.error || `${stt.status} ${stt.statusText}`);
-          }
-          // 2) Mostrar transcripción
-          const audioBlob = await stt.blob();
-          const url = URL.createObjectURL(audioBlob);
-          const el = audioRef.current || new Audio();
-          if (!audioRef.current) audioRef.current = el;
-          el.src = url;
-          await el.play().catch(() => {});
+    // Clic massa curt → pista
+    const dt = Date.now() - (pressStartedAtRef.current || 0);
+    if (dt < 300) {
+      push({ role: "assistant", text: "To talk, keep the mic button pressed." });
+      chunksRef.current = [];
+      return;
+    }
 
-        } catch (e) {
-          push({ role: "assistant", text: `Voice flow failed: ${e.message}` });
-        }
-      };
+    // 1) Blob amb l’àudio gravat
+    const blob = new Blob(chunksRef.current, { type: rec.mimeType || "audio/webm" });
+    chunksRef.current = [];
+
+    try {
+      // 2) STT ràpid
+      const form = new FormData();
+      form.append("audio", blob, "q.webm");
+      const stt = await api.postFormJson(`/stt?language=${encodeURIComponent(language)}`, form);
+      const transcript = (stt?.text || "").trim();
+
+      if (!transcript) {
+        push({ role: "assistant", text: "I couldn't hear anything. Try again." });
+        return;
+      }
+
+      // 3) Pinta la transcripció com a usuari
+      push({ role: "user", text: transcript });
+
+      // 4) Mostrem spinner global (no bubble) mentre preguntem a l’agent
+      setSending(true);
+
+      // 5) Pregunta a l’agent (sense stream)
+      const res = await api.postJson("/chat", {
+        question: transcript,
+        session_id: sessionId,
+      });
+      const answer = (res?.answer || "").trim();
+
+      // 6) Pinta la resposta escrita (sempre)
+      push({ role: "assistant", text: answer || "(no answer)" });
+
+      // parla en paral·lel si Speak: ON (sense await)
+      if (speakAll && answer) {
+        speak(answer);  // <-- reutilitza la funció speak() que ja treu "Sources" i respecta OFF
+      }
+
+    } catch (e) {
+      push({ role: "assistant", text: `Voice flow failed: ${e.message}` });
+    } finally {
+      setSending(false);
+    }
+  };
+
 
       mediaRecorderRef.current = rec; 
       return rec;
@@ -222,7 +262,7 @@ export default function App() {
           </div>
           <div className="header-actions">
             <button className={"btn " + (speakAll ? "btn-accent" : "")}
-                    onClick={() => setSpeakAll(v=>!v)}>
+                    onClick={toggleSpeak}>
               {speakAll ? "Speak: ON" : "Speak: OFF"}
             </button>
           </div>

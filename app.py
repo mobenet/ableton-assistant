@@ -16,17 +16,11 @@ client = OpenAI()
 app = Flask(__name__)
 CORS(app)
 
-# ---------- Utils ----------
 def _read_audio_from_request() -> tuple[str, io.BufferedReader]:
-    """
-    Devuelve (cleanup_path, file_handle) listo para pasar a OpenAI STT.
-    Cierra/borra el tmp en quien lo llame.
-    """
     cleanup_path = None
     file_obj = None
-    if "audio" in request.files:  # multipart/form-data
+    if "audio" in request.files:
         up = request.files["audio"]
-        # Guardar SIEMPRE a disco para evitar el error de FileStorage
         with tempfile.NamedTemporaryFile(suffix=".webm", delete=False) as tmp:
             up.save(tmp)
             cleanup_path = tmp.name
@@ -43,42 +37,10 @@ def _read_audio_from_request() -> tuple[str, io.BufferedReader]:
         file_obj = open(cleanup_path, "rb")
     return cleanup_path, file_obj
 
-# ---------- Health ----------
 @app.get("/health")
 def health():
     return jsonify({"status": "ok", "agent": True, "voice": True})
 
-# ---------- Chat con streaming (AGENTE) ----------
-@app.get("/chat_stream")
-def chat_stream():
-    """
-    Uso:
-      GET /chat_stream?q=...&session_id=demo
-    Respuesta: text/plain con chunks de texto (streaming sencillo).
-    """
-    q = (request.args.get("q") or "").strip()
-    session_id = (request.args.get("session_id") or "default").strip()
-    if not q:
-        return jsonify({"error": "Missing 'q'"}), 400
-    END = "\n<<END_OF_MESSAGE>>"
-    def gen():
-        # 1) Pedimos la respuesta completa al agente
-        try:
-            answer = agent_ask(q, session_id=session_id) or ""
-        except Exception as e:
-            yield f"[error] {e}{END}"
-            return
-        # 2) La “troceamos” para que el front la reciba en tiempo real
-        CHUNK = 256
-        for i in range(0, len(answer), CHUNK):
-            yield answer[i:i+CHUNK] + "\n"
-        yield END
-    return Response(
-        stream_with_context(gen()),
-        mimetype="text/plain",
-        headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"},
-    )
-# --- Chat sense streaming (AGENT) ---
 @app.post("/chat")
 def chat_once():
     """
@@ -95,70 +57,91 @@ def chat_once():
         return jsonify({"answer": answer})
     except Exception as e:
         return jsonify({"error": str(e)}), 500
-# ---------- Round-trip de VOZ ----------
-@app.post("/voice")
-def voice_roundtrip():
-    """
-    1) Recibe audio (multipart 'audio' o JSON 'audio_b64')
-    2) STT (OpenAI) -> texto
-    3) Agente -> respuesta texto
-    4) TTS (OpenAI) -> audio (mp3 por defecto)
-    """
-    session_id = (request.args.get("session_id") or "default").strip()
-    stt_model = os.getenv("OPENAI_STT_MODEL", "gpt-4o-mini-transcribe")
-    tts_model = os.getenv("OPENAI_TTS_MODEL", "gpt-4o-mini-tts")
-    voice = (request.args.get("voice") or "alloy").strip()
-    fmt = (request.args.get("format") or "mp3").strip().lower()
+    
+@app.post("/tts")
+def tts_openai():
+    payload = request.get_json(force=True) or {}
+    text  = (payload.get("text") or "").strip()
+    voice = (payload.get("voice") or "alloy").strip()
+    fmt   = (payload.get("format") or "mp3").strip().lower()
+    model = os.getenv("OPENAI_TTS_MODEL", "gpt-4o-mini-tts")
 
-    mime_by_fmt = {"mp3": "audio/mpeg", "wav": "audio/wav", "flac": "audio/flac", "pcm": "audio/wave"}
+    if not text:
+        return jsonify({"error": "Missing 'text'"}), 400
+
+    mime_by_fmt = {"mp3":"audio/mpeg","wav":"audio/wav","flac":"audio/flac","pcm":"audio/wave"}
     mimetype = mime_by_fmt.get(fmt, "audio/mpeg")
     ext = fmt if fmt in mime_by_fmt else "mp3"
 
-    cleanup_path = None
-    out_path = None
     try:
-        # 1) Audio IN
-        cleanup_path, file_obj = _read_audio_from_request()
-
-        # 2) STT
-        tr = client.audio.transcriptions.create(model=stt_model, file=file_obj)
-        file_obj.close()
-        question = getattr(tr, "text", None) or (tr.get("text") if isinstance(tr, dict) else None)
-        if not question:
-            return jsonify({"error": "STT returned no text"}), 422
-
-        # 3) Agente
-        answer = agent_ask(question, session_id=session_id)
-
-        # 4) TTS
-        with tempfile.NamedTemporaryFile(suffix=f".{ext}", delete=False) as tmp_out:
-            out_path = tmp_out.name
+        with tempfile.NamedTemporaryFile(suffix=f".{ext}", delete=False) as tmp:
+            tmp_path = tmp.name
 
         with client.audio.speech.with_streaming_response.create(
-            model=tts_model, voice=voice, input=answer, response_format=fmt
+            model=model, voice=voice, input=text, response_format=fmt
         ) as resp:
-            resp.stream_to_file(out_path)
+            resp.stream_to_file(tmp_path)
 
         buf = io.BytesIO()
-        with open(out_path, "rb") as f:
+        with open(tmp_path, "rb") as f:
             buf.write(f.read())
         buf.seek(0)
+        os.remove(tmp_path)
 
-        return send_file(buf, mimetype=mimetype, as_attachment=False, download_name=f"answer.{ext}")
+        return send_file(buf, mimetype=mimetype, as_attachment=False, download_name=f"tts.{ext}")
+    except Exception as e:
+        return jsonify({"error": f"TTS failed: {e}"}), 500
+
+
+@app.post("/stt")
+def stt_openai():
+    """
+    Speech-to-Text.
+    Accepta:
+      - multipart/form-data amb 'audio' (webm/wav/mp3…)
+      - JSON amb {"audio_b64": "<base64>"}
+    Paràmetres opcionals (query o JSON): language, prompt
+    Retorna: {"text": "...", "model": "...", "language": "..."}
+    """
+    stt_model = os.getenv("OPENAI_STT_MODEL", "gpt-4o-mini-transcribe")
+
+    payload = request.get_json(silent=True) or {}
+    language = (request.args.get("language") or payload.get("language") or "").strip()
+    prompt   = (request.args.get("prompt")   or payload.get("prompt")   or "").strip()
+
+    cleanup_path = None
+    file_obj = None
+    try:
+        cleanup_path, file_obj = _read_audio_from_request()
+
+        kwargs = {"model": stt_model, "file": file_obj}
+        if language:
+            kwargs["language"] = language
+        if prompt:
+            kwargs["prompt"] = prompt
+
+        tr = client.audio.transcriptions.create(**kwargs)
+        text = getattr(tr, "text", None)
+        if text is None and isinstance(tr, dict):
+            text = tr.get("text")
+        if not text:
+            return jsonify({"error": "STT returned no text"}), 422
+
+        return jsonify({"text": text, "model": stt_model, "language": language or None})
 
     except ValueError as ve:
         return jsonify({"error": str(ve)}), 400
     except Exception as e:
-        return jsonify({"error": f"voice failed: {e}"}), 500
+        return jsonify({"error": f"STT failed: {e}"}), 500
     finally:
         try:
-            if cleanup_path and os.path.exists(cleanup_path):
-                os.remove(cleanup_path)
+            if file_obj:
+                file_obj.close()
         except Exception:
             pass
         try:
-            if out_path and os.path.exists(out_path):
-                os.remove(out_path)
+            if cleanup_path and os.path.exists(cleanup_path):
+                os.remove(cleanup_path)
         except Exception:
             pass
 
@@ -173,7 +156,7 @@ def reset_session_route():
 def reset_all_route():
     reset_all_sessions()
     return jsonify({"ok": True})
-# ---------- Servir frontend (opcional) ----------
+
 FRONT_DIST = os.path.join(os.path.dirname(__file__), "frontend", "dist")
 
 @app.route("/", defaults={"path": ""})

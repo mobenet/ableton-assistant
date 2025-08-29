@@ -16,11 +16,9 @@ def _format_docs_for_judge(docs) -> List[str]:
     out = []
     for d in docs:
         url = d.metadata.get("source") or d.metadata.get("url") or ""
-        # Si es vídeo, añade timestamp (coincide con tu _source_from_meta)
         start = d.metadata.get("start")
         if start is not None:
             url = f"{url}&t={int(start)}s" if "watch?v=" in url else url
-        # snippet breve
         txt = (d.page_content or "").strip().replace("\n", " ")
         if len(txt) > 400: txt = txt[:400] + "..."
         out.append(f"{url}\n{txt}")
@@ -32,16 +30,13 @@ def run_sample(sample: dict, llm_judge: ChatOpenAI):
     ref = sample.get("reference","")
     k = int(sample.get("k", 5))
 
-    # Usa tu pipeline LCEL (igual que producción)
     retriever = load_retriever(k=k)
     chain = build_chain(pick_llm(), retriever)
     answer = chain.invoke(q)
 
-    # Contextos reales que vio el modelo (mismo retriever)
     docs = retriever.invoke(q)
     ctx = _format_docs_for_judge(docs)
 
-    # Jueces
     correctness = judge_correctness(llm_judge, q, answer, ref) if ref else None
     grounded   = judge_groundedness(llm_judge, q, answer, ctx)
 
@@ -55,7 +50,6 @@ def run_sample(sample: dict, llm_judge: ChatOpenAI):
     }
 
 def main():
-    # Juez: usa un modelo “pequeño” y barato, temperatura 0
     judge_llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
     rows = []
@@ -65,7 +59,6 @@ def main():
             res = run_sample(sample, judge_llm)
             rows.append(res)
 
-    # Resume simple
     total = len(rows)
     corr = [r["correctness"]["score"] for r in rows if r["correctness"]]
     grnd = [r["groundedness"]["score"] for r in rows]

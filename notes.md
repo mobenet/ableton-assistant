@@ -624,6 +624,19 @@ python -m eval.eval_rag
 (.venv) PS C:\Users\Lain\Documents\0_IRONHACK\WORK\PROJECTS\final\ableton-assistant> python -m eval.eval_rag
 [EVAL] samples=8  avg_correctness=0.7625  avg_groundedness=0.85
 [EVAL] wrote C:\Users\Lain\Documents\0_IRONHACK\WORK\PROJECTS\final\ableton-assistant\eval\eval_rag_results.jsonl
-(.venv) PS C:\Users\Lain\Documents\0_IRONHACK\WORK\PROJECTS\final\ableton-assistant> python -m eval.eval_rag
-C:\Users\Lain\Documents\0_IRONHACK\WORK\PROJECTS\final\ableton-assistant\.venv\Scripts\python.exe: Error while finding module specification fo
-r 'eval.eval_rag' (ModuleNotFoundError: No module named 'eval')                                                                               
+
+
+
+Test ràpid
+
+Xat escrit
+
+“Speak: OFF” → mostra només text.
+
+“Speak: ON” → mostra text i parla.
+
+Mic
+
+“Speak: OFF” → transcripció com user + resposta escrita del bot (sense veu).
+
+“Speak: ON” → transcripció com user + resposta escrita i, en paral·lel, TTS.

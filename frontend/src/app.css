@@ -54,3 +54,31 @@ html, body, #root { height: 100%; margin: 0; background: var(--bg); color: var(-
 .small { font-size:12px; color: var(--muted); margin-top:6px; }
 .loader { display:inline-block; width:16px; height:16px; border:2px solid #888; border-top-color: transparent; border-radius: 50%; animation: spin .8s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
+/* Links dins de les bombolles del xat (Markdown) */
+.bubble a,
+.bubble a:visited {
+  color: var(--accent);                 /* blau clar alt contrast sobre negre */
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-color: rgba(184, 225, 255, .6);
+}
+
+.bubble a:hover,
+.bubble a:focus {
+  color: #000;                    /* text negre quan fem hover */
+  background: var(--accent);      /* groc Ableton de fons */
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.bubble a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.input-wrap .actions button[type="submit"] {
+  color: #fff;           /* flecha blanca */
+}
+.input-wrap .actions button[type="submit"]:hover {
+  color: #fff;           /* mantiene blanco al pasar el ratón */
+}
