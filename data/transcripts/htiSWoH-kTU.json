@@ -1,0 +1,502 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends, Matt aka MyTillman here and today I'm going to be breaking down everything there is to know about drum rack inside of Ableton Live."
+  },
+  {
+    "start": 6.6000000000000005,
+    "text": " I recently did a video all about racks which you can check out via the card above and in that video I covered audio effect racks, midi effect racks and instrument racks,"
+  },
+  {
+    "start": 13.68,
+    "text": " but I said that I'd leave drum racks for another video and this is that video."
+  },
+  {
+    "start": 18.48,
+    "text": " So first up, what is drum rack and why is it different from the other kinds of racks in Ableton Live?"
+  },
+  {
+    "start": 23.48,
+    "text": " Well, drum rack is a special kind of rack inside of Ableton Live that shares a lot of similarities with the instrument rack in that it can contain midi effects,"
+  },
+  {
+    "start": 31.96,
+    "text": " audio effects and instrument devices spread across multiple chains."
+  },
+  {
+    "start": 36.96,
+    "text": " The main difference is that each of these chains is generally only assigned to a single midi note,"
+  },
+  {
+    "start": 41.64,
+    "text": " meaning that when I send the drum rack that midi note, it will only trigger that specific sound or chain."
+  },
+  {
+    "start": 47.36,
+    "text": " To show you what I mean, let's take a look at an example."
+  },
+  {
+    "start": 50.04,
+    "text": " So here in Ableton Live, I have a 909 CoreKit open up, which is a drum rack preset with the sounds of a Roland TR-909, which is a really popular drum machine."
+  },
+  {
+    "start": 60.04,
+    "text": " As we can see on our drum rack, each of these different pads here represents a different chain or sound."
+  },
+  {
+    "start": 66.6,
+    "text": " Each of these chains are assigned to a single midi note and I can preview the sound on that chain by either sending the drum rack that specific midi note"
+  },
+  {
+    "start": 75.28,
+    "text": " or by clicking the little play icon associated with that pad."
+  },
+  {
+    "start": 81.88,
+    "text": " If I create a midi clip on this track, we can see that the midi clip also looks slightly different."
+  },
+  {
+    "start": 86.64,
+    "text": " The piano roll for the midi clip will only show the notes that have associated chains with them inside of the drum rack,"
+  },
+  {
+    "start": 91.96000000000001,
+    "text": " and the names of the midi notes will also be replaced by the names of the associated chains within that drum rack."
+  },
+  {
+    "start": 97.48,
+    "text": " This way it makes it really easy to program things like drum patterns because you can simply see the names of all of the different samples or sounds loaded up in the piano roll"
+  },
+  {
+    "start": 106.36,
+    "text": " without having to convert them between the midi note name and the actual sound."
+  },
+  {
+    "start": 109.60000000000001,
+    "text": " So now let's take a look at how we can build our own drum rack from scratch."
+  },
+  {
+    "start": 113.44,
+    "text": " Just like with our other types of racks, there are two main ways to create a new drum rack."
+  },
+  {
+    "start": 117.76,
+    "text": " The first main way is to right click on the device title bar of any instrument you want to add to a new drum rack and select the group to drum rack option."
+  },
+  {
+    "start": 125.04,
+    "text": " And the second way is to simply grab a blank drum rack from the instrument section in your browser."
+  },
+  {
+    "start": 129.48,
+    "text": " With a blank drum rack loaded up onto our new midi track, we can add an instrument in the form of a simpler device"
+  },
+  {
+    "start": 135.28,
+    "text": " by finding any sample that we want to use inside of that simpler device and simply clicking and dragging it onto one of the pads in our drum rack."
+  },
+  {
+    "start": 144.36,
+    "text": " And that will add a simpler device with the sample loaded into it on that pad."
+  },
+  {
+    "start": 148.76,
+    "text": " So I've just loaded up a kick drum, let's also load up a snare drum,"
+  },
+  {
+    "start": 151.2,
+    "text": " and now we have two sounds loaded up into this drum rack, each with different associated midi notes."
+  },
+  {
+    "start": 156.83999999999997,
+    "text": " We can also add sounds outside of this initial four by four grid that we see here."
+  },
+  {
+    "start": 161.35999999999999,
+    "text": " And in fact, we can add up to 128 different sounds inside of the drum rack."
+  },
+  {
+    "start": 165.67999999999998,
+    "text": " And we can do this by scrolling on the left hand side of the drum rack in this section right here."
+  },
+  {
+    "start": 170.67999999999998,
+    "text": " If you just click and drag or scroll, you'll jump in lots of four by four."
+  },
+  {
+    "start": 174.23999999999998,
+    "text": " But if you hold down command on Mac or control on Windows, you can scroll in one row increments."
+  },
+  {
+    "start": 179.72,
+    "text": " Let's for the sake of it, just add another sample all the way up here."
+  },
+  {
+    "start": 183.36,
+    "text": " And now if you pay close attention to this left hand side, you can see there are these lighter gray squares,"
+  },
+  {
+    "start": 188.16,
+    "text": " which tell us that those particular pads have samples or sounds or chains loaded up onto them."
+  },
+  {
+    "start": 193.28,
+    "text": " You can also add multiple samples at once by selecting them all from your browser"
+  },
+  {
+    "start": 198.20000000000002,
+    "text": " and simply clicking and dragging them onto a pad, and that will add them chromatically upwards from the selected pad."
+  },
+  {
+    "start": 203.88,
+    "text": " So each of these different pads or chains now contains a different simpler device with a different sample loaded up in it."
+  },
+  {
+    "start": 209.84,
+    "text": " And we can add midi effects and audio effects to our liking on a per chain basis."
+  },
+  {
+    "start": 215.4,
+    "text": " For example, I could add an EQ just to this kick drum here."
+  },
+  {
+    "start": 222.4,
+    "text": " And potentially I could add a reverb just to the snare."
+  },
+  {
+    "start": 225.12,
+    "text": " And as with other types of racks, it's really important to click and drag the device so that it lands inside of the rack, not outside of it."
+  },
+  {
+    "start": 233.16,
+    "text": " We can also get access to specific mixer controls for each chain."
+  },
+  {
+    "start": 237.32,
+    "text": " And we can do this by opening up the chain list in our drum rack."
+  },
+  {
+    "start": 241.12,
+    "text": " In order to open up the chain list, we can simply go to our drum rack and select the show high chain list icon,"
+  },
+  {
+    "start": 247.64,
+    "text": " which will show us all of our different chains loaded up inside of the drum rack and give us access to basic mixer controls like volume, panning, mute and solo controls for each chain."
+  },
+  {
+    "start": 260.32,
+    "text": " You can also access each of these different mixer controls for each chain in session view."
+  },
+  {
+    "start": 265.76,
+    "text": " If we go up to the track in session view, we'll see that we have an arrow on the right hand side of the track title bar."
+  },
+  {
+    "start": 270.15999999999997,
+    "text": " And if we click this, this will unfold that track and show us all of the different chains contained within it and give us access to change the volume, mute, pan and solo controls of each of these individual chains."
+  },
+  {
+    "start": 284.64,
+    "text": " Of course, we aren't limited to just adding samples inside of our drum rack, and we can also add any other instrument we would like as well."
+  },
+  {
+    "start": 292.08,
+    "text": " For example, I could load up a wavetable onto another one of these pads so I can click and drag in a wavetable onto, say, A sharp one."
+  },
+  {
+    "start": 298.59999999999997,
+    "text": " And if I hit the play button on this pad or send the drum rack in A sharp one, we get to hear the output of the wavetable."
+  },
+  {
+    "start": 304.84,
+    "text": " But now we come across one of our first issues with drum rack, which is that each pad can only receive a single MIDI note, therefore it can only send a single MIDI note."
+  },
+  {
+    "start": 315.96,
+    "text": " And because of this, if we have an instrument like a wavetable or another synthesizer loaded up onto a pad, it will only ever play a single note unless we do some fancy MIDI effects or something like that."
+  },
+  {
+    "start": 325.71999999999997,
+    "text": " But luckily, we can change the note being sent to a chain in the I O section of our drum rack."
+  },
+  {
+    "start": 331.52,
+    "text": " Firstly, in order to open up the I O section, we need to have our chain list open up and then we can go down to the bottom left of our drum rack and click on the I O button."
+  },
+  {
+    "start": 340.08,
+    "text": " And from here we can see the receive and play columns."
+  },
+  {
+    "start": 343.35999999999996,
+    "text": " The receive column tells us the MIDI note that that chain is receiving and the play column tells us the MIDI note that that chain is sending to any devices located within it."
+  },
+  {
+    "start": 353.36,
+    "text": " By default, the play MIDI note is set to C3, which is also the note that a simpler needs to be sent in order to play back a sample at its recorded pitch and length."
+  },
+  {
+    "start": 361.72,
+    "text": " Changing the receive note will actually also change the pad on which that chain is located in the drum rack."
+  },
+  {
+    "start": 366.92,
+    "text": " So I could change this to an A1 and we'll see the wavetable now change to the A1 pad and I can switch it maybe here to a E1 and we'll see the wavetable change again to an E1."
+  },
+  {
+    "start": 377.68,
+    "text": " So now when I play an E1, this wavetable is actually going to be sent a C3 MIDI note."
+  },
+  {
+    "start": 384.08000000000004,
+    "text": " If I want this wavetable to play a different note, I can simply click and drag up or down on this play parameter and that will change the note that is sent to this wavetable device."
+  },
+  {
+    "start": 397.8,
+    "text": " So now I'm sending the wavetable chain an E1 note and then that chain is sending the wavetable a G sharp zero."
+  },
+  {
+    "start": 404.16,
+    "text": " We can also have any individual chain receive all incoming MIDI notes and send the corresponding MIDI notes to the device located on that chain."
+  },
+  {
+    "start": 413.2,
+    "text": " This is really useful when we want to have say a fully pitched instrument playing at the same time as a bunch of samples in a drum rack."
+  },
+  {
+    "start": 419.44,
+    "text": " But just be aware that choosing this option will mean that the chain won't show up on any pad in the drum rack."
+  },
+  {
+    "start": 424.8,
+    "text": " So if we go to the receive drop down menu, we can scroll all the way to the top and select all notes."
+  },
+  {
+    "start": 429.59999999999997,
+    "text": " And now this wavetable is receiving any note I input into the drum rack."
+  },
+  {
+    "start": 437.12,
+    "text": " And also playing the corresponding note."
+  },
+  {
+    "start": 439.04,
+    "text": " This I.O. section can actually also be accessed in the session view in this unfolded view as before."
+  },
+  {
+    "start": 445.04,
+    "text": " You just need to make sure that the I.O. section is open up in the session view, which can be accessed with this I.O. button in the bottom right hand corner of the session view window."
+  },
+  {
+    "start": 453.12,
+    "text": " And with this open, we can see all of the I.O. options here in the middle of our session view."
+  },
+  {
+    "start": 457.72,
+    "text": " The I.O. section in our drum rack also contains two other main options, the first of which is the choke option,"
+  },
+  {
+    "start": 464.16,
+    "text": " which allows us to cut off the sound of any overlapping notes or chains with the same choke group."
+  },
+  {
+    "start": 470.68,
+    "text": " For example, let's say we had a closed hi hat and an open hi hat loaded up on our drum rack."
+  },
+  {
+    "start": 477.24,
+    "text": " Currently, when I play these two sounds, I can play them at the same time and the open hi hat will continue to linger over the sound of the closed hi hat."
+  },
+  {
+    "start": 486.28000000000003,
+    "text": " However, if I set both of these sounds to the same choke group, which I can do by going to the choke drop down menu on both of these chains and selecting the same choke group,"
+  },
+  {
+    "start": 494.48,
+    "text": " let's set it to group number one here."
+  },
+  {
+    "start": 496.28000000000003,
+    "text": " Now, when I play the sound of the closed hi hat, it will cut off the sound of the open hi hat if it's playing and vice versa."
+  },
+  {
+    "start": 505.96000000000004,
+    "text": " You can have up to 16 choke groups and as many sounds as you want per group, and this can open up a really wide range of creative possibilities if you can think about some cool applications."
+  },
+  {
+    "start": 514.84,
+    "text": " The last section here in our IO section is the audio to section, which allows us to route the output of any individual chains to any return chains located inside of the drum rack."
+  },
+  {
+    "start": 525.2,
+    "text": " By default, this section will be grayed out unless you have a return chain loaded up inside of your drum rack."
+  },
+  {
+    "start": 531.8000000000001,
+    "text": " To add a return chain, we need to show the return chain list, which can be done with the show return chains button in the bottom left hand corner of the drum rack, which is this R icon right here."
+  },
+  {
+    "start": 540.8,
+    "text": " And then we can either drag and drop an audio effect into where it says drop audio effects here, such as a reverb, or you can create a blank return chain by simply right clicking and clicking create return chain."
+  },
+  {
+    "start": 552.04,
+    "text": " You can add up to six return chains in a single drum rack, and you can also send the output of a return chain to any return tracks located in your session, which we'll look at in a little bit."
+  },
+  {
+    "start": 562.52,
+    "text": " With a return chain added, we can actually open up the send section to send any of our chains to any of the return chains inside of our drum rack."
+  },
+  {
+    "start": 571.36,
+    "text": " If you don't know what sends and returns are, I did a whole video about it, which explains everything you need to know about return tracks inside of Ableton Live and return chains inside of drum rack work in basically exactly the same way."
+  },
+  {
+    "start": 581.96,
+    "text": " So I highly recommend you watch that video by checking it out here."
+  },
+  {
+    "start": 584.72,
+    "text": " This allows us to send copies of multiple chains to the same return tracks so that we can say, add the same reverb to a bunch of different sounds."
+  },
+  {
+    "start": 592.72,
+    "text": " For instance, this snare and this kick drum."
+  },
+  {
+    "start": 599.08,
+    "text": " Of course, if you have an effect on a return chain, you'll want to make sure that that effect is set to 100% wet."
+  },
+  {
+    "start": 604.6800000000001,
+    "text": " And if you don't know why, again, check out my video all about sends and returns."
+  },
+  {
+    "start": 607.96,
+    "text": " You can also use return chains in a drum rack to group or sum the output of multiple chains together using the audio to drop down menu."
+  },
+  {
+    "start": 615.24,
+    "text": " For example, I could put a compressor on this blank return chain here and then route the output of these two hi hat tracks here to that return chain by using the audio to drop down menu."
+  },
+  {
+    "start": 625.72,
+    "text": " I can simply select the chain that I want, click on the audio to drop down menu and select the return chain I want and do that for both of these."
+  },
+  {
+    "start": 633.44,
+    "text": " And now both of these chains have their output being sent to this compressor so I can compress the sum of both of these hi hats."
+  },
+  {
+    "start": 640.84,
+    "text": " As I mentioned, the audio to section also allows us to send any return chain directly to any return track inside of our session."
+  },
+  {
+    "start": 649.2800000000001,
+    "text": " For example, I could create a new return chain, go to the audio to drop down menu for that return chain and select the B delay track in."
+  },
+  {
+    "start": 656.96,
+    "text": " And this will send the output of this return chain to our delay return track in our session."
+  },
+  {
+    "start": 663.28,
+    "text": " This is great as it allows me to apply the exact same effect to individual sounds inside of my drum rack as well as tracks inside of my session."
+  },
+  {
+    "start": 670.6,
+    "text": " The choke, the audio to and the send controls for each particular chain can once again also be accessed in the session view if you have the chain list unfolded for that drum rack track."
+  },
+  {
+    "start": 681.64,
+    "text": " It's also worth noting that drum racks can utilize macro controls and variations in the exact same way as every single other type of rack inside of Ableton Live."
+  },
+  {
+    "start": 689.84,
+    "text": " And if you want to learn more about macro controls and variations, I do recommend checking out my video all about racks, which I'll link for the card above or you can check out via the description below."
+  },
+  {
+    "start": 698.32,
+    "text": " If you don't want to use return chains to group or sum the output of multiple chains or sounds in your drum rack together, you can actually create nested racks to do this by simply selecting the chains from either the chain list or the session view, right clicking those chains and clicking on group."
+  },
+  {
+    "start": 712.96,
+    "text": " This will group those chains into a nested drum rack, but will retain the MIDI receive and play notes."
+  },
+  {
+    "start": 719.24,
+    "text": " It's also worth noting that if you do this or if you set any chain to receive all incoming MIDI notes, it will mean that with any MIDI clips on that track, instead of just showing the MIDI notes that have chains associated with them, they will show the entirety of the 128 available MIDI notes."
+  },
+  {
+    "start": 733.96,
+    "text": " For example, if I create a clip on this track now, we can see that we have access to every single one of the available MIDI notes in this clip now, but the ones that have chains associated with them will still show up their names on the left hand side."
+  },
+  {
+    "start": 746.48,
+    "text": " If you're learning a lot from this video so far, I'd love to invite you to drop a like down below and subscribe if you're new."
+  },
+  {
+    "start": 751.6800000000001,
+    "text": " I post a lot of content like this that helps you understand the tools used in music production and how you can use them in creative ways."
+  },
+  {
+    "start": 757.8000000000001,
+    "text": " And if you really enjoy my content and want to support me further, I'd love to invite you to head on over to my Buy Me A Coffee page where you can support me by buying me a coffee and downloading a bunch of cool stuff in the process."
+  },
+  {
+    "start": 768.48,
+    "text": " Back to the video."
+  },
+  {
+    "start": 769.16,
+    "text": " Using a drum rack is a great way to create an entire drum pattern on a single track."
+  },
+  {
+    "start": 773.6,
+    "text": " But when it comes to mixing those sounds together, you may feel the need to separate those individual chains out as individual tracks."
+  },
+  {
+    "start": 782.52,
+    "text": " Luckily, Drum Rack has an inbuilt way that allows us to really easily do this."
+  },
+  {
+    "start": 786.64,
+    "text": " Firstly, you can just simply mix those tracks using the fold out chain option in your session view, as I've done here, or you can extract selected chains to their own tracks."
+  },
+  {
+    "start": 796.44,
+    "text": " To do this, you can simply select the chain you want to extract and select Extract Chains."
+  },
+  {
+    "start": 801.7600000000001,
+    "text": " This will move the chain from the drum rack to its own drum rack track and also create MIDI clips containing any associated MIDI notes from the original drum track."
+  },
+  {
+    "start": 811.0400000000001,
+    "text": " This is great because it means you don't have to reprogram the MIDI notes for those particular tracks."
+  },
+  {
+    "start": 816.7600000000001,
+    "text": " It just retains all of the MIDI information."
+  },
+  {
+    "start": 818.7600000000001,
+    "text": " And that's pretty much everything you need to know about Drum Rack inside of Ableton Live, minus a few very specific and advanced features, which I might cover in a later video."
+  },
+  {
+    "start": 825.88,
+    "text": " So make sure to subscribe to find out when that video gets released."
+  },
+  {
+    "start": 828.4,
+    "text": " And if you missed my video all about other types of racks inside of Ableton Live, make sure to check that out here."
+  },
+  {
+    "start": 833.32,
+    "text": " Otherwise, have a fantastic day."
+  },
+  {
+    "start": 834.92,
+    "text": " Thanks for watching, and I'll see you all in the next video."
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hello! Today we're diving into the compressor and how it works, so let's get into it."
+  },
+  {
+    "start": 9.88,
+    "text": " The compressor is here to smooth out your chaos and give your mix some more balance."
+  },
+  {
+    "start": 14.120000000000001,
+    "text": " Today we're going deep, like overly sound engineer caffeinated deep into the compressor."
+  },
+  {
+    "start": 19.28,
+    "text": " So let's do it."
+  },
+  {
+    "start": 20.6,
+    "text": " Well, what is compression?"
+  },
+  {
+    "start": 22.28,
+    "text": " Compression is like a bouncer for your audio."
+  },
+  {
+    "start": 25.12,
+    "text": " The peaks are too loud, take them down a bit."
+  },
+  {
+    "start": 27.36,
+    "text": " Quiet parts, it knocks them up."
+  },
+  {
+    "start": 29.36,
+    "text": " Basically it controls the dynamic range of your sound and makes it more consistent."
+  },
+  {
+    "start": 33.36,
+    "text": " But let's look at a visual of how the compressor works."
+  },
+  {
+    "start": 36.16,
+    "text": " First up, threshold."
+  },
+  {
+    "start": 39.96,
+    "text": " This is the level where the compressor starts working."
+  },
+  {
+    "start": 42.32,
+    "text": " Anything louder than the level you just selected will get smacked down."
+  },
+  {
+    "start": 46.16,
+    "text": " Think of it as like a ceiling and if anything touches the ceiling, it gets smacked down a bit."
+  },
+  {
+    "start": 50.8,
+    "text": " If you set it too low, even whispers will get them down."
+  },
+  {
+    "start": 53.56,
+    "text": " And if you set it too high, you might as well not even bother."
+  },
+  {
+    "start": 57.04,
+    "text": " The trick is finding that sweet spot where the music is still lively, but it's controlled."
+  },
+  {
+    "start": 61.56,
+    "text": " Now, onto ratio."
+  },
+  {
+    "start": 65.88,
+    "text": " Think of this as how strict your compressor is when it kicks in."
+  },
+  {
+    "start": 69.8,
+    "text": " A low ratio of like 2 to 1 is like a reminder, please dim it down a bit."
+  },
+  {
+    "start": 75.16,
+    "text": " If it's 10 to 1, it's more like the party is over."
+  },
+  {
+    "start": 77.84,
+    "text": " The higher the ratio, the more aggressive the compressor is."
+  },
+  {
+    "start": 80.64,
+    "text": " Next up, we got the attack and the release."
+  },
+  {
+    "start": 82.64,
+    "text": " These are like a compressor's reaction time, basically."
+  },
+  {
+    "start": 85.48,
+    "text": " Attack is how fast your compression kicks in."
+  },
+  {
+    "start": 88.12,
+    "text": " If you set a fast attack, it will do it instantly."
+  },
+  {
+    "start": 90.88,
+    "text": " But if you set it too fast, it will just kill the sound because it's just too much."
+  },
+  {
+    "start": 95.36,
+    "text": " Release, on the other hand, is how quickly the compressor lets go of the sound again."
+  },
+  {
+    "start": 98.88,
+    "text": " Too fast and you'll hear the music bounce up again really fast and it'll sound unnatural."
+  },
+  {
+    "start": 104.08,
+    "text": " Too slow and the compressor is holding on for dear life as of when it should let go."
+  },
+  {
+    "start": 108.84,
+    "text": " Makeup gain."
+  },
+  {
+    "start": 109.84,
+    "text": " After you squish your audio down, it's going to sound quieter."
+  },
+  {
+    "start": 113.12,
+    "text": " That's where the makeup gain comes in."
+  },
+  {
+    "start": 115.04,
+    "text": " This is just turning up the volume of the whole sample after the compression."
+  },
+  {
+    "start": 118.4,
+    "text": " But you shouldn't do it too much or you just end up in the same place,"
+  },
+  {
+    "start": 121.76,
+    "text": " but this time everything's loud."
+  },
+  {
+    "start": 123.36,
+    "text": " Okay, we're back in Ableton and this is Ableton's compressor."
+  },
+  {
+    "start": 127.12,
+    "text": " It isn't a one trick pony, there's stuff to it."
+  },
+  {
+    "start": 130.08,
+    "text": " Let's check it out."
+  },
+  {
+    "start": 131.08,
+    "text": " Peak mode."
+  },
+  {
+    "start": 132.08,
+    "text": " It's like the paranoid friend that reacts to everything."
+  },
+  {
+    "start": 134.28,
+    "text": " It reacts to the loudest parts of the sound,"
+  },
+  {
+    "start": 136.12,
+    "text": " and it's like a super loud sound."
+  },
+  {
+    "start": 138.64,
+    "text": " It reacts to the loudest part of your sound and instantly tries to crush it."
+  },
+  {
+    "start": 141.92,
+    "text": " Perfect those, oh my god, what was that, moments in your audio."
+  },
+  {
+    "start": 145.11999999999998,
+    "text": " RMS mode."
+  },
+  {
+    "start": 146.23999999999998,
+    "text": " This one's a little bit more laid back option."
+  },
+  {
+    "start": 148.48,
+    "text": " It measures the average loudness of the whole sample"
+  },
+  {
+    "start": 150.95999999999998,
+    "text": " and if something gets a little bit out of hand, it kicks in."
+  },
+  {
+    "start": 154.0,
+    "text": " It's great for adding some smooth control without going overboard."
+  },
+  {
+    "start": 157.51999999999998,
+    "text": " Now, let's talk expand mode."
+  },
+  {
+    "start": 159.2,
+    "text": " This is a bit different because honestly,"
+  },
+  {
+    "start": 161.6,
+    "text": " it's just the exact opposite of normal compression."
+  },
+  {
+    "start": 164.48,
+    "text": " Instead of bringing the loud parts down,"
+  },
+  {
+    "start": 166.48,
+    "text": " this actually brings up the loud parts and brings down the low parts."
+  },
+  {
+    "start": 170.95999999999998,
+    "text": " It's like giving your audio a push on either end"
+  },
+  {
+    "start": 174.23999999999998,
+    "text": " to even more pronounce the dynamic range."
+  },
+  {
+    "start": 177.6,
+    "text": " It's maybe not the average everyday tool,"
+  },
+  {
+    "start": 180.16,
+    "text": " but if you want to highlight the contrast between the highs and the lows,"
+  },
+  {
+    "start": 183.92,
+    "text": " it's perfect."
+  },
+  {
+    "start": 184.64,
+    "text": " Now, going into the Ableton territory,"
+  },
+  {
+    "start": 186.79999999999998,
+    "text": " Ableton has some different compressors you can work with,"
+  },
+  {
+    "start": 190.0,
+    "text": " and let's take a look at them."
+  },
+  {
+    "start": 191.2,
+    "text": " The standard compressor."
+  },
+  {
+    "start": 192.23999999999998,
+    "text": " This is your basic utility tool for compression."
+  },
+  {
+    "start": 195.04,
+    "text": " It works in a single band and focuses on controlling the whole signal."
+  },
+  {
+    "start": 198.32,
+    "text": " Think of it as like a general purpose tool for changing your peaks"
+  },
+  {
+    "start": 201.51999999999998,
+    "text": " and getting a more balanced mix."
+  },
+  {
+    "start": 203.44,
+    "text": " Now, the glue compressor."
+  },
+  {
+    "start": 204.95999999999998,
+    "text": " This is all about smoothness."
+  },
+  {
+    "start": 207.35999999999999,
+    "text": " It's modeled after vintage analog compression,"
+  },
+  {
+    "start": 210.07999999999998,
+    "text": " which makes it perfect for like bus compression,"
+  },
+  {
+    "start": 212.72,
+    "text": " which just means that if you have like a bunch of different instruments"
+  },
+  {
+    "start": 216.48,
+    "text": " and you want them all to be glued together to sound more cohesive,"
+  },
+  {
+    "start": 219.92,
+    "text": " this is your tool."
+  },
+  {
+    "start": 220.79999999999998,
+    "text": " Now, there's the multi-band compression."
+  },
+  {
+    "start": 222.96,
+    "text": " This is like the control freak of the group."
+  },
+  {
+    "start": 225.20000000000002,
+    "text": " This lets you split your signal into three different frequencies."
+  },
+  {
+    "start": 228.32000000000002,
+    "text": " There's the low, the middle, and the high."
+  },
+  {
+    "start": 230.72,
+    "text": " And now we can compress each one separately."
+  },
+  {
+    "start": 232.96,
+    "text": " It's perfect for those moments where you're bashing Eastern compression,"
+  },
+  {
+    "start": 235.44,
+    "text": " but not your mids and your highs."
+  },
+  {
+    "start": 236.72,
+    "text": " It's super powerful for mastering,"
+  },
+  {
+    "start": 238.16,
+    "text": " and it's like a surgical compressor."
+  },
+  {
+    "start": 240.32,
+    "text": " So it's a compressor on steroids, really."
+  },
+  {
+    "start": 243.28,
+    "text": " So there you have it, the compressor in all of its glory."
+  },
+  {
+    "start": 246.56,
+    "text": " If your track is getting too rowdy, this guy is here to lay down the law."
+  },
+  {
+    "start": 250.24,
+    "text": " It's high noon."
+  },
+  {
+    "start": 252.16,
+    "text": " But don't forget, it's all about balance."
+  },
+  {
+    "start": 254.24,
+    "text": " If you've used too much, you'll squish the life out of your mix."
+  },
+  {
+    "start": 257.44,
+    "text": " If you learned something, hit that like button, subscribe,"
+  },
+  {
+    "start": 260.24,
+    "text": " because I'm desperate."
+  },
+  {
+    "start": 261.2,
+    "text": " And let me know which effect you want me to cover next time"
+  },
+  {
+    "start": 263.6,
+    "text": " before I compress the enthusiasm for my life."
+  },
+  {
+    "start": 266.0,
+    "text": " See you there."
+  }
+]

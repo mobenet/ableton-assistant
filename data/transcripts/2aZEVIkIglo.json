@@ -1,0 +1,578 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hi folks, Melvin here from OptoProductions.com."
+  },
+  {
+    "start": 2.92,
+    "text": " I've been using and teaching Ableton Live for several years now."
+  },
+  {
+    "start": 6.96,
+    "text": " And this one thing always bothered me."
+  },
+  {
+    "start": 8.92,
+    "text": " And that's when you record something with monitoring set to auto or input."
+  },
+  {
+    "start": 13.56,
+    "text": " Your recordings are delayed by a certain amount."
+  },
+  {
+    "start": 21.64,
+    "text": " As you can see, the recording is way later than the MIDI."
+  },
+  {
+    "start": 25.48,
+    "text": " Like if you zoom in and I turn off the grid."
+  },
+  {
+    "start": 27.6,
+    "text": " As you can see at the bottom of the screen, it's delayed by 34 milliseconds."
+  },
+  {
+    "start": 33.84,
+    "text": " Of course I'm using a large buffer size right now."
+  },
+  {
+    "start": 36.96,
+    "text": " If I decrease the buffer size."
+  },
+  {
+    "start": 38.52,
+    "text": " As you can see the buffer doesn't really affect the latency."
+  },
+  {
+    "start": 46.2,
+    "text": " But what does affect the latency is the monitoring."
+  },
+  {
+    "start": 50.120000000000005,
+    "text": " If I set it to off."
+  },
+  {
+    "start": 51.32,
+    "text": " Now the latency is almost gone."
+  },
+  {
+    "start": 58.12,
+    "text": " The difference is night and day."
+  },
+  {
+    "start": 59.68,
+    "text": " So according to Ableton this behavior is implemented."
+  },
+  {
+    "start": 66.8,
+    "text": " Because when you're playing guitar or recording any other instrument in real time."
+  },
+  {
+    "start": 70.96000000000001,
+    "text": " You're automatically compensating for the latency yourself."
+  },
+  {
+    "start": 74.52,
+    "text": " So when you hear yourself back a bit delayed."
+  },
+  {
+    "start": 77.28,
+    "text": " You play slightly early."
+  },
+  {
+    "start": 78.84,
+    "text": " So it still sounds in time."
+  },
+  {
+    "start": 80.6,
+    "text": " However, if you're sending out MIDI from Ableton to a hardware synth."
+  },
+  {
+    "start": 84.36,
+    "text": " This doesn't make sense at all."
+  },
+  {
+    "start": 86.44,
+    "text": " So before Ableton 12 you either had to use direct monitoring on your audio interface."
+  },
+  {
+    "start": 91.48,
+    "text": " Or you needed to create an additional track."
+  },
+  {
+    "start": 94.44,
+    "text": " Like I've got right here."
+  },
+  {
+    "start": 95.8,
+    "text": " And then record on a track with input monitoring set to off."
+  },
+  {
+    "start": 100.2,
+    "text": " And then you can use the other track to hear what you're doing."
+  },
+  {
+    "start": 103.8,
+    "text": " So if I record it again you can see."
+  },
+  {
+    "start": 106.92,
+    "text": " I can still hear the sound."
+  },
+  {
+    "start": 111.24,
+    "text": " But I don't get the latency."
+  },
+  {
+    "start": 113.88,
+    "text": " Okay so now with Ableton 12 there's this new feature that isn't really advertised."
+  },
+  {
+    "start": 119.32000000000001,
+    "text": " If you activate the mixer right here."
+  },
+  {
+    "start": 121.48,
+    "text": " And you press the arrow button."
+  },
+  {
+    "start": 123.96000000000001,
+    "text": " You can show the track options."
+  },
+  {
+    "start": 127.24000000000001,
+    "text": " And here you can see in addition to track delay."
+  },
+  {
+    "start": 130.04,
+    "text": " There's now a keep latency option."
+  },
+  {
+    "start": 132.92000000000002,
+    "text": " By default it's turned on."
+  },
+  {
+    "start": 134.52,
+    "text": " But if you turn it off for the audio track."
+  },
+  {
+    "start": 137.56,
+    "text": " And I've got input monitoring either set to in or auto."
+  },
+  {
+    "start": 141.24,
+    "text": " And now if I press record."
+  },
+  {
+    "start": 147.08,
+    "text": " Now you can see the latency is gone."
+  },
+  {
+    "start": 149.16,
+    "text": " Even though we had input monitoring set to auto."
+  },
+  {
+    "start": 152.28,
+    "text": " So on this track when keep latency is turned off."
+  },
+  {
+    "start": 155.08,
+    "text": " Ableton will compensate for the latency difference."
+  },
+  {
+    "start": 158.36,
+    "text": " When it's turned on it won't."
+  },
+  {
+    "start": 160.52,
+    "text": " Even if we add plugins."
+  },
+  {
+    "start": 162.44,
+    "text": " So if I take a really CPU intensive plugin."
+  },
+  {
+    "start": 166.2,
+    "text": " Declick for example."
+  },
+  {
+    "start": 167.88,
+    "text": " If you hover your mouse over the plugin you can see."
+  },
+  {
+    "start": 170.67999999999998,
+    "text": " The latency is 600 milliseconds."
+  },
+  {
+    "start": 173.32,
+    "text": " If I copy these plugins to the second track."
+  },
+  {
+    "start": 176.2,
+    "text": " And we record both again."
+  },
+  {
+    "start": 183.64,
+    "text": " The bottom track is delayed like well half a second."
+  },
+  {
+    "start": 187.72,
+    "text": " But the amount of plugins don't matter."
+  },
+  {
+    "start": 189.79999999999998,
+    "text": " Because right here keep latency is turned off."
+  },
+  {
+    "start": 192.2,
+    "text": " So if we listen."
+  },
+  {
+    "start": 196.27999999999997,
+    "text": " Look at the amount of latency."
+  },
+  {
+    "start": 198.27999999999997,
+    "text": " It's insane."
+  },
+  {
+    "start": 199.79999999999998,
+    "text": " So yeah now you can record synths without latency."
+  },
+  {
+    "start": 203.23999999999998,
+    "text": " While still listening to the effects."
+  },
+  {
+    "start": 205.72,
+    "text": " Okay let me also quickly explain one thing."
+  },
+  {
+    "start": 208.35999999999999,
+    "text": " And that is often misunderstood."
+  },
+  {
+    "start": 210.2,
+    "text": " And that's the driver error compensation."
+  },
+  {
+    "start": 212.44,
+    "text": " And as you can see Ableton automatically detects the latency."
+  },
+  {
+    "start": 216.27999999999997,
+    "text": " Over here the overall latency."
+  },
+  {
+    "start": 218.27999999999997,
+    "text": " So that's the sound going into your computer and back out again."
+  },
+  {
+    "start": 222.51999999999998,
+    "text": " That's the overall latency you'll hear."
+  },
+  {
+    "start": 224.76,
+    "text": " Many people think that they have to compensate for the latency."
+  },
+  {
+    "start": 227.95999999999998,
+    "text": " By setting the driver error compensation to a negative value."
+  },
+  {
+    "start": 231.56,
+    "text": " So it ends up at zero milliseconds."
+  },
+  {
+    "start": 234.35999999999999,
+    "text": " But this is not the case."
+  },
+  {
+    "start": 236.2,
+    "text": " As long as you have delay compensation turned on."
+  },
+  {
+    "start": 239.0,
+    "text": " In the menu over here."
+  },
+  {
+    "start": 241.64,
+    "text": " Ableton will automatically compensate for this delay."
+  },
+  {
+    "start": 244.6,
+    "text": " Driver error compensation is only there."
+  },
+  {
+    "start": 247.23999999999998,
+    "text": " In case your interface isn't reporting the right values."
+  },
+  {
+    "start": 250.04,
+    "text": " And there's actually a useful Ableton lesson."
+  },
+  {
+    "start": 252.12,
+    "text": " If you go to help."
+  },
+  {
+    "start": 253.64,
+    "text": " Built-in lessons."
+  },
+  {
+    "start": 255.64,
+    "text": " And you scroll down to show all built-in lessons."
+  },
+  {
+    "start": 259.64,
+    "text": " At the bottom we can find driver error compensation."
+  },
+  {
+    "start": 263.88,
+    "text": " If you go through all the steps in this lesson."
+  },
+  {
+    "start": 265.96,
+    "text": " You can probably set up your driver error compensation."
+  },
+  {
+    "start": 269.15999999999997,
+    "text": " So in my case it was only set to about half a millisecond."
+  },
+  {
+    "start": 272.68,
+    "text": " So that's not really noticeable in most cases."
+  },
+  {
+    "start": 276.2,
+    "text": " But yeah even with driver error compensation set."
+  },
+  {
+    "start": 278.84,
+    "text": " And with key latency turned off."
+  },
+  {
+    "start": 280.6,
+    "text": " It's still possible you're still getting some latency."
+  },
+  {
+    "start": 283.48,
+    "text": " And this is one thing Ableton can't really fix for us."
+  },
+  {
+    "start": 286.92,
+    "text": " And that's MIDI latency."
+  },
+  {
+    "start": 288.76000000000005,
+    "text": " Each hardware device and MIDI interface."
+  },
+  {
+    "start": 291.16,
+    "text": " Also needs some time to process information."
+  },
+  {
+    "start": 293.72,
+    "text": " So whether you use 5 pin MIDI connections or USB MIDI."
+  },
+  {
+    "start": 297.72,
+    "text": " There's always a slight delay between transmitting MIDI."
+  },
+  {
+    "start": 301.08000000000004,
+    "text": " And receiving audio."
+  },
+  {
+    "start": 302.84000000000003,
+    "text": " So this really depends on the MIDI interface you're using."
+  },
+  {
+    "start": 306.36,
+    "text": " If I take a look in my situation."
+  },
+  {
+    "start": 310.35999999999996,
+    "text": " Okay so I've recorded a couple takes."
+  },
+  {
+    "start": 312.76,
+    "text": " And if I zoom in really closely."
+  },
+  {
+    "start": 314.76,
+    "text": " You can also zoom in the waveform now with Ableton 12."
+  },
+  {
+    "start": 318.52,
+    "text": " And as you can see it's really a tiny little offset."
+  },
+  {
+    "start": 322.35999999999996,
+    "text": " If I turn off the grid."
+  },
+  {
+    "start": 325.88,
+    "text": " It's what is it?"
+  },
+  {
+    "start": 327.32,
+    "text": " 3 milliseconds?"
+  },
+  {
+    "start": 329.23999999999995,
+    "text": " Yeah it's shown at the bottom of the screen."
+  },
+  {
+    "start": 331.23999999999995,
+    "text": " 3 milliseconds."
+  },
+  {
+    "start": 332.76,
+    "text": " So that's the latency I'm getting right now."
+  },
+  {
+    "start": 334.76,
+    "text": " And I'm going to show you how it works."
+  },
+  {
+    "start": 337.15999999999997,
+    "text": " So that's the latency I'm getting right now."
+  },
+  {
+    "start": 339.48,
+    "text": " And the only way to fix this is to open up the mixer again."
+  },
+  {
+    "start": 343.56,
+    "text": " And we need to set the track delay."
+  },
+  {
+    "start": 345.64,
+    "text": " In this case on the MIDI track."
+  },
+  {
+    "start": 347.56,
+    "text": " So I'm getting a latency of 3 milliseconds."
+  },
+  {
+    "start": 350.12,
+    "text": " And on the MIDI track I now want to set a negative value of 3 milliseconds."
+  },
+  {
+    "start": 355.15999999999997,
+    "text": " Let's record that again."
+  },
+  {
+    "start": 360.2,
+    "text": " As you can see it's actually a bit too early now."
+  },
+  {
+    "start": 363.48,
+    "text": " So I would have to fine tune this."
+  },
+  {
+    "start": 364.92,
+    "text": " I can even fine tune it in samples."
+  },
+  {
+    "start": 367.64000000000004,
+    "text": " But yeah you have to set this by try on error."
+  },
+  {
+    "start": 370.52000000000004,
+    "text": " Because Ableton really doesn't show the selection length in samples."
+  },
+  {
+    "start": 374.68,
+    "text": " But yeah let's tweak it a little bit."
+  },
+  {
+    "start": 376.76,
+    "text": " Maybe minus 120 samples."
+  },
+  {
+    "start": 382.20000000000005,
+    "text": " Still a bit early."
+  },
+  {
+    "start": 383.40000000000003,
+    "text": " Let's try minus 100."
+  },
+  {
+    "start": 390.68,
+    "text": " Alright so yeah."
+  },
+  {
+    "start": 391.72,
+    "text": " Now I can basically get it spot on."
+  },
+  {
+    "start": 394.03999999999996,
+    "text": " It takes some time to tweak this."
+  },
+  {
+    "start": 396.03999999999996,
+    "text": " And it also depends on which output you're using."
+  },
+  {
+    "start": 398.44,
+    "text": " It depends on if you're chaining multiple MIDI devices."
+  },
+  {
+    "start": 402.03999999999996,
+    "text": " So the more devices you add to a single MIDI chain the more latency you will get."
+  },
+  {
+    "start": 407.15999999999997,
+    "text": " But yeah of course you can just save this in your template."
+  },
+  {
+    "start": 410.84,
+    "text": " Go to file, save Live Set as template."
+  },
+  {
+    "start": 414.52,
+    "text": " And then you can set this value for each MIDI output."
+  },
+  {
+    "start": 417.56,
+    "text": " But yeah that's basically it."
+  },
+  {
+    "start": 419.64,
+    "text": " Live just got a little bit easier with Ableton 12."
+  },
+  {
+    "start": 422.2,
+    "text": " So I hope this video gave you some insights into this whole MIDI latency issue."
+  },
+  {
+    "start": 426.68,
+    "text": " There's still some manual adjustments you need to do."
+  },
+  {
+    "start": 429.0,
+    "text": " But I guess that's just live."
+  },
+  {
+    "start": 431.56,
+    "text": " Let me know if you have any questions."
+  },
+  {
+    "start": 433.32,
+    "text": " Check out the Electronic Music Studio Facebook group."
+  },
+  {
+    "start": 436.28,
+    "text": " To learn more about hardware and electronic music production."
+  },
+  {
+    "start": 439.64,
+    "text": " And I'll see you next week with another tutorial."
+  },
+  {
+    "start": 452.2,
+    "text": " you"
+  }
+]

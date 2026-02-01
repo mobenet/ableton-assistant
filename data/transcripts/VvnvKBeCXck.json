@@ -1,0 +1,94 @@
+[
+  {
+    "start": 0.0,
+    "text": " To enhance what you can do in Ableton Live, you can install some plugins to help you produce"
+  },
+  {
+    "start": 6.34,
+    "text": " your music."
+  },
+  {
+    "start": 7.68,
+    "text": " If you're not quite sure how, here's a step-by-step guide to walk you through the process."
+  },
+  {
+    "start": 16.12,
+    "text": " Once you open Ableton Live, click on Options from the top menu."
+  },
+  {
+    "start": 19.88,
+    "text": " For Mac users, you'll need to click Live."
+  },
+  {
+    "start": 22.28,
+    "text": " Next, select Preferences."
+  },
+  {
+    "start": 25.240000000000002,
+    "text": " From the Preferences window, click on Plugins from the left."
+  },
+  {
+    "start": 29.2,
+    "text": " First, make sure that the options to Use VST2 Plugin in System Folder, as well as the Use"
+  },
+  {
+    "start": 35.2,
+    "text": " VST3 Plugin in System Folder are both turned on."
+  },
+  {
+    "start": 39.84,
+    "text": " Once both of those options are turned on, click on Browse for the VST2 Plugin Custom"
+  },
+  {
+    "start": 44.6,
+    "text": " Folder option."
+  },
+  {
+    "start": 45.6,
+    "text": " Next, navigate to the folder where your plugins are located."
+  },
+  {
+    "start": 48.84,
+    "text": " Usually, Ableton can detect the plugin folder, but if not, simply select the correct folder."
+  },
+  {
+    "start": 54.28,
+    "text": " Once you set it up, you should see the location appear underneath."
+  },
+  {
+    "start": 57.4,
+    "text": " Once you're done, you can click Rescan, just to make sure that Ableton has detected"
+  },
+  {
+    "start": 61.22,
+    "text": " all of the plugins."
+  },
+  {
+    "start": 63.42,
+    "text": " Now you can head back to the menu, and under Categories, click on Plugins."
+  },
+  {
+    "start": 67.3,
+    "text": " From there, you should be able to see all of the plugins that Ableton has detected on"
+  },
+  {
+    "start": 70.68,
+    "text": " your computer."
+  },
+  {
+    "start": 71.68,
+    "text": " Now you can start using them to create your music."
+  },
+  {
+    "start": 74.75999999999999,
+    "text": " Thanks for watching!"
+  },
+  {
+    "start": 76.16,
+    "text": " Make sure to like and subscribe for more quick and easy tech tutorials."
+  },
+  {
+    "start": 79.28,
+    "text": " Also, check out these videos that you might like."
+  }
+]

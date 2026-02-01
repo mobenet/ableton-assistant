@@ -1,0 +1,226 @@
+[
+  {
+    "start": 0.0,
+    "text": " Cuando tenemos que modificar distintos efectos y sus distintos parámetros al mismo tiempo, lo más normal es que hagamos esto."
+  },
+  {
+    "start": 7.26,
+    "text": " Coger cada uno de los parámetros y automatizarlo uno por uno en el punto que queremos, aquí por ejemplo tendríamos el dry wet, el feedback, todos en el mismo punto."
+  },
+  {
+    "start": 16.4,
+    "text": " Haciéndonos perder muchísimo tiempo y también es un trabajo bastante tedioso."
+  },
+  {
+    "start": 21.240000000000002,
+    "text": " Pero, y si te digo que tú puedes coger todos estos parámetros, juntarlos en una sola perilla y modificarlos todos a la vez al mismo tiempo."
+  },
+  {
+    "start": 29.88,
+    "text": " Ladies and gentlemen, damas y caballeros, déjenme presentarles los macros."
+  },
+  {
+    "start": 40.6,
+    "text": " Hey que más, bienvenidos a un nuevo capítulo de Ableton for Felons, esta serie en la que te estoy deseando utilizar Ableton fácil y rápido."
+  },
+  {
+    "start": 47.64,
+    "text": " Y hoy vengo a hablarte de los macros."
+  },
+  {
+    "start": 50.14,
+    "text": " Y no, no son los macros de alimentación, son los macros que son una herramienta que te va a ayudar a ahorrar muchísimo tiempo y muchísimo trabajo."
+  },
+  {
+    "start": 59.24,
+    "text": " ¿Y qué son los macros?"
+  },
+  {
+    "start": 60.44,
+    "text": " Básica y sencillamente son una perilla que tenemos a disposición a la que le podemos asignar distintos parámetros para poderlos controlar todos al mismo tiempo."
+  },
+  {
+    "start": 69.88,
+    "text": " Así si queremos automatizar distintos parámetros en un mismo momento, no tenemos que ir uno por uno, sino que podemos automatizar solamente una perilla y modificando todos a la vez."
+  },
+  {
+    "start": 79.4,
+    "text": " ¿Y en qué caso podemos utilizar los macros?"
+  },
+  {
+    "start": 81.88,
+    "text": " Bueno, en realidad los macros se pueden utilizar en infinidad de momentos, obviamente esto depende de tu necesidad y de tu creatividad."
+  },
+  {
+    "start": 89.72,
+    "text": " Pero vamos a dar tres casos en los que los podemos utilizar."
+  },
+  {
+    "start": 92.64,
+    "text": " Uno de los casos típicos en los que viene bien utilizar los macros es por ejemplo al final de una canción en la que creemos que el último golpe se quede con una cola."
+  },
+  {
+    "start": 100.84,
+    "text": " Y le podemos meter por ejemplo un reverb o un delay que quede algo como esto más o menos."
+  },
+  {
+    "start": 106.68,
+    "text": " Que se quede más o menos así una colita, pero obviamente aquí está activado todo el rato y estaría haciendo efecto todo el tiempo."
+  },
+  {
+    "start": 114.36000000000001,
+    "text": " Dirás, ah bueno, pero qué pasa si cogemos y los apagamos y justo en ese momento los activamos."
+  },
+  {
+    "start": 119.48,
+    "text": " Pues vamos a ver lo que pasa."
+  },
+  {
+    "start": 123.4,
+    "text": " Vieron, se baja el volumen, el delay entra con un golpe y entonces eso no es lo que creemos porque el efecto queda muy feo."
+  },
+  {
+    "start": 130.76,
+    "text": " Lo más normal es que fuera entrando paulatinamente y que en el punto más álgido sea el momento y ahí ya queda el final."
+  },
+  {
+    "start": 137.56,
+    "text": " Lo normal sería coger y automatizar cada uno de los efectos como hablamos antes, pero esto lleva mucho tiempo y lo peor de los casos es que si tú quieres mover por ejemplo un poquito todo o modificar, tienes que modificar cada uno de los parámetros que has automatizado."
+  },
+  {
+    "start": 155.07999999999998,
+    "text": " Y para eso sirven los macros para poder juntar todo en una perillita y que solamente tengas que automatizar una de ellas."
+  },
+  {
+    "start": 161.8,
+    "text": " ¿Y cómo se hace eso? Bueno, pues es muy sencillo. Seleccionar todos los efectos con SHIFT presionado y le damos click derecho, agrupar o CTRL G."
+  },
+  {
+    "start": 172.12,
+    "text": " Aquí vemos que esto se acaba de convertir en un audio FX Rack y para sacar los macros tenemos que darle a este botoncito que tenemos a la izquierda."
+  },
+  {
+    "start": 181.72,
+    "text": " Que es como un knob y ya nos salen los macros. En este caso metí este filtro para poder hacer como el efecto pero que vaya haciendo la barriguita."
+  },
+  {
+    "start": 192.44,
+    "text": " ¿Cómo haríamos esto? Una vez sacamos los macros tenemos que asignar cada uno de los parámetros a la perillita."
+  },
+  {
+    "start": 198.44,
+    "text": " En este caso queremos que sea pues la frecuencia que es la que va a barrer la asignamos al macro 1."
+  },
+  {
+    "start": 205.08,
+    "text": " Vemos que tiene un puntito verde, el punto verde es de macro, el punto rojo es de automatización."
+  },
+  {
+    "start": 210.12,
+    "text": " Y venimos también aquí al delay y le damos mapear al macro 1. Vamos a ver entonces cómo queda cuando lo vamos subiendo."
+  },
+  {
+    "start": 221.4,
+    "text": " Bien, si yo quise hacer este efecto simplemente tendría que coger esta perilla de macro 1 y automatizarla."
+  },
+  {
+    "start": 228.04000000000002,
+    "text": " Y así ya se me están moviendo tres parámetros al mismo tiempo automatizando solamente esta perilla."
+  },
+  {
+    "start": 233.08,
+    "text": " Y entonces automatizando solamente uno. Esto es un ahorro de tiempo y un ahorro de trabajo que ustedes no saben lo que les va a ayudar esta herramienta de verdad."
+  },
+  {
+    "start": 242.20000000000002,
+    "text": " ¿Y qué pasa si en vez de coger en este auto filter hacer un paso alto queremos hacer un paso bajo?"
+  },
+  {
+    "start": 247.96,
+    "text": " ¿Qué pasa si lo invertimos? Miren, vamos a ver, obviamente cuando está el macro en cero la frecuencia está abajo y cuando está desactivado no suena."
+  },
+  {
+    "start": 258.2,
+    "text": " Y cuando lo subimos pues ya mete las frecuencias y entonces ahí no pudo actuar el delay, no pudo actuar el reverb y nos quedamos sin sonido."
+  },
+  {
+    "start": 265.88,
+    "text": " Tendríamos que invertir la polaridad de lo que sería la perilla en la frecuencia."
+  },
+  {
+    "start": 270.52,
+    "text": " ¿Y cómo se hace esto? Muy buena pregunta. Aquí lo que tenemos que hacer es coger y sacar la tabla de mapeos."
+  },
+  {
+    "start": 276.68,
+    "text": " Pues para hacer eso tenemos que desplegar el menú de la izquierda y tenemos que darle a este botón aquí que dice map."
+  },
+  {
+    "start": 282.36,
+    "text": " Aquí podemos ver cada uno de los parámetros que tenemos mapeados en el macro uno en este caso y vemos aquí que en este tenemos la frecuencia y como hemos dicho que tenemos que invertirla tenemos que darle aquí al mínimo que sea 19000 y al máximo que sea 26000 o bueno ustedes pueden poner los parámetros que quieran si quieren hacer más quirúrgicos."
+  },
+  {
+    "start": 303.48,
+    "text": " También existen ocasiones en las que queremos encender o apagar un efecto y te preguntarás bueno pero es que esto es una perilla y encender y apagar un efecto es un 1 y un 0 y eso es una perilla que hace un barrido del 0 al 27."
+  },
+  {
+    "start": 322.52000000000004,
+    "text": " Entonces cómo puedo encender y apagar si es como un interruptor."
+  },
+  {
+    "start": 326.92,
+    "text": " Otra muy buena pregunta y la verdad es que no tiene ningún dilema ni ninguna dificultad simplemente viene aquí vamos a mapearlo por ejemplo en este caso en el 2 y aquí lo que tiene es que se activa cuando sobrepasa el 64."
+  },
+  {
+    "start": 343.56,
+    "text": " Si ustedes quisieran modificar ese patrón podemos hacer lo mismo que antes venimos aquí a map y le decimos que por ejemplo sea a partir del 6 vamos a poner a partir del 6 para que ustedes vean cómo funciona pues a partir del 6 está activado y cuando bajamos del 6 se desactiva."
+  },
+  {
+    "start": 358.6,
+    "text": " Podemos utilizarlo para activar switches para mover no aquí por ejemplo hemos modificado el cuantizais y veamos cómo podemos ir pasando por cada uno de sus parámetros simplemente girando entonces aquí con esto podemos modificar absolutamente todo y es bastante genial."
+  },
+  {
+    "start": 377.16,
+    "text": " Otro caso en el que se puede utilizar es por ejemplo si utilizamos instrumentos virtuales y queremos hacer nuestras configuraciones a través de macros y crear nuestros propios presets."
+  },
+  {
+    "start": 387.88,
+    "text": " Esto que les voy a explicar ahora se los voy a hacer a través de una imagen porque esto viene a partir del Ableton 11 y yo tengo el 10 pero bueno tranquilos que es muy fácil de atender."
+  },
+  {
+    "start": 397.0,
+    "text": " Aquí por ejemplo tenemos un mont tenemos el doble de macros porque a partir de Ableton 11 tenemos este botón que dice más para sumarle otros 8 knobs y luego tenemos esta parte muy útil también que se llama Variation."
+  },
+  {
+    "start": 411.24,
+    "text": " Esto por ejemplo aquí tenemos un instrumento virtual un sintetizador en el que podemos tocarle distintos parámetros y a lo mejor con esta configuración tenemos un sonido y queremos guardarla entonces aquí las guardamos en las Variation que le damos guardar aquí en esta camarita y se queda guardado."
+  },
+  {
+    "start": 430.04,
+    "text": " Si queremos crear otra le damos a New y ya podemos mover las perillas a nuestro gusto y la volvemos a guardar así cuando le demos aquí al Play las perillas van a volver a las posiciones que nosotros las hemos guardado."
+  },
+  {
+    "start": 443.0,
+    "text": " Partiendo esto que hemos explicado también es muy habitual ver que se utilizan los macros cuando se hacen Live Session o Live Performance en la que músicos están tocando en directo instrumento en Ableton y quieren meter efectos entonces tienen todos estos parámetros mapeados en los macros."
+  },
+  {
+    "start": 459.72,
+    "text": " Y así pues en su directo pues pueden meter sus efectos y irlo sacando y jugando con ellos."
+  },
+  {
+    "start": 465.08,
+    "text": " Ahora que entienden los macros tienen que saber que esto no es exclusivo de Ableton obviamente eso es una herramienta que existe en muchísimas partes seguramente en el FL también y aquí por ejemplo les tengo cargado un Serum en el que podemos ver que también tienen sus macros."
+  },
+  {
+    "start": 492.44,
+    "text": " Y también funciona más o menos igual más sencillo aún tenemos que arrastrar y ya simplemente ya tenemos los macros asignados a distintas perillas."
+  },
+  {
+    "start": 503.16,
+    "text": " Como pudieron ver los macros son muy fáciles de utilizar son muy sencillos y es una herramienta demasiado útil que les va a ahorrar demasiado tiempo y muchísimo trabajo y seguramente en un futuro lo vayan a agradecer."
+  },
+  {
+    "start": 514.52,
+    "text": " Lo mejor de todo es que si tu tienes un dispositivo MIDI o USB como esto que tiene Faders y que tiene Noms no te vayas a perder este video porque te voy a enseñar cómo utilizarlos como un SP404."
+  }
+]

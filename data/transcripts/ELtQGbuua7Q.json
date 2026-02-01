@@ -1,0 +1,678 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey guys, it's Will from EDM Tips, and I'm going to be continuing the beginner's guide to Ableton 10 that I started last week."
+  },
+  {
+    "start": 6.0,
+    "text": " And today we are going to be looking at the preferences section."
+  },
+  {
+    "start": 9.3,
+    "text": " Now, if you've never opened Ableton before, check out that video that's posted there or there, and that's going to give you an overview of how it works and all the different parts of Ableton."
+  },
+  {
+    "start": 18.04,
+    "text": " OK, so let's look at this preferences folder or window."
+  },
+  {
+    "start": 22.28,
+    "text": " If you go up into live, if you're using a Mac and you can click on preferences there and it's going to be something similar in Windows as well, and it's worth spending the time to get this set up just the way you like it."
+  },
+  {
+    "start": 34.480000000000004,
+    "text": " I'm not going to go through every single option in here, but I'm going to go through what I do when I've set it up for the first time."
+  },
+  {
+    "start": 40.68,
+    "text": " So most of this stuff I just leave."
+  },
+  {
+    "start": 42.84,
+    "text": " The only thing I change is this zoom display, which is really cool."
+  },
+  {
+    "start": 46.6,
+    "text": " You can see it changes how big it displays on your screen."
+  },
+  {
+    "start": 50.68,
+    "text": " And when I use my big monitor, which I'm using at the moment, I set it to 130 just so I can see everything a bit better."
+  },
+  {
+    "start": 57.519999999999996,
+    "text": " I'm not straining my eyes when I'm using my laptop."
+  },
+  {
+    "start": 60.16,
+    "text": " I have it set to 100 or sometimes even 80 if I want to see more stuff on the screen at once."
+  },
+  {
+    "start": 65.2,
+    "text": " So that's all I do on this screen."
+  },
+  {
+    "start": 67.48,
+    "text": " And you can adjust the brightness as well, which is quite cool and the different themes."
+  },
+  {
+    "start": 74.03999999999999,
+    "text": " So just choose the one that works best for you."
+  },
+  {
+    "start": 76.0,
+    "text": " You can change the colors and the hues as well if you really want all that kind of stuff."
+  },
+  {
+    "start": 80.56,
+    "text": " But I like to have it gray because apparently I'm boring."
+  },
+  {
+    "start": 83.84,
+    "text": " So there we go."
+  },
+  {
+    "start": 85.2,
+    "text": " That's how I have it set up."
+  },
+  {
+    "start": 86.44,
+    "text": " Now, audio, this is really important."
+  },
+  {
+    "start": 88.68,
+    "text": " It will default to whichever sound device you've got plugged in."
+  },
+  {
+    "start": 93.08,
+    "text": " It might be your internal sound card."
+  },
+  {
+    "start": 94.68,
+    "text": " It might be your external sound device like I've got here, this audio interface."
+  },
+  {
+    "start": 100.88,
+    "text": " And you choose the input device."
+  },
+  {
+    "start": 103.24000000000001,
+    "text": " And this would usually be for a microphone."
+  },
+  {
+    "start": 106.0,
+    "text": " In this instance, when I want to use this microphone, I would choose this Scarlett,"
+  },
+  {
+    "start": 110.08,
+    "text": " which is my audio interface."
+  },
+  {
+    "start": 113.52,
+    "text": " And then it will be able to record the microphone into Ableton for the output device."
+  },
+  {
+    "start": 118.68,
+    "text": " Again, I would choose Scarlett."
+  },
+  {
+    "start": 120.6,
+    "text": " But because I'm recording this into my screen capture software, I've got this"
+  },
+  {
+    "start": 124.12,
+    "text": " Telestream audio selected."
+  },
+  {
+    "start": 126.48,
+    "text": " Then you can choose the sample rate."
+  },
+  {
+    "start": 128.52,
+    "text": " Now, this seems to default on 48000."
+  },
+  {
+    "start": 131.88000000000002,
+    "text": " But if you have it set to 44.1 thousand hertz, that CD quality, that's absolutely fine."
+  },
+  {
+    "start": 137.92000000000002,
+    "text": " Some people like to put it up to 96,000 hertz."
+  },
+  {
+    "start": 142.52,
+    "text": " I don't really see it's that important to do that."
+  },
+  {
+    "start": 145.08,
+    "text": " So 44 or 48 is fine."
+  },
+  {
+    "start": 148.0,
+    "text": " And then if you've got high quality selected, then it's just going to make the pitch"
+  },
+  {
+    "start": 151.68,
+    "text": " conversion better when you are doing pitch shifting and things like that."
+  },
+  {
+    "start": 156.0,
+    "text": " And the default sample rate is high quality, too."
+  },
+  {
+    "start": 159.44,
+    "text": " Then you've got buffer size."
+  },
+  {
+    "start": 160.76,
+    "text": " And this is really down to how long it takes from hitting a key like this."
+  },
+  {
+    "start": 166.72,
+    "text": " Or I've got no sound selected."
+  },
+  {
+    "start": 168.76,
+    "text": " So I'm just going to load in a synthesizer by dragging and dropping."
+  },
+  {
+    "start": 174.2,
+    "text": " So let's open up preferences again."
+  },
+  {
+    "start": 177.2,
+    "text": " The shorter the buffer size or the smaller the buffer size, the faster"
+  },
+  {
+    "start": 182.72,
+    "text": " the sound will play after you press the key."
+  },
+  {
+    "start": 184.92,
+    "text": " But it takes more processor power and quite often you'll get these kind of audio"
+  },
+  {
+    "start": 189.88,
+    "text": " glitches. So I find that 512 worked pretty well for me."
+  },
+  {
+    "start": 194.2,
+    "text": " It's a nice balance."
+  },
+  {
+    "start": 195.28,
+    "text": " It still feels like I'm playing the instrument, but you avoid those audio"
+  },
+  {
+    "start": 199.56,
+    "text": " artifacts. So have a little play play with that."
+  },
+  {
+    "start": 202.64,
+    "text": " I leave drive driver error compensation on zero."
+  },
+  {
+    "start": 205.92,
+    "text": " You don't need to worry about that."
+  },
+  {
+    "start": 209.4,
+    "text": " Then we go into the midi"
+  },
+  {
+    "start": 212.96,
+    "text": " window, if you will."
+  },
+  {
+    "start": 214.44,
+    "text": " And when you've got a midi keyboard, as I have here plugged in,"
+  },
+  {
+    "start": 218.96,
+    "text": " Ableton is great."
+  },
+  {
+    "start": 220.04,
+    "text": " It just kind of finds out what is plugged in and it all works automatically"
+  },
+  {
+    "start": 225.0,
+    "text": " most of the time."
+  },
+  {
+    "start": 226.6,
+    "text": " Now, also, it's worth noting that most days you have USB"
+  },
+  {
+    "start": 229.88,
+    "text": " midi devices rather than the midi devices from days of old."
+  },
+  {
+    "start": 234.07999999999998,
+    "text": " But you might have like an old synthesizer or something and then use a midi"
+  },
+  {
+    "start": 239.24,
+    "text": " actual midi interface and a midi cable."
+  },
+  {
+    "start": 241.51999999999998,
+    "text": " And this is where you'd set it all up."
+  },
+  {
+    "start": 243.92,
+    "text": " Then you've got file and folder."
+  },
+  {
+    "start": 245.76,
+    "text": " Now, this is a really important thing."
+  },
+  {
+    "start": 247.56,
+    "text": " This is really important for me, at least."
+  },
+  {
+    "start": 250.44,
+    "text": " So when you set up a set like this or a project in the way that you want."
+  },
+  {
+    "start": 255.8,
+    "text": " So say you know that you always want four audio channels and two midi channels"
+  },
+  {
+    "start": 260.68,
+    "text": " and you might load, you might always use an analog synth on one of them,"
+  },
+  {
+    "start": 264.76,
+    "text": " for instance."
+  },
+  {
+    "start": 265.68,
+    "text": " What you can do in this preferences window is you can save that"
+  },
+  {
+    "start": 270.44,
+    "text": " as your default set."
+  },
+  {
+    "start": 271.6,
+    "text": " So every time you load up Ableton Live 10, it's going to load those"
+  },
+  {
+    "start": 276.08,
+    "text": " settings up just how you've put them."
+  },
+  {
+    "start": 278.0,
+    "text": " So you might have particular effects that you like to use on these channels here,"
+  },
+  {
+    "start": 281.4,
+    "text": " like reverb and delay."
+  },
+  {
+    "start": 282.88,
+    "text": " And it's going to save that."
+  },
+  {
+    "start": 283.84,
+    "text": " So every time you load it up, that's what you get."
+  },
+  {
+    "start": 287.0,
+    "text": " Create analysis file on or off."
+  },
+  {
+    "start": 289.2,
+    "text": " This means that when you drag audio into Ableton, it's going to automatically"
+  },
+  {
+    "start": 293.59999999999997,
+    "text": " analyze it."
+  },
+  {
+    "start": 294.79999999999995,
+    "text": " I leave this on because then you don't have to press analyze manually."
+  },
+  {
+    "start": 299.47999999999996,
+    "text": " So that's good to leave on most of the time."
+  },
+  {
+    "start": 301.91999999999996,
+    "text": " Sample editor."
+  },
+  {
+    "start": 303.28,
+    "text": " This is where you can actually edit samples outside of Ableton."
+  },
+  {
+    "start": 307.4,
+    "text": " So, for instance, if I press browse here, I might go to my applications and I might"
+  },
+  {
+    "start": 311.08,
+    "text": " choose an audio sample editor, much like, oh, I haven't gotten installed yet"
+  },
+  {
+    "start": 317.2,
+    "text": " because I've just got this new computer, but I'm going to install Adobe Audition."
+  },
+  {
+    "start": 322.23999999999995,
+    "text": " And that is what I would select."
+  },
+  {
+    "start": 323.84,
+    "text": " I would just simply hit it like that and press open."
+  },
+  {
+    "start": 326.47999999999996,
+    "text": " And that would be my default sample editor."
+  },
+  {
+    "start": 329.2,
+    "text": " Temporary folder."
+  },
+  {
+    "start": 330.4,
+    "text": " I change this to be desktop, which means that when you start creating a project"
+  },
+  {
+    "start": 336.84,
+    "text": " and you haven't saved this anywhere, it's automatically going to put some of the"
+  },
+  {
+    "start": 340.76,
+    "text": " working files in this temporary folder."
+  },
+  {
+    "start": 343.28,
+    "text": " I choose my desktop because then I don't have temporary files clogging up like"
+  },
+  {
+    "start": 348.71999999999997,
+    "text": " secret places on my computer."
+  },
+  {
+    "start": 350.35999999999996,
+    "text": " I can see they're on my desktop."
+  },
+  {
+    "start": 351.91999999999996,
+    "text": " So if I want to delete them, I can just delete them or move them into my actual"
+  },
+  {
+    "start": 355.64,
+    "text": " project folder that I've created on my hard drive."
+  },
+  {
+    "start": 359.32,
+    "text": " Then you've got Max application."
+  },
+  {
+    "start": 361.24,
+    "text": " So if you've got Max for live, then it just, I'm not sure why you would select a"
+  },
+  {
+    "start": 367.71999999999997,
+    "text": " different location for your Max application."
+  },
+  {
+    "start": 370.0,
+    "text": " And then this decoding cache, I just leave that as it is as well."
+  },
+  {
+    "start": 374.52,
+    "text": " Then we go into the library."
+  },
+  {
+    "start": 377.15999999999997,
+    "text": " Again, this is very important because Ableton factory packs and libraries are"
+  },
+  {
+    "start": 382.88,
+    "text": " where all the sounds are stored and they can take up quite a lot of space."
+  },
+  {
+    "start": 386.48,
+    "text": " And if you're using a laptop or you've got a smaller hard drive, it can be quite"
+  },
+  {
+    "start": 390.24,
+    "text": " good to actually store them on an external location."
+  },
+  {
+    "start": 394.44,
+    "text": " So you can just browse to, you can, let's see, location of user library."
+  },
+  {
+    "start": 401.64,
+    "text": " So you can move the location of this to an external place like on your hard drive."
+  },
+  {
+    "start": 406.52,
+    "text": " And the user library is where your saved effects racks, your saved instruments"
+  },
+  {
+    "start": 411.76,
+    "text": " are going to be saved and the folder packs."
+  },
+  {
+    "start": 414.16,
+    "text": " They're the ones that get really big."
+  },
+  {
+    "start": 415.6,
+    "text": " These, sorry, the installation folder for packs, the Ableton packs is where"
+  },
+  {
+    "start": 419.76000000000005,
+    "text": " it gets really big."
+  },
+  {
+    "start": 420.56,
+    "text": " So factory packs, you can download lots of free ones from Ableton.com."
+  },
+  {
+    "start": 425.8,
+    "text": " I like to have these on an external hard drive."
+  },
+  {
+    "start": 428.08000000000004,
+    "text": " You can see the default here is on my internal hard drive."
+  },
+  {
+    "start": 431.92,
+    "text": " So what I do is I go browse, then I will go to wherever I've stored them on an"
+  },
+  {
+    "start": 436.8,
+    "text": " external hard drive, for instance, it would be in my libraries, Ableton factory packs."
+  },
+  {
+    "start": 444.03999999999996,
+    "text": " And then I just, you can see I've got several I've downloaded already."
+  },
+  {
+    "start": 448.28,
+    "text": " And if I press open there, it just means move existing packs to new location."
+  },
+  {
+    "start": 453.68,
+    "text": " Well, you don't actually have to use, move them to a new location because"
+  },
+  {
+    "start": 459.12,
+    "text": " they're already there."
+  },
+  {
+    "start": 462.2,
+    "text": " So every time I load up a factory pack now, it's referring to my external"
+  },
+  {
+    "start": 468.24,
+    "text": " location, which is great because it means I've got more space on my internal hard drive."
+  },
+  {
+    "start": 472.36,
+    "text": " Plugins."
+  },
+  {
+    "start": 473.32,
+    "text": " This is where you decide how your plugins act."
+  },
+  {
+    "start": 478.0,
+    "text": " So these plugin windows here, I always have multiple plugin windows on, because"
+  },
+  {
+    "start": 481.88,
+    "text": " if you're using third party plugins and you want to have two windows opened up at"
+  },
+  {
+    "start": 485.96000000000004,
+    "text": " once, so you might want a Pro-Q 3 equalizer opened up next to another one."
+  },
+  {
+    "start": 490.88,
+    "text": " This button allows that to be the case."
+  },
+  {
+    "start": 492.92,
+    "text": " If you have this off, it will close one and then open another."
+  },
+  {
+    "start": 496.32,
+    "text": " And that's kind of a pain."
+  },
+  {
+    "start": 498.32,
+    "text": " So this is where you can turn on your third party plugins, and then you can"
+  },
+  {
+    "start": 502.36,
+    "text": " re-scan the folder and it will then show up in your plugins list here."
+  },
+  {
+    "start": 506.40000000000003,
+    "text": " And you can see, I haven't actually installed any yet on my new computer, but"
+  },
+  {
+    "start": 510.36,
+    "text": " that's what I'm going to be doing shortly."
+  },
+  {
+    "start": 512.6,
+    "text": " Then you go into record and these are the default settings that it will record"
+  },
+  {
+    "start": 517.12,
+    "text": " stuff for you."
+  },
+  {
+    "start": 518.16,
+    "text": " So I choose wave because then it can be used with windows machines as well, as"
+  },
+  {
+    "start": 523.44,
+    "text": " opposed to AIFF, which is Mac specific."
+  },
+  {
+    "start": 528.32,
+    "text": " Then your bit depth, I leave that on 24 bits."
+  },
+  {
+    "start": 530.8000000000001,
+    "text": " So it's a nice high quality."
+  },
+  {
+    "start": 534.8000000000001,
+    "text": " And then all this stuff I leave as normal, apart from create fades on clip edges."
+  },
+  {
+    "start": 542.12,
+    "text": " Now, if you drag in an audio file, like a kick, for example, you don't want a clip."
+  },
+  {
+    "start": 547.5200000000001,
+    "text": " You don't want it faded at the beginning of the kick because it's going to lose"
+  },
+  {
+    "start": 551.12,
+    "text": " some of that initial transient."
+  },
+  {
+    "start": 552.36,
+    "text": " So I actually have this turned off unless I'm doing lots of vocal chops and I want"
+  },
+  {
+    "start": 557.04,
+    "text": " it to have little fades, and then I'll turn this on temporarily."
+  },
+  {
+    "start": 560.76,
+    "text": " All of this stuff I leave the same."
+  },
+  {
+    "start": 564.5600000000001,
+    "text": " Then we go into licenses and maintenance."
+  },
+  {
+    "start": 566.68,
+    "text": " And this is simply where you have your license, your license information added."
+  },
+  {
+    "start": 574.32,
+    "text": " So it knows that it's a valid, bona fide copy of Ableton Live, and you can decide"
+  },
+  {
+    "start": 579.88,
+    "text": " whether you want to send them usage data or get automatic updates."
+  },
+  {
+    "start": 584.2,
+    "text": " And I just leave that as default as well."
+  },
+  {
+    "start": 586.84,
+    "text": " So that is how I set up my preferences file."
+  },
+  {
+    "start": 589.48,
+    "text": " I know it's a bit boring and a bit stale for some of you, but if you haven't used"
+  },
+  {
+    "start": 593.28,
+    "text": " Ableton Live before, it's worth just spending five to 10 minutes setting this up."
+  },
+  {
+    "start": 596.88,
+    "text": " Right."
+  },
+  {
+    "start": 597.64,
+    "text": " Okay."
+  },
+  {
+    "start": 598.32,
+    "text": " We are going into the normal stuff on my channel on Friday."
+  },
+  {
+    "start": 603.2,
+    "text": " We've got a new how to make in the style of production tutorial."
+  },
+  {
+    "start": 607.04,
+    "text": " So join me then."
+  },
+  {
+    "start": 608.2,
+    "text": " If you haven't already subscribed to my channel, hit that like button if you found"
+  },
+  {
+    "start": 612.2,
+    "text": " this useful and until next time, cheers and happy producing."
+  }
+]

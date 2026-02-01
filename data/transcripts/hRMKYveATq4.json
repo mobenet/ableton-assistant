@@ -1,0 +1,154 @@
+[
+  {
+    "start": 0.0,
+    "text": " Bonjour à tous, Daphresh sur la mic."
+  },
+  {
+    "start": 6.640000000000001,
+    "text": " Dans cette vidéo, je vais vous montrer comment faire un mastering simple et efficace"
+  },
+  {
+    "start": 11.08,
+    "text": " en utilisant uniquement les plug-ins de stock Ableton."
+  },
+  {
+    "start": 14.36,
+    "text": " Donc, ici est un Pre-Master."
+  },
+  {
+    "start": 16.52,
+    "text": " D'abord, je mets un EQ8 pour couper des fréquences qu'on n'a pas besoin,"
+  },
+  {
+    "start": 27.16,
+    "text": " avec un filtre de bas et un filtre de haut."
+  },
+  {
+    "start": 30.08,
+    "text": " Maintenant, un autre EQ8 mais en mode mid side."
+  },
+  {
+    "start": 34.480000000000004,
+    "text": " Dans le mid, je n'ai qu'à équiper le signal mono et je booste les lows un peu."
+  },
+  {
+    "start": 40.36,
+    "text": " Dans le side, je n'ai qu'à équiper le signal stéréo."
+  },
+  {
+    "start": 46.04,
+    "text": " Un filtre de bas à 120 Hz."
+  },
+  {
+    "start": 51.16,
+    "text": " Je booste les highs pour ajouter le stéréo et la lumière."
+  },
+  {
+    "start": 56.839999999999996,
+    "text": " Après cela, je mets un compresseur pour coller tous les sons ensemble."
+  },
+  {
+    "start": 60.76,
+    "text": " Attaque à 3, délai à 4 et je tourne le threshold en bas jusqu'à ce que la clé commence à bouger."
+  },
+  {
+    "start": 69.84,
+    "text": " Pas trop, environ 2 ou 3 est parfait."
+  },
+  {
+    "start": 75.16,
+    "text": " Ensuite, je mets un saturateur pour appuyer un peu sur les froidures."
+  },
+  {
+    "start": 82.16,
+    "text": " J'ajoute un peu de drive."
+  },
+  {
+    "start": 84.16,
+    "text": " Je délai le gain de l'outil pour garder le même volume."
+  },
+  {
+    "start": 88.16,
+    "text": " Et je joue avec un dry-wet pour trouver une bonne quantité de saturation."
+  },
+  {
+    "start": 93.16,
+    "text": " Ok, ça a l'air bien comme ça."
+  },
+  {
+    "start": 95.16,
+    "text": " Maintenant, je rajoute une dynamics multi-bass pour juste booster un peu le mid et les highs."
+  },
+  {
+    "start": 108.16,
+    "text": " Ensuite, l'utilité."
+  },
+  {
+    "start": 110.16,
+    "text": " Je garde le bas en mode mono et je continue à équiper le signal mono."
+  },
+  {
+    "start": 114.16,
+    "text": " Et je fais un petit test."
+  },
+  {
+    "start": 117.16,
+    "text": " Ensuite, l'utilité."
+  },
+  {
+    "start": 119.16,
+    "text": " Je garde le bas en mode mono et je touche tout le reste en haut pour avoir un stéréo plus grand."
+  },
+  {
+    "start": 134.16,
+    "text": " Maintenant, on rassemble tout et on regarde comment ça sonne."
+  },
+  {
+    "start": 140.16,
+    "text": " Avec."
+  },
+  {
+    "start": 146.16,
+    "text": " Sans."
+  },
+  {
+    "start": 149.16,
+    "text": " Avec."
+  },
+  {
+    "start": 154.16,
+    "text": " Ça a l'air bien."
+  },
+  {
+    "start": 156.16,
+    "text": " Et pour le touch final, j'utilise un limitateur pour pousser le volume au niveau le plus haut."
+  },
+  {
+    "start": 177.16,
+    "text": " Voilà, le travail est terminé."
+  },
+  {
+    "start": 179.16,
+    "text": " J'espère que vous avez aimé cette vidéo."
+  },
+  {
+    "start": 181.16,
+    "text": " Vous pouvez abonner à ce Mastering Rack pour la première fois."
+  },
+  {
+    "start": 183.16,
+    "text": " Le lien est dans la description."
+  },
+  {
+    "start": 185.16,
+    "text": " Merci d'avoir regardé."
+  },
+  {
+    "start": 186.16,
+    "text": " Peace."
+  },
+  {
+    "start": 206.16,
+    "text": " Ah."
+  }
+]

@@ -1,0 +1,45 @@
+# =============================================================================
+# Chatbleton - Docker Compose Configuration
+# =============================================================================
+# Usage:
+#   Development: docker-compose up
+#   Production:  docker-compose -f docker-compose.yml -f docker-compose.prod.yml up -d
+
+version: '3.8'
+
+services:
+  chatbleton:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: chatbleton
+    ports:
+      - "${PORT:-8000}:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_MODEL=${OPENAI_MODEL:-gpt-4o-mini}
+      - OPENAI_STT_MODEL=${OPENAI_STT_MODEL:-gpt-4o-mini-transcribe}
+      - OPENAI_TTS_MODEL=${OPENAI_TTS_MODEL:-gpt-4o-mini-tts}
+      - CHROMA_DIR=/app/chroma_db
+      - COLLECTION_NAME=${COLLECTION_NAME:-ableton}
+      - EMBED_MODEL=${EMBED_MODEL:-intfloat/multilingual-e5-base}
+      - PORT=8000
+      - FLASK_ENV=${FLASK_ENV:-production}
+      - DEBUG=${DEBUG:-false}
+      - MAX_QUESTION_LENGTH=${MAX_QUESTION_LENGTH:-2000}
+      - MAX_AUDIO_SIZE_MB=${MAX_AUDIO_SIZE_MB:-10}
+      - RATE_LIMIT_PER_MINUTE=${RATE_LIMIT_PER_MINUTE:-30}
+    volumes:
+      # Persist vector database
+      - chroma_data:/app/chroma_db
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+volumes:
+  chroma_data:
+    driver: local

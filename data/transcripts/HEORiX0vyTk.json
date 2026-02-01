@@ -1,0 +1,590 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends, today we're going to go over Ableton Simpler. Intro and light users. Everything"
+  },
+  {
+    "start": 9.24,
+    "text": " I'm about to do, you can do as well. You'll have access to all the things I'm about to"
+  },
+  {
+    "start": 13.88,
+    "text": " show you. And then also you pro and veterans using Ableton, you might learn all kinds of"
+  },
+  {
+    "start": 18.96,
+    "text": " stuff with Simpler. Simpler is very powerful and I use it all the time, still to this day."
+  },
+  {
+    "start": 25.52,
+    "text": " It's probably the most used device that I use in Ableton and I'm really excited to go"
+  },
+  {
+    "start": 29.1,
+    "text": " over this with you. So today's lesson is using Simpler as a synthesizer. So what I want to"
+  },
+  {
+    "start": 34.06,
+    "text": " show you is that any sound can be used as an oscillator. Okay, so we're using Simpler"
+  },
+  {
+    "start": 40.18,
+    "text": " as an oscillator in this case. So I'm going to record my voice. Synthesizer. So now I"
+  },
+  {
+    "start": 46.34,
+    "text": " have synthesizer. So now that's my voice. And I can take this waveform and I can drag"
+  },
+  {
+    "start": 53.1,
+    "text": " it and drop it. If you have the Simpler window open and you click something and drag, you"
+  },
+  {
+    "start": 58.82,
+    "text": " can drag it into Simpler. So now what we have is this audio. The first thing you see are"
+  },
+  {
+    "start": 64.26,
+    "text": " playheads. So I can move the beginning and ending playheads around the area that I want"
+  },
+  {
+    "start": 70.78,
+    "text": " to edit. So now my keyboard, if I drop audio into here, it will automatically populate to"
+  },
+  {
+    "start": 76.82,
+    "text": " classic mode. And synthesizer. Synthesizer. I like that. Okay, so now I have this waveform."
+  },
+  {
+    "start": 87.17999999999999,
+    "text": " What I want to show you is that if you, you can zoom in and out. If you cycle waveforms,"
+  },
+  {
+    "start": 93.97999999999999,
+    "text": " any wave fast enough, it enters this thing called audio rate. Okay, so I'm going to just"
+  },
+  {
+    "start": 99.17999999999999,
+    "text": " shrink the size of this audio until it's about this size. So it's just synth. Okay. If I"
+  },
+  {
+    "start": 105.78,
+    "text": " decrease the length, so this is a dynamic control that you can MIDI map and all kinds"
+  },
+  {
+    "start": 109.75999999999999,
+    "text": " of other stuff. But if I just loop this audio, it'll play like this. Right? If I decrease"
+  },
+  {
+    "start": 116.68,
+    "text": " the length, listen. In fact, let's even move the start position. Pretty wacky, huh? Right?"
+  },
+  {
+    "start": 130.42000000000002,
+    "text": " So that's fun. If I keep decreasing length, check this out. Now I've got what I would"
+  },
+  {
+    "start": 138.18,
+    "text": " consider some audio at audio rate. And if I make the size even smaller, you know, just"
+  },
+  {
+    "start": 148.94,
+    "text": " keep decreasing this. What does that sound like to you? I have a single cycle waveform"
+  },
+  {
+    "start": 159.98000000000002,
+    "text": " that's playing detectable pitches, right? You can hear those pitches. So if I have this"
+  },
+  {
+    "start": 163.82,
+    "text": " wider, there's still a pitch there, but it's hard to hear. Okay. So that's just the concept"
+  },
+  {
+    "start": 173.78,
+    "text": " that we're going to be using moving forward. You don't need to totally understand what's"
+  },
+  {
+    "start": 177.76,
+    "text": " going on. But if you cycle audio fast enough, it enters what's known as audio rate. Okay."
+  },
+  {
+    "start": 183.38,
+    "text": " A detectable pitch is now you're able to hear that. So I found this guy that created a hundred"
+  },
+  {
+    "start": 188.38,
+    "text": " single cycle waveforms, and I'm going to show you how to import these into Ableton. You"
+  },
+  {
+    "start": 193.38,
+    "text": " just go to on your browser, you go down to places and you see this button add folder."
+  },
+  {
+    "start": 199.74,
+    "text": " Okay. If you click on that, I'm going to go quickly to the folder of those drum samples"
+  },
+  {
+    "start": 205.9,
+    "text": " that I downloaded. Okay. And if you click on the folder and hit open, what will happen"
+  },
+  {
+    "start": 211.06,
+    "text": " is now in your places area at the bottom, there you go, you got the folder 100 void"
+  },
+  {
+    "start": 217.5,
+    "text": " vertex single cycle waveforms. Okay. So these are all the different single cycle waveforms."
+  },
+  {
+    "start": 221.94,
+    "text": " Now why are these, why are these useful? Well, first of all, these are all tuned to C. So"
+  },
+  {
+    "start": 226.85999999999999,
+    "text": " when you put them into simpler, they should work just right off the bat. So now that I"
+  },
+  {
+    "start": 231.9,
+    "text": " have this simpler open, I can drag and drop any of these awesome single cycle waveforms"
+  },
+  {
+    "start": 240.66,
+    "text": " into here and try the different sounds out. Right. So let's just pick a, you know, relatively"
+  },
+  {
+    "start": 247.14,
+    "text": " thick, thick sound. Dirty saw. Okay. So this is the front panel as it pertains to synthesis."
+  },
+  {
+    "start": 254.14,
+    "text": " Here are some of the classic things that you do with a synthesizer. So first of all, you"
+  },
+  {
+    "start": 257.78,
+    "text": " have a filter down here. You have two different poles. You got your different types. So, you"
+  },
+  {
+    "start": 265.5,
+    "text": " know, low pass, high pass, you have all these different modes. So you can add drive and"
+  },
+  {
+    "start": 270.22,
+    "text": " resonance. Right. And then also you have volume envelope over here, right? Right. So there"
+  },
+  {
+    "start": 285.58000000000004,
+    "text": " you go. That's, you have a master volume right here and you have an LFO. You might say, okay,"
+  },
+  {
+    "start": 290.98,
+    "text": " well this isn't very, you know, this isn't very full of features. Well, if you click"
+  },
+  {
+    "start": 293.38000000000005,
+    "text": " on the controls section, you'll notice that there's a lot more going on here and there's"
+  },
+  {
+    "start": 298.46,
+    "text": " a lot more under the hood. You have an envelope for the volume, but you also have an envelope"
+  },
+  {
+    "start": 301.85999999999996,
+    "text": " for the filter. Okay. And the way that you apply that is there's an amount thing here"
+  },
+  {
+    "start": 308.14,
+    "text": " that goes positive and negative. So now I can get, I can get different sounds there."
+  },
+  {
+    "start": 319.14,
+    "text": " Okay. So there's that. You can change the, change the decay and things like that. So"
+  },
+  {
+    "start": 325.78000000000003,
+    "text": " you also have this LFO. It's a single, it's a single LFO, but you can send it to some"
+  },
+  {
+    "start": 330.86,
+    "text": " of these predestined areas. So first of all, I mean, the most obvious is pitch. And if"
+  },
+  {
+    "start": 337.5,
+    "text": " you turn off free trigger, you can get, you know, our classic, right? So you also have"
+  },
+  {
+    "start": 344.98,
+    "text": " control over the volume. So this is, you know, you can, you can do some pretty, some pretty"
+  },
+  {
+    "start": 348.46,
+    "text": " fast LFOing at volume. You can get like a tremolo effect at low speeds, right? Or at"
+  },
+  {
+    "start": 355.46,
+    "text": " fast speeds, you can get kind of a garbly sound. That's kind of fun. Panning. You can"
+  },
+  {
+    "start": 361.78,
+    "text": " also open and close the filter. Right? So there's, you know, there's some features here. They"
+  },
+  {
+    "start": 369.1,
+    "text": " may not be, you know, crazy, but I want, what I want to talk about is that simpler is this"
+  },
+  {
+    "start": 374.62,
+    "text": " is a building block yet again, a building block to a larger sound if that's what you're"
+  },
+  {
+    "start": 378.7,
+    "text": " going for. Okay. But before we get into that, let's go ahead and look at some of the other"
+  },
+  {
+    "start": 382.5,
+    "text": " features you might not know about. There's also in the, the, you can also loop the amplitude"
+  },
+  {
+    "start": 389.34000000000003,
+    "text": " envelope here. So this is, you know, I'm going to turn some of these off right now. So I've"
+  },
+  {
+    "start": 394.58,
+    "text": " just got this, this sound going on, right? If I decrease the length of this amplitude"
+  },
+  {
+    "start": 402.34,
+    "text": " envelope, I can then do some of those things like I was doing with operator and get repeating"
+  },
+  {
+    "start": 409.09999999999997,
+    "text": " amplitude envelopes. Right? That's kind of fun. Another thing that I can do is there"
+  },
+  {
+    "start": 424.14,
+    "text": " are some just different, these are, these are different controls that have to do with"
+  },
+  {
+    "start": 429.78,
+    "text": " just treating the voices. So over here we can get spread. So what it'll do is just like"
+  },
+  {
+    "start": 433.53999999999996,
+    "text": " an operator will copy the audio and it'll detune one of them. And so it'll make it nice"
+  },
+  {
+    "start": 439.78,
+    "text": " and wide. Let's go ahead and open this back up, add a little release. And as you can,"
+  },
+  {
+    "start": 447.26,
+    "text": " as you can see, it kind of sounds a little bit wider. Another thing that I really like"
+  },
+  {
+    "start": 452.26,
+    "text": " to use a lot, especially when designing drums is this random panning. So every time I play"
+  },
+  {
+    "start": 459.65999999999997,
+    "text": " a note, this will go up in volume. Another thing, and this is where you control velocity."
+  },
+  {
+    "start": 464.21999999999997,
+    "text": " So, you know, if this is at zero, it'll always play the same volume. If you turn it up, it'll"
+  },
+  {
+    "start": 469.38,
+    "text": " play different volumes depending upon how hard you hit the keys, right? Transpose, you"
+  },
+  {
+    "start": 474.74,
+    "text": " know, that does detune. And then we have glide here. So you got, turn that down a little"
+  },
+  {
+    "start": 482.74,
+    "text": " bit. So you can get all the way low to all the way. Super long glide times, right? Okay."
+  },
+  {
+    "start": 494.74,
+    "text": " So I just added this hard saw. Let's talk about something else. So sometimes this just"
+  },
+  {
+    "start": 500.82,
+    "text": " isn't enough. Like there isn't enough going on here to make an interesting sound. And"
+  },
+  {
+    "start": 504.66,
+    "text": " what we want to do is we want to create sounds with layers. Well, we can use multiple simplers"
+  },
+  {
+    "start": 509.02,
+    "text": " to create a more complex sound. Okay. What I want to show you now is how to incorporate"
+  },
+  {
+    "start": 513.02,
+    "text": " simpler into a group of simplers to add movement and complexity to your sound. Okay. So if"
+  },
+  {
+    "start": 518.3,
+    "text": " I right click on the title bar, I can click on group. Okay. Now what this is going to"
+  },
+  {
+    "start": 523.8199999999999,
+    "text": " do is this is going to introduce what's known as an instrument rack. Okay. You'll notice"
+  },
+  {
+    "start": 528.4599999999999,
+    "text": " that over here you have a show high devices button. You have a show high chain list and"
+  },
+  {
+    "start": 533.8199999999999,
+    "text": " a show high macro controls. We're going to open this chain list just by clicking on it"
+  },
+  {
+    "start": 537.4,
+    "text": " and turning it yellow. So now you can see that the hard saw is right there. What I can"
+  },
+  {
+    "start": 543.16,
+    "text": " do is I can grab another simpler from my instruments. Okay. Now in this simpler, I can grab a different"
+  },
+  {
+    "start": 550.68,
+    "text": " audio. Maybe I want to get some more deep low end. So I'll just get a sign waveform."
+  },
+  {
+    "start": 556.88,
+    "text": " Okay. I'm going to drop that into this one. So I'm going to have to turn this dirty signs"
+  },
+  {
+    "start": 562.92,
+    "text": " looping on in order to hear it. Right. So that's what that sounds like. And that's,"
+  },
+  {
+    "start": 568.78,
+    "text": " this is what this one sounds like when I play them together. I get, I've got somewhat of"
+  },
+  {
+    "start": 574.5799999999999,
+    "text": " a more full sound. Okay. Um, now what I can do is I can treat these a little differently"
+  },
+  {
+    "start": 579.9599999999999,
+    "text": " and get different sounds. So maybe on the, the sign, I want to have less harmonics. So"
+  },
+  {
+    "start": 584.92,
+    "text": " I'll just listen to the dirty sign right now. Another thing I can do is I can turn it down"
+  },
+  {
+    "start": 592.04,
+    "text": " an octave. So I'm going to transpose it down 12 steps. Right. And I can go back to this"
+  },
+  {
+    "start": 601.4,
+    "text": " hard saw and maybe what I want to do with this one, let's just make a bass sound. I'm"
+  },
+  {
+    "start": 607.36,
+    "text": " just going to make the voices mono. So in the voices section, both of these are going"
+  },
+  {
+    "start": 611.7199999999999,
+    "text": " to be mono. So, and then I'm going to go into the control section and turn on glide, the"
+  },
+  {
+    "start": 619.72,
+    "text": " the pornamento at 50 for each one of these. So now I get this. Right. And now the next"
+  },
+  {
+    "start": 630.6,
+    "text": " thing I'm going to do is I'm going to look at this area. This is the macro controls."
+  },
+  {
+    "start": 636.48,
+    "text": " Okay. Just like with MIDI mapping, when I turn on MIDI mapping and everything that I"
+  },
+  {
+    "start": 640.72,
+    "text": " can modulate turns blue. If I turn on mapping in the macro controls, what I can do now is"
+  },
+  {
+    "start": 647.72,
+    "text": " have a little bit of fun with going back and forth between these two different sounds."
+  },
+  {
+    "start": 652.8000000000001,
+    "text": " Okay. So one thing I can do is map this control. All you got to do is click on the control"
+  },
+  {
+    "start": 658.2800000000001,
+    "text": " you'd like to map and then click on map under this area right here. Okay. So now it's going"
+  },
+  {
+    "start": 664.36,
+    "text": " to show me a range. So from completely turned down up to plus six decibels. Well, I'd like"
+  },
+  {
+    "start": 671.24,
+    "text": " that to just remain at zero. That's kind of intense. All right. Now for the second one,"
+  },
+  {
+    "start": 675.4,
+    "text": " I'd like it to be zero. Zero meaning turned as high as I want it to go and then all the"
+  },
+  {
+    "start": 680.76,
+    "text": " way down to zero. So what this means is now I have a crossfader going between these two"
+  },
+  {
+    "start": 686.8,
+    "text": " sounds. So now we can get these kind of like morphing textures."
+  },
+  {
+    "start": 693.8,
+    "text": " Something that's fun about that is now that we've got this kind of morphing, this kind"
+  },
+  {
+    "start": 705.88,
+    "text": " of morphing sound going on, we can go even farther. Since these aren't really filtered"
+  },
+  {
+    "start": 710.56,
+    "text": " down that much, what I can do is I can go ahead and add an Ableton auto filter at the"
+  },
+  {
+    "start": 715.64,
+    "text": " end of this. Okay. And I can just keep building this sound over. Now what will happen if I"
+  },
+  {
+    "start": 722.18,
+    "text": " drop it within this bar is that that filter is only going to be applied to the track that"
+  },
+  {
+    "start": 729.22,
+    "text": " it's on. Do you see how when I click on hard saw that auto filter disappears? When I click"
+  },
+  {
+    "start": 733.86,
+    "text": " on dirty sign, it's back there. What I want to do is affect all of these. So now I get,"
+  },
+  {
+    "start": 742.18,
+    "text": " let's say I have a blend somewhere in the middle of these, right? Now the filters is"
+  },
+  {
+    "start": 748.3,
+    "text": " affecting both of these. Okay. Now the next thing I can do is I can maybe add an erosion"
+  },
+  {
+    "start": 754.9799999999999,
+    "text": " to this to get a little bit of texture back in here. Right? Another thing I can do is"
+  },
+  {
+    "start": 765.14,
+    "text": " I can add a compressor to bring up the gain and kind of control how loud this is, regardless"
+  },
+  {
+    "start": 772.66,
+    "text": " of what I'm playing through it. Right? So now I can kind of, I can edit the controls"
+  },
+  {
+    "start": 779.78,
+    "text": " and they still sound the same. Then finally I can add a reverb to give it some ambience."
+  },
+  {
+    "start": 786.78,
+    "text": " And so there you've got a complex sound using just simplers and grouped into an instrument"
+  },
+  {
+    "start": 804.26,
+    "text": " rack. Now let's say you wanted to save this entire thing. If I click on the final device"
+  },
+  {
+    "start": 810.18,
+    "text": " and then I click on the first device and hold shift, it will select all of these. If I click"
+  },
+  {
+    "start": 815.34,
+    "text": " on all of these and all of this is highlighted, I can right click again, hit group, and once"
+  },
+  {
+    "start": 820.6600000000001,
+    "text": " again I have another instrument rack. So now we have instrument rack inception. And I can"
+  },
+  {
+    "start": 824.98,
+    "text": " add some of these controls to the macros on this control. So let's say first of all I"
+  },
+  {
+    "start": 831.98,
+    "text": " want this crossfader that I made. I can hit map on this one, click on the crossfader and"
+  },
+  {
+    "start": 837.26,
+    "text": " now I have control over that. Right? Now when I map an instrument rack to an instrument"
+  },
+  {
+    "start": 844.26,
+    "text": " rack, I actually have to, anything that is in this chain has to be mapped here first"
+  },
+  {
+    "start": 849.98,
+    "text": " before it can be mapped here. But since I've wrapped the effects in here, if I scroll all"
+  },
+  {
+    "start": 854.42,
+    "text": " the way over to my effects, look at that, boom. All those controls are now editable."
+  },
+  {
+    "start": 858.42,
+    "text": " So you know I could do reverb over here. Right? I could do filter frequency. Let's find that."
+  },
+  {
+    "start": 866.9399999999999,
+    "text": " Filter frequency right here. Right? And then I could do maybe a mount of my erosion. Right?"
+  },
+  {
+    "start": 874.42,
+    "text": " Right here. Okay. So now I have this pretty awesome, I can collapse all the devices and"
+  },
+  {
+    "start": 881.18,
+    "text": " now all I'm looking at is this. Right?"
+  },
+  {
+    "start": 896.46,
+    "text": " So when you open instrument racks in Ableton you're confused about like you know what it"
+  },
+  {
+    "start": 899.74,
+    "text": " is. It just has all these knobs. Well if you ever want to edit something just hit this,"
+  },
+  {
+    "start": 903.46,
+    "text": " open it up and there you go. Okay. So yeah, that's synthesis using Simpler and instrument"
+  },
+  {
+    "start": 910.14,
+    "text": " rack. And these are again, all these things are available in Ableton Lite and in Ableton"
+  },
+  {
+    "start": 915.22,
+    "text": " Intro. So you really have a lot of power and control over creating like amazing sounds."
+  },
+  {
+    "start": 921.62,
+    "text": " I'm going to keep going with Simpler on to another lesson where we're going to get into"
+  },
+  {
+    "start": 926.34,
+    "text": " more like sound design effects, you know drum loops and creating drums and sounds like that"
+  },
+  {
+    "start": 932.0200000000001,
+    "text": " with it next. So yeah, thanks for watching everybody. Like, comment, subscribe if you"
+  },
+  {
+    "start": 935.7,
+    "text": " enjoyed this video. I'll see you next time. Thanks."
+  }
+]

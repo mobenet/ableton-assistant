@@ -1,0 +1,150 @@
+[
+  {
+    "start": 0.0,
+    "text": " It's drum rack time! Ableton Live's drum rack is an incredibly easy to use and flexible virtual drum instrument."
+  },
+  {
+    "start": 7.5,
+    "text": " Let's take a closer look."
+  },
+  {
+    "start": 9.5,
+    "text": " Ableton Live!"
+  },
+  {
+    "start": 11.26,
+    "text": " Quick tips for improving your workflow in about five minutes, not including this bumper."
+  },
+  {
+    "start": 21.14,
+    "text": " You can literally drag anything onto a drum pad from a sample to another instrument."
+  },
+  {
+    "start": 30.2,
+    "text": " Now for some SHRUTTING AND RA both."
+  },
+  {
+    "start": 41.44,
+    "text": " So, if you're playing along with a x y point March flock, you'd certainly want to check it out app store."
+  },
+  {
+    "start": 51.260000000000005,
+    "text": " This is my drum kit, which I only use at our customssthere."
+  },
+  {
+    "start": 55.6,
+    "text": " Those were samples, now I'll drag on some virtual instruments."
+  },
+  {
+    "start": 59.4,
+    "text": " Each pad that you load creates an individual mix channel in the Drum Racks track group."
+  },
+  {
+    "start": 84.9,
+    "text": " You load five samples and you get five individual mix channels in the group."
+  },
+  {
+    "start": 88.9,
+    "text": " You don't need to hassle setting up individual drum outputs for mixing because Drum Rack does it for you automatically."
+  },
+  {
+    "start": 105.9,
+    "text": " When you drag an instrument such as Analog onto a pad,"
+  },
+  {
+    "start": 109.9,
+    "text": " the note that's played on this pad is set here for the pad's MIDI out note."
+  },
+  {
+    "start": 117.9,
+    "text": " Remember, each drum pad represents an individual note on your MIDI keyboard from C-2 all the way up to E8."
+  },
+  {
+    "start": 126.9,
+    "text": " You can insert effects on a sound by simply dragging the effect device onto a pad."
+  },
+  {
+    "start": 156.9,
+    "text": " You can also set up send effects within the Drum Rack by showing the return chains,"
+  },
+  {
+    "start": 162.9,
+    "text": " dragging in an effect device,"
+  },
+  {
+    "start": 169.9,
+    "text": " and then turning up the drum pad's send level here on its mixer channel."
+  },
+  {
+    "start": 183.9,
+    "text": " Most people don't realize that you can also access the main mixer's effect sends from within the Drum Rack."
+  },
+  {
+    "start": 190.9,
+    "text": " Right-click to create a return channel,"
+  },
+  {
+    "start": 196.9,
+    "text": " show the I.O.,"
+  },
+  {
+    "start": 198.9,
+    "text": " then assign the send chain to one of your main mixer's send effects."
+  },
+  {
+    "start": 212.9,
+    "text": " This way you can, for example, add the same reverb to your snare drum as your guitar track."
+  },
+  {
+    "start": 226.9,
+    "text": " In the I.O. section, you can also set choke groups."
+  },
+  {
+    "start": 231.9,
+    "text": " This allows you to set groups of pads to a sort of monophonic operation."
+  },
+  {
+    "start": 236.9,
+    "text": " For example, to mute the open hi-hat sample with the closed hi-hat sample,"
+  },
+  {
+    "start": 241.9,
+    "text": " set both pads to the same choke group."
+  },
+  {
+    "start": 258.9,
+    "text": " And don't forget about the macros."
+  },
+  {
+    "start": 261.9,
+    "text": " Especially for live performance,"
+  },
+  {
+    "start": 263.9,
+    "text": " you can assign nearly any parameter within your Drum Rack to one of the eight macros for super easy accessibility."
+  },
+  {
+    "start": 270.9,
+    "text": " Click Map,"
+  },
+  {
+    "start": 273.9,
+    "text": " select the parameter you want to map,"
+  },
+  {
+    "start": 277.9,
+    "text": " and then the macro that you want to map it to."
+  },
+  {
+    "start": 280.9,
+    "text": " You can even assign multiple parameters to the same macro."
+  },
+  {
+    "start": 300.9,
+    "text": " Then save your Drum Rack patch so you can easily recall it in any session."
+  },
+  {
+    "start": 330.9,
+    "text": " I'll see you next time."
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hello everyone, today I'm going to show you one of the things that I think every Ableton Live user should know,"
+  },
+  {
+    "start": 4.16,
+    "text": " whether you're a beginner, intermediate or advanced user of the software."
+  },
+  {
+    "start": 8.44,
+    "text": " It's something which lets you move really quickly, grab hold of sounds and basically get into a state of flow when using the software,"
+  },
+  {
+    "start": 17.16,
+    "text": " because you're not spending a lot of time going and looking for instruments,"
+  },
+  {
+    "start": 20.080000000000002,
+    "text": " and the ones that you have chosen you can grab hold of really quickly."
+  },
+  {
+    "start": 23.72,
+    "text": " For those of you who have heard of this technique before, it's basically called a chained instrument rack,"
+  },
+  {
+    "start": 28.96,
+    "text": " and so you've seen that before, you don't need to watch this video,"
+  },
+  {
+    "start": 31.400000000000002,
+    "text": " but for those of you to whom that means absolutely nothing, let's do this."
+  },
+  {
+    "start": 35.2,
+    "text": " My name is André Søren, I've been an Ableton product specialist for many years,"
+  },
+  {
+    "start": 39.92,
+    "text": " and the last few I've been teaching in many different schools across Europe,"
+  },
+  {
+    "start": 45.88,
+    "text": " to many different people of different levels for different use cases,"
+  },
+  {
+    "start": 49.8,
+    "text": " and well, I figure it's a good time to start sharing some of the things that I've picked up over all those years of teaching."
+  },
+  {
+    "start": 56.199999999999996,
+    "text": " Now, the thing that I use here, I use so much in my live set,"
+  },
+  {
+    "start": 60.68,
+    "text": " so I've got a lot of performance videos that I've done on YouTube that you can look up,"
+  },
+  {
+    "start": 65.47999999999999,
+    "text": " and this is a key, key part of that."
+  },
+  {
+    "start": 69.12,
+    "text": " It allows me to have the sounds that I like, get hold of them really quickly,"
+  },
+  {
+    "start": 73.64,
+    "text": " and never ever touch the mouse and the keyboards to do what I need to do,"
+  },
+  {
+    "start": 79.8,
+    "text": " and for me this is absolutely massive."
+  },
+  {
+    "start": 81.92,
+    "text": " This is the way you stay in focus, you really can get into your zone,"
+  },
+  {
+    "start": 86.56,
+    "text": " because context switching between the mouse and the keyboard, and push, and whatever controllers, I think is a killer."
+  },
+  {
+    "start": 93.24,
+    "text": " Now, let's get into this."
+  },
+  {
+    "start": 94.67999999999999,
+    "text": " So, in our set here, we can see that there's a MIDI track and an audio track."
+  },
+  {
+    "start": 98.67999999999999,
+    "text": " We don't need the audio track, so let's just right-click here and delete it."
+  },
+  {
+    "start": 103.08,
+    "text": " Now, we're going to open up the library here in the top left, like so,"
+  },
+  {
+    "start": 108.36,
+    "text": " and here you can see I've already selected the instruments area and Simpler,"
+  },
+  {
+    "start": 113.36,
+    "text": " and the reason I've taken Simpler is because it's an instrument which is available in all versions available to live,"
+  },
+  {
+    "start": 118.8,
+    "text": " so if you have Intro, or Standard, or Sweet, you'll be able to follow this."
+  },
+  {
+    "start": 122.91999999999999,
+    "text": " All the presets should be the same, so I'll start by dropping this open and going to the bass section,"
+  },
+  {
+    "start": 132.79999999999998,
+    "text": " and there's three here which you can see are shown with this icon which doesn't have a vertical line."
+  },
+  {
+    "start": 141.0,
+    "text": " This means that they've not already been grouped, so let's stick with those."
+  },
+  {
+    "start": 144.79999999999998,
+    "text": " Don't start choosing the ones with these groupings already,"
+  },
+  {
+    "start": 148.51999999999998,
+    "text": " because that's not really going to make it easier to follow this tutorial."
+  },
+  {
+    "start": 152.64,
+    "text": " Now, the first one we can have here."
+  },
+  {
+    "start": 155.84,
+    "text": " Now, for those of you who don't know, you can change the preview volume here, I'll just drop this a little bit,"
+  },
+  {
+    "start": 161.2,
+    "text": " and this one sounds good to me, I can either double click it or just drag it over to the MIDI track,"
+  },
+  {
+    "start": 166.28,
+    "text": " and hey presto, if I want to play this using the keyboard,"
+  },
+  {
+    "start": 170.2,
+    "text": " what I need to do is first make sure that up here on the top right that this virtual keyboard is turned on,"
+  },
+  {
+    "start": 177.72,
+    "text": " and if you want to use another shortcut for that, that's the M key, M for MIDI, funnily enough,"
+  },
+  {
+    "start": 184.12,
+    "text": " and what you also need to make sure is that the arm track is also on this red one here."
+  },
+  {
+    "start": 191.44000000000003,
+    "text": " So far so good, we can play our sound, and if I go over here to the frequency control,"
+  },
+  {
+    "start": 199.12,
+    "text": " I can already grab hold of this."
+  },
+  {
+    "start": 201.0,
+    "text": " That's fine and well, this works, but what I'm using now is a combination of my mouse and keyboard to grab hold of those parameters,"
+  },
+  {
+    "start": 207.4,
+    "text": " and I only have one sound on one track."
+  },
+  {
+    "start": 211.68,
+    "text": " If you're playing live like me or if you're going to compose something quickly,"
+  },
+  {
+    "start": 215.64000000000001,
+    "text": " having to have one sound per track is a real flow killer, trust me."
+  },
+  {
+    "start": 221.4,
+    "text": " So having fewer tracks but more instruments per track or more options per track is where we want to go."
+  },
+  {
+    "start": 227.6,
+    "text": " In order to do this, all we really need to do is come to the instrument itself, right click on it,"
+  },
+  {
+    "start": 233.96,
+    "text": " and choose group, which is also command G."
+  },
+  {
+    "start": 239.04,
+    "text": " We group in, we see that we've got this little extra bar here on the side with two buttons which are not illuminated."
+  },
+  {
+    "start": 244.36,
+    "text": " Let's open the first one."
+  },
+  {
+    "start": 246.16,
+    "text": " This shows the macro controls, aka the kind of shortcuts for whatever is contained within the rack,"
+  },
+  {
+    "start": 252.4,
+    "text": " and then we have the other button here which is opening the chains,"
+  },
+  {
+    "start": 257.44,
+    "text": " and chains is a strange name to have chosen, I would say, Ableton, because these are actually things which are side by side."
+  },
+  {
+    "start": 265.32,
+    "text": " So anyway, I don't have a better suggestion right now, so it's not a complaint,"
+  },
+  {
+    "start": 268.76,
+    "text": " but in this area here you can drop multiple instruments and have them either all play at the same time or play them separately,"
+  },
+  {
+    "start": 276.44,
+    "text": " and that's what we're going to be doing."
+  },
+  {
+    "start": 277.88,
+    "text": " So if we come back to the library here, we can look for two more sounds, so this one works for me."
+  },
+  {
+    "start": 284.56,
+    "text": " What I can do is click and drag it and drop it into where it says drop an instrument or sample here,"
+  },
+  {
+    "start": 291.24,
+    "text": " and then we can go to the next one and also click and hold and drag it into that same area."
+  },
+  {
+    "start": 299.12,
+    "text": " Now, what will happen if you play these all right now is they'll all play at the same time."
+  },
+  {
+    "start": 304.96,
+    "text": " I'll drop this volume a little bit because it's going to make it quite loud doing this,"
+  },
+  {
+    "start": 309.48,
+    "text": " and you can see here that they all play at the same time."
+  },
+  {
+    "start": 312.76,
+    "text": " You can see that each one has got its own little level meter and they're all lighting up."
+  },
+  {
+    "start": 318.64,
+    "text": " That could be interesting if you want to do sound design with the multiple sounds on top of each other,"
+  },
+  {
+    "start": 322.32,
+    "text": " and I definitely recommend doing that, but that is not the purpose of this tutorial."
+  },
+  {
+    "start": 326.12,
+    "text": " The purpose is to have them playable separately so that we can select them,"
+  },
+  {
+    "start": 330.52,
+    "text": " but also grab hold of the main parameters of each of those sounds."
+  },
+  {
+    "start": 335.36,
+    "text": " And what you need to do in order to set that up is you need to go here to the chain selector,"
+  },
+  {
+    "start": 341.08,
+    "text": " and this chain selector, when we click it, opens up this area here, which looks a bit cryptic when you first open it,"
+  },
+  {
+    "start": 348.52,
+    "text": " but the idea here is that you can have each instrument and choose a range."
+  },
+  {
+    "start": 353.68,
+    "text": " So you have a range going from 0 all the way up to 127, which is 128 values, of course,"
+  },
+  {
+    "start": 360.4,
+    "text": " and what you can do is you can move these around so that in one range one instrument will play and in another range another instrument will play."
+  },
+  {
+    "start": 368.84,
+    "text": " And the way that you select those is to choose this little blue vertical icon and you move it to one place or another."
+  },
+  {
+    "start": 375.8,
+    "text": " So here, now that I moved it above this range chosen for this first sound,"
+  },
+  {
+    "start": 381.8,
+    "text": " means that when I press the keyboard to play it, it's only playing that first one."
+  },
+  {
+    "start": 389.24,
+    "text": " If I would move this chain selector back over here, if you look now, it's going to play the two bottom ones."
+  },
+  {
+    "start": 398.48,
+    "text": " Now, what we can then do is basically just either move these manually,"
+  },
+  {
+    "start": 403.52,
+    "text": " but the great trick, which I tell you the first time you see it, you think, wow, how did I live without this,"
+  },
+  {
+    "start": 409.79999999999995,
+    "text": " is to take all three of them and stretch them up to a certain point."
+  },
+  {
+    "start": 414.64,
+    "text": " What I would do is because we have three is I would stretch them up to 14."
+  },
+  {
+    "start": 418.68,
+    "text": " And I'm doing that because I want to have one instrument every five values."
+  },
+  {
+    "start": 423.32,
+    "text": " And because it starts from zero, that means we've got to 14, not 15."
+  },
+  {
+    "start": 427.12,
+    "text": " And once we have all of them like that, and in fact, you don't per se need to do it,"
+  },
+  {
+    "start": 431.48,
+    "text": " you just need to move one of them to the main maximum value in this case,"
+  },
+  {
+    "start": 436.71999999999997,
+    "text": " is you then right click and you choose Distribute Ranges Equally."
+  },
+  {
+    "start": 442.36,
+    "text": " And now they've all been spread across this range as defined by the highest value of any of them equally."
+  },
+  {
+    "start": 452.0,
+    "text": " And now you can move between them, play one sound, play the other and play the other."
+  },
+  {
+    "start": 460.24,
+    "text": " I'll put this up a little louder."
+  },
+  {
+    "start": 461.8,
+    "text": " Now, this little selector, you'll be happy to hear you can right click on it and you can map to macro one."
+  },
+  {
+    "start": 468.40000000000003,
+    "text": " And this is going to allow you to then control it over in this rack over here."
+  },
+  {
+    "start": 472.04,
+    "text": " So I click map to macro one."
+  },
+  {
+    "start": 474.0,
+    "text": " And now if I come over to that area, which now is chain selector, we can move this around, choose the different sounds."
+  },
+  {
+    "start": 483.28000000000003,
+    "text": " What you can also do is move into a range where there are no instruments set up and you won't hear anything, of course, at all."
+  },
+  {
+    "start": 490.08000000000004,
+    "text": " There are one or two really interesting pro tips here, by the way, where you can also have them overlap."
+  },
+  {
+    "start": 495.24,
+    "text": " But you can, if I show you just this top horizontal bar, you can move that along and have it kind of fade from one to the next."
+  },
+  {
+    "start": 504.56,
+    "text": " That's not the focus of this tutorial."
+  },
+  {
+    "start": 506.48,
+    "text": " But for those of you wanting to have an extra pro tip, then that's a really interesting one to know."
+  },
+  {
+    "start": 511.68,
+    "text": " So what we now have is one instrument rack with three bass sounds in it, and we can select them one by one and play them."
+  },
+  {
+    "start": 519.36,
+    "text": " So far, so good."
+  },
+  {
+    "start": 520.52,
+    "text": " The next best thing to do is to grab hold of the main aspects of that sound."
+  },
+  {
+    "start": 524.6800000000001,
+    "text": " So by that, I mean things like the filter frequency, the volume and these kind of basic parameters."
+  },
+  {
+    "start": 531.5600000000001,
+    "text": " Now, I'm just going to close the library up here because we don't need it anymore."
+  },
+  {
+    "start": 535.76,
+    "text": " And what I'm going to show you is if I move over to this first instrument, I can play it and I can adjust the frequency of the filter."
+  },
+  {
+    "start": 545.12,
+    "text": " What I'm going to do at this moment is I'm just going to change the filter away from being the clean one."
+  },
+  {
+    "start": 551.0,
+    "text": " That's the classic filter that's built into Ableton Live."
+  },
+  {
+    "start": 553.32,
+    "text": " It's very, very clean, very, very inoffensive and not terribly interesting."
+  },
+  {
+    "start": 557.5600000000001,
+    "text": " And I'm going to choose OSR, which stands for Oscar."
+  },
+  {
+    "start": 560.76,
+    "text": " And I'm also going to change the filter type."
+  },
+  {
+    "start": 563.44,
+    "text": " And this will allow..."
+  },
+  {
+    "start": 565.44,
+    "text": " I need to choose Oscar again, actually. That's interesting."
+  },
+  {
+    "start": 569.08,
+    "text": " What this allows is the drive function."
+  },
+  {
+    "start": 571.52,
+    "text": " If I turn this back onto clean, you see that the drive function vanishes back onto Oscar and it's there again."
+  },
+  {
+    "start": 576.84,
+    "text": " Drive is pumping the sound through the filter to higher volume and it gives this really amazing quality to it."
+  },
+  {
+    "start": 583.64,
+    "text": " So if you listen to this, it gets louder."
+  },
+  {
+    "start": 590.04,
+    "text": " But it also adds all of these harmonics to the sound at the same time."
+  },
+  {
+    "start": 594.48,
+    "text": " So I would like to have that control."
+  },
+  {
+    "start": 595.8399999999999,
+    "text": " So I'll start by mapping the parameters of this sound to the rack over here."
+  },
+  {
+    "start": 603.5999999999999,
+    "text": " I'm just going to populate that with the most important parameters."
+  },
+  {
+    "start": 607.3599999999999,
+    "text": " I'm going to right click on frequency, map it to micro 2."
+  },
+  {
+    "start": 610.7199999999999,
+    "text": " Usually where I map it."
+  },
+  {
+    "start": 611.92,
+    "text": " Take the resonance, map that to micro 3."
+  },
+  {
+    "start": 615.1999999999999,
+    "text": " And you'll see over here now it's mapped over."
+  },
+  {
+    "start": 618.52,
+    "text": " I'm going to take the drive, map that over to micro 4."
+  },
+  {
+    "start": 622.12,
+    "text": " And then I'm just going to jump over to release, map this to macro 7."
+  },
+  {
+    "start": 629.2,
+    "text": " And volume, map it to macro 8."
+  },
+  {
+    "start": 631.88,
+    "text": " And the reason I put those at the end is because they're related to volume."
+  },
+  {
+    "start": 634.48,
+    "text": " And in my mind and in Ableton itself, everything goes from left to right in the chains, in the logic of how the sound passes through things."
+  },
+  {
+    "start": 645.76,
+    "text": " So from my point of view, as I'm choosing the sound, it goes through the filters and then it comes out and is affected by the volume."
+  },
+  {
+    "start": 652.04,
+    "text": " Or the volume envelopes."
+  },
+  {
+    "start": 653.52,
+    "text": " Anyway, that's my logic."
+  },
+  {
+    "start": 654.76,
+    "text": " Choose whichever one you want."
+  },
+  {
+    "start": 656.04,
+    "text": " But I find it works quite well."
+  },
+  {
+    "start": 657.92,
+    "text": " Now what I can now do is I've got volume control."
+  },
+  {
+    "start": 661.28,
+    "text": " I've got the filter."
+  },
+  {
+    "start": 663.0,
+    "text": " I can add some drive if I want."
+  },
+  {
+    "start": 666.12,
+    "text": " I can make the notes longer."
+  },
+  {
+    "start": 669.9599999999999,
+    "text": " So far, so good."
+  },
+  {
+    "start": 672.3199999999999,
+    "text": " Now I'd like to have the same control for the other sounds."
+  },
+  {
+    "start": 675.52,
+    "text": " As you can see, none of them are mapped."
+  },
+  {
+    "start": 677.76,
+    "text": " Back in the bad old days, some years back, you had to do that manually."
+  },
+  {
+    "start": 682.0,
+    "text": " But there's a little trick which many, many people don't know, including a lot of the experts."
+  },
+  {
+    "start": 685.92,
+    "text": " And that is the fact that you can basically copy a value from one instrument to another of the same type."
+  },
+  {
+    "start": 694.08,
+    "text": " And I'll show you exactly what I mean."
+  },
+  {
+    "start": 695.72,
+    "text": " So if I come over here to this frequency knob, if I right click on it, you see an option at the bottom, map to all siblings."
+  },
+  {
+    "start": 704.52,
+    "text": " You see in brackets it says 2."
+  },
+  {
+    "start": 706.24,
+    "text": " That means that Ableton Live has found two other instruments that have the same parameter that you can map in the same manner that you've done before."
+  },
+  {
+    "start": 713.5600000000001,
+    "text": " So by that, I mean to this rack over here."
+  },
+  {
+    "start": 717.36,
+    "text": " If I click that, map to all siblings, and we come over here, we can see, hey, presto, this frequency control's been mapped."
+  },
+  {
+    "start": 725.5200000000001,
+    "text": " And also this one."
+  },
+  {
+    "start": 727.44,
+    "text": " This is a big deal, especially when you're making instrument racks with, you know, you can have 127 or more."
+  },
+  {
+    "start": 736.12,
+    "text": " Sounds in there. And this saves a lot of time."
+  },
+  {
+    "start": 739.72,
+    "text": " I built this back in the olden days when you didn't have that option."
+  },
+  {
+    "start": 743.92,
+    "text": " And I tell you, that was a lot of clicking."
+  },
+  {
+    "start": 745.92,
+    "text": " So anyway, thank you Ableton for updating that."
+  },
+  {
+    "start": 748.4,
+    "text": " What we're going to do is map all the rest."
+  },
+  {
+    "start": 750.04,
+    "text": " So come to the resonance of the first bass sound where we've got everything mapped."
+  },
+  {
+    "start": 755.12,
+    "text": " Right click on that."
+  },
+  {
+    "start": 756.44,
+    "text": " Choose map to all siblings."
+  },
+  {
+    "start": 759.28,
+    "text": " The same for drive."
+  },
+  {
+    "start": 762.92,
+    "text": " The same for the release control and the same for the volume control."
+  },
+  {
+    "start": 769.7199999999999,
+    "text": " Now what we're able to do, and I'll just check the volume's not too loud."
+  },
+  {
+    "start": 772.4399999999999,
+    "text": " Good."
+  },
+  {
+    "start": 773.68,
+    "text": " I can move between the different sounds."
+  },
+  {
+    "start": 775.5999999999999,
+    "text": " So here we're on sound one."
+  },
+  {
+    "start": 777.3199999999999,
+    "text": " Here we're on sound two."
+  },
+  {
+    "start": 780.5999999999999,
+    "text": " You can also move up the filter frequency."
+  },
+  {
+    "start": 783.68,
+    "text": " And I listen to it without drive, just for those of you interested in that."
+  },
+  {
+    "start": 788.76,
+    "text": " Like sounds relatively angry, but when you add some drive, wow, it's so good."
+  },
+  {
+    "start": 796.52,
+    "text": " Right. So drive is one of the best things that Ableton ever added and those filters."
+  },
+  {
+    "start": 803.32,
+    "text": " We can go to the next sound and control the filter there or control the release."
+  },
+  {
+    "start": 811.6,
+    "text": " This is really, really fantastic."
+  },
+  {
+    "start": 814.52,
+    "text": " I mean, this is one of the things I love the most that you can do in Ableton Live."
+  },
+  {
+    "start": 819.68,
+    "text": " So now we've got our three sounds."
+  },
+  {
+    "start": 822.12,
+    "text": " The next thing that I would say is really interesting to do is to actually give your rack a little bit of color so you can quickly see what's what."
+  },
+  {
+    "start": 830.0799999999999,
+    "text": " And you can do that simply by right clicking on the area just above the macro knob."
+  },
+  {
+    "start": 836.1999999999999,
+    "text": " And in this case, the same chain selector, I guess, can be black."
+  },
+  {
+    "start": 839.4,
+    "text": " For me, the filters add so much warmth and color to a sound that I tend to give them a warm color, such as orange or yellow."
+  },
+  {
+    "start": 849.8000000000001,
+    "text": " And then over in volume, because not only are the meters green in Ableton Live, green for me is a logical color for the final outcome of something."
+  },
+  {
+    "start": 860.72,
+    "text": " Anyway, you can disagree."
+  },
+  {
+    "start": 862.4,
+    "text": " But for volume, I also choose green."
+  },
+  {
+    "start": 865.12,
+    "text": " And for the release, I'll choose something similar."
+  },
+  {
+    "start": 867.8,
+    "text": " And this way, in my mind, I will see very quickly what's what in this rack."
+  },
+  {
+    "start": 871.4,
+    "text": " And I also know without even looking at the name or what's inside that it's an instrument rack,"
+  },
+  {
+    "start": 876.0799999999999,
+    "text": " because these are the same colors I use on every instrument rack for every kind of sound."
+  },
+  {
+    "start": 881.9599999999999,
+    "text": " And I think if I told myself that many years ago, I'd said, hey, but you want to have different parameters or different sounds."
+  },
+  {
+    "start": 890.0,
+    "text": " That is true."
+  },
+  {
+    "start": 891.88,
+    "text": " But what you also want to have are to really be able to at any time grab hold of the key ones,"
+  },
+  {
+    "start": 896.88,
+    "text": " the ones which are basically always universal to any sound, and have them always there."
+  },
+  {
+    "start": 901.68,
+    "text": " Because what this allows, whether using something like push or just using the mouse and the keyboard,"
+  },
+  {
+    "start": 906.28,
+    "text": " is it allows a certain amount of muscle memory, both in your hands and your brain."
+  },
+  {
+    "start": 909.92,
+    "text": " You're always going to the same place for things."
+  },
+  {
+    "start": 912.64,
+    "text": " You can take my word for it."
+  },
+  {
+    "start": 914.16,
+    "text": " I really believe it's one of the best things I've ever done, because it means that I know exactly where something is on push."
+  },
+  {
+    "start": 919.88,
+    "text": " And it's always the same."
+  },
+  {
+    "start": 921.4,
+    "text": " And this speeds up things so much."
+  },
+  {
+    "start": 924.32,
+    "text": " So now I've done my little political statement on why I should arrange things in the same manner for all instruments."
+  },
+  {
+    "start": 930.0400000000001,
+    "text": " And we don't have very much more to do except to give this a name."
+  },
+  {
+    "start": 934.6800000000001,
+    "text": " So right click on it and choose Rename."
+  },
+  {
+    "start": 937.96,
+    "text": " And what I like to do is I like to find a sequence of letters which will be unique,"
+  },
+  {
+    "start": 942.4000000000001,
+    "text": " that won't turn up very easily in the search function enabled to live."
+  },
+  {
+    "start": 946.8000000000001,
+    "text": " This means I can always find my favorite collections of sounds that I've made myself or my favorite kind of racks and so on."
+  },
+  {
+    "start": 953.0,
+    "text": " So in this case, I'm going to choose A.S.H. because my full name is Andres Søren Haveledason."
+  },
+  {
+    "start": 958.4000000000001,
+    "text": " I know it's a bit of a long one, but A.S.H. doesn't turn up very much in the live search."
+  },
+  {
+    "start": 963.6,
+    "text": " And I'm going to call it Bass Rack."
+  },
+  {
+    "start": 965.36,
+    "text": " And I'm going to call it 1.00."
+  },
+  {
+    "start": 967.8000000000001,
+    "text": " So it's the first version."
+  },
+  {
+    "start": 969.12,
+    "text": " The reason I do that is because when I save it to the library, I want to be able to see which one's the newest,"
+  },
+  {
+    "start": 974.2,
+    "text": " which one might be an alternative, so like 1.00B, and adjust them and change them as you go."
+  },
+  {
+    "start": 981.08,
+    "text": " And this is also a really crucial thing I want to pass on, which is that once you make one of these things,"
+  },
+  {
+    "start": 986.32,
+    "text": " you can then spend some time adding to it, dropping extra controls in, extra effects that can give it more character."
+  },
+  {
+    "start": 995.48,
+    "text": " And the more you work on these things, the more you are not only getting faster, you're also cultivating your own kind of sound."
+  },
+  {
+    "start": 1003.28,
+    "text": " So, for example, if you listen to my live performances, you'll hear certain textures,"
+  },
+  {
+    "start": 1009.96,
+    "text": " certain kinds of sounds coming back, certain kinds of effects."
+  },
+  {
+    "start": 1014.36,
+    "text": " And it's because I've been choosing them carefully over years and adding them to that live set."
+  },
+  {
+    "start": 1018.2,
+    "text": " And I will talk about that one time."
+  },
+  {
+    "start": 1019.6800000000001,
+    "text": " It's such a huge topic and I have to break it down into multiple videos."
+  },
+  {
+    "start": 1023.2,
+    "text": " And it will be part of some of the online courses I'll be doing."
+  },
+  {
+    "start": 1026.6,
+    "text": " But for now, I think this is a relatively good start for today and this tutorial."
+  },
+  {
+    "start": 1032.76,
+    "text": " Now, I can save this."
+  },
+  {
+    "start": 1035.64,
+    "text": " So the name is there."
+  },
+  {
+    "start": 1036.92,
+    "text": " And what I can also now do is go to the save icon."
+  },
+  {
+    "start": 1040.28,
+    "text": " And if I click that, I can save it into an instrument rack."
+  },
+  {
+    "start": 1043.96,
+    "text": " And you can see it's here."
+  },
+  {
+    "start": 1045.68,
+    "text": " If I close this all up and then, for example, click anywhere and type in A.S.H., you won't see it turn up straight away."
+  },
+  {
+    "start": 1052.76,
+    "text": " If I go to all results, here you can see the A.S.H. bass rack 1.00."
+  },
+  {
+    "start": 1060.4,
+    "text": " P.S. you can also right click on this and give it a color if you like that relates to these collections that were added in Ableton Live 10."
+  },
+  {
+    "start": 1069.16,
+    "text": " We've got a nice space right now working for us."
+  },
+  {
+    "start": 1071.3600000000001,
+    "text": " What I would do at this moment is I would close up all of these parameters because I don't need to see it."
+  },
+  {
+    "start": 1076.4,
+    "text": " And I really like to have just a clear overview of eight parameters per device without having them all open all the time,"
+  },
+  {
+    "start": 1082.88,
+    "text": " because this just adds the kind of mental load and things you've got to think about subconsciously without even analyzing them."
+  },
+  {
+    "start": 1090.48,
+    "text": " And I think that's basically it."
+  },
+  {
+    "start": 1093.3600000000001,
+    "text": " There's one more tip I would add, which I think is actually really valuable."
+  },
+  {
+    "start": 1097.24,
+    "text": " And we won't need to open this, but we will need to open the device view."
+  },
+  {
+    "start": 1101.6000000000001,
+    "text": " And that is that these volume parameters, you don't want to leave them mapped as they are because right now they're mapped so that they go all the way up to 36 dB."
+  },
+  {
+    "start": 1112.8,
+    "text": " You should probably not ever need to go that loud and it could be a bit dangerous for your ears."
+  },
+  {
+    "start": 1119.32,
+    "text": " And it's very important to be very, very careful with them."
+  },
+  {
+    "start": 1122.24,
+    "text": " So what you can do is you can come over to the map button here."
+  },
+  {
+    "start": 1126.76,
+    "text": " If we open this up and this pane is open here, you will see all of the parameters listed out."
+  },
+  {
+    "start": 1133.28,
+    "text": " What's also nice about coloring them is you'll see them organized by color."
+  },
+  {
+    "start": 1137.36,
+    "text": " What we want to do is go to the volume parameter."
+  },
+  {
+    "start": 1140.96,
+    "text": " If I click on it, you see that it opens it up here."
+  },
+  {
+    "start": 1143.68,
+    "text": " And what I'm going to do is just click on this 36 dB and drop it down to zero."
+  },
+  {
+    "start": 1149.0,
+    "text": " And the same for all of these other volume parameters."
+  },
+  {
+    "start": 1153.08,
+    "text": " This means that I can now never go above zero, as you can see here."
+  },
+  {
+    "start": 1158.56,
+    "text": " And that means that we're staying safe."
+  },
+  {
+    "start": 1161.44,
+    "text": " And that's obviously very important now more than ever, thanks to our friend Corona."
+  },
+  {
+    "start": 1167.44,
+    "text": " Now, this won't make any sense to somebody watching in 10 years, I suppose."
+  },
+  {
+    "start": 1174.3600000000001,
+    "text": " Maybe we'll have Ableton Live 20 by then."
+  },
+  {
+    "start": 1175.8400000000001,
+    "text": " Anyway, I digress very much."
+  },
+  {
+    "start": 1178.3200000000002,
+    "text": " The last thing I would show you, and this is a really pro tip, which makes a big, big deal,"
+  },
+  {
+    "start": 1184.52,
+    "text": " is that what you need to understand about Ableton Live is that every instrument that you have in there is using CPU cycles."
+  },
+  {
+    "start": 1192.72,
+    "text": " Because essentially, a computer and Ableton Live are trying to anticipate what you would do if you would play this or play that."
+  },
+  {
+    "start": 1199.4,
+    "text": " And if they're all on, and by on I mean if the power button is on here,"
+  },
+  {
+    "start": 1204.3200000000002,
+    "text": " they're all in the background using a certain amount of CPU."
+  },
+  {
+    "start": 1207.48,
+    "text": " So that if you would suddenly select them and play them or they'd receive a note, they're ready to make a noise."
+  },
+  {
+    "start": 1213.2,
+    "text": " If you have a lot of sounds in one rack or a lot of sounds in one set, one live set,"
+  },
+  {
+    "start": 1219.8400000000001,
+    "text": " they're all going to be using these CPU cycles."
+  },
+  {
+    "start": 1221.72,
+    "text": " And you will see up here your CPU meter will climb higher and higher and higher."
+  },
+  {
+    "start": 1226.0,
+    "text": " And of course, as some of you may know, if this gets to 100 percent, then it's game over for the sound output."
+  },
+  {
+    "start": 1231.32,
+    "text": " You hear crackles and awful things."
+  },
+  {
+    "start": 1235.0,
+    "text": " What you can do to avoid this, which is such a neat solution, if I may say so myself,"
+  },
+  {
+    "start": 1241.52,
+    "text": " because I've not seen this talked about very often before, is you can actually connect this power button over to the chain selector."
+  },
+  {
+    "start": 1249.4,
+    "text": " And what this means is that every time you select that instrument, it'll turn it on, but it'll leave all the rest off."
+  },
+  {
+    "start": 1256.8400000000001,
+    "text": " And that means they won't be using up CPU cycles and they won't be putting pressure on your computer."
+  },
+  {
+    "start": 1261.68,
+    "text": " And it means that this CPU usage monitor will be lower, meaning you can add more things into your live set,"
+  },
+  {
+    "start": 1268.1200000000001,
+    "text": " such as reverbs and delays and all kinds of other effects and instruments."
+  },
+  {
+    "start": 1271.64,
+    "text": " I'll show you how to do this as quickly as I can."
+  },
+  {
+    "start": 1274.16,
+    "text": " What you need to do is come to the power button, right click on it and choose map to chain selector."
+  },
+  {
+    "start": 1281.76,
+    "text": " It's now mapped over to this first parameter."
+  },
+  {
+    "start": 1285.0400000000002,
+    "text": " We can reuse our trick of mapping to siblings by right clicking on this and choose map to all siblings."
+  },
+  {
+    "start": 1292.5600000000002,
+    "text": " And if we now go and have a look at the others, we can see that it's been mapped across all of them."
+  },
+  {
+    "start": 1297.92,
+    "text": " The problem is, if we now try to play any note, we won't hear anything,"
+  },
+  {
+    "start": 1302.76,
+    "text": " because if we go to the mapping, we'll see that the automatic parameter it chooses or value is that it'll be off,"
+  },
+  {
+    "start": 1312.52,
+    "text": " or the minimum is at 64 and the maximum is 127."
+  },
+  {
+    "start": 1316.04,
+    "text": " And our chain selector is at 2, so that's why it's got nothing on."
+  },
+  {
+    "start": 1320.36,
+    "text": " What we need to do is come to this first instrument, click on that and you'll see, OK, that's this one."
+  },
+  {
+    "start": 1326.6,
+    "text": " And this range has to match the range here in the chain selector."
+  },
+  {
+    "start": 1332.28,
+    "text": " You can click on it to see what that is, in this case 0 to 4."
+  },
+  {
+    "start": 1335.3999999999999,
+    "text": " So we want this to be 0 to 4."
+  },
+  {
+    "start": 1337.92,
+    "text": " This next one is 5 to 9."
+  },
+  {
+    "start": 1342.12,
+    "text": " Put this one on 5, up to 9."
+  },
+  {
+    "start": 1344.28,
+    "text": " And then this last one is 10 to 14."
+  },
+  {
+    "start": 1346.92,
+    "text": " Of course, you can choose any range you want in the future when you're mapping all of these things."
+  },
+  {
+    "start": 1354.0,
+    "text": " I would recommend not having more than 64 instruments in a chain, but that's up to you."
+  },
+  {
+    "start": 1359.48,
+    "text": " But just so you know, it's good to make that decision towards the beginning,"
+  },
+  {
+    "start": 1363.0,
+    "text": " because otherwise you're going to be remapping all these things later on."
+  },
+  {
+    "start": 1365.4,
+    "text": " Anyway, I digress."
+  },
+  {
+    "start": 1367.32,
+    "text": " Come out of map mode by clicking here, and we should now be able to move the chain selector over here and play a note."
+  },
+  {
+    "start": 1375.0,
+    "text": " You can see that it is triggered and turned on."
+  },
+  {
+    "start": 1378.72,
+    "text": " But if we come over to the original instrument, I can see that it's on because this is light gray."
+  },
+  {
+    "start": 1385.44,
+    "text": " And the other two are off because it's dark gray for both icons."
+  },
+  {
+    "start": 1390.5600000000002,
+    "text": " If we now move..."
+  },
+  {
+    "start": 1392.76,
+    "text": " Oh, that's interesting. That one is..."
+  },
+  {
+    "start": 1395.0400000000002,
+    "text": " Ah, no, sorry. My eyes are playing a trick."
+  },
+  {
+    "start": 1399.24,
+    "text": " If we come over to the next one, you'll see that this lights up."
+  },
+  {
+    "start": 1404.44,
+    "text": " And if you come over to the next one, you'll see that that lights up."
+  },
+  {
+    "start": 1407.6,
+    "text": " So that was like a bonus tip which came to mind, which will save you an awful lot of CPU power."
+  },
+  {
+    "start": 1418.48,
+    "text": " And basically, that's what we're dealing with when we're using Ubleton Live,"
+  },
+  {
+    "start": 1421.52,
+    "text": " because you're asking the computer to do an awful lot of things."
+  },
+  {
+    "start": 1424.1999999999998,
+    "text": " I'm going to close this up. I'm going to save this again, but I'm going to save it as 1.01."
+  },
+  {
+    "start": 1432.48,
+    "text": " And give it that color, add it to my favorites, remove that one."
+  },
+  {
+    "start": 1437.2,
+    "text": " I can also delete it if I want."
+  },
+  {
+    "start": 1439.8,
+    "text": " And hey, presto, here we have our bass rack, which lets you grab hold of a few different sounds in the same category,"
+  },
+  {
+    "start": 1447.3600000000001,
+    "text": " use the main sound sculpting parameters that they have, and spend an awful lot less time going looking for sounds."
+  },
+  {
+    "start": 1456.48,
+    "text": " I will cover how you can build up different sounds in other racks in the future, including drum racks,"
+  },
+  {
+    "start": 1462.8,
+    "text": " because there's a lot of stuff to talk about there."
+  },
+  {
+    "start": 1464.72,
+    "text": " I hope this has been useful. Do please, please, please, please let me know in the comments if it has been."
+  },
+  {
+    "start": 1470.3200000000002,
+    "text": " If you have any questions, I'll try my best to answer them."
+  },
+  {
+    "start": 1472.92,
+    "text": " It's really great if you drop them in the comments, because then everyone sees the answers."
+  },
+  {
+    "start": 1477.4,
+    "text": " If you have any thoughts on how this could be better, then as a tutorial or other ones you'd like to have me do,"
+  },
+  {
+    "start": 1484.6399999999999,
+    "text": " do also write below and subscribe and hit that little bell if you'd like to get updated for all the other videos."
+  },
+  {
+    "start": 1491.1999999999998,
+    "text": " I am trying to get a lot of content on the channel right now, so it really helps so much."
+  },
+  {
+    "start": 1497.12,
+    "text": " If you do drop a comment or a like or share the videos, it makes a big difference,"
+  },
+  {
+    "start": 1502.6799999999998,
+    "text": " because the algorithm then goes, oh, this is something good."
+  },
+  {
+    "start": 1506.32,
+    "text": " So thanks for watching and hope to see you in the next video."
+  },
+  {
+    "start": 1511.28,
+    "text": " I forgot one last tip, and that is that you can set it up so that every time you move the chain selector,"
+  },
+  {
+    "start": 1516.44,
+    "text": " it's going to automatically select the instrument you have,"
+  },
+  {
+    "start": 1519.0,
+    "text": " because right now as we move it, it doesn't update the one it's actually using."
+  },
+  {
+    "start": 1523.1200000000001,
+    "text": " If you come over here and you click the little arrow button,"
+  },
+  {
+    "start": 1526.76,
+    "text": " that means every time you move the chain selector from one to the next,"
+  },
+  {
+    "start": 1530.04,
+    "text": " it will highlight the instrument being played and it will also select that chain."
+  },
+  {
+    "start": 1535.24,
+    "text": " This is obviously really, really useful and both visually helpful."
+  },
+  {
+    "start": 1539.08,
+    "text": " And if you're using something like Push, that means that you're also automatically also selecting the instrument which you're hearing and using."
+  },
+  {
+    "start": 1546.48,
+    "text": " Voila, I hope that was a nice little bonus."
+  }
+]

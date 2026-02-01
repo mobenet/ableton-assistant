@@ -1,0 +1,26 @@
+[
+  {
+    "start": 0.0,
+    "text": " We can now loop unwarp clips with follow actions."
+  },
+  {
+    "start": 4.0,
+    "text": " We'll turn on the follow action, we'll set it to play again."
+  },
+  {
+    "start": 8.0,
+    "text": " We'll start our clip and now we can move our follow action to where we want it to loop."
+  },
+  {
+    "start": 13.0,
+    "text": " And the clip will loop again."
+  },
+  {
+    "start": 15.0,
+    "text": " This can be linked to the clip length or unlinked"
+  },
+  {
+    "start": 19.0,
+    "text": " so that we can create any kind of loop we want with our follow action."
+  }
+]

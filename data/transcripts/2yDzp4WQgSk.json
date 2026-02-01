@@ -1,0 +1,186 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey guys, welcome to Production Music Live. My name is François. Today for Ableton Tips"
+  },
+  {
+    "start": 7.0,
+    "text": " and we are making a cool sound out of the Analog In-It patch. So let's go to Instruments"
+  },
+  {
+    "start": 11.64,
+    "text": " Analog, pick up a new instance and load it onto a new MIDI channel. And this is what"
+  },
+  {
+    "start": 16.8,
+    "text": " it sounds like by default. Bring down the filter to something more pleasing. Turn off"
+  },
+  {
+    "start": 24.080000000000002,
+    "text": " oscillator 2. So we're only working with the first oscillator of this instrument and the"
+  },
+  {
+    "start": 28.68,
+    "text": " shape is set to saw wave. And also we want to go into the filter settings and bring the attack"
+  },
+  {
+    "start": 34.04,
+    "text": " time up. So it's a bit more smooth in the beginning. Now bring up the sustain. And let's play a nice"
+  },
+  {
+    "start": 43.56,
+    "text": " chord progression with the sound. I have this one here prepared, copying it over. This is what it"
+  },
+  {
+    "start": 48.08,
+    "text": " looks like. It's part of our Chords for Life free MIDI pack download. You can find a link in the"
+  },
+  {
+    "start": 52.56,
+    "text": " description. This is what it sounds like. Let's quickly bring this down an octave."
+  },
+  {
+    "start": 62.480000000000004,
+    "text": " We can add in some glide here in analog so it glides into the chord a bit more so it slides in"
+  },
+  {
+    "start": 68.92,
+    "text": " there. Nice. And we can also add in some vibrato. I'm exaggerating this one. So keep this one around"
+  },
+  {
+    "start": 82.19999999999999,
+    "text": " 40 here. And now we can add in some reverb. Go to audio effects and search for reverb quickly."
+  },
+  {
+    "start": 90.16,
+    "text": " And pick up this one. Decay time up to maybe two seconds here and drive it down a bit."
+  },
+  {
+    "start": 99.12,
+    "text": " And we can actually add in a kick sound now to make this groove a bit more. And whenever you add"
+  },
+  {
+    "start": 111.08000000000001,
+    "text": " in a kick sound, you kind of want to sidechain your pad quickly. So I'm quickly copying over a"
+  },
+  {
+    "start": 115.68,
+    "text": " sidechain device here and sidechaining this one to the kick. So playing around with the filter,"
+  },
+  {
+    "start": 120.68,
+    "text": " you notice what a nice sound. Okay, let's quickly make a copy of this one and use it as a bass"
+  },
+  {
+    "start": 135.07999999999998,
+    "text": " sound. So duplicating this one. And we're just going to delete all these upper notes here,"
+  },
+  {
+    "start": 140.23999999999998,
+    "text": " keeping the lower ones as our bass notes and turning off the reverb on this copy and bringing"
+  },
+  {
+    "start": 148.79999999999998,
+    "text": " the whole thing down an octave. So it sounds like this now. I'm also bringing down a filter."
+  },
+  {
+    "start": 154.04,
+    "text": " Now we need a melody. So let's take another duplicate of the pad sound here. And I'm putting"
+  },
+  {
+    "start": 170.23999999999998,
+    "text": " this one below the bass. And I'm also quickly going to copy over a melody. So this little"
+  },
+  {
+    "start": 175.72,
+    "text": " pattern here, let's listen in. A shorter attack time is needed on this analog sound. Now let's"
+  },
+  {
+    "start": 184.48,
+    "text": " bring it back to like six milliseconds and decay time down as well. And bring the sustain down"
+  },
+  {
+    "start": 195.8,
+    "text": " all the way. So now we have a plucky sound. And turn off vibrato and turn off glide here. Instead,"
+  },
+  {
+    "start": 206.24,
+    "text": " we are going to turn on the noise oscillator and bring the color up to like five kilohertz. So really"
+  },
+  {
+    "start": 216.64000000000001,
+    "text": " properly hear it. And now we can bring the mix down because we are mixing in oscillator one at"
+  },
+  {
+    "start": 223.88,
+    "text": " zero decibels. So let's bring this down like by six. Nice. And now we have a nice sound for"
+  },
+  {
+    "start": 232.64,
+    "text": " a melody we can play around with filter. Super nice analog-ish sounding melody. And now we can"
+  },
+  {
+    "start": 242.96,
+    "text": " take a delay from our delays and loops. Let's pick up the delay here and detach left from right and"
+  },
+  {
+    "start": 250.84,
+    "text": " and maybe set it to four by six. To ping pong. A bit more to the high frequencies here. Exact"
+  },
+  {
+    "start": 263.36,
+    "text": " values don't matter at much but bring down the feedback and the dry wet. Playing around with"
+  },
+  {
+    "start": 275.08,
+    "text": " frequency here. And now let's also take a longer reverb. Hybrid reverb. Large shimmer plate right"
+  },
+  {
+    "start": 282.47999999999996,
+    "text": " behind it. Too large. So let's bring the dry wet down to like 20%. Okay, go to the EQ quickly and"
+  },
+  {
+    "start": 295.64,
+    "text": " bring this one down to flat zero. And bring the blend to the tail. So something like keep a little"
+  },
+  {
+    "start": 302.6,
+    "text": " bit of the early reflections but bring the blend to almost all the way up. So we have a nice melodic"
+  },
+  {
+    "start": 308.08000000000004,
+    "text": " house type room here for the sound. Okay, let's play everything together. And we have to bring"
+  },
+  {
+    "start": 320.88,
+    "text": " down the filter of the pad sound a little so we have more room for our melody. And obviously we"
+  },
+  {
+    "start": 326.96000000000004,
+    "text": " can automate the filter now over time if we select this knob here and bring it down and bring it"
+  },
+  {
+    "start": 332.48,
+    "text": " higher up and then back down something like this. And maybe add in some drums here. Perk loop."
+  },
+  {
+    "start": 362.48,
+    "text": " And there we have already a song idea evolving here just from the analog in it patch which just"
+  },
+  {
+    "start": 373.52000000000004,
+    "text": " sounds really nice. So I hope you enjoyed this little session. Feel free to like and subscribe,"
+  },
+  {
+    "start": 388.40000000000003,
+    "text": " comment below what you want to see next. If you're interested in the drum samples there"
+  },
+  {
+    "start": 392.24,
+    "text": " from Deep Premium Volume 7, our drum series. If you want to pick up some free MIDI chord"
+  },
+  {
+    "start": 397.36,
+    "text": " progressions, take a look at the links in the description as well. And I hope to see you next time."
+  }
+]

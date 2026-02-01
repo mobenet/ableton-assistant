@@ -1,0 +1,750 @@
+[
+  {
+    "start": 0.0,
+    "text": " Currently included in Ableton Suite 11, there are five different types of delay units, which"
+  },
+  {
+    "start": 6.0,
+    "text": " is a lot."
+  },
+  {
+    "start": 7.0,
+    "text": " So we're going to dive into each of these, the differences between them, and when you'd"
+  },
+  {
+    "start": 10.120000000000001,
+    "text": " want to use one over the other."
+  },
+  {
+    "start": 12.0,
+    "text": " So let's do it."
+  },
+  {
+    "start": 13.0,
+    "text": " All right."
+  },
+  {
+    "start": 14.0,
+    "text": " So in this delay and loop section, we have this delay, we have echo, filter delay, grain"
+  },
+  {
+    "start": 19.84,
+    "text": " delay, and we also have spectral time as well."
+  },
+  {
+    "start": 22.84,
+    "text": " So let's first up pull up delay and just talk about that."
+  },
+  {
+    "start": 26.04,
+    "text": " I have this track here."
+  },
+  {
+    "start": 27.08,
+    "text": " It sounds like this."
+  },
+  {
+    "start": 32.839999999999996,
+    "text": " And I think I want this sound here to just echo out a little bit."
+  },
+  {
+    "start": 36.2,
+    "text": " So let's just solo this and play it again for you."
+  },
+  {
+    "start": 38.8,
+    "text": " It's already got a bit of reverb on it, but I want a bit of delay."
+  },
+  {
+    "start": 42.0,
+    "text": " So let's turn on this delay device."
+  },
+  {
+    "start": 43.16,
+    "text": " This is the one that we're going to be reaching for most of the time, and this is good for"
+  },
+  {
+    "start": 47.519999999999996,
+    "text": " digital style delay."
+  },
+  {
+    "start": 48.96,
+    "text": " So exact repeats."
+  },
+  {
+    "start": 51.16,
+    "text": " When I just want the sound to repeat over and over, this is the one that I'm going to"
+  },
+  {
+    "start": 55.120000000000005,
+    "text": " be using."
+  },
+  {
+    "start": 56.199999999999996,
+    "text": " I'm really going over the main functions of delay because I'm expecting that you'll know"
+  },
+  {
+    "start": 59.72,
+    "text": " what they are already."
+  },
+  {
+    "start": 61.0,
+    "text": " But just like I said, this is exact repeat."
+  },
+  {
+    "start": 63.879999999999995,
+    "text": " So if I just hit play here, maybe I'm going to boost the feedback."
+  },
+  {
+    "start": 68.44,
+    "text": " I can change the time."
+  },
+  {
+    "start": 71.2,
+    "text": " This also has a really nice filter here so I can filter out and delay only particular"
+  },
+  {
+    "start": 75.03999999999999,
+    "text": " frequencies like these sort of high frequencies over here or low frequencies down here."
+  },
+  {
+    "start": 82.4,
+    "text": " We have ping pong mode."
+  },
+  {
+    "start": 85.28,
+    "text": " And I think perhaps the most overlooked thing about this delay is the modulation section"
+  },
+  {
+    "start": 89.36,
+    "text": " down here."
+  },
+  {
+    "start": 90.36,
+    "text": " Very simple."
+  },
+  {
+    "start": 91.36000000000001,
+    "text": " We have a sine wave LFO, and this is the rate control over here."
+  },
+  {
+    "start": 94.96000000000001,
+    "text": " And we can assign this LFO to the filter, so this guy right here, or the time over here,"
+  },
+  {
+    "start": 100.48,
+    "text": " which is going to create some really interesting results."
+  },
+  {
+    "start": 102.80000000000001,
+    "text": " So let's just assign it to the filter first."
+  },
+  {
+    "start": 104.32000000000001,
+    "text": " I'm going to put it to 100% dry wet so you can hear what it's doing."
+  },
+  {
+    "start": 108.72,
+    "text": " So you can hear that modulation moving around the filter."
+  },
+  {
+    "start": 114.12,
+    "text": " If I'm to assign this to the time now, let's have a listen to what this does."
+  },
+  {
+    "start": 122.32000000000001,
+    "text": " And it's going to create some interesting and different results each time."
+  },
+  {
+    "start": 124.72,
+    "text": " I'm just going to blend that back in with the dry signal now."
+  },
+  {
+    "start": 129.84,
+    "text": " And it's creating this pitching effect because we're on repitch mode."
+  },
+  {
+    "start": 132.92,
+    "text": " So whenever I change the delay time of something, it's going to change the pitch as well."
+  },
+  {
+    "start": 139.07999999999998,
+    "text": " And that's essentially modulating this thing to move around like this, right?"
+  },
+  {
+    "start": 142.79999999999998,
+    "text": " So if I was to put this onto fade mode now, this creates some interesting glitching effects."
+  },
+  {
+    "start": 151.11999999999998,
+    "text": " Let's put it onto jump mode, see what happens there."
+  },
+  {
+    "start": 155.92,
+    "text": " I'm going to put it back onto fade mode and maybe put it onto ping pong mode now as well."
+  },
+  {
+    "start": 160.92,
+    "text": " So that's actually really interesting."
+  },
+  {
+    "start": 162.92,
+    "text": " Let's play this with the rest of our tracks."
+  },
+  {
+    "start": 168.92,
+    "text": " Very interesting sound."
+  },
+  {
+    "start": 170.92,
+    "text": " Echo is the next one we're going to be talking about here."
+  },
+  {
+    "start": 172.92,
+    "text": " And this is emulated more from an analog style delay."
+  },
+  {
+    "start": 175.92,
+    "text": " So this one simply just sounds a little bit different and it has a whole bunch of different parameters as well."
+  },
+  {
+    "start": 181.92,
+    "text": " So you can see the graphic is completely different as you change the delay time."
+  },
+  {
+    "start": 185.92,
+    "text": " And you'll notice that there's a few different tabs here."
+  },
+  {
+    "start": 187.92,
+    "text": " We've got modulation tab, we've got the character tab, which we're going to talk about as well."
+  },
+  {
+    "start": 191.92,
+    "text": " But first I want to talk about this filter here."
+  },
+  {
+    "start": 193.92,
+    "text": " So this filter is different to the last one because it actually has two different control points."
+  },
+  {
+    "start": 197.92,
+    "text": " It has the low cut and it has a high cut as well."
+  },
+  {
+    "start": 200.92,
+    "text": " And as you boost in the frequency spectrum, it's going to delay that region more than the rest."
+  },
+  {
+    "start": 205.92,
+    "text": " Let's have a listen here."
+  },
+  {
+    "start": 210.92,
+    "text": " So that actually creates a really, really interesting sound."
+  },
+  {
+    "start": 213.92,
+    "text": " You'll also notice that I can boost the feedback past 100%, all the way up to 150."
+  },
+  {
+    "start": 219.92,
+    "text": " So this is going to feed the signal back into the input more than it's coming out of the output."
+  },
+  {
+    "start": 225.92,
+    "text": " So it's going to build up and get louder and louder."
+  },
+  {
+    "start": 227.92,
+    "text": " So you can create some really interesting results with automating this."
+  },
+  {
+    "start": 236.92,
+    "text": " And as it feeds back more and more, it gets slowly more and more distorted as well."
+  },
+  {
+    "start": 241.92,
+    "text": " So if you're trying to create ambient textures that are in the background delaying over and over,"
+  },
+  {
+    "start": 246.92,
+    "text": " kind of like the stuff that you hear on those Taiman Parlor records,"
+  },
+  {
+    "start": 249.92,
+    "text": " then this is the device that you're going to want to use."
+  },
+  {
+    "start": 251.92,
+    "text": " It actually has a reverb knob here as well, which is really cool."
+  },
+  {
+    "start": 256.91999999999996,
+    "text": " But what I really want to talk about is the character tab here."
+  },
+  {
+    "start": 259.91999999999996,
+    "text": " We have a whole bunch of different options to give that analog sounding character to our digital echoes."
+  },
+  {
+    "start": 266.91999999999996,
+    "text": " So we can add wobble here, which is just going to change the pitch of the delays."
+  },
+  {
+    "start": 272.92,
+    "text": " We can add ducking, which is going to duck the delay repeats as the original sound comes through."
+  },
+  {
+    "start": 277.92,
+    "text": " So this is kind of acting like a side chain."
+  },
+  {
+    "start": 281.92,
+    "text": " So you can hear how all the delay repeats get really quiet, and then they come back in after the sound is played."
+  },
+  {
+    "start": 291.92,
+    "text": " We can also add noise here,"
+  },
+  {
+    "start": 296.92,
+    "text": " which is emulating the noise that gets created from analog delay units."
+  },
+  {
+    "start": 300.92,
+    "text": " And then we also have this gate device, which is really useful in conjunction with the noise."
+  },
+  {
+    "start": 304.92,
+    "text": " So if you don't want the noise to be playing constantly, you can turn the gate on."
+  },
+  {
+    "start": 308.92,
+    "text": " And what this is going to do is only delay things over a particular threshold."
+  },
+  {
+    "start": 312.92,
+    "text": " So the loudest parts are going to get delayed and the quiet parts aren't going to get delayed."
+  },
+  {
+    "start": 319.92,
+    "text": " And you can hear that noise coming through as well."
+  },
+  {
+    "start": 321.92,
+    "text": " So I'm just going to increase the release here, and let's just turn the noise down as well."
+  },
+  {
+    "start": 330.92,
+    "text": " So just a little bit of subtle noise in the background, a bit of wobble, a bit of ducking as well."
+  },
+  {
+    "start": 334.92,
+    "text": " Let's have a listen."
+  },
+  {
+    "start": 336.92,
+    "text": " Maybe I can turn the wobble amount down as well."
+  },
+  {
+    "start": 340.92,
+    "text": " So that sounds great overall. Let's have a listen to it with the rest of our track as well."
+  },
+  {
+    "start": 349.92,
+    "text": " Really nice analog qualities to that delay."
+  },
+  {
+    "start": 352.92,
+    "text": " If you do like analog style sounds, then I'm going to leave a link in the description to an analog sample pack that you can download for free as well."
+  },
+  {
+    "start": 358.92,
+    "text": " So feel free to check that one out if you're interested."
+  },
+  {
+    "start": 360.92,
+    "text": " Let's move on to filter delay."
+  },
+  {
+    "start": 361.92,
+    "text": " And this is kind of the bridge between our utility and our slightly more creative style delay."
+  },
+  {
+    "start": 367.92,
+    "text": " So this delay works a little bit differently."
+  },
+  {
+    "start": 369.92,
+    "text": " Instead of having a dry wet control, we just have a dry control and then we have volume controls for each different one of these delays."
+  },
+  {
+    "start": 377.92,
+    "text": " So this is essentially kind of like three delay units in one, and each delay unit is processing in parallel."
+  },
+  {
+    "start": 384.92,
+    "text": " So if you don't know what that means, it doesn't really matter."
+  },
+  {
+    "start": 386.92,
+    "text": " It just means that we're using volume levels for each delay instead of a dry wet control."
+  },
+  {
+    "start": 392.92,
+    "text": " So I'm just going to bring all my volume levels down and leave my dry all the way up."
+  },
+  {
+    "start": 397.92,
+    "text": " And right now nothing is happening and I can slowly start to mix in how much volume I want from each one of these things."
+  },
+  {
+    "start": 405.92,
+    "text": " So what's happening is we have a delay in the left hand side."
+  },
+  {
+    "start": 408.92,
+    "text": " We have a delay in the center and we have delay on the right."
+  },
+  {
+    "start": 412.92,
+    "text": " And we actually have three different filters which control each one of these delays."
+  },
+  {
+    "start": 416.92,
+    "text": " So we can create some really interesting results this way by changing the different delay times and the different filter amounts as well."
+  },
+  {
+    "start": 423.92,
+    "text": " So there's actually some really cool presets in here as well."
+  },
+  {
+    "start": 426.92,
+    "text": " I'm going to grab this moving 345 preset and put it on there and have a listen."
+  },
+  {
+    "start": 433.92,
+    "text": " I'm going to turn the dry up to match the other ones and maybe just bring back these ones a little bit as well."
+  },
+  {
+    "start": 442.92,
+    "text": " So it's actually creating a really cool pattern."
+  },
+  {
+    "start": 448.92,
+    "text": " Really nice rhythm in there, right?"
+  },
+  {
+    "start": 449.92,
+    "text": " So what I'm going to do now is turn the filter on for all of these things and just mess around with these and see if we can create some interesting textures."
+  },
+  {
+    "start": 459.92,
+    "text": " Maybe bring the dry down a little bit."
+  },
+  {
+    "start": 463.92,
+    "text": " And bring these other guys up a tad."
+  },
+  {
+    "start": 472.92,
+    "text": " So having three delays and three filters is really cool."
+  },
+  {
+    "start": 476.92,
+    "text": " You can start to get a little bit more creative with your delays and it's a really useful device."
+  },
+  {
+    "start": 480.92,
+    "text": " So don't forget about this one and definitely check it out if you haven't already."
+  },
+  {
+    "start": 483.92,
+    "text": " Our last two delay types is where it starts to get a little bit more experimental."
+  },
+  {
+    "start": 487.92,
+    "text": " Let's check out this grain delay effect now."
+  },
+  {
+    "start": 489.92,
+    "text": " So grain delay essentially reads the whole clip and then grabs out little samples of the delay."
+  },
+  {
+    "start": 495.92,
+    "text": " So you can see that it's actually a little bit more experimental."
+  },
+  {
+    "start": 498.92,
+    "text": " So grain delay essentially reads the whole clip and then grabs out little samples and repeats little bits of your audio stream instead of repeating the whole thing."
+  },
+  {
+    "start": 507.92,
+    "text": " We can control how big or small those samples are and we can add randomness to that as well with the frequency and the spray knobs here."
+  },
+  {
+    "start": 515.9200000000001,
+    "text": " So let's just turn this dry wet down to 50%."
+  },
+  {
+    "start": 518.9200000000001,
+    "text": " I'm going to put the pitch up 12 semitones here and mess around with this frequency knob so you can hear what's happening here."
+  },
+  {
+    "start": 529.92,
+    "text": " So you can hear that the frequency amount is controlling how it's grabbing those grains."
+  },
+  {
+    "start": 535.92,
+    "text": " And if we add a bit of spray, we're essentially creating randomness in those grains."
+  },
+  {
+    "start": 543.92,
+    "text": " So this device can be quite confusing at first, but what I would recommend is just messing around with these parameters at first and seeing what results you can get."
+  },
+  {
+    "start": 551.92,
+    "text": " You know that we have this dry wet, this feedback and these numbers here, which are the delay times."
+  },
+  {
+    "start": 556.92,
+    "text": " And these parameters work the exact same as in any delay."
+  },
+  {
+    "start": 559.92,
+    "text": " Where it gets interesting is this pitch modulation as well."
+  },
+  {
+    "start": 562.92,
+    "text": " So we have this pitch amount, right?"
+  },
+  {
+    "start": 563.92,
+    "text": " And what this is doing is it's changing the pitch of the delay repeats, which is really, really interesting."
+  },
+  {
+    "start": 569.92,
+    "text": " If I'm to put this up one semitone just like this and then add some feedback, what we're going to do is the output is going to be outputted and pitched up one semitone and then fed back into the input."
+  },
+  {
+    "start": 580.92,
+    "text": " And then that's going to be pitched up one more semitone and then fed back into the input again."
+  },
+  {
+    "start": 584.92,
+    "text": " And we're going to have this cascading effect where it gets higher and higher in pitch."
+  },
+  {
+    "start": 588.92,
+    "text": " Let's just have a listen to this."
+  },
+  {
+    "start": 592.92,
+    "text": " Let's go to one sixteenth note here."
+  },
+  {
+    "start": 596.92,
+    "text": " So you can hear that pitch ascending up."
+  },
+  {
+    "start": 600.92,
+    "text": " We can also pitch down as well."
+  },
+  {
+    "start": 603.92,
+    "text": " Which is pretty cool."
+  },
+  {
+    "start": 604.92,
+    "text": " And we can also pitch up something like 12 semitones."
+  },
+  {
+    "start": 609.92,
+    "text": " So now we're getting this crystal effect that you might be familiar with."
+  },
+  {
+    "start": 614.92,
+    "text": " So I've just added some reverb devices now and let's just have a listen to this."
+  },
+  {
+    "start": 621.92,
+    "text": " This is really just the beginning of what you can do with Grain Delay."
+  },
+  {
+    "start": 623.92,
+    "text": " There's so many cool things you can do."
+  },
+  {
+    "start": 625.92,
+    "text": " So it's really worth experimenting around and checking out the presets that are included as well."
+  },
+  {
+    "start": 630.92,
+    "text": " The last one here is Spectral Time."
+  },
+  {
+    "start": 632.92,
+    "text": " This is probably the most experimental and creative style delay of the lot."
+  },
+  {
+    "start": 635.92,
+    "text": " We have two different options here."
+  },
+  {
+    "start": 637.92,
+    "text": " We have number one, freezer and number two, delay."
+  },
+  {
+    "start": 640.92,
+    "text": " So I'm going to start off with the freezer here."
+  },
+  {
+    "start": 642.92,
+    "text": " I put it on this sound this time."
+  },
+  {
+    "start": 644.92,
+    "text": " And when I hit this freeze button, it's going to freeze whatever sound I've got through it and repeat that over and over."
+  },
+  {
+    "start": 654.92,
+    "text": " So it's going to keep repeating that indefinitely."
+  },
+  {
+    "start": 656.92,
+    "text": " But we can turn this on to re-trigger mode and get this to be triggered by the notes themselves."
+  },
+  {
+    "start": 661.92,
+    "text": " So let's just do this."
+  },
+  {
+    "start": 663.92,
+    "text": " I'm going to turn on the freeze mode here."
+  },
+  {
+    "start": 667.92,
+    "text": " So it creates some really interesting and glitchy results."
+  },
+  {
+    "start": 671.92,
+    "text": " If I click onto this button here, this brings us onto envelope mode."
+  },
+  {
+    "start": 675.92,
+    "text": " And we can actually create shape with our frozen segments."
+  },
+  {
+    "start": 678.92,
+    "text": " So we can create a fade in."
+  },
+  {
+    "start": 680.92,
+    "text": " We can also create a fade out."
+  },
+  {
+    "start": 682.92,
+    "text": " So let's have a listen to this now."
+  },
+  {
+    "start": 684.92,
+    "text": " So now our frozen segments are going to fade out after 390 milliseconds."
+  },
+  {
+    "start": 690.92,
+    "text": " So this creates a really interesting textural sort of glitchy result."
+  },
+  {
+    "start": 695.92,
+    "text": " And now we can actually pair this with delay here as well."
+  },
+  {
+    "start": 698.92,
+    "text": " So this acts like a regular delay unit, but we have some interesting different knobs here that we can use as well."
+  },
+  {
+    "start": 704.92,
+    "text": " So shift pretty much just shifts the frequencies of these delays as well."
+  },
+  {
+    "start": 711.92,
+    "text": " Kind of like the pitch knob on our grain delay device."
+  },
+  {
+    "start": 716.92,
+    "text": " We can also use these tilt and spray knobs as well."
+  },
+  {
+    "start": 719.92,
+    "text": " These three knobs down here all change how the frequencies are going to respond to your delays."
+  },
+  {
+    "start": 725.92,
+    "text": " So I would treat them more or less like experimental knobs."
+  },
+  {
+    "start": 728.92,
+    "text": " You can just mess around with them and see what results come about."
+  },
+  {
+    "start": 731.92,
+    "text": " You don't necessarily need to understand exactly how they're working."
+  },
+  {
+    "start": 735.92,
+    "text": " Although if you're interested, there's always going to be a description in the info view when you hover over each one of these."
+  },
+  {
+    "start": 740.92,
+    "text": " But pretty much these knobs are going to be telling the device to delay more the high frequencies, to delay more the low frequencies or something in between."
+  },
+  {
+    "start": 748.92,
+    "text": " So let's put these two things together."
+  },
+  {
+    "start": 750.92,
+    "text": " Create some pretty cool textural results in the background."
+  },
+  {
+    "start": 756.92,
+    "text": " There's also a bunch of cool presets in here that are worth checking out as well."
+  },
+  {
+    "start": 761.92,
+    "text": " So that was a quick rundown of all the different delay devices."
+  },
+  {
+    "start": 764.92,
+    "text": " I would also highly recommend trying to combine the devices together for different purposes as well."
+  },
+  {
+    "start": 770.92,
+    "text": " So maybe you could use one for more utility style delay."
+  },
+  {
+    "start": 773.92,
+    "text": " Maybe you could use the other for more creative purposes."
+  },
+  {
+    "start": 777.92,
+    "text": " There's a whole bunch of creative possibilities with how you can use these things."
+  },
+  {
+    "start": 780.92,
+    "text": " And I hope this video has helped demystify this a little bit for you."
+  },
+  {
+    "start": 783.92,
+    "text": " So as always, thank you so much for watching."
+  },
+  {
+    "start": 785.92,
+    "text": " If you've enjoyed the video, remember to like and subscribe to the channel."
+  },
+  {
+    "start": 788.92,
+    "text": " Otherwise, thanks for hanging out. Stay safe and I'll see you in the next one."
+  }
+]

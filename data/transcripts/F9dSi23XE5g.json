@@ -1,0 +1,870 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends, Matt aka Martillan here, welcome back and today I'm going to be demystifying"
+  },
+  {
+    "start": 4.0,
+    "text": " racks in Ableton Live, breaking down the basics and helping you understand everything there is"
+  },
+  {
+    "start": 8.24,
+    "text": " to know so you can get started using them. Before we get started, if you really enjoy my content,"
+  },
+  {
+    "start": 11.92,
+    "text": " make sure to head on over to my Buy Me A Coffee page where you can support me by buying me a coffee."
+  },
+  {
+    "start": 15.44,
+    "text": " I've got a bunch of free downloads over there, so head on over there and get some cool stuff."
+  },
+  {
+    "start": 18.8,
+    "text": " So first up, what is a rack? A rack is a device that collects multiple devices and or plugins into"
+  },
+  {
+    "start": 24.16,
+    "text": " a single device, allowing you to control multiple aspects of those devices in various ways,"
+  },
+  {
+    "start": 29.6,
+    "text": " effectively turning that collection of devices into a single coherent device. Ableton Live has"
+  },
+  {
+    "start": 34.480000000000004,
+    "text": " four main types of racks. There are audio effect racks, which take in an audio signal, and output"
+  },
+  {
+    "start": 39.52,
+    "text": " an audio signal, and can only contain audio effects. There are MIDI effect racks, which"
+  },
+  {
+    "start": 43.120000000000005,
+    "text": " can take in a MIDI signal and output a MIDI signal and can only contain MIDI effect devices."
+  },
+  {
+    "start": 47.84,
+    "text": " There are instrument racks, which take in a MIDI signal and output an audio signal and can contain"
+  },
+  {
+    "start": 52.56,
+    "text": " MIDI effects, devices and audio effects. And there are drum racks, but drum racks are going to be"
+  },
+  {
+    "start": 57.12,
+    "text": " something that we're going to cover in a different video and today we're going to focus on audio"
+  },
+  {
+    "start": 60.16,
+    "text": " effect racks, MIDI effect racks and instrument racks. So let's start by taking a look at the"
+  },
+  {
+    "start": 63.919999999999995,
+    "text": " basics of an audio effect rack which is arguably the most simple type of rack and looking at how"
+  },
+  {
+    "start": 69.03999999999999,
+    "text": " we can build one up from scratch. Okay so here we are in Ableton Live and I have a break sample"
+  },
+  {
+    "start": 74.0,
+    "text": " loaded up on an audio track that sounds like this. And I've also got loaded up on this audio track"
+  },
+  {
+    "start": 83.12,
+    "text": " an audio effect rack that contains multiple audio effects inside of it that really changes"
+  },
+  {
+    "start": 88.0,
+    "text": " the sound of this break. So let me engage this audio effect rack and now take a listen to the break."
+  },
+  {
+    "start": 100.72,
+    "text": " So inside that audio effect rack there are multiple audio effects that are all working together"
+  },
+  {
+    "start": 104.88000000000001,
+    "text": " to change this sound into something completely different. Okay so I'm going to delete this audio"
+  },
+  {
+    "start": 109.28,
+    "text": " effect rack and we're going to start and create an audio effect rack from scratch. Now there are"
+  },
+  {
+    "start": 112.72,
+    "text": " a few different ways that we can do this. The first way is to go to our audio effects inside"
+  },
+  {
+    "start": 116.64,
+    "text": " of our browser, go to our utilities folder and come down to audio effect rack. And if I load that up"
+  },
+  {
+    "start": 122.16,
+    "text": " onto our audio track that will create a blank audio effect rack for us. The other way to do it"
+  },
+  {
+    "start": 127.2,
+    "text": " is to load up any audio effect. I'm going to load up an auto filter in this particular instance and"
+  },
+  {
+    "start": 132.24,
+    "text": " now I can simply right click on this auto filter and click on group and that will group the selected"
+  },
+  {
+    "start": 138.08,
+    "text": " audio effect, in this case an auto filter, inside of an audio effect rack. If you right click a midi"
+  },
+  {
+    "start": 143.04000000000002,
+    "text": " effect and group it, it will group it to a midi effect rack and if you right click an instrument"
+  },
+  {
+    "start": 146.56,
+    "text": " and group it, it will group it to an instrument rack. So now I have this break running through an"
+  },
+  {
+    "start": 150.8,
+    "text": " auto filter and I can control this auto filter like I normally would. I'm going to change this"
+  },
+  {
+    "start": 158.32000000000002,
+    "text": " to a high pass filter and I'm going to turn the cutoff frequency all the way down. Now as you heard"
+  },
+  {
+    "start": 162.4,
+    "text": " before we can actually have multiple audio effects contained within a single audio effect rack. So"
+  },
+  {
+    "start": 167.36,
+    "text": " we're going to do this now by adding another audio effect in the form of a reverb. So I'm going to"
+  },
+  {
+    "start": 171.76000000000002,
+    "text": " grab a reverb from our audio effects, click and drag and place it after the auto filter but just"
+  },
+  {
+    "start": 178.0,
+    "text": " before this little kind of line right here that signifies the end of the group. So now I have an"
+  },
+  {
+    "start": 185.68,
+    "text": " auto filter followed by a reverb both contained within this audio effect rack. I can change some"
+  },
+  {
+    "start": 190.96,
+    "text": " settings here, so maybe increase the cutoff frequency of the auto filter, increase the resonance a"
+  },
+  {
+    "start": 195.12,
+    "text": " little bit and increase the decay and dry wet of the reverb. So now we get a sound that sounds like"
+  },
+  {
+    "start": 199.36,
+    "text": " this. And now because both of these audio effects are contained within a single audio effect rack,"
+  },
+  {
+    "start": 208.64000000000001,
+    "text": " I get the ability to turn on or off both of these by turning on or off the audio effect"
+  },
+  {
+    "start": 213.2,
+    "text": " rack itself and we can see that device activator just here."
+  },
+  {
+    "start": 225.04,
+    "text": " So just with the click of a single button I can turn on or off both of these audio effects. Now"
+  },
+  {
+    "start": 230.07999999999998,
+    "text": " inside of a single audio effect rack you can have effectively unlimited effects, you're not just"
+  },
+  {
+    "start": 234.32,
+    "text": " limited to two but we're going to keep working with two for this example. So now that I have both of"
+  },
+  {
+    "start": 238.88,
+    "text": " these two audio effects contained with inside a single audio effect rack, I want to show you one"
+  },
+  {
+    "start": 242.48,
+    "text": " of the best things about Ableton Live racks and these are macro controls. When we have devices"
+  },
+  {
+    "start": 248.23999999999998,
+    "text": " inside of a rack we can actually map one or more parameters of each of those devices to a macro knob"
+  },
+  {
+    "start": 255.12,
+    "text": " which we can then easily access from the front panel of the audio effect rack. I'm going to show"
+  },
+  {
+    "start": 259.03999999999996,
+    "text": " the macro controls of this audio effect rack that we've created by going to the little top icon on"
+  },
+  {
+    "start": 263.92,
+    "text": " the left which is the show and hide macro controls icon. Click this and you'll notice all of these"
+  },
+  {
+    "start": 268.4,
+    "text": " eight macro controls show up here. I can map any parameter on any of these effects to any of these"
+  },
+  {
+    "start": 273.84,
+    "text": " eight macros inside of the audio effect rack and in fact I can actually have up to 16 macros inside"
+  },
+  {
+    "start": 278.96,
+    "text": " of an audio effect rack and all I need to do to map a parameter is simply right click on that"
+  },
+  {
+    "start": 282.32,
+    "text": " parameter. In this case I'll right click on the filter cutoff frequency of the auto filter and"
+  },
+  {
+    "start": 286.64,
+    "text": " map it to a macro. I'm going to choose macro one and now I get control over the cutoff frequency"
+  },
+  {
+    "start": 291.28,
+    "text": " of this auto filter with macro one right here."
+  },
+  {
+    "start": 298.79999999999995,
+    "text": " I could also map another parameter say the dry wet of the reverb to maybe macro two so I can right"
+  },
+  {
+    "start": 304.15999999999997,
+    "text": " click that and map that to macro two and this is just one way of mapping parameters. We can also"
+  },
+  {
+    "start": 308.79999999999995,
+    "text": " map parameters by clicking on the little map button up the top of the audio effect rack and when we"
+  },
+  {
+    "start": 312.64,
+    "text": " click on this we get this map button down below each of these macro knobs right here and I can"
+  },
+  {
+    "start": 316.88,
+    "text": " click on any of the green highlighted parameters such as the resonance and map that to any of the"
+  },
+  {
+    "start": 320.88,
+    "text": " macro controls that are showing up here. Note that we can also map multiple parameters to the"
+  },
+  {
+    "start": 325.52,
+    "text": " same macro. As an example I can also map the resonance control of the auto filter to macro"
+  },
+  {
+    "start": 330.48,
+    "text": " one which is already controlling the filter frequency. All I need to do that is click on"
+  },
+  {
+    "start": 334.24,
+    "text": " the resonance control of the auto filter and click on the map button for macro one and now as I move"
+  },
+  {
+    "start": 338.96,
+    "text": " macro one you'll notice that I move both the filter cutoff frequency as well as the filter resonance"
+  },
+  {
+    "start": 345.84,
+    "text": " but currently when I do this the resonance is going really really high and that's where the"
+  },
+  {
+    "start": 350.4,
+    "text": " other aspect of this macro mapping view comes into it. You'll notice that when I click on this"
+  },
+  {
+    "start": 354.4,
+    "text": " map mode view switch our browser view switches from our normal browser to a macro mapping view"
+  },
+  {
+    "start": 360.64,
+    "text": " and here I get the ability to assign the range within which that macro control controls a linked"
+  },
+  {
+    "start": 365.76,
+    "text": " parameter. So I can go up to this section where it says macro one auto filter resonance and I can"
+  },
+  {
+    "start": 370.32,
+    "text": " change the min and max values to something a little bit more appropriate so maybe I can go a minimum"
+  },
+  {
+    "start": 375.2,
+    "text": " of 10% to a maximum of 60% and now when I change the position of macro one you'll notice that the"
+  },
+  {
+    "start": 381.68,
+    "text": " position of the resonance control is constrained to that particular range."
+  },
+  {
+    "start": 394.32,
+    "text": " In this window we also get the ability to invert the range of the selected parameter. For example"
+  },
+  {
+    "start": 399.44,
+    "text": " if I wanted the resonance to actually decrease as I increased the control I could right click on this"
+  },
+  {
+    "start": 404.0,
+    "text": " macro one auto filter resonance mapping and click invert range and now as I increase macro one we're"
+  },
+  {
+    "start": 410.24,
+    "text": " going from a higher resonance to a lower resonance. I'm going to undo that so we're still going from"
+  },
+  {
+    "start": 420.96,
+    "text": " low to high instead of from high to low. Let's close up this mapping window and we can also"
+  },
+  {
+    "start": 424.88,
+    "text": " actually change these macros in a way that makes them more user-friendly. For example instead of"
+  },
+  {
+    "start": 429.52,
+    "text": " macro one just being called macro one I can right click it and I can rename it and maybe call it"
+  },
+  {
+    "start": 434.32,
+    "text": " something like filter and instead of this dry wet control for the reverb being called dry wet I can"
+  },
+  {
+    "start": 438.96,
+    "text": " right click it and maybe call it something like reverb. I can also color code these macros by"
+  },
+  {
+    "start": 444.71999999999997,
+    "text": " right clicking and selecting a color maybe a filter can be blue and our reverb can be purple and as I"
+  },
+  {
+    "start": 449.91999999999996,
+    "text": " mentioned before we can also have up to 16 macros visible and this is done by clicking on these"
+  },
+  {
+    "start": 454.32,
+    "text": " little plus icon right here which goes all the way up to showing 16 macros or I can click on the"
+  },
+  {
+    "start": 460.8,
+    "text": " minus icon and I can show all the way down to only a single macro control. For the moment how"
+  },
+  {
+    "start": 467.84,
+    "text": " about we leave this showing eight macro controls again and turn our attention to the other really"
+  },
+  {
+    "start": 472.08,
+    "text": " cool things about macros which is the randomization and variation controls. So you'll notice up the"
+  },
+  {
+    "start": 476.71999999999997,
+    "text": " top of the audio effect rack there is this little button that says rand which is short for randomize."
+  },
+  {
+    "start": 481.04,
+    "text": " If I click this this will actually randomize the value of each of the different mapped macros. So"
+  },
+  {
+    "start": 485.84000000000003,
+    "text": " notice when I click this our filter and reverb controls are now assigned to a random position."
+  },
+  {
+    "start": 498.16,
+    "text": " This is a really great way to quickly generate cool creative ideas. We can also store preset"
+  },
+  {
+    "start": 503.52000000000004,
+    "text": " positions of these different macros as what are called macro variations. In order to do this all"
+  },
+  {
+    "start": 507.68,
+    "text": " I need to do is go down to this little camera icon here which is the show hired macro variations"
+  },
+  {
+    "start": 512.32,
+    "text": " icon set my parameters to a value that I like maybe I set that filter there and the reverb up"
+  },
+  {
+    "start": 517.52,
+    "text": " to 47 click on the new button and now that will store those parameters as a variation. I can"
+  },
+  {
+    "start": 522.72,
+    "text": " rename that variation by right clicking and clicking rename filtered verb and if I want to"
+  },
+  {
+    "start": 528.72,
+    "text": " I can also store a new variation by again moving these parameters all the way down maybe the filter"
+  },
+  {
+    "start": 533.92,
+    "text": " and reverb both at zero clicking new and I can now right click rename this and call this dry."
+  },
+  {
+    "start": 539.76,
+    "text": " And so now when I click on filtered verb the positioning of those macros changes and when"
+  },
+  {
+    "start": 543.76,
+    "text": " I click on dry the positioning of those macros changes and this allows really quick and easy"
+  },
+  {
+    "start": 547.76,
+    "text": " access to a preset selection of parameters. Another really great feature of racks inside"
+  },
+  {
+    "start": 552.24,
+    "text": " of Ableton Live is the ability to have multiple signal paths or chains inside of a single rack."
+  },
+  {
+    "start": 558.16,
+    "text": " To show this I'm going to go down to the last little icon here which is the show high chain"
+  },
+  {
+    "start": 562.4,
+    "text": " list icon. When I click this it's going to show this middle view here which is our chain list"
+  },
+  {
+    "start": 567.28,
+    "text": " and we can see here that currently we have a single chain. This chain contains both our auto"
+  },
+  {
+    "start": 571.76,
+    "text": " filter and our reverb devices. We can create an additional chain in two different ways. I can"
+  },
+  {
+    "start": 577.12,
+    "text": " either click and drag an audio effect into this chain list as it says here so I might for instance"
+  },
+  {
+    "start": 582.3199999999999,
+    "text": " click and drag a delay into this chain list and that will add a delay as a new chain or I can"
+  },
+  {
+    "start": 588.72,
+    "text": " right click in this blank space and just click create chain and that will create a blank chain"
+  },
+  {
+    "start": 592.96,
+    "text": " with no audio effects or devices loaded up inside of it. I'm going to delete this blank chain just"
+  },
+  {
+    "start": 597.12,
+    "text": " by clicking it and pressing the delete key and we're going to work with the delay chain now."
+  },
+  {
+    "start": 601.52,
+    "text": " First things first I can rename and recolor these chains as I want so I might go to this first chain"
+  },
+  {
+    "start": 606.32,
+    "text": " right click rename it and call it filter verb and I might go to the second chain right click rename"
+  },
+  {
+    "start": 612.8000000000001,
+    "text": " it and call it delay. I can also as I mentioned color code these so I might color code the filtered"
+  },
+  {
+    "start": 617.36,
+    "text": " verb as blue and the delay as green. Now currently what's happening is the signal is being fed into"
+  },
+  {
+    "start": 622.8000000000001,
+    "text": " this audio effect rack and then effectively two copies of this signal are being created."
+  },
+  {
+    "start": 627.04,
+    "text": " One is being sent to the filter verb and one is being sent to the delay. If I play this you'll"
+  },
+  {
+    "start": 631.2,
+    "text": " hear what I mean. For each chain we get independent mixer controls. I get the ability to control the"
+  },
+  {
+    "start": 639.76,
+    "text": " volume of each chain so I could turn down the delay. I can pan the chain either to the left"
+  },
+  {
+    "start": 650.3199999999999,
+    "text": " or the right and I can mute and solo a chain as well. As an example if I solo the filter verb"
+  },
+  {
+    "start": 656.24,
+    "text": " chain we're just going to hear the output of this auto filter and the reverb."
+  },
+  {
+    "start": 660.64,
+    "text": " And if I solo the delay chain we're just going to hear the output of the delay chain."
+  },
+  {
+    "start": 673.68,
+    "text": " I can also map any parameter of any device in any chain to any of the macro controls on my audio"
+  },
+  {
+    "start": 678.72,
+    "text": " effect rack. Using chains in this way is a really great way to perform parallel processing and if"
+  },
+  {
+    "start": 682.88,
+    "text": " you don't know what parallel processing is I recently did a video on it which you can check"
+  },
+  {
+    "start": 686.0,
+    "text": " out via the card above. But chains and racks also allow for really cool creative and useful"
+  },
+  {
+    "start": 690.4,
+    "text": " possibilities using the chain selector. If I go up to the top of the chain list you'll see this"
+  },
+  {
+    "start": 694.72,
+    "text": " button that says chain and if I click on this we'll see a new view open up which is the chain or"
+  },
+  {
+    "start": 699.76,
+    "text": " zone editor and in this zone editor you'll see that we have a little blue bar beside each of our"
+  },
+  {
+    "start": 705.76,
+    "text": " chains right here. And not only that we also have this little blue bar on a ruler up the top of this"
+  },
+  {
+    "start": 711.12,
+    "text": " chain or zone editor. Using a combination of the little blue bars beside each chain as well as the"
+  },
+  {
+    "start": 715.76,
+    "text": " blue selector we can actually change which chain is processing audio at any given time. As an"
+  },
+  {
+    "start": 720.88,
+    "text": " example I could go down to this delay bar right here then when my cursor turns into this bar with"
+  },
+  {
+    "start": 725.68,
+    "text": " an arrow either side I can click and drag this and move this to chain one instead of chain zero. And"
+  },
+  {
+    "start": 730.56,
+    "text": " now when I play our signal it's only passing through the filter verb chain."
+  },
+  {
+    "start": 738.3199999999999,
+    "text": " I can now go up to this chain selector right here click and drag it so it's selecting chain one"
+  },
+  {
+    "start": 742.88,
+    "text": " and now our signal is only being processed through our delay chain."
+  },
+  {
+    "start": 750.56,
+    "text": " We can also have our rack automatically select which chain is processing audio for us by using"
+  },
+  {
+    "start": 755.4399999999999,
+    "text": " this little arrow button up the top here which is the auto select button. If I engage this"
+  },
+  {
+    "start": 759.84,
+    "text": " you'll now notice that when we switch between our delay and our filter verb being selected"
+  },
+  {
+    "start": 764.48,
+    "text": " by this chain selector the selected chain changes based on which of the chains is currently"
+  },
+  {
+    "start": 769.92,
+    "text": " processing the signal. Using this view we can actually also fade between different chains."
+  },
+  {
+    "start": 782.7199999999999,
+    "text": " So instead of having a chain just restricted to a single chain number we can have a chain distributed"
+  },
+  {
+    "start": 787.68,
+    "text": " across all of the possible 127 different zones and I'm going to do this for both of our chains."
+  },
+  {
+    "start": 794.16,
+    "text": " Now using this tiny little light blue bar at the top of each of these bars that I just dragged out"
+  },
+  {
+    "start": 798.56,
+    "text": " I can click and drag to the left or right to create a fade for that chain and I'm going to"
+  },
+  {
+    "start": 804.64,
+    "text": " have our filter verb faded all the way to the left and our delay faded all the way to the right. And"
+  },
+  {
+    "start": 809.3599999999999,
+    "text": " now as I move my chain selector through these 128 possible different values we get to fade"
+  },
+  {
+    "start": 814.9599999999999,
+    "text": " effectively between these two different chains. And yes of course I can also map this chain"
+  },
+  {
+    "start": 828.24,
+    "text": " selector to a macro. All I need to do to do that is simply right click on the chain selector and"
+  },
+  {
+    "start": 832.5600000000001,
+    "text": " map it to a macro. We can map it to macro 3. Now you'll see that macro number 3 is assigned to our"
+  },
+  {
+    "start": 836.96,
+    "text": " chain selector. I can right click this give it a different color maybe pink and now as I move this"
+  },
+  {
+    "start": 841.28,
+    "text": " macro you'll notice the chain selector changes. There are also a few other features inside of the"
+  },
+  {
+    "start": 854.0,
+    "text": " zone editor. For example you can right click and change the size of the zone editor between"
+  },
+  {
+    "start": 857.84,
+    "text": " either small medium or large and you can also distribute the zone ranges of each of the different"
+  },
+  {
+    "start": 862.4,
+    "text": " chains equally across the entirety of the available zones by right clicking and going distribute ranges"
+  },
+  {
+    "start": 867.76,
+    "text": " equally. And so that's pretty much everything there is to know about audio effect racks but what about"
+  },
+  {
+    "start": 871.6,
+    "text": " midi and instrument racks? By the way if you're enjoying this video so far and finding it useful"
+  },
+  {
+    "start": 875.36,
+    "text": " please consider leaving a like down below subscribing if you're new if you haven't already"
+  },
+  {
+    "start": 878.88,
+    "text": " and if you really enjoy it head on over to my buy me a coffee page where you can support me by"
+  },
+  {
+    "start": 882.1600000000001,
+    "text": " buying me a coffee. It really does help me out and it makes sure that you get to see my videos more"
+  },
+  {
+    "start": 886.16,
+    "text": " often. So midi effect racks and instrument racks function in effectively the exact same way as"
+  },
+  {
+    "start": 891.04,
+    "text": " audio effect racks except that of course midi effect racks can only contain midi effects"
+  },
+  {
+    "start": 894.88,
+    "text": " and instrument racks can contain midi effects instruments and audio effects. In this example"
+  },
+  {
+    "start": 899.8399999999999,
+    "text": " here I've got a wavetable device loaded up on a midi track and I'm sending it a single midi note."
+  },
+  {
+    "start": 904.9599999999999,
+    "text": " I've got a midi effect rack loaded up here which contains multiple midi effects and if I engage"
+  },
+  {
+    "start": 909.84,
+    "text": " this we'll hear that it changes the sound completely."
+  },
+  {
+    "start": 921.9200000000001,
+    "text": " We can open up the midi effect rack here by clicking on the show high devices option and"
+  },
+  {
+    "start": 925.84,
+    "text": " we can see that we actually have two different chains here each with midi effects. So our midi"
+  },
+  {
+    "start": 929.76,
+    "text": " effect racks take in midi data process that midi data and then output midi data. Here I've got an"
+  },
+  {
+    "start": 934.56,
+    "text": " example of an instrument rack. This instrument rack if I open it up we can see contains an"
+  },
+  {
+    "start": 943.8399999999999,
+    "text": " instrument in the form of a wavetable device followed by a series of audio effects all of"
+  },
+  {
+    "start": 948.56,
+    "text": " which have parameters controlled by these different macro controls right here. Now of course if we"
+  },
+  {
+    "start": 952.64,
+    "text": " wanted to we could also have a midi effects contained inside of this instrument rack but"
+  },
+  {
+    "start": 956.9599999999999,
+    "text": " we don't currently. However aside from the different types of devices that you can put"
+  },
+  {
+    "start": 961.04,
+    "text": " in each rack there is also one massive difference that sets midi effect racks and"
+  },
+  {
+    "start": 965.68,
+    "text": " instrument racks apart from audio effect racks and this is the ability to select chains based"
+  },
+  {
+    "start": 970.4,
+    "text": " not only on the chain selector but also by incoming midi note data. As an example here I've"
+  },
+  {
+    "start": 975.76,
+    "text": " got that same wavetable device from before. In order to group this to an instrument rack I can"
+  },
+  {
+    "start": 981.76,
+    "text": " right click on the device title bar and click on group. Now what I'm going to do is open up the"
+  },
+  {
+    "start": 986.4,
+    "text": " chain list by clicking on the show high chain list button and you'll see here that inside of the"
+  },
+  {
+    "start": 990.0,
+    "text": " instrument rack we have two more different buttons on the top of our chain list selector."
+  },
+  {
+    "start": 994.4,
+    "text": " We have key and vel as well as chain and hide. The chain selector functions in exactly the same"
+  },
+  {
+    "start": 1000.32,
+    "text": " way that it does inside of an audio effect rack. However the key and velocity zone editors allow"
+  },
+  {
+    "start": 1005.28,
+    "text": " us to select which chain is playing based on the incoming midi note and the velocity of the incoming"
+  },
+  {
+    "start": 1010.96,
+    "text": " midi note. So what I'm going to do is add Ableton Live's operated device to this instrument rack"
+  },
+  {
+    "start": 1015.52,
+    "text": " as a new chain. I'm going to hide the devices because we don't need to see them and now if I"
+  },
+  {
+    "start": 1019.28,
+    "text": " press a note you'll see that we hear both the wavetable and the operated devices at the same time."
+  },
+  {
+    "start": 1026.8,
+    "text": " To show this more accurately I can solo the wavetable and I can solo the operator"
+  },
+  {
+    "start": 1034.08,
+    "text": " and those are our two different sounds grouped inside of this instrument rack. However using"
+  },
+  {
+    "start": 1038.32,
+    "text": " this key zone editor right here I can make it so that only a certain range of midi notes gets"
+  },
+  {
+    "start": 1042.8799999999999,
+    "text": " sent to the wavetable and a certain range of midi notes gets sent to the operated device. As an"
+  },
+  {
+    "start": 1046.88,
+    "text": " example let's make it so that anything below C3 gets sent to the wavetable and anything above C3"
+  },
+  {
+    "start": 1053.1200000000001,
+    "text": " gets sent to the operator. So now when I play a note that's below C3 we hear the wavetable device"
+  },
+  {
+    "start": 1059.7600000000002,
+    "text": " and if I play a note that's above C3 we hear the operator."
+  },
+  {
+    "start": 1065.6000000000001,
+    "text": " If I reset this we can now go to our velocity zone editor and make it so that only higher velocities"
+  },
+  {
+    "start": 1071.2,
+    "text": " trigger the wavetable instrument to play and that lower velocities trigger the operator instrument"
+  },
+  {
+    "start": 1076.16,
+    "text": " to play. So now when I trigger a higher velocity we hear the wavetable device and if I trigger a"
+  },
+  {
+    "start": 1080.96,
+    "text": " lower velocity we hear the operator device and we can use key zones, velocity zones and chain zones"
+  },
+  {
+    "start": 1087.28,
+    "text": " all together in tandem to create a really complicated instrument rack or midi effect rack. As another"
+  },
+  {
+    "start": 1092.48,
+    "text": " thing to note if you have an instrument rack loaded up on a track you also see that when you're in"
+  },
+  {
+    "start": 1096.3200000000002,
+    "text": " session view that track shows up with a little arrow icon on its track header which allows you"
+  },
+  {
+    "start": 1100.64,
+    "text": " to unfold and see each of the different instruments contained within that instrument rack on that"
+  },
+  {
+    "start": 1105.52,
+    "text": " particular track. For all these reasons listed in this video I think that racks are one of the"
+  },
+  {
+    "start": 1109.12,
+    "text": " best features inside of Ableton Live. They allow for really cool creative sound design possibilities,"
+  },
+  {
+    "start": 1114.48,
+    "text": " they can speed up workflow significantly and they're really useful in live performance contexts."
+  },
+  {
+    "start": 1118.8,
+    "text": " Now there are a few more features that racks offer you that are a little bit outside of the scope of"
+  },
+  {
+    "start": 1123.6,
+    "text": " this video but for the most part this covers absolutely everything you need to know about"
+  },
+  {
+    "start": 1128.6399999999999,
+    "text": " racks. I hope this video was useful if you'd like to check out how you can use an instrument rack"
+  },
+  {
+    "start": 1132.48,
+    "text": " to create a synth with effectively unlimited voices. Check out this video right here. Otherwise"
+  },
+  {
+    "start": 1137.2,
+    "text": " please drop a like and a comment down below, subscribe if you're new. If you really enjoyed"
+  },
+  {
+    "start": 1140.56,
+    "text": " the video consider heading on over to my buy me a coffee page where you can support me by"
+  },
+  {
+    "start": 1143.76,
+    "text": " buying me a coffee but otherwise thank you for watching and I'll see you all in the next video."
+  }
+]

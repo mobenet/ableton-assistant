@@ -1,0 +1,630 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hi! Hi and welcome to LNA does audio stuff. Hey you just don't seem to get enough out of this"
+  },
+  {
+    "start": 6.72,
+    "text": " all about tutorials about Ableton Live so basically I am making another one and I'm"
+  },
+  {
+    "start": 13.68,
+    "text": " going to link the playlist of all of them down below. So today's one is about simpler,"
+  },
+  {
+    "start": 20.08,
+    "text": " so let's get into this tutorial shall we? Yes we shall and let's go!"
+  },
+  {
+    "start": 33.44,
+    "text": " Okay let's get into it so let's just start by putting a simpler to a MIDI track. Yes and there"
+  },
+  {
+    "start": 41.04,
+    "text": " we go we have a beautiful simpler there and what it needs now is a sample."
+  },
+  {
+    "start": 50.56,
+    "text": " Let's put that in. So how I did that is that I just drag and drop a sample there. You can"
+  },
+  {
+    "start": 58.08,
+    "text": " drag and drop it from external sources, from packs or samples. You can just go and choose"
+  },
+  {
+    "start": 64.08,
+    "text": " weapon and here we go. Firstly we have the playback modes on the left so we have classic mode,"
+  },
+  {
+    "start": 71.44,
+    "text": " one shot mode and slice mode. I'm going to show all those today and also what they're good for,"
+  },
+  {
+    "start": 78.0,
+    "text": " like some creative techniques with them and then we have sample view and then we have control view"
+  },
+  {
+    "start": 83.60000000000001,
+    "text": " and when I'm in here I would actually just want to show you simpler by extending the screen. So"
+  },
+  {
+    "start": 90.88,
+    "text": " I'm just going to press it from here so we get this beautiful screen like that. So we have the"
+  },
+  {
+    "start": 97.44,
+    "text": " device view here and then we have the sample view here and you can see the modes here and all the"
+  },
+  {
+    "start": 104.96,
+    "text": " controls of the mode and then warp modes on the right and then we have a filter LFO and then we"
+  },
+  {
+    "start": 113.19999999999999,
+    "text": " have envelope controls and global controls here. So that is basically what we're going to be looking"
+  },
+  {
+    "start": 120.16,
+    "text": " at today. Okay so let's just have a look at the classic mode. Firstly so that I can hear it and"
+  },
+  {
+    "start": 126.32,
+    "text": " so I can play this instrument I need to activate the MIDI keyboard, computer MIDI keyboard. So I'm"
+  },
+  {
+    "start": 133.84,
+    "text": " just playing with my computer keyboard right now. So that is now very low because I am octave lower"
+  },
+  {
+    "start": 143.2,
+    "text": " than the normal C1 so I'm just going to press X and X again. There we go. That is the original"
+  },
+  {
+    "start": 151.67999999999998,
+    "text": " and with Z and X I can go up and down with the octaves so then I can now play it."
+  },
+  {
+    "start": 162.72,
+    "text": " With this we can create the more normal melodic and harmonic instruments that we're kind of used"
+  },
+  {
+    "start": 169.68,
+    "text": " to. So we're going to create one instrument out of this vocal sample now. So this mode is polyphonic"
+  },
+  {
+    "start": 177.20000000000002,
+    "text": " and what that means is that I can play more than one sound and voice kind of same time. So if I"
+  },
+  {
+    "start": 183.12,
+    "text": " press now A, G and J. The most beautiful choir in the world. So I can create very nice chord progressions."
+  },
+  {
+    "start": 192.88,
+    "text": " What also this screen gives us is these little flags on the right and left. So with this example"
+  },
+  {
+    "start": 204.16,
+    "text": " I could create a little bit more nicer note. So example that part there."
+  },
+  {
+    "start": 213.28,
+    "text": " That gives me controllability of lining the sample so that I can get exactly the point that I want"
+  },
+  {
+    "start": 219.6,
+    "text": " and the sound that I like. But with this third example here if I put that in 50% it will play"
+  },
+  {
+    "start": 227.44,
+    "text": " half of the selected area."
+  },
+  {
+    "start": 233.68,
+    "text": " So let's just look at other stuff here as well. I'm going to zero this. So gain example. Well it's"
+  },
+  {
+    "start": 239.2,
+    "text": " the sample gain so it's one area of gain staging but it will be the different as this volume here."
+  },
+  {
+    "start": 246.4,
+    "text": " So this is for the whole plugging with everything on it where this gain is just for the actual"
+  },
+  {
+    "start": 252.16,
+    "text": " sample. So then we have loop. So that's grayed out now. So why is that? Because we need to activate"
+  },
+  {
+    "start": 258.48,
+    "text": " loop here. When I hold down a key it starts to loop the sample. Without it. Just place once with it."
+  },
+  {
+    "start": 267.76,
+    "text": " So that's 100% loop. So if I go 50% of loop"
+  },
+  {
+    "start": 275.03999999999996,
+    "text": " it starts only looping that final 50% of the loop. So then we have length. So that can be that's the"
+  },
+  {
+    "start": 281.76,
+    "text": " start and the length. So these two work together. So if I move the start now you can see that the"
+  },
+  {
+    "start": 287.36,
+    "text": " area between the flags is moving but I cannot go over the flagged area. So I cannot push it"
+  },
+  {
+    "start": 295.36,
+    "text": " to the other side of the flagged area. So the fade control can make this the transition between"
+  },
+  {
+    "start": 301.6,
+    "text": " the sample so looping a bit more nicer, a bit more smooth. And that is especially very nice for"
+  },
+  {
+    "start": 309.6,
+    "text": " longer samples. Then we have snap and what snap means instead of fade we are actually mitigating"
+  },
+  {
+    "start": 316.88,
+    "text": " this amplitude change and with amplitude I mean the loudness of the sample. It forces the loop"
+  },
+  {
+    "start": 322.96,
+    "text": " and region markers to zero crossing point. And then we have voices and what voices means is"
+  },
+  {
+    "start": 329.2,
+    "text": " example if I have one I can just I can literally just play one note again even though I press three."
+  },
+  {
+    "start": 338.0,
+    "text": " If I go eight I can play eight voices same time. That's to do again with the polyphonic structure."
+  },
+  {
+    "start": 346.0,
+    "text": " And if I play more than eight voices it will actually do a thing called voice stealing"
+  },
+  {
+    "start": 351.44,
+    "text": " where it replaces the oldest noise voice with the newest ones. And then we have"
+  },
+  {
+    "start": 358.32000000000005,
+    "text": " Rätrig. It sounds like a Swedish word Rätrig which actually it just means re-triggering but"
+  },
+  {
+    "start": 365.52000000000004,
+    "text": " that sounds like a maybe Swedish person's name Rätrig. So when this is activated we can actually"
+  },
+  {
+    "start": 373.76000000000005,
+    "text": " this is activated what happens is that it actually re-triggers the voices instead of just keep on"
+  },
+  {
+    "start": 380.48,
+    "text": " playing them. So on the right here you can see the warp modes. I'm not going to go through the warp"
+  },
+  {
+    "start": 385.36,
+    "text": " modes in this video because I already made a video about it and it's a very long thing to explain."
+  },
+  {
+    "start": 389.76000000000005,
+    "text": " So if you're confused about what those things are and how to use these in a simpler because it will"
+  },
+  {
+    "start": 395.68,
+    "text": " be exactly the same thing go and watch those videos and then you know how to use this area here."
+  },
+  {
+    "start": 402.47999999999996,
+    "text": " And when you combine this area with these controls here you get a lot of cool stuff."
+  },
+  {
+    "start": 410.64,
+    "text": " Filter is actually really cool. So if I go here is the filter frequency option and then envelope"
+  },
+  {
+    "start": 415.84,
+    "text": " option of the frequency. Why this is very cool is you have these low pass, high pass, pan pass"
+  },
+  {
+    "start": 421.91999999999996,
+    "text": " options which are very normal and then you also have more fit option as well so that it gives you"
+  },
+  {
+    "start": 428.0,
+    "text": " that extra control and if you right click this you get the drop down menu. Morph you can actually"
+  },
+  {
+    "start": 434.4,
+    "text": " set the low pass set to band pass automatically like that and also we have you get these different"
+  },
+  {
+    "start": 441.76,
+    "text": " options. These options actually from this drop down menu emulates the most classic"
+  },
+  {
+    "start": 456.88,
+    "text": " filters found from some of the synthesizers that are very famous and we have velocity,"
+  },
+  {
+    "start": 463.52000000000004,
+    "text": " key as well as resonance of the filter. Also you can do it in 12 or 24 dp option so you can see"
+  },
+  {
+    "start": 473.84000000000003,
+    "text": " that there and then we have the LFO. LFO is a low frequency oscillator. One of the most important"
+  },
+  {
+    "start": 480.0,
+    "text": " controls on LFO is the LFO rate this one or that one. So beat time or the cycle per second."
+  },
+  {
+    "start": 489.12,
+    "text": " Let's just have a look at what we can do with just the filter and just the LFO."
+  },
+  {
+    "start": 496.32,
+    "text": " I'm just gonna actually go octave lower so pressing Z and"
+  },
+  {
+    "start": 499.92,
+    "text": " and I have also loop on and I'm gonna put the voice on eight loop snap yes"
+  },
+  {
+    "start": 511.92,
+    "text": " and then I want the maybe let's play with the start a little bit"
+  },
+  {
+    "start": 516.0,
+    "text": " like that and then what we could do play with the resonance a bit"
+  },
+  {
+    "start": 532.0799999999999,
+    "text": " and maybe I could automate this frequency control so we get"
+  },
+  {
+    "start": 537.12,
+    "text": " it."
+  },
+  {
+    "start": 542.08,
+    "text": " So that's already a very interesting instrument that we created just by using vocal."
+  },
+  {
+    "start": 547.28,
+    "text": " I can modulate the filter cutoff of the frequency"
+  },
+  {
+    "start": 556.0,
+    "text": " like that and then pitch"
+  },
+  {
+    "start": 567.2,
+    "text": " and then pan"
+  },
+  {
+    "start": 571.68,
+    "text": " and this area here gives you all the kind of device options like LFO offset. We have the LFO"
+  },
+  {
+    "start": 579.44,
+    "text": " attack time and LFO key and yeah and then let's just try what's the difference with the"
+  },
+  {
+    "start": 584.88,
+    "text": " with the LFO rate. Let's put the 124 and then let's work with the filter."
+  },
+  {
+    "start": 598.08,
+    "text": " So yeah this is where you can control the attack, the release,"
+  },
+  {
+    "start": 602.1600000000001,
+    "text": " decay, all the basic envelope controls. If I go to the pitch option and I go to amount"
+  },
+  {
+    "start": 608.32,
+    "text": " I can example control the pitch of the envelope"
+  },
+  {
+    "start": 623.84,
+    "text": " and these controls here are the global ones so example global panning the random pan transpose"
+  },
+  {
+    "start": 631.28,
+    "text": " glide spread of stereo width, velocity, volume, detune. So there's a lot of different controls"
+  },
+  {
+    "start": 640.56,
+    "text": " and that will affect all of it. Oh by the way you can zoom in and out in this view as well"
+  },
+  {
+    "start": 645.92,
+    "text": " by the way. So you can create very like granular synthesis type of situation here type of sound"
+  },
+  {
+    "start": 653.36,
+    "text": " by example if you limit the area very small to put the spread on an example pan yeah random panning"
+  },
+  {
+    "start": 661.2,
+    "text": " like that. So let's go to the one shot. So now the options again we have gain then we have trigger"
+  },
+  {
+    "start": 670.4000000000001,
+    "text": " and gate so now one shot basically is very good for drums. What is the controllability of the trigger?"
+  },
+  {
+    "start": 679.0400000000001,
+    "text": " So I press the button I release and it still plays the end of the track but if I have gate"
+  },
+  {
+    "start": 686.0,
+    "text": " it will only play when I press down. Actually let's create a fade in and out so these controls here"
+  },
+  {
+    "start": 696.16,
+    "text": " fade out so you can see if I zoom in you can see that there it creates a fade out"
+  },
+  {
+    "start": 703.6,
+    "text": " where it ends and then this would create a fade in so I can get nice like"
+  },
+  {
+    "start": 712.1600000000001,
+    "text": " boom. I can go in an LFO and I can pick a wave"
+  },
+  {
+    "start": 729.5200000000001,
+    "text": " so in this one we only have one envelope so this is a bit more"
+  },
+  {
+    "start": 733.44,
+    "text": " a simple envelope on this synth. So example by just using the envelope"
+  },
+  {
+    "start": 742.4,
+    "text": " I can go between two very different type of textures"
+  },
+  {
+    "start": 748.5600000000001,
+    "text": " if I put that attack in a completely beginning like that. So let's work with the slice now so"
+  },
+  {
+    "start": 754.5600000000001,
+    "text": " we're going to go to the slice mode and what you can see now straight away is that it creates these"
+  },
+  {
+    "start": 759.6,
+    "text": " transient markers and there's two ways two type of transient markers there's automatic"
+  },
+  {
+    "start": 764.5600000000001,
+    "text": " transient markers and there's manual or transient markers so if I create double click here you see"
+  },
+  {
+    "start": 769.76,
+    "text": " that these are gray transient markers but if I hold down alt and then click it it will turn blue"
+  },
+  {
+    "start": 776.32,
+    "text": " and then now it's automatic. What's the difference between transient and manual is when I"
+  },
+  {
+    "start": 783.2,
+    "text": " change the sensitivity only automatic ones will change but the manual one will not. So let's look"
+  },
+  {
+    "start": 790.8000000000001,
+    "text": " at these so trigger and gate exactly the same thing gain same thing but then slice by transient"
+  },
+  {
+    "start": 797.2,
+    "text": " so transient markers we know but transient basically means that we are it automatically"
+  },
+  {
+    "start": 803.6800000000001,
+    "text": " finds the transients of the sound automatically for you so I can now click for my keyboard and"
+  },
+  {
+    "start": 812.0,
+    "text": " it has picked a slot on my midi keyboard that that responds to a certain slot in the actual slice"
+  },
+  {
+    "start": 822.64,
+    "text": " yes and the sensitivity is how many markers so how often how often do they come in so how big are"
+  },
+  {
+    "start": 829.36,
+    "text": " the sections that I can play and the next one the slice mode is transient than beat in the place on"
+  },
+  {
+    "start": 838.24,
+    "text": " the musical beat divisions which you can see here and now I can control the beat division of"
+  },
+  {
+    "start": 850.24,
+    "text": " so for example this one I like using gate"
+  },
+  {
+    "start": 856.72,
+    "text": " it's more bit intuitive where I can select how long would I want the slice to play so with trigger"
+  },
+  {
+    "start": 863.92,
+    "text": " it plays the full slice with gate it plays only the amount that I hold down the key"
+  },
+  {
+    "start": 870.0,
+    "text": " then we have region and what is equal time division of the sample and we can get"
+  },
+  {
+    "start": 879.36,
+    "text": " up to 64 regions okay and then we have manual and what manual means is that I can double click"
+  },
+  {
+    "start": 888.3199999999999,
+    "text": " and create my own transient markers"
+  },
+  {
+    "start": 894.4799999999999,
+    "text": " and we have also options mono, poly and true so monophonic polyphonic which means monophonic is"
+  },
+  {
+    "start": 901.76,
+    "text": " just one sound at a time polyphonic is many times sounds at a time so example voices so we can have"
+  },
+  {
+    "start": 907.3599999999999,
+    "text": " six voices at a time again is happening there and then we have through which means so it keeps"
+  },
+  {
+    "start": 914.4,
+    "text": " playing the sample through but can only play active we can only activate one sound at a time"
+  },
+  {
+    "start": 923.52,
+    "text": " and with slice there's a very cool thing if you go to this sample view and I right click"
+  },
+  {
+    "start": 931.04,
+    "text": " I can actually slice to drum track or slice to midi track so if a simpler"
+  },
+  {
+    "start": 939.28,
+    "text": " and I put a pad is to run there let's create a couple more transients markers there and now"
+  },
+  {
+    "start": 944.9599999999999,
+    "text": " let's slice that to a drum rack there we go"
+  },
+  {
+    "start": 951.76,
+    "text": " we get and very interesting instrument that we just created by the slices that we slice it up"
+  },
+  {
+    "start": 959.76,
+    "text": " so the other option was example if I put the sample there and this we slice it up"
+  },
+  {
+    "start": 965.2,
+    "text": " slice it up and we can convert a slice to midi new midi track there we go and it's created a"
+  },
+  {
+    "start": 973.76,
+    "text": " midi sample so you can see that it just plays it now through but why could just go and example"
+  },
+  {
+    "start": 984.88,
+    "text": " change them like that"
+  },
+  {
+    "start": 991.2,
+    "text": " or start using this as a template to start creating interesting rhythms or structures"
+  },
+  {
+    "start": 1002.32,
+    "text": " whatever I want whatever I want hey thank you so much for watching and now it's time for the"
+  },
+  {
+    "start": 1008.24,
+    "text": " weekly question and it comes from Linach music it's a very nice name that lina and my name is"
+  },
+  {
+    "start": 1015.6800000000001,
+    "text": " lina though not lina with two i's and it comes from instagram and she says any advice for scared"
+  },
+  {
+    "start": 1022.32,
+    "text": " post grads looking to get their music career started in uk there's two points the first one"
+  },
+  {
+    "start": 1028.88,
+    "text": " is stop asking validation and the second point is being yourself what does that mean and how does"
+  },
+  {
+    "start": 1035.6,
+    "text": " that work first one stop asking validation means that you don't ask your partner not your mom not"
+  },
+  {
+    "start": 1041.84,
+    "text": " your dad not your friends what do they think about your ideas not asking that they like what you do"
+  },
+  {
+    "start": 1048.6399999999999,
+    "text": " because only you can be yourself which is the second point when you do things that are truly"
+  },
+  {
+    "start": 1056.56,
+    "text": " you we let a lot of our families and friends as much as they love us and they support us their"
+  },
+  {
+    "start": 1064.0,
+    "text": " fears and their like their mentality to affect how what kind of art or what kind of thing are"
+  },
+  {
+    "start": 1071.6799999999998,
+    "text": " we doing in music so example when i said that i'm gonna start a youtube channel you can imagine"
+  },
+  {
+    "start": 1078.32,
+    "text": " what people thought when i have a you know good university lecturer job that is other people's"
+  },
+  {
+    "start": 1084.3999999999999,
+    "text": " fears that is other people's lives that is my idea and that's what i wanted to do and that comes to"
+  },
+  {
+    "start": 1092.0,
+    "text": " the second point of being yourself which means enjoy what you do be warnable be honest with your"
+  },
+  {
+    "start": 1100.64,
+    "text": " faults be honest with your fears and that will take you further than anything else because people"
+  },
+  {
+    "start": 1108.16,
+    "text": " smell fake and if you are being pretending to be something else you're not gonna enjoy it in a long"
+  },
+  {
+    "start": 1115.68,
+    "text": " it can take you only so far being yourself stop asking other people if that your idea is good"
+  },
+  {
+    "start": 1122.32,
+    "text": " because your ideas are always good do they succeed maybe not but this is my other point"
+  },
+  {
+    "start": 1129.76,
+    "text": " keep on inventing ideas keep on trying keep on pushing one of the ideas will work unfortunately"
+  },
+  {
+    "start": 1136.32,
+    "text": " what we see from other people is only success but we don't see how many failures they needed to go"
+  },
+  {
+    "start": 1142.4,
+    "text": " through to get the success that's what you need to remember is there is a lot of failure in success"
+  },
+  {
+    "start": 1149.2800000000002,
+    "text": " but then there will be success because there was a lot of failure and a lot of trial and error so"
+  },
+  {
+    "start": 1153.6000000000001,
+    "text": " just keep on going be yourself and just trust your ideas trust yourself and just do you just do who"
+  },
+  {
+    "start": 1161.2800000000002,
+    "text": " you are okay i'm gonna otherwise i'm gonna go to a rant about this so please subscribe to this"
+  },
+  {
+    "start": 1166.96,
+    "text": " channel please hit the bell again and i'll see you here next week and next sunday so see you later bye"
+  }
+]

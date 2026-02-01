@@ -1,0 +1,278 @@
+[
+  {
+    "start": 0.0,
+    "text": " Yo, what's up? It is Fano here again. If you don't know me, I'm a Finnish guy. I mix and master music for my living."
+  },
+  {
+    "start": 6.72,
+    "text": " I handle hundreds of songs per year. I work with most styles. So if that is something you need for your music, get in touch. Links will be below."
+  },
+  {
+    "start": 16.16,
+    "text": " I also teach Ableton Live, a music production. I'm an Ableton certified trainer."
+  },
+  {
+    "start": 22.08,
+    "text": " And today I wanted to do a quick crash course on compression. This is not an extensive five hour course, but more like a crash course covering compression basics."
+  },
+  {
+    "start": 33.92,
+    "text": " Because, well, why does compression come up all the time? We need it pretty often. And there's also some compression is a bit of a gray area."
+  },
+  {
+    "start": 45.2,
+    "text": " And when I teach Ableton and music stuff to my students and when I allow them to ask me whatever, one of the most common questions I get is what does a compressor do and how do you use it?"
+  },
+  {
+    "start": 58.56,
+    "text": " So today I wanted to be touching on vocal compression because it's fairly easy to demonstrate this with the vocals. What is the typical problem with vocals?"
+  },
+  {
+    "start": 71.84,
+    "text": " Well, it is fairly human that when you sing, your level will change. For example, here, if you take a look, we can actually see that there's a lot of level variation in this audio file."
+  },
+  {
+    "start": 86.16,
+    "text": " This is a vocal track that I was sent many, many years ago. Maybe necessarily not the best recording ever, but it will demonstrate our issue here."
+  },
+  {
+    "start": 96.48,
+    "text": " So let's play this real quick or this part."
+  },
+  {
+    "start": 99.52,
+    "text": " So what could be the problem here? Well, when you listen to it like this, it doesn't really pose any problems."
+  },
+  {
+    "start": 119.44,
+    "text": " But if you had this vocal track as it is on a busy song, it would be hard to mix it in so that it always sounds good in terms of its level."
+  },
+  {
+    "start": 130.64,
+    "text": " Because if you mix this part so that it displays at a decent, relevant level that is good, you wouldn't hear these parts very well."
+  },
+  {
+    "start": 140.92,
+    "text": " Like these would probably drown under the music. But if you raise the level of these or you raise the level of the track so that these could be heard nicely, then these parts would just be too loud."
+  },
+  {
+    "start": 155.48,
+    "text": " So this is where a compressor comes in. So let's load a compressor on the track. I will be using the stock compressor here."
+  },
+  {
+    "start": 165.95999999999998,
+    "text": " I will disable make up again for now. And let's focus on this part here."
+  },
+  {
+    "start": 178.0,
+    "text": " Well, we can see stuff happen here. So first of all, here you see the track level. It's basically the same thing you could think what you have here."
+  },
+  {
+    "start": 188.84,
+    "text": " So the level rises up and here you have what's in every compressor, a threshold. Well, you see that now the level that rises up is barely reaching the threshold."
+  },
+  {
+    "start": 204.52,
+    "text": " But let me pull the threshold down."
+  },
+  {
+    "start": 211.92000000000002,
+    "text": " You also see this GR column here."
+  },
+  {
+    "start": 214.72,
+    "text": " So what is happening? Well, now the level is exceeding the threshold. And when it does that, the compressor actually acts on the level."
+  },
+  {
+    "start": 229.76,
+    "text": " Basically, you could think of a compressor doing this. Technically, this is what it's doing. It's controlling the level."
+  },
+  {
+    "start": 237.35999999999999,
+    "text": " So when the level exceeds the threshold, the compressor will now push it down based on a few parameters here."
+  },
+  {
+    "start": 250.16,
+    "text": " You should hear that it's now less loud."
+  },
+  {
+    "start": 254.72,
+    "text": " So now we are evening out the dynamic variation in the signal. So these parameters here, by the way, this is this info on the bottom left corner."
+  },
+  {
+    "start": 265.92,
+    "text": " This is always useful. So ratio is basically like intensity. That's the easiest way to explain it."
+  },
+  {
+    "start": 274.28000000000003,
+    "text": " For example, when it's three to one, it means that for every three dB of level that exceeds the threshold, it'll actually result in one dB of level going above the threshold."
+  },
+  {
+    "start": 290.28000000000003,
+    "text": " Let's see what the info box says. It says exactly that for every three dB of input above the threshold level, the output level will only increase by one dB."
+  },
+  {
+    "start": 300.76000000000005,
+    "text": " So if you set it to six to one, it would mean that the level has to exceed the threshold by six dB to result in one dB of gain actually going above the level."
+  },
+  {
+    "start": 315.24,
+    "text": " So it is even more intense. I don't usually teach numerical values when it comes to operating with these things because people cling to numbers and it's not always helpful."
+  },
+  {
+    "start": 326.28000000000003,
+    "text": " But what matters is that you understand the basics like what it is and it is intensity."
+  },
+  {
+    "start": 333.0,
+    "text": " So then you have attack. It means that how long it takes for the compressor to actually reach maximum compression after the level has exceeded the threshold."
+  },
+  {
+    "start": 344.28000000000003,
+    "text": " So it's like if you had like a visual representation and you can actually have it, let's see later."
+  },
+  {
+    "start": 349.40000000000003,
+    "text": " It's like how fast the compressor will act. Like will it be like slow? Like, OK, let me act or whoa, whoa, whoa, let me act real fast."
+  },
+  {
+    "start": 358.0,
+    "text": " So attack is just that. Unrelease is when the level drops below the threshold, how quickly the compressor stops compressing."
+  },
+  {
+    "start": 369.32,
+    "text": " So it's like if you think of compressor actually doing this, like level, if you actually before compressors were invented, I believe there was a studio guy in recording studios who did exactly this."
+  },
+  {
+    "start": 382.76,
+    "text": " And I do not envy the job of this guy. So it means when the level falls below the threshold, how how quickly the compressor returns to no compression state."
+  },
+  {
+    "start": 395.52,
+    "text": " No more talking. Let's just do this."
+  },
+  {
+    "start": 399.32,
+    "text": " It's often good to listen to the parts and just mess with things. And that's what I will do."
+  },
+  {
+    "start": 408.2,
+    "text": " So I would like to even out the level variation of these parts. And I can actually show you in two ways that it will happen."
+  },
+  {
+    "start": 415.4,
+    "text": " Let's go to this icon."
+  },
+  {
+    "start": 421.36,
+    "text": " Let me do on and off."
+  },
+  {
+    "start": 429.32,
+    "text": " Tom Tom."
+  },
+  {
+    "start": 433.24,
+    "text": " Tom Tom."
+  },
+  {
+    "start": 435.08,
+    "text": " OK, so now you see the yellow line, you see that when the loud part comes in, it gets compressed like the yellow line is showing you the level dip or the compression."
+  },
+  {
+    "start": 448.96,
+    "text": " Be Tom Tom."
+  },
+  {
+    "start": 451.68,
+    "text": " And the less loud parts, there's hardly anything happening."
+  },
+  {
+    "start": 455.72,
+    "text": " Let me freeze the track so we can see that things actually do happen."
+  },
+  {
+    "start": 459.56,
+    "text": " So I'll freeze. I'll create a new track and pull the track down here."
+  },
+  {
+    "start": 465.96000000000004,
+    "text": " So you will see I actually moved it a little. Whoops."
+  },
+  {
+    "start": 469.32000000000005,
+    "text": " So you can see that level variation is not as big now."
+  },
+  {
+    "start": 474.0,
+    "text": " So here it was a little too loud. And now it's way more even."
+  },
+  {
+    "start": 480.72,
+    "text": " And one more thing about compressor here."
+  },
+  {
+    "start": 484.8,
+    "text": " About these things, my compressor is set to peak mode and RMS in a nutshell."
+  },
+  {
+    "start": 491.08000000000004,
+    "text": " Peak is like it reacts more quickly and RMS reacts a little slower."
+  },
+  {
+    "start": 497.40000000000003,
+    "text": " A good example here would be if you were squashing some really quick crackles and peaks, let's say you have like a vinyl recording and there's a huge like."
+  },
+  {
+    "start": 509.6,
+    "text": " And you want to compress it."
+  },
+  {
+    "start": 511.96000000000004,
+    "text": " Peak is for that. Like peak can be very fast."
+  },
+  {
+    "start": 514.88,
+    "text": " There you would just make attack really short and it will be really fast."
+  },
+  {
+    "start": 522.48,
+    "text": " Whereas RMS is slower, like RMS would pretty much ignore the quick click."
+  },
+  {
+    "start": 529.76,
+    "text": " So when you have to do or when you want to do something that is less fast, like a little more mellow, for example."
+  },
+  {
+    "start": 539.24,
+    "text": " RMS could pretty nicely work with vocal compression, like sometimes compression can be too audible and it can sound too aggressive."
+  },
+  {
+    "start": 548.28,
+    "text": " Then maybe I admit I used a fairly short attack here and you might want to go a little longer and just experiment with these depending on what you need to compress."
+  },
+  {
+    "start": 563.36,
+    "text": " I also want to do a drum compression video."
+  },
+  {
+    "start": 567.24,
+    "text": " And on drums, I will definitely use peaks and there I want to be talking a little more about these values."
+  },
+  {
+    "start": 574.44,
+    "text": " For example, I never go below 10 milliseconds on drums if I want to keep their punch."
+  },
+  {
+    "start": 581.72,
+    "text": " But like I said, this is a crash course. Let's talk about this more later."
+  },
+  {
+    "start": 585.84,
+    "text": " I hope this arouses your interest and understanding for compression."
+  },
+  {
+    "start": 591.6400000000001,
+    "text": " So till the next time."
+  }
+]

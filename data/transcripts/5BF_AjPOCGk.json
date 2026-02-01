@@ -1,0 +1,250 @@
+[
+  {
+    "start": 0.0,
+    "text": " In this video we're going to have a look at the new limiter in Ableton Live 12.1."
+  },
+  {
+    "start": 5.2,
+    "text": " So this is the new limiter. You haven't already seen it. You'll notice it looks completely different from Ableton Live's previous limiter."
+  },
+  {
+    "start": 12.88,
+    "text": " Now I'm sure if you've been using Ableton Live for a while you'll know Ableton Live's previous limiter wasn't that great."
+  },
+  {
+    "start": 19.2,
+    "text": " The sound of it didn't really stack up against third party limiters that are out there."
+  },
+  {
+    "start": 24.639999999999997,
+    "text": " If you look here on Ableton's release notes you can see it says the limiter effect has been completely overhauled both in sound and appearance."
+  },
+  {
+    "start": 31.599999999999998,
+    "text": " An improved envelope makes limiters release smoother which is especially noticeable when longer release times are used."
+  },
+  {
+    "start": 38.96,
+    "text": " What does that mean? Let's find out."
+  },
+  {
+    "start": 41.599999999999994,
+    "text": " Okay let's go back to..."
+  },
+  {
+    "start": 43.36,
+    "text": " So this is set up like our previous limiter. We have an input gain and then we have a ceiling."
+  },
+  {
+    "start": 49.2,
+    "text": " We set the ceiling here which is minus 0.3. We can increase it by dragging it up or down."
+  },
+  {
+    "start": 55.040000000000006,
+    "text": " Then to get limiting from our track we increase the gain until we see some gain reduction."
+  },
+  {
+    "start": 60.32000000000001,
+    "text": " So let's go ahead and do that."
+  },
+  {
+    "start": 68.96000000000001,
+    "text": " Cool. So let's hear how the old limiter used to sound and I'm going to increase the release time and see if we can hear a difference."
+  },
+  {
+    "start": 76.8,
+    "text": " You can do that by going up here and going legacy smoothing."
+  },
+  {
+    "start": 81.92,
+    "text": " That's how you say it. This will put it back to the old limiter's release settings."
+  },
+  {
+    "start": 86.08,
+    "text": " Let's try that."
+  },
+  {
+    "start": 94.56,
+    "text": " This new smoothing sounds just a little bit more open. That's the only way I can describe it."
+  },
+  {
+    "start": 99.6,
+    "text": " Now let's look at the maximize feature here."
+  },
+  {
+    "start": 102.0,
+    "text": " So how this works is when I turn down the threshold, if it's turning down the peaks by say 2 dB,"
+  },
+  {
+    "start": 107.44,
+    "text": " it will then amplify the output stage of the limiter plus 2 dB."
+  },
+  {
+    "start": 112.88,
+    "text": " So for every dB of gain reduction you do, it amplifies the overall output."
+  },
+  {
+    "start": 118.32,
+    "text": " So I'm going to bring down the threshold until it's doing around about the same amount of limiting as the usual way."
+  },
+  {
+    "start": 124.8,
+    "text": " And then our AB between the two. So here we go."
+  },
+  {
+    "start": 132.0,
+    "text": " So I'm not sure if you heard that, but essentially when you go to maximize, it feels a lot more squashed up against the ceiling."
+  },
+  {
+    "start": 161.76,
+    "text": " Making it sound a lot fuller, but you lose that dynamic range."
+  },
+  {
+    "start": 165.44,
+    "text": " So depending on your taste and the style of music you're working with will depend on which option you work with and just play around with it to taste."
+  },
+  {
+    "start": 174.16,
+    "text": " Next, we have a link. So this links the stereo loudness."
+  },
+  {
+    "start": 178.56,
+    "text": " So if one side is a lot louder than the other, it's basically going to limit them the same."
+  },
+  {
+    "start": 183.51999999999998,
+    "text": " It means it can make it a little bit quieter. I generally like to unlink the sides, not one of the sizes affecting the other."
+  },
+  {
+    "start": 189.52,
+    "text": " It can make it sound in my ears a little bit more open."
+  },
+  {
+    "start": 192.32,
+    "text": " Then you have your look ahead standard feature."
+  },
+  {
+    "start": 195.12,
+    "text": " Then the other new feature we have here is we've got three different types of limiting."
+  },
+  {
+    "start": 200.24,
+    "text": " We have our standard limiting, soft clip and true peak."
+  },
+  {
+    "start": 203.68,
+    "text": " Now standard limiting looks like a standard limiter."
+  },
+  {
+    "start": 206.16,
+    "text": " Now you have a ceiling and it says it doesn't let anything through, but it lets a little bit through."
+  },
+  {
+    "start": 211.12,
+    "text": " It lies to you. And this gives it a general a bit more of an open sound."
+  },
+  {
+    "start": 214.8,
+    "text": " A true peak doesn't let anything through. It's an absolute cut off."
+  },
+  {
+    "start": 218.72,
+    "text": " Now this can make it sound a little bit closed, but the benefit of having a true peak is if you're working, say, with like CD, things like that, you really don't want anything going above the threshold."
+  },
+  {
+    "start": 230.07999999999998,
+    "text": " Otherwise, you're going to get clips and horrible sounds when you convert the audio into another format."
+  },
+  {
+    "start": 236.24,
+    "text": " But if you're just working with digital stuff, as long as you've got a ceiling here, so like 0.3, usually that's enough to catch any of those rogue, invisible peaks that go above it."
+  },
+  {
+    "start": 247.12,
+    "text": " And that's why we have a little bit of a ceiling there."
+  },
+  {
+    "start": 250.4,
+    "text": " We're not going to absolute zero."
+  },
+  {
+    "start": 252.0,
+    "text": " That way it's just going to sound a little bit more open, a little bit more dynamic."
+  },
+  {
+    "start": 255.68,
+    "text": " I mean, it's very small, but it's there."
+  },
+  {
+    "start": 258.24,
+    "text": " Soft clip is going to make it sound a bit more crunchier."
+  },
+  {
+    "start": 260.64,
+    "text": " And then we have a routing."
+  },
+  {
+    "start": 261.92,
+    "text": " We have left and right or mid side."
+  },
+  {
+    "start": 263.6,
+    "text": " So let's see what these different options sound like."
+  },
+  {
+    "start": 266.64,
+    "text": " OK, so let's go for standard and then I'll go through soft clip, true peak."
+  },
+  {
+    "start": 271.36,
+    "text": " I'll try and over limit it so you can hear what it's doing to the waveform."
+  },
+  {
+    "start": 275.68,
+    "text": " And then I'll flick between mid side and see what it sounds like."
+  },
+  {
+    "start": 305.68,
+    "text": " OK, so I was proper pushing it there."
+  },
+  {
+    "start": 325.92,
+    "text": " Don't worry, I'm not going to master anybody's song like that."
+  },
+  {
+    "start": 329.68,
+    "text": " Hopefully you can hear standard sounds a little bit more open."
+  },
+  {
+    "start": 333.28,
+    "text": " True peak again sounds a little bit squashed, but soft clip."
+  },
+  {
+    "start": 336.15999999999997,
+    "text": " It's got that crunchy sound to it."
+  },
+  {
+    "start": 337.84,
+    "text": " So there's the new Limiter in Ableton Live, a really welcomed upgrade."
+  },
+  {
+    "start": 342.23999999999995,
+    "text": " If you're working in Ableton Live 11 still, this is really going to make you consider"
+  },
+  {
+    "start": 346.79999999999995,
+    "text": " upgrading, I think."
+  },
+  {
+    "start": 347.67999999999995,
+    "text": " If you'd like to see what other upgrades there are in Ableton Live 12.1 and above,"
+  },
+  {
+    "start": 352.55999999999995,
+    "text": " want to check out this playlist."
+  },
+  {
+    "start": 353.84,
+    "text": " Also, if you'd like to learn Ableton Live with me, want to check out my course."
+  }
+]

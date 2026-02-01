@@ -1,0 +1,894 @@
+[
+  {
+    "start": 0.0,
+    "text": " Okay, so if you're feeling lost when it comes to vocal production and you don't know how to get your vocals to sound as good as the Spotify Top 50, or the stuff that you hear on the radio, or your favorite pop singers or rappers or whatever, then you are in the right place."
+  },
+  {
+    "start": 11.5,
+    "text": " I've been a professional producer, mixing engineer and mastering engineer for over a decade now, and I have a system for producing vocals that's going to get your vocals to sound incredible, whether you're processing your own or somebody else's."
+  },
+  {
+    "start": 21.62,
+    "text": " And the best part is the system works whether you're using stock plugins, or you have a bunch of third party stuff that you want to use."
+  },
+  {
+    "start": 26.939999999999998,
+    "text": " So first, I'm going to explain what the system is, and then we're going to jump into Ableton, and I'm going to show you exactly how to process vocals using stock Ableton plugins."
+  },
+  {
+    "start": 33.98,
+    "text": " And then I'm going to show you my professional vocal chain that I've spent the last 10 years perfecting."
+  },
+  {
+    "start": 38.18,
+    "text": " But first, let's go to the iPad so I can teach you the concept. It'll only take a couple minutes, and it's going to help you so much. Trust me."
+  },
+  {
+    "start": 43.9,
+    "text": " The way I like to think about processing vocals is we're going to build a vocal processing chain from the ground up. And it's only four layers."
+  },
+  {
+    "start": 50.06,
+    "text": " The first layer is going to look like this. And that is going to be compression."
+  },
+  {
+    "start": 53.98,
+    "text": " So that's our base layer. That's the first thing we're going to do when we're processing vocals. We're going to add compression."
+  },
+  {
+    "start": 58.18,
+    "text": " Now the next step after that is going to be EQ, which stands for equalization. So compression, EQ."
+  },
+  {
+    "start": 64.06,
+    "text": " Then after that, we have de-essing. Compression, EQ, de-essing. And the last step is we're going to compress again."
+  },
+  {
+    "start": 69.98,
+    "text": " Let me just color this in really quick."
+  },
+  {
+    "start": 75.86,
+    "text": " Okay, so there you have it. I like to call this the compression sandwich. And it's just an easy way to remember how to process vocals."
+  },
+  {
+    "start": 82.02,
+    "text": " You get your vocals, you put compression on them, then you EQ them, then you de-ess them, and then you compress them again."
+  },
+  {
+    "start": 86.82,
+    "text": " The reason I did a burger or a compression sandwich is so you could actually remember this no matter what DAW you're using."
+  },
+  {
+    "start": 92.34,
+    "text": " You can do this with Logic, FL Studio, Pro Tools. But right now I'm going to show you exactly how to do it in Ableton."
+  },
+  {
+    "start": 97.62,
+    "text": " And I think you'll be really surprised and really impressed with just how close Ableton stock plugins come to sounding like the expensive third party plugins."
+  },
+  {
+    "start": 104.18,
+    "text": " So no excuses. You can get your vocals to sound incredible using this method. If you're following along, go ahead and open up Ableton and I'll meet you on the computer."
+  },
+  {
+    "start": 111.58,
+    "text": " Alright, so now we've got Ableton open. So before we even start processing a vocal, we want to make sure that we've recorded it as good as we possibly can."
+  },
+  {
+    "start": 118.82,
+    "text": " And in order to help you guys do that, I've created a PDF. You can find the download in the description of the video."
+  },
+  {
+    "start": 123.58,
+    "text": " And that's going to help make sure you get the best vocal recording you can possibly get."
+  },
+  {
+    "start": 126.5,
+    "text": " I talk about things like the right distance away to record from the microphone and other things you can do to make your voice or someone else's voice sound as good as possible."
+  },
+  {
+    "start": 133.54,
+    "text": " So definitely download that from the description before we go any further."
+  },
+  {
+    "start": 136.34,
+    "text": " And then once you've recorded your vocal the best that you possibly can, we finally get into processing."
+  },
+  {
+    "start": 141.1,
+    "text": " So in order to demonstrate how to process a vocal, I'm going to work with my song called Carried."
+  },
+  {
+    "start": 145.06,
+    "text": " The reason I picked this one is because it's performing pretty well right now."
+  },
+  {
+    "start": 147.57999999999998,
+    "text": " It's averaging about 4000 plays a day. And so it's kind of relevant or whatever."
+  },
+  {
+    "start": 151.38,
+    "text": " And let's go ahead and play some of the verse just to show you what we're working with."
+  },
+  {
+    "start": 172.1,
+    "text": " Okay, so I like the way that my voice sounds."
+  },
+  {
+    "start": 174.14,
+    "text": " What I want to do is recreate this exact vocal processing, but with Ableton plugins so you can follow along every single step of the way."
+  },
+  {
+    "start": 181.18,
+    "text": " And you don't need all these crazy third party plugins."
+  },
+  {
+    "start": 183.18,
+    "text": " First thing I'm going to do is just press command T and make a new track under these vocals."
+  },
+  {
+    "start": 187.18,
+    "text": " I'm going to highlight the raw vocals and paste them onto that new track."
+  },
+  {
+    "start": 190.18,
+    "text": " I'm going to go ahead and copy the tune over to that new vocal, but I'm going to leave all the other processing off."
+  },
+  {
+    "start": 195.18,
+    "text": " So this is what it sounds like now."
+  },
+  {
+    "start": 201.1,
+    "text": " This is the final product that we're going for."
+  },
+  {
+    "start": 211.18,
+    "text": " If we use that four step process that I explained at the beginning of the video, remember the compression sandwich."
+  },
+  {
+    "start": 216.18,
+    "text": " We use compression, EQ, de-essing, and then more compression."
+  },
+  {
+    "start": 219.18,
+    "text": " We should be able to get this raw vocal to sound as good as the processed one."
+  },
+  {
+    "start": 222.57999999999998,
+    "text": " I'm going to go ahead and change the color of our raw vocal to green so we can easily time that."
+  },
+  {
+    "start": 226.82000000000002,
+    "text": " Okay, first things first, if you don't have this Waves Tune plugin, you actually don't need it at all if you can sing in tune."
+  },
+  {
+    "start": 232.82000000000002,
+    "text": " For me, I struggle to sing on pitch, so it helps me express myself and sing the way that I want to sing."
+  },
+  {
+    "start": 237.82000000000002,
+    "text": " And even if I miss a note or two, it corrects me and makes me sound better than I am in terms of pitch."
+  },
+  {
+    "start": 242.82000000000002,
+    "text": " These are the settings I use and we're in the key of E major."
+  },
+  {
+    "start": 245.82000000000002,
+    "text": " Okay, first thing I want to do is go over here to the left where it says dynamics, open up compressor, and then drag on sustained vocal lead."
+  },
+  {
+    "start": 252.86,
+    "text": " Let's listen to this."
+  },
+  {
+    "start": 256.86,
+    "text": " Now in Ableton, you can click on these little yellow circles and that just turns plugins off and on."
+  },
+  {
+    "start": 260.86,
+    "text": " And I like to A and B stuff as I go and hear the difference that I'm making."
+  },
+  {
+    "start": 266.86,
+    "text": " So that's with it off, this is with it on."
+  },
+  {
+    "start": 271.86,
+    "text": " Hardly noticeable difference, but the reason why we're compressing initially is because when you compress, you limit a signal's dynamic range,"
+  },
+  {
+    "start": 276.86,
+    "text": " meaning that the quiet parts are louder than the other parts."
+  },
+  {
+    "start": 279.9,
+    "text": " And it kind of just squishes everything more in the middle."
+  },
+  {
+    "start": 281.9,
+    "text": " So this is just to make the vocal more consistent."
+  },
+  {
+    "start": 283.9,
+    "text": " And these quiet parts like this, you are going to be a bit louder."
+  },
+  {
+    "start": 287.9,
+    "text": " And these loud parts like this, my are going to be a bit quieter."
+  },
+  {
+    "start": 291.9,
+    "text": " Okay, so now we have some basic compression going."
+  },
+  {
+    "start": 293.9,
+    "text": " Next thing we're going to do is go to EQ here and drag on an EQ eight."
+  },
+  {
+    "start": 297.9,
+    "text": " So as far as vocals go, we don't need any sub bass frequencies, meaning we don't need anything from like 80 to 100 Hertz and lower."
+  },
+  {
+    "start": 304.9,
+    "text": " So what we can do is go to the left and click on the EQ."
+  },
+  {
+    "start": 306.90000000000003,
+    "text": " So what we can do is click on this one here on the EQ, click on the arrow and make sure it's a high pass filter and then drag that up to around 100 Hertz."
+  },
+  {
+    "start": 315.94,
+    "text": " Or if you want to be aggressive, you can click on the times four."
+  },
+  {
+    "start": 317.94,
+    "text": " That'll just make it really aggressive."
+  },
+  {
+    "start": 318.94,
+    "text": " And then also my vocal can be a little bit boxy around this like 100 to three or 400 range."
+  },
+  {
+    "start": 324.94,
+    "text": " So what I like to do is click on this two here, make sure we're on low shelf, which looks like that."
+  },
+  {
+    "start": 328.94,
+    "text": " And then I just bring it down and move it to right around 250 Hertz and just play with this gain accordingly."
+  },
+  {
+    "start": 336.90000000000003,
+    "text": " After that, I like to boost the highs a little bit, so I'm going to click on this four and just drag it up."
+  },
+  {
+    "start": 345.94,
+    "text": " Now, as far as the frequency goes, you can use your ears and adjust this accordingly."
+  },
+  {
+    "start": 349.94,
+    "text": " But basically, I'm going to put it somewhere around 7000 and just boost it up a couple dB."
+  },
+  {
+    "start": 361.90000000000003,
+    "text": " Real quick, if you're enjoying this video, I would genuinely appreciate it if you consider subscribing and giving me the channel."
+  },
+  {
+    "start": 365.94,
+    "text": " And giving me the chance to help you make the best music that you're capable of."
+  },
+  {
+    "start": 368.97999999999996,
+    "text": " OK, back to the video."
+  },
+  {
+    "start": 369.97999999999996,
+    "text": " This is just going to make the vocal a lot brighter and ultimately make it sound shinier and more expensive."
+  },
+  {
+    "start": 374.97999999999996,
+    "text": " A little EQ goes a long way, especially for vocals."
+  },
+  {
+    "start": 377.97999999999996,
+    "text": " Now, after that, we want to DS."
+  },
+  {
+    "start": 379.97999999999996,
+    "text": " And just as a reminder, DSing is basically just making the S's sound a little bit quieter because when you're recording into a mic, they can sound overwhelming."
+  },
+  {
+    "start": 386.97999999999996,
+    "text": " And we want to just chill the S's out a little bit."
+  },
+  {
+    "start": 388.97999999999996,
+    "text": " So let's go ahead and find an S to get started."
+  },
+  {
+    "start": 390.98,
+    "text": " All right, how about that on spend?"
+  },
+  {
+    "start": 398.98,
+    "text": " What I'm going to do is to use Ableton's plugins."
+  },
+  {
+    "start": 402.02,
+    "text": " Ableton doesn't have the best DSer."
+  },
+  {
+    "start": 404.02,
+    "text": " There's a method we can use here to get decent DSing, and that's under the compressor tab."
+  },
+  {
+    "start": 408.02,
+    "text": " There's a DSer, so let's just drag that right onto it."
+  },
+  {
+    "start": 410.02,
+    "text": " And then after that plugin, we're going to add one more plugin under utilities called Spectrum."
+  },
+  {
+    "start": 415.02,
+    "text": " Just drag that on."
+  },
+  {
+    "start": 416.02,
+    "text": " What you're going to want to do is double click on Spectrum, and it's going to make it real big down here."
+  },
+  {
+    "start": 419.02000000000004,
+    "text": " And now we can see exactly where that S is poking through."
+  },
+  {
+    "start": 423.02000000000004,
+    "text": " If you look right around 10K right here on the Spectrum, you can see that that S is poking through a lot."
+  },
+  {
+    "start": 429.06,
+    "text": " So what we're going to do with the DSer is click this little arrow right here."
+  },
+  {
+    "start": 432.06,
+    "text": " That's going to open it up so we can see everything."
+  },
+  {
+    "start": 434.06,
+    "text": " For filter type, we're going to click on this bandpass filter, and we're going to change the frequency to 10K."
+  },
+  {
+    "start": 439.06,
+    "text": " We're going to turn the ratio up and then click on this little bent line right here and play with the threshold."
+  },
+  {
+    "start": 444.06,
+    "text": " We can also play with the Q as well."
+  },
+  {
+    "start": 449.02000000000004,
+    "text": " So real quick, if we turn it off, we can hear the S before."
+  },
+  {
+    "start": 452.02000000000004,
+    "text": " And if we turn it on, it's just turning the S down a little bit."
+  },
+  {
+    "start": 457.02000000000004,
+    "text": " We can go ahead and play with this dry wet a little bit as well and make the effect a little bit less noticeable."
+  },
+  {
+    "start": 462.06,
+    "text": " OK, so we have our compressor, we have our EQ, we have our DSing, and now we need one more compressor to kind of smooth things out and just squish everything one last time."
+  },
+  {
+    "start": 470.06,
+    "text": " So I'm going to go to dynamics and then actually go to multiband dynamics and go to vocal control."
+  },
+  {
+    "start": 475.06,
+    "text": " Also, I just want to say there is a split band de-esser here and you can play with this instead of our de-esser that we used before."
+  },
+  {
+    "start": 486.06,
+    "text": " All these presets are here for you to play with, but I'm just going to stick to the de-esser that we already have."
+  },
+  {
+    "start": 491.06,
+    "text": " All right, last thing I want to do for our vocals is add some effects to it."
+  },
+  {
+    "start": 494.06,
+    "text": " So when you first open Ableton, you're going to have two send tracks right here and you can use these to send the vocal to some reverb, which is going to be down here on these return tracks."
+  },
+  {
+    "start": 502.1,
+    "text": " So if we turn this up, you'll hear some reverb going on the vocal."
+  },
+  {
+    "start": 512.1,
+    "text": " And the reason we want to do reverb like this is because this is going to have 100% of the vocal signal and then it's going to put reverb on top of that."
+  },
+  {
+    "start": 519.1,
+    "text": " We could drag reverb directly onto this vocal track and just put it right after the rest of our effects."
+  },
+  {
+    "start": 523.1,
+    "text": " But the problem is if I drag a reverb onto it, anytime I'm turning up this dry wet, it's actually making the vocal quieter and it's turning up the reverb."
+  },
+  {
+    "start": 531.14,
+    "text": " But if we do it this way by using the sends, the vocal stays at the same volume and adds reverb to it."
+  },
+  {
+    "start": 544.14,
+    "text": " Okay, that's sounding pretty good."
+  },
+  {
+    "start": 546.14,
+    "text": " Now the last step and potentially the most kind of secret sauce part of this whole video is I put a utility on the vocal."
+  },
+  {
+    "start": 552.14,
+    "text": " So I go to utilities here, just drag on utility at the end, and then I automate this gain knob and I use this to perfect the sibilance."
+  },
+  {
+    "start": 559.18,
+    "text": " So all the like P's and T's and C sounds as well as turn down breaths and also chill out some of the S's."
+  },
+  {
+    "start": 565.18,
+    "text": " So let me show you exactly what I'm talking about."
+  },
+  {
+    "start": 567.18,
+    "text": " First thing we do is once we have the utility on the track, we want to enable automation view."
+  },
+  {
+    "start": 571.18,
+    "text": " So we just click on this little slanted line up here to the upper right."
+  },
+  {
+    "start": 574.18,
+    "text": " And then we go ahead and click on gain on this utility."
+  },
+  {
+    "start": 577.18,
+    "text": " And that's going to make it so there's a dashed red line on our vocal."
+  },
+  {
+    "start": 580.18,
+    "text": " You can see right there."
+  },
+  {
+    "start": 581.18,
+    "text": " And that way we can click and drag and it'll adjust the gain."
+  },
+  {
+    "start": 584.2199999999999,
+    "text": " And if we play it, it's going to make this gain change over time and we can choose how much it changes."
+  },
+  {
+    "start": 590.2199999999999,
+    "text": " So if we listen to the vocal, let's say that CH on choose seems a little bit too loud."
+  },
+  {
+    "start": 597.2199999999999,
+    "text": " Drag this, make it a little bigger so we can see it."
+  },
+  {
+    "start": 599.2199999999999,
+    "text": " What I like to do is I like to highlight what I want to turn down."
+  },
+  {
+    "start": 603.2199999999999,
+    "text": " I hold shift and I click on that line and just drag it down."
+  },
+  {
+    "start": 606.2199999999999,
+    "text": " So listen now."
+  },
+  {
+    "start": 610.2199999999999,
+    "text": " Now the CH sound is a lot less aggressive."
+  },
+  {
+    "start": 612.26,
+    "text": " Now, just to smooth things out, I'll click a little bit before and after and then click to get rid of these dots."
+  },
+  {
+    "start": 617.26,
+    "text": " Just so it's kind of more smooth and slanted versus like super abrupt changes in volume."
+  },
+  {
+    "start": 622.26,
+    "text": " So listen to it after now."
+  },
+  {
+    "start": 625.26,
+    "text": " So let's go ahead and listen without it."
+  },
+  {
+    "start": 627.26,
+    "text": " We can hear the CH on choose is a bit loud."
+  },
+  {
+    "start": 632.26,
+    "text": " And now with it, we can hear that it's chilled out and sits just right in the mix."
+  },
+  {
+    "start": 642.26,
+    "text": " That S on beside is a little loud."
+  },
+  {
+    "start": 645.26,
+    "text": " So I'm going to go ahead and highlight that."
+  },
+  {
+    "start": 647.26,
+    "text": " Make sure that we're on the right automation here so I can click this arrow and just go to gain."
+  },
+  {
+    "start": 651.26,
+    "text": " So I highlight that section I want to change."
+  },
+  {
+    "start": 653.26,
+    "text": " I hold shift, I drag the line down and then I do these little extra dots to smooth things out."
+  },
+  {
+    "start": 659.26,
+    "text": " Now that's a little bit too quiet, so I'm going to hold shift and move that line up."
+  },
+  {
+    "start": 666.26,
+    "text": " Nice, that sounds good."
+  },
+  {
+    "start": 667.26,
+    "text": " So what I do is I go through the entire vocal and I do these little animations to make sure"
+  },
+  {
+    "start": 671.3,
+    "text": " there's no pops or clicks that are overwhelmingly loud."
+  },
+  {
+    "start": 673.3,
+    "text": " And this is really like the last 10% that's going to make your vocal sound incredible."
+  },
+  {
+    "start": 677.3,
+    "text": " And if you don't have a de-esser, this is going to really help too because you can de-ess stuff manually."
+  },
+  {
+    "start": 681.3,
+    "text": " And you know, it takes a bit of time to do it this way, but it really does make such a big difference."
+  },
+  {
+    "start": 686.3,
+    "text": " And a lot of really good mixing engineers like the best of the best, they do tricks just like this."
+  },
+  {
+    "start": 690.3,
+    "text": " They just get that vocal to sound 10% better."
+  },
+  {
+    "start": 692.3,
+    "text": " Now on the original vocal, I've already done that with this utility."
+  },
+  {
+    "start": 695.3,
+    "text": " So I'm going to copy it and go ahead and just paste it."
+  },
+  {
+    "start": 697.3,
+    "text": " And if we look here, you can see all the different scoops that I made."
+  },
+  {
+    "start": 700.3399999999999,
+    "text": " There's a few on every single phrase and these little changes made a huge difference throughout the whole track."
+  },
+  {
+    "start": 705.3399999999999,
+    "text": " Let's listen to the original vocal."
+  },
+  {
+    "start": 709.3399999999999,
+    "text": " Okay, it's way louder."
+  },
+  {
+    "start": 710.3399999999999,
+    "text": " So what we can do is honestly just turn this vocal up"
+  },
+  {
+    "start": 714.3399999999999,
+    "text": " with this output here."
+  },
+  {
+    "start": 715.3399999999999,
+    "text": " Or another thing we could do is just add another gentle squeeze at the end of this."
+  },
+  {
+    "start": 719.3399999999999,
+    "text": " Click on this little line here so we can see the output and just turn the output up."
+  },
+  {
+    "start": 724.3399999999999,
+    "text": " So it can match the gain of the other one."
+  },
+  {
+    "start": 730.3399999999999,
+    "text": " Alright, sounds pretty close."
+  },
+  {
+    "start": 731.3399999999999,
+    "text": " Let's go ahead and listen to this section with our new vocal processing and see how it sounds."
+  },
+  {
+    "start": 750.3399999999999,
+    "text": " Alright, let's go ahead and listen to the original vocal processing with all the fancy plugins and see what that sounds like."
+  },
+  {
+    "start": 760.3399999999999,
+    "text": " I mean, there's not a huge difference there."
+  },
+  {
+    "start": 762.3399999999999,
+    "text": " Here's the one that we just did."
+  },
+  {
+    "start": 768.3399999999999,
+    "text": " Here's the expensive processing."
+  },
+  {
+    "start": 775.3399999999999,
+    "text": " I honestly don't hear a huge difference."
+  },
+  {
+    "start": 777.3399999999999,
+    "text": " Part of me is pretty surprised, but at the same time, this is why I call it the original vocal."
+  },
+  {
+    "start": 782.3399999999999,
+    "text": " It's just so much better."
+  },
+  {
+    "start": 783.38,
+    "text": " I honestly don't hear a huge difference."
+  },
+  {
+    "start": 785.38,
+    "text": " Part of me is pretty surprised, but at the same time, this is why concepts and formulas are so powerful."
+  },
+  {
+    "start": 790.38,
+    "text": " It's not so much about the exact brand of plugin that you use."
+  },
+  {
+    "start": 793.38,
+    "text": " It's more so about utilizing the tools that you have available."
+  },
+  {
+    "start": 796.38,
+    "text": " Now, for those of you who are curious, I will show you my actual vocal chain for this song, which is just waves tune."
+  },
+  {
+    "start": 801.38,
+    "text": " You can pause and copy the settings."
+  },
+  {
+    "start": 803.38,
+    "text": " We have RVOX or RVOX."
+  },
+  {
+    "start": 805.38,
+    "text": " Then I use Virtual Mix Rack by Slate, which is on these settings, just more compression and EQ."
+  },
+  {
+    "start": 809.38,
+    "text": " Then I'm doing this for some additional EQ."
+  },
+  {
+    "start": 811.42,
+    "text": " Then I have a de-esser from FabFilter."
+  },
+  {
+    "start": 813.42,
+    "text": " And then I have CLA2A doing some more compression."
+  },
+  {
+    "start": 815.42,
+    "text": " And then I have Soothe after that."
+  },
+  {
+    "start": 817.42,
+    "text": " And that's just chilling the vocals out a bit."
+  },
+  {
+    "start": 819.42,
+    "text": " So all these plugins are basically doing the same thing as this compressor, this EQ, the de-esser, and then another compressor."
+  },
+  {
+    "start": 826.42,
+    "text": " Remember, the spectrum was just for us to de-ess properly, so we don't even need that."
+  },
+  {
+    "start": 829.42,
+    "text": " So yeah, five Ableton stock plugins."
+  },
+  {
+    "start": 835.42,
+    "text": " Basically getting the exact same processing sound."
+  },
+  {
+    "start": 841.42,
+    "text": " As seven relatively expensive plugins."
+  },
+  {
+    "start": 846.42,
+    "text": " I will say out of all of these, there are two plugins that really, really go a long way."
+  },
+  {
+    "start": 852.42,
+    "text": " Maybe three, depending on how you want to look at it."
+  },
+  {
+    "start": 854.42,
+    "text": " So if you do have a little bit of a budget, I would say Waves Tune Real-Time is an absolute must if you struggle with pitch at all."
+  },
+  {
+    "start": 860.42,
+    "text": " And it's pretty cheap."
+  },
+  {
+    "start": 861.42,
+    "text": " I think it's like somewhere between 30 and 50 bucks."
+  },
+  {
+    "start": 863.42,
+    "text": " And also the CLA2A compressor I use on almost every single track."
+  },
+  {
+    "start": 868.42,
+    "text": " It just makes things so much more present."
+  },
+  {
+    "start": 870.4599999999999,
+    "text": " It just makes stuff sound better."
+  },
+  {
+    "start": 871.4599999999999,
+    "text": " And that one is pretty cheap as well."
+  },
+  {
+    "start": 872.4599999999999,
+    "text": " I'm pretty sure Waves has a thing where if you buy a plugin, you get the second one for half off or something like that."
+  },
+  {
+    "start": 877.4599999999999,
+    "text": " So these two plugins are incredible."
+  },
+  {
+    "start": 879.4599999999999,
+    "text": " And then as far as de-essing goes, Waves also has a de-esser that's great."
+  },
+  {
+    "start": 883.4599999999999,
+    "text": " Or you can use FabFilter's de-esser, which is going to be a little bit more expensive, but has more parameters for you to play with."
+  },
+  {
+    "start": 888.4599999999999,
+    "text": " I usually just click on Mastering Vocal De-Essing in Music and play with it from there."
+  },
+  {
+    "start": 892.4599999999999,
+    "text": " But all that to say, if you use the compression sandwich and you put the EQ and de-essing in the middle"
+  },
+  {
+    "start": 897.5,
+    "text": " and then you utilize that automation technique with the utility."
+  },
+  {
+    "start": 900.5,
+    "text": " Remember automating the gain to control the breaths, the S's and the sibilance."
+  },
+  {
+    "start": 903.5,
+    "text": " Then all you have to do is add a little bit of effects with these send and returns and your vocal will sound expensive."
+  },
+  {
+    "start": 909.5,
+    "text": " But you can do so much with just Ableton stock plugins."
+  },
+  {
+    "start": 912.5,
+    "text": " And I hope that you're encouraged and inspired to try processing your own vocals."
+  },
+  {
+    "start": 915.5,
+    "text": " And I hope you don't feel like, oh, I can't do this because I don't have all the nice plugins."
+  },
+  {
+    "start": 919.5,
+    "text": " Because it does make a difference."
+  },
+  {
+    "start": 920.5,
+    "text": " I will say that."
+  },
+  {
+    "start": 921.5,
+    "text": " But not as big of a difference as everyone makes it out to be."
+  },
+  {
+    "start": 924.54,
+    "text": " And it's way more about who's using the tools and how you're using the tools than the tools themselves."
+  },
+  {
+    "start": 928.54,
+    "text": " A lot of the time."
+  },
+  {
+    "start": 929.54,
+    "text": " Also make sure if you're going to be recording any of the vocals that you're working with,"
+  },
+  {
+    "start": 932.54,
+    "text": " to download that PDF in the description."
+  },
+  {
+    "start": 933.54,
+    "text": " For some of you guys, you just want to record and mix good vocals."
+  },
+  {
+    "start": 936.54,
+    "text": " There's going to be others of you out there who really want to take this music thing to the next level."
+  },
+  {
+    "start": 940.54,
+    "text": " And for you guys who want to go above and beyond or take a deep dive,"
+  },
+  {
+    "start": 944.54,
+    "text": " I have a full step-by-step course where I can teach you how to make professional sounding music"
+  },
+  {
+    "start": 948.54,
+    "text": " whether you've never made a song before or you've been at it for a while"
+  },
+  {
+    "start": 951.54,
+    "text": " and you're stuck and you're just trying to improve."
+  },
+  {
+    "start": 953.5799999999999,
+    "text": " I'll put part of the course in the description of the video"
+  },
+  {
+    "start": 955.5799999999999,
+    "text": " so you can watch that for free, get a feel for how the course is going to be,"
+  },
+  {
+    "start": 958.5799999999999,
+    "text": " and then see if it's something that you're interested in."
+  },
+  {
+    "start": 959.5799999999999,
+    "text": " Okay, thank you so much for watching."
+  },
+  {
+    "start": 961.5799999999999,
+    "text": " Seriously, I really, really appreciate you."
+  },
+  {
+    "start": 963.5799999999999,
+    "text": " And I just want to say, remember to stop making excuses and start making music."
+  },
+  {
+    "start": 966.5799999999999,
+    "text": " Cheers."
+  }
+]

@@ -1,0 +1,418 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hi, I'm Lima Milan and in this video we're going to look at the three stages of rendering"
+  },
+  {
+    "start": 13.540000000000001,
+    "text": " audio within Ableton Live. So the key word here is rendering and within Ableton Live"
+  },
+  {
+    "start": 19.26,
+    "text": " because this is about the three different ways we can make new versions of audio files"
+  },
+  {
+    "start": 23.22,
+    "text": " within the Ableton Live software environment. So the first one is CROP, the second one is"
+  },
+  {
+    "start": 28.3,
+    "text": " Consolidate and the third one is Flatten. So let's have a look at those now. We've got"
+  },
+  {
+    "start": 32.86,
+    "text": " three different examples here and the first one is going to show the behaviour of CROP."
+  },
+  {
+    "start": 38.54,
+    "text": " So if I just bring up the actual sample editor view here and we warp the track and just double"
+  },
+  {
+    "start": 46.78,
+    "text": " click and add some warp markers here and just play around with the content. Also put it"
+  },
+  {
+    "start": 53.74,
+    "text": " into a repitch mode and change the transposition and so on. Let's just play the audio file."
+  },
+  {
+    "start": 63.5,
+    "text": " So quite messed up in terms of what I've done for it. Now cropping the audio will allow me to"
+  },
+  {
+    "start": 69.74000000000001,
+    "text": " re-render this audio so I'm just right clicking on the actual audio waveform and choosing to"
+  },
+  {
+    "start": 75.02000000000001,
+    "text": " crop the sample. Now one thing I want you to watch when we do this is down here where we can see the"
+  },
+  {
+    "start": 80.06,
+    "text": " original file name and the original file sample rate and the original file bit depth. This is the"
+  },
+  {
+    "start": 86.06,
+    "text": " data type that the audio is made of. So if I go to CROP sample what's happened is the audio has now"
+  },
+  {
+    "start": 94.7,
+    "text": " been re-rendered to a new audio file but it's only at the audio file level. Anything that's happening"
+  },
+  {
+    "start": 101.02000000000001,
+    "text": " within this clip is still live and can be manipulated. It's not been committed to that new file."
+  },
+  {
+    "start": 105.9,
+    "text": " So my warp markers are still in place. My warp is still happening in real time so I can change the"
+  },
+  {
+    "start": 111.10000000000001,
+    "text": " warp mode. My transposition is still set to a bespoke customized setting that I've set. It's"
+  },
+  {
+    "start": 116.7,
+    "text": " not being committed to the file and also the sample rate and bit depth remain the same too. So it's"
+  },
+  {
+    "start": 122.30000000000001,
+    "text": " the real lowest level of commitment we're doing to this new audio file. If you want to see the"
+  },
+  {
+    "start": 128.94,
+    "text": " file itself and sort of check this behavior you can either show it in finder on OS X or you can"
+  },
+  {
+    "start": 135.58,
+    "text": " do show in browser so it shows in the Ableton Live browser as well. So that's my new rendered"
+  },
+  {
+    "start": 140.22,
+    "text": " version of that file. So let's go to the next version of the actual audio file. So I'll just"
+  },
+  {
+    "start": 145.42000000000002,
+    "text": " do CMD NL to loop that and on this one I'll play the example first because I realized I didn't play"
+  },
+  {
+    "start": 151.26000000000002,
+    "text": " the original file as it was but let's play that first and then I'll show you how the next stage"
+  },
+  {
+    "start": 157.10000000000002,
+    "text": " which is going to be to consolidate this audio file and how that differs from CROP."
+  },
+  {
+    "start": 166.54000000000002,
+    "text": " Okay so that's the original file as it is. Now the actual audio of this file is intentionally lower"
+  },
+  {
+    "start": 173.58,
+    "text": " than the original file that I used in the first example. So it's got a lower peak value. So what"
+  },
+  {
+    "start": 179.9,
+    "text": " this means is there's a distance of non-used volume between the highest portion or the highest peak in"
+  },
+  {
+    "start": 185.9,
+    "text": " my waveform and the potentially highest peak a waveform can be which is zero right at the top,"
+  },
+  {
+    "start": 190.54000000000002,
+    "text": " 0 dB. So this basically shows us what consolidate does. So I'm going to right click. I'm going to"
+  },
+  {
+    "start": 199.74,
+    "text": " choose to consolidate this file. Okay so let's have a look at what's happened. So the file's"
+  },
+  {
+    "start": 209.18,
+    "text": " been re-rendered. If I should just go back one for a minute and just add some unique attributes to"
+  },
+  {
+    "start": 214.14000000000001,
+    "text": " that. So let's just change and let's do our warp marker positions and so on like I did before"
+  },
+  {
+    "start": 219.82000000000002,
+    "text": " and then let's choose to flatten it this time."
+  },
+  {
+    "start": 225.5,
+    "text": " So I consolidate, my mistake. So now that's consolidated you'll notice that the transposition"
+  },
+  {
+    "start": 231.82000000000002,
+    "text": " has been committed to the file. The warp positioning has been committed to the file."
+  },
+  {
+    "start": 236.78,
+    "text": " If you've seen this already you may have noticed but I'll just highlight the fact the actual"
+  },
+  {
+    "start": 241.18,
+    "text": " sample rate has stayed the same because that's what I'm working at the moment but the bit depth"
+  },
+  {
+    "start": 245.34,
+    "text": " has actually changed. Before if I go back one it was a 32-bit file and now it's a 24-bit file"
+  },
+  {
+    "start": 251.02,
+    "text": " and that's because of the record preference in the Ableton Live preferences. So I'll just go to"
+  },
+  {
+    "start": 257.5,
+    "text": " preferences here, go to the record tab and then for recorded files it's set to 24 bits at the"
+  },
+  {
+    "start": 264.46,
+    "text": " moment. So generally you think of that as when I want to hit record and either record an external"
+  },
+  {
+    "start": 269.66,
+    "text": " sound or re-record the audio from one track to another track. That's the file type it will use"
+  },
+  {
+    "start": 275.58000000000004,
+    "text": " when it records the file but it also stands for what the file format will be when you consolidate"
+  },
+  {
+    "start": 280.46000000000004,
+    "text": " your file as well. So remember crop, just surface level, just basically if you make a shortened"
+  },
+  {
+    "start": 287.58000000000004,
+    "text": " edit of a file it's handy for that. It re-renders the file but doesn't commit anything different to"
+  },
+  {
+    "start": 291.82000000000005,
+    "text": " it. Now if we have a look at our consolidated file there's one other thing that's happened which is"
+  },
+  {
+    "start": 299.02,
+    "text": " an easy thing to miss. Now if we go back to the step where I hadn't consolidated just did command"
+  },
+  {
+    "start": 305.02,
+    "text": " and z there. The other thing that's happening here is that file if you remember it isn't actually at"
+  },
+  {
+    "start": 310.53999999999996,
+    "text": " full volume or as loud as it can be but the gain of the clip is at zero. Now if I just recommit by"
+  },
+  {
+    "start": 318.38,
+    "text": " doing the command shift and z so we've reapplied the consolidation you'll see that the actual"
+  },
+  {
+    "start": 323.26,
+    "text": " gain has been dropped down for some reason to in this case nearly minus nine decibels and the reason"
+  },
+  {
+    "start": 329.98,
+    "text": " for that is another thing consolidate does to your audio files is it normalizes the audio too. So"
+  },
+  {
+    "start": 335.18,
+    "text": " consolidate didn't do this the volume of the original file was retained when we did the the crop"
+  },
+  {
+    "start": 341.02,
+    "text": " command but with consolidate when we do that it's changing the volume of the file it's scanning the"
+  },
+  {
+    "start": 346.94,
+    "text": " entire file saying okay in this audio that I'm re-rendering where is the highest peak"
+  },
+  {
+    "start": 352.54,
+    "text": " okay that's the highest peak and in this case the highest peak was at minus nine decibels so it"
+  },
+  {
+    "start": 358.46000000000004,
+    "text": " normalizes and goes okay well I'm going to re-render the file but when I do that I'll turn the whole"
+  },
+  {
+    "start": 362.78000000000003,
+    "text": " file up by nine decibels and now this new waveform is normalized but in order for this"
+  },
+  {
+    "start": 370.22,
+    "text": " consolidated clip to not suddenly be nine decibels louder what it's automatically done is offset the"
+  },
+  {
+    "start": 375.1,
+    "text": " gain of the clip so to our ears we don't hear any difference but it has actually done another"
+  },
+  {
+    "start": 380.46,
+    "text": " aspect of change to our audio file which is to normalize the file right so let's move to the"
+  },
+  {
+    "start": 386.78,
+    "text": " final stage which is our flatten stage so we go to command and L just to loop that so this one's"
+  },
+  {
+    "start": 395.97999999999996,
+    "text": " been modified quite a bit and it's not been modified in the clip section this time it's"
+  },
+  {
+    "start": 400.14,
+    "text": " actually the warp is disabled so we go over to the processing aspect where the devices are and you"
+  },
+  {
+    "start": 406.38,
+    "text": " can see that I've got various different things going on with the file so if you remember what"
+  },
+  {
+    "start": 409.58,
+    "text": " it sounded like before it's kind of like a breakage drum and bass kind of beat with some"
+  },
+  {
+    "start": 414.06,
+    "text": " bass and so on now it's being manipulated with some devices so this is happening in real time"
+  },
+  {
+    "start": 419.34,
+    "text": " right now I can modify any of the parameters right so if I choose to flatten this the first"
+  },
+  {
+    "start": 431.5,
+    "text": " step in doing that is to do what's called freeze which is to temporarily rewrite all of the"
+  },
+  {
+    "start": 437.42,
+    "text": " audio output of this channel to an audio file so in practice that's just to save computational"
+  },
+  {
+    "start": 444.38,
+    "text": " power so if you've got a very heavy project and your computer's struggling you can freeze"
+  },
+  {
+    "start": 448.3,
+    "text": " and temporarily take the load off the computer for that track in terms of it calculating all"
+  },
+  {
+    "start": 453.9,
+    "text": " these real-time effects flattens the next stage so if I choose to flatten the track"
+  },
+  {
+    "start": 460.21999999999997,
+    "text": " and we go back to the clip view you'll see that the actual well you'll hear sorry that the actual"
+  },
+  {
+    "start": 468.21999999999997,
+    "text": " change that the the devices were doing to the audio have been committed to the audio file"
+  },
+  {
+    "start": 479.82,
+    "text": " so one thing that's happening here is we've committed everything to audio and then the"
+  },
+  {
+    "start": 486.86,
+    "text": " other thing that's happening is the file type that's been created is again slightly different"
+  },
+  {
+    "start": 491.1,
+    "text": " so we've had crop which didn't change the file data type just re-rendered an edited version"
+  },
+  {
+    "start": 497.98,
+    "text": " we had consolidate which committed the clip properties to the new rendered file and it"
+  },
+  {
+    "start": 503.58000000000004,
+    "text": " normalized that new audio file and then offset the clip gain so we didn't hear that it was any"
+  },
+  {
+    "start": 508.86,
+    "text": " different in volume as the actual file is different and then we have this freeze and then flatten"
+  },
+  {
+    "start": 514.54,
+    "text": " aspect of re-rendering our audio which obviously is handy it commits our frozen"
+  },
+  {
+    "start": 519.9,
+    "text": " you know or yeah our frozen version of that track and its devices to an audio file on the"
+  },
+  {
+    "start": 525.58,
+    "text": " flat and then commits it to a new render of that but what it does is also change it to a different"
+  },
+  {
+    "start": 531.5,
+    "text": " bit depth so it's it's a best bit depth for the actual resolution that runs within Ableton Live"
+  },
+  {
+    "start": 536.78,
+    "text": " in terms of how its audio engine works so it's not a problem that it does this but it's just"
+  },
+  {
+    "start": 541.34,
+    "text": " something to be aware of so the freeze file itself is still the same sample rate because"
+  },
+  {
+    "start": 546.14,
+    "text": " that's what our project is running at but the bit depth is now at a 32 bit resolution and that's"
+  },
+  {
+    "start": 552.7,
+    "text": " not something that we we change that's just something that's the behavior of Ableton Live"
+  },
+  {
+    "start": 557.74,
+    "text": " so the reason why the 32 bit aspect is is good to know about in this case is if I want to reveal"
+  },
+  {
+    "start": 564.54,
+    "text": " the location of that frozen file here it's a 32 bit file now 32 bit files don't necessarily play"
+  },
+  {
+    "start": 574.6999999999999,
+    "text": " in all types of audio players so you could be potentially in a rush where you've let's say for"
+  },
+  {
+    "start": 580.06,
+    "text": " instance you've mastered a track inside Ableton Live you did some devices but basically you were"
+  },
+  {
+    "start": 585.66,
+    "text": " struggling to hear what was going on so you you froze it and then you flattened it and then that's"
+  },
+  {
+    "start": 590.4599999999999,
+    "text": " your file that you might pass to someone else to play or pass to them to use as a loop that"
+  },
+  {
+    "start": 595.98,
+    "text": " they're going to use in their project and so on in this case because it's a 32 bit file"
+  },
+  {
+    "start": 601.18,
+    "text": " it may not necessarily play in the other person's audio player or potentially their door"
+  },
+  {
+    "start": 606.4599999999999,
+    "text": " as well so just basically to highlight the differences between how these three different"
+  },
+  {
+    "start": 611.42,
+    "text": " render modes work and also the potential complications that can happen between the three"
+  },
+  {
+    "start": 617.02,
+    "text": " so that's looking at audio in Ableton Live and how we can render it in three different stages"
+  },
+  {
+    "start": 623.5,
+    "text": " crop consolidate and flatten"
+  },
+  {
+    "start": 646.06,
+    "text": " you"
+  }
+]

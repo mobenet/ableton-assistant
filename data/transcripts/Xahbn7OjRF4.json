@@ -1,0 +1,1206 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends, today we're going to go over Operator."
+  },
+  {
+    "start": 8.36,
+    "text": " Operator is such an incredible instrument and I think a lot of people that use Ableton"
+  },
+  {
+    "start": 12.8,
+    "text": " Live overlook it because they play it and they're like, oh, it sounds like a robot,"
+  },
+  {
+    "start": 21.72,
+    "text": " I'm out."
+  },
+  {
+    "start": 22.72,
+    "text": " Yeah, I think that its architecture is weird, it's different."
+  },
+  {
+    "start": 27.4,
+    "text": " It's not immediately accessible in ways that other synthesizers are."
+  },
+  {
+    "start": 32.36,
+    "text": " But once you understand some really basic things, you're going to be like, oh, oh, oh,"
+  },
+  {
+    "start": 36.76,
+    "text": " this is amazing, oh my god."
+  },
+  {
+    "start": 38.24,
+    "text": " And that's really what I want to hope to get to today."
+  },
+  {
+    "start": 41.879999999999995,
+    "text": " So this is going to be a four part series."
+  },
+  {
+    "start": 43.78,
+    "text": " If you watch this from beginning to end, there is no sound in your head that you cannot create."
+  },
+  {
+    "start": 50.64,
+    "text": " I own all kinds of different synths."
+  },
+  {
+    "start": 53.519999999999996,
+    "text": " I own Omnisphere."
+  },
+  {
+    "start": 55.32,
+    "text": " I own Serum."
+  },
+  {
+    "start": 56.92,
+    "text": " I own all these different ones."
+  },
+  {
+    "start": 58.36,
+    "text": " And still, a fully expanded Ableton Live with Operator at the helm, if you will, is still,"
+  },
+  {
+    "start": 66.8,
+    "text": " in my opinion, the most powerful synthesizer available."
+  },
+  {
+    "start": 70.52,
+    "text": " So do yourself a favor."
+  },
+  {
+    "start": 73.28,
+    "text": " I'm going to make time markers for all the different parts we're going to go over."
+  },
+  {
+    "start": 76.56,
+    "text": " Do yourself a favor and strap in, get yourself a drink and just watch this."
+  },
+  {
+    "start": 82.2,
+    "text": " Listen."
+  },
+  {
+    "start": 83.2,
+    "text": " All right."
+  },
+  {
+    "start": 84.2,
+    "text": " So let's just start with a brand new operator."
+  },
+  {
+    "start": 87.08,
+    "text": " When you bust an operator out, you get just a raw sine waveform."
+  },
+  {
+    "start": 95.2,
+    "text": " What are all these different parts?"
+  },
+  {
+    "start": 97.3,
+    "text": " These are just blocks."
+  },
+  {
+    "start": 99.3,
+    "text": " These are different."
+  },
+  {
+    "start": 100.30000000000001,
+    "text": " You could almost think of them as modules, like a modular synthesizer."
+  },
+  {
+    "start": 102.68,
+    "text": " This is just a module."
+  },
+  {
+    "start": 103.68,
+    "text": " So this is an oscillator."
+  },
+  {
+    "start": 107.54,
+    "text": " Clicking on this box will show what's..."
+  },
+  {
+    "start": 110.92,
+    "text": " It's just so funny."
+  },
+  {
+    "start": 111.92,
+    "text": " The way that this is designed, clicking on this box won't make anything change in this"
+  },
+  {
+    "start": 115.48,
+    "text": " window because there aren't different selected options in these."
+  },
+  {
+    "start": 119.14,
+    "text": " So if I go into this box and change this watch, boing, boing, boing, boing, boing."
+  },
+  {
+    "start": 123.32000000000001,
+    "text": " Now you can see that the envelope shape of this oscillator is different than this one."
+  },
+  {
+    "start": 127.56,
+    "text": " And the other thing that's different is that usually an envelope stage of a synthesizer"
+  },
+  {
+    "start": 132.68,
+    "text": " is a different module than the oscillator."
+  },
+  {
+    "start": 135.72,
+    "text": " But in Operator, the envelope and the oscillator share a block."
+  },
+  {
+    "start": 141.6,
+    "text": " So in this case, the very first thing to understand is that this sine waveform can be changed."
+  },
+  {
+    "start": 149.44,
+    "text": " The envelope of it can be changed by clicking on its block."
+  },
+  {
+    "start": 152.1,
+    "text": " So I can click on this block and let's just take..."
+  },
+  {
+    "start": 156.07999999999998,
+    "text": " You can either do this with your mouse or you can do it with just moving these controls."
+  },
+  {
+    "start": 160.39999999999998,
+    "text": " So what I can do is I can pull the sustain all the way down."
+  },
+  {
+    "start": 162.72,
+    "text": " Right now, sustain is at zero decibels."
+  },
+  {
+    "start": 164.57999999999998,
+    "text": " It's as loud as it gets."
+  },
+  {
+    "start": 165.57999999999998,
+    "text": " So as I pull it down, now I get this sound."
+  },
+  {
+    "start": 169.76,
+    "text": " Right?"
+  },
+  {
+    "start": 174.2,
+    "text": " So I can change the envelope stuff."
+  },
+  {
+    "start": 175.56,
+    "text": " I can make the release longer."
+  },
+  {
+    "start": 179.76,
+    "text": " Right?"
+  },
+  {
+    "start": 180.76,
+    "text": " And right now we're just using sine waveforms."
+  },
+  {
+    "start": 182.56,
+    "text": " You can select the different waveforms over here."
+  },
+  {
+    "start": 188.76,
+    "text": " Okay?"
+  },
+  {
+    "start": 189.76,
+    "text": " So that's the oscillator section."
+  },
+  {
+    "start": 191.76,
+    "text": " The most basic way I can describe the oscillator section, you can click between the envelope,"
+  },
+  {
+    "start": 199.36,
+    "text": " looking at the envelope and looking at the oscillator."
+  },
+  {
+    "start": 204.36,
+    "text": " Another thing you can do is you can draw your own waveforms."
+  },
+  {
+    "start": 207.36,
+    "text": " This is kind of fun."
+  },
+  {
+    "start": 214.36,
+    "text": " So that's kind of like a weird sine waveform."
+  },
+  {
+    "start": 218.16000000000003,
+    "text": " This is kind of like a weird saw."
+  },
+  {
+    "start": 221.36,
+    "text": " Right?"
+  },
+  {
+    "start": 222.36,
+    "text": " So that's what that does."
+  },
+  {
+    "start": 223.36,
+    "text": " Okay?"
+  },
+  {
+    "start": 224.36,
+    "text": " You can pick whatever waveform you want."
+  },
+  {
+    "start": 226.36,
+    "text": " It's got some different fun options, such as a kind of 4-bit sine waveform."
+  },
+  {
+    "start": 233.36,
+    "text": " I think one of the reasons they did that is they wanted to make it so you could, if you"
+  },
+  {
+    "start": 236.86,
+    "text": " wanted to design a patch that kind of sounded like a Yamaha DX7 or something, these are"
+  },
+  {
+    "start": 241.36,
+    "text": " kind of like the sine waveforms that those had."
+  },
+  {
+    "start": 242.86,
+    "text": " They didn't make a pure sine."
+  },
+  {
+    "start": 244.36,
+    "text": " They made kind of some of these weirder sounds."
+  },
+  {
+    "start": 247.36,
+    "text": " The saw D and the square D are the fullest harmonic content available saws and squares"
+  },
+  {
+    "start": 253.36,
+    "text": " that operator can make."
+  },
+  {
+    "start": 255.36,
+    "text": " So..."
+  },
+  {
+    "start": 258.36,
+    "text": " That's a fully harmonic saw waveform."
+  },
+  {
+    "start": 260.36,
+    "text": " Here's a fully harmonic square."
+  },
+  {
+    "start": 262.36,
+    "text": " Right?"
+  },
+  {
+    "start": 263.36,
+    "text": " So that's just in one oscillator section."
+  },
+  {
+    "start": 265.36,
+    "text": " Now, when I turn up another oscillator section, you would expect in a normal synthesizer, let's"
+  },
+  {
+    "start": 269.36,
+    "text": " just leave..."
+  },
+  {
+    "start": 270.36,
+    "text": " Let's put this back on..."
+  },
+  {
+    "start": 271.36,
+    "text": " Yeah, we'll put on that fun 4-bit sine."
+  },
+  {
+    "start": 275.36,
+    "text": " Now let's put the second one on a saw with full harmonics."
+  },
+  {
+    "start": 280.36,
+    "text": " Now when I turn this up, listen."
+  },
+  {
+    "start": 286.36,
+    "text": " That sounds super weird."
+  },
+  {
+    "start": 287.36,
+    "text": " Why does it sound super weird?"
+  },
+  {
+    "start": 288.86,
+    "text": " Well, the next thing to understand about operator, I'm going to skip ahead because this is such"
+  },
+  {
+    "start": 292.86,
+    "text": " a fundamental thing about operator."
+  },
+  {
+    "start": 295.36,
+    "text": " Look at this section."
+  },
+  {
+    "start": 296.86,
+    "text": " This is the algorithm."
+  },
+  {
+    "start": 298.36,
+    "text": " When I click on this box, this is the master box."
+  },
+  {
+    "start": 302.36,
+    "text": " All of these different options you see along the top are the algorithm."
+  },
+  {
+    "start": 307.36,
+    "text": " So I'm going to start a new operator up."
+  },
+  {
+    "start": 310.36,
+    "text": " So I'm back to my sine waveform."
+  },
+  {
+    "start": 315.36,
+    "text": " Now, what this means is that each one of these oscillator boxes modulate the next one in"
+  },
+  {
+    "start": 323.36,
+    "text": " line."
+  },
+  {
+    "start": 324.36,
+    "text": " So D is modulating C. See?"
+  },
+  {
+    "start": 326.36,
+    "text": " D, C, B, and A."
+  },
+  {
+    "start": 328.36,
+    "text": " So D is modulating C, C is modulating B, and B is modulating A."
+  },
+  {
+    "start": 334.36,
+    "text": " That's only if we give them some level."
+  },
+  {
+    "start": 336.36,
+    "text": " So you could think of this as like an FM index."
+  },
+  {
+    "start": 339.36,
+    "text": " So this is an FM algorithm."
+  },
+  {
+    "start": 341.36,
+    "text": " Frequency modulation."
+  },
+  {
+    "start": 343.36,
+    "text": " This is what the modulation is doing."
+  },
+  {
+    "start": 345.36,
+    "text": " So if this oscillator is set to the same frequency as the original, it's just going to multiply"
+  },
+  {
+    "start": 352.36,
+    "text": " that original frequency."
+  },
+  {
+    "start": 353.36,
+    "text": " It's going to sound like this."
+  },
+  {
+    "start": 354.36,
+    "text": " So."
+  },
+  {
+    "start": 357.36,
+    "text": " Whoa."
+  },
+  {
+    "start": 359.36,
+    "text": " Okay."
+  },
+  {
+    "start": 360.36,
+    "text": " Now, if we get some complex situations where we've got, you know, C is modulating B, which"
+  },
+  {
+    "start": 370.86,
+    "text": " is modulating A."
+  },
+  {
+    "start": 371.86,
+    "text": " You get these stacked pretty wild sounds, right?"
+  },
+  {
+    "start": 376.86,
+    "text": " Especially if you've got some fine tuning done."
+  },
+  {
+    "start": 380.86,
+    "text": " You got a little bit of rockin' stuff."
+  },
+  {
+    "start": 382.86,
+    "text": " Whoa."
+  },
+  {
+    "start": 384.86,
+    "text": " Right?"
+  },
+  {
+    "start": 385.86,
+    "text": " So that's what's going on."
+  },
+  {
+    "start": 387.86,
+    "text": " Now, let's go back to the algorithm section."
+  },
+  {
+    "start": 389.86,
+    "text": " At this point, D is modulating C, which is modulating B, which is modulating A."
+  },
+  {
+    "start": 394.86,
+    "text": " But instead, we can have both C and D modulate B, which is modulating A."
+  },
+  {
+    "start": 399.86,
+    "text": " And when you have these complex situations going on, by switching algorithms, you get different sounds."
+  },
+  {
+    "start": 412.86,
+    "text": " All the way over to this algorithm."
+  },
+  {
+    "start": 415.86,
+    "text": " Now, this algorithm transforms operator into four completely discrete oscillators."
+  },
+  {
+    "start": 422.86,
+    "text": " So what does this tell you?"
+  },
+  {
+    "start": 424.86,
+    "text": " Well, this is basically like a four oscillator subtractive synthesizer, right?"
+  },
+  {
+    "start": 428.86,
+    "text": " You can just choose waveforms for each one of these, and you can make those more average sounds."
+  },
+  {
+    "start": 433.86,
+    "text": " So I'm going to start a brand new operator, and I'm just going to choose a bunch of saw waveforms for each one of these."
+  },
+  {
+    "start": 440.86,
+    "text": " Okay."
+  },
+  {
+    "start": 441.86,
+    "text": " Saw."
+  },
+  {
+    "start": 442.86,
+    "text": " Saw."
+  },
+  {
+    "start": 443.86,
+    "text": " Saw did."
+  },
+  {
+    "start": 444.86,
+    "text": " Saw did."
+  },
+  {
+    "start": 446.86,
+    "text": " Saw."
+  },
+  {
+    "start": 447.86,
+    "text": " All right."
+  },
+  {
+    "start": 448.86,
+    "text": " So I'm going to just turn each one of these up about the same way."
+  },
+  {
+    "start": 452.86,
+    "text": " Now, that's all just a bunch of sine waveforms, but what can you do?"
+  },
+  {
+    "start": 454.86,
+    "text": " You can detune them slightly and get yourself..."
+  },
+  {
+    "start": 463.86,
+    "text": " By clicking on this, you know, this is what they sound like when they're all modulating each other."
+  },
+  {
+    "start": 467.86,
+    "text": " Like absolute horse crap."
+  },
+  {
+    "start": 469.86,
+    "text": " But then you hit this."
+  },
+  {
+    "start": 473.86,
+    "text": " You get this huge sounding saw waveform."
+  },
+  {
+    "start": 476.86,
+    "text": " Now, what do I do just there?"
+  },
+  {
+    "start": 477.86,
+    "text": " Well, that's the filter, right?"
+  },
+  {
+    "start": 479.86,
+    "text": " So the filter, in fact, I'm going to kind of detune this a little bit less."
+  },
+  {
+    "start": 482.86,
+    "text": " That's kind of extreme."
+  },
+  {
+    "start": 490.86,
+    "text": " So that's kind of like your classic hyper saw sound, right?"
+  },
+  {
+    "start": 493.86,
+    "text": " This is the filter section."
+  },
+  {
+    "start": 495.86,
+    "text": " All you got to do is click on here and then you get a filter."
+  },
+  {
+    "start": 500.86,
+    "text": " Right?"
+  },
+  {
+    "start": 501.86,
+    "text": " Now, the rad thing about this filter is that it's multi-mode, obviously."
+  },
+  {
+    "start": 505.86,
+    "text": " So you got your high pass, low pass, band pass, blah, blah, all that stuff you already know."
+  },
+  {
+    "start": 510.86,
+    "text": " You can also change the filter slope so you can get less..."
+  },
+  {
+    "start": 515.86,
+    "text": " Less of an extreme filtering, right?"
+  },
+  {
+    "start": 517.86,
+    "text": " But what you didn't know is that you have different modes."
+  },
+  {
+    "start": 521.86,
+    "text": " Now, these modes are going to sound a lot more different if you have the resonance kind of turned up."
+  },
+  {
+    "start": 537.86,
+    "text": " So listen to that versus..."
+  },
+  {
+    "start": 540.86,
+    "text": " Okay, so these are just different characters of filters that you can use, right?"
+  },
+  {
+    "start": 543.86,
+    "text": " That's all that that is."
+  },
+  {
+    "start": 545.86,
+    "text": " Very, very simple stuff."
+  },
+  {
+    "start": 547.86,
+    "text": " But the filter..."
+  },
+  {
+    "start": 548.86,
+    "text": " Now, let's take a look at the filter."
+  },
+  {
+    "start": 550.86,
+    "text": " The filter also is treated the same way as any of these little blocks, right?"
+  },
+  {
+    "start": 555.86,
+    "text": " These are the oscillator blocks, but if I click on the filter, look."
+  },
+  {
+    "start": 559.86,
+    "text": " It kind of looks the same if I'm looking at the envelope section."
+  },
+  {
+    "start": 562.86,
+    "text": " It kind of looks the same, except that it starts out like this without a sustain stage turned up."
+  },
+  {
+    "start": 568.86,
+    "text": " See, the sustain is turned all the way down instead of turned, in this case, all the way up, right?"
+  },
+  {
+    "start": 572.86,
+    "text": " So in the filter stage, you're like, oh, that's cool."
+  },
+  {
+    "start": 574.86,
+    "text": " So now you can start to get some of the logic here."
+  },
+  {
+    "start": 576.86,
+    "text": " If I turn the filter frequency down, but I turn the envelope effect..."
+  },
+  {
+    "start": 581.86,
+    "text": " So this is the effect of the envelope."
+  },
+  {
+    "start": 583.86,
+    "text": " If I turn it up, I get..."
+  },
+  {
+    "start": 589.86,
+    "text": " Right, so now I can get this..."
+  },
+  {
+    "start": 590.86,
+    "text": " I can get these filters to kind of affect the sound different."
+  },
+  {
+    "start": 594.86,
+    "text": " And I can choose between my modes..."
+  },
+  {
+    "start": 600.86,
+    "text": " Till I get the sound that I'm looking for, right?"
+  },
+  {
+    "start": 602.86,
+    "text": " So that's just that all that is is just turning up the envelope right here, right?"
+  },
+  {
+    "start": 608.86,
+    "text": " You also have drive, okay?"
+  },
+  {
+    "start": 610.86,
+    "text": " So this is a little bit..."
+  },
+  {
+    "start": 611.86,
+    "text": " You can add a little bit more."
+  },
+  {
+    "start": 613.86,
+    "text": " You got a little bit more drive into the filter just in case the filter starts to sound a little bit quieter."
+  },
+  {
+    "start": 618.86,
+    "text": " You also have a shaper."
+  },
+  {
+    "start": 619.86,
+    "text": " So what this does, check it out."
+  },
+  {
+    "start": 621.86,
+    "text": " Ooh, is that distortion I hear?"
+  },
+  {
+    "start": 623.86,
+    "text": " Yes, it is."
+  },
+  {
+    "start": 625.86,
+    "text": " Woo, it's kind of hot."
+  },
+  {
+    "start": 626.86,
+    "text": " But you see, now I can not only get drive going into the filter by turning it up, but also by turning it down."
+  },
+  {
+    "start": 634.86,
+    "text": " So I can get the sound that I'm looking for."
+  },
+  {
+    "start": 636.86,
+    "text": " But you see, now I can not only get drive going into the filter, by adding more and more of this, what's going to happen is that over time, I'm going to get more and more distortion, okay?"
+  },
+  {
+    "start": 647.86,
+    "text": " So these different clipping modes can get different distortion levels, right?"
+  },
+  {
+    "start": 651.86,
+    "text": " So I'm just going to turn this down just a little bit so we can really have fun."
+  },
+  {
+    "start": 658.86,
+    "text": " I really like the sine fold, sounds awesome."
+  },
+  {
+    "start": 660.86,
+    "text": " The 4-bit mode's cool."
+  },
+  {
+    "start": 661.86,
+    "text": " Right?"
+  },
+  {
+    "start": 666.86,
+    "text": " So you're like, wow, there's a lot of options here, and that's true."
+  },
+  {
+    "start": 672.86,
+    "text": " Right? Okay."
+  },
+  {
+    "start": 673.86,
+    "text": " So that's the filter section."
+  },
+  {
+    "start": 674.86,
+    "text": " Then the LFO section is just self-explanatory."
+  },
+  {
+    "start": 676.86,
+    "text": " When you turn this on, right now it's off."
+  },
+  {
+    "start": 679.86,
+    "text": " Okay."
+  },
+  {
+    "start": 680.86,
+    "text": " When I turn it on, automatically, you got to check this out."
+  },
+  {
+    "start": 683.86,
+    "text": " So automatically, these are where the LFOs are being sent."
+  },
+  {
+    "start": 688.86,
+    "text": " So LFOs what?"
+  },
+  {
+    "start": 689.86,
+    "text": " Low frequency oscillator."
+  },
+  {
+    "start": 690.86,
+    "text": " This little guy can send pitch modulation, as well as other kinds of modulation, all over operator."
+  },
+  {
+    "start": 697.86,
+    "text": " Now you might be thinking, operator only has one LFO, it's totally crap."
+  },
+  {
+    "start": 702.86,
+    "text": " Well, just keep watching the whole series, and eventually you'll be like, wow, never mind."
+  },
+  {
+    "start": 706.86,
+    "text": " Operator can do a million things if you expand it, okay?"
+  },
+  {
+    "start": 709.86,
+    "text": " But we're going to get there later."
+  },
+  {
+    "start": 711.86,
+    "text": " All right."
+  },
+  {
+    "start": 712.86,
+    "text": " So if I just turn A on."
+  },
+  {
+    "start": 716.86,
+    "text": " What am I listening to?"
+  },
+  {
+    "start": 720.86,
+    "text": " Tell you what, let's clean this up just a little bit."
+  },
+  {
+    "start": 725.86,
+    "text": " So now if I just listen to A, also you can just turn these on and off just by clicking that."
+  },
+  {
+    "start": 731.86,
+    "text": " The initial setting's kind of wacky, isn't it?"
+  },
+  {
+    "start": 733.86,
+    "text": " Okay."
+  },
+  {
+    "start": 734.86,
+    "text": " So right now, this is a re-trigger, meaning that every time I hit the note, it's going to go up."
+  },
+  {
+    "start": 740.86,
+    "text": " But if I turn off re-trigger, what do I get?"
+  },
+  {
+    "start": 743.86,
+    "text": " That means the LFO is free running."
+  },
+  {
+    "start": 745.86,
+    "text": " Re-trigger just means all over operator, those re-trigger buttons."
+  },
+  {
+    "start": 749.86,
+    "text": " Re-trigger just means that either the LFO is free running or it does the same thing every time I hit a note."
+  },
+  {
+    "start": 758.86,
+    "text": " So if I turn a mount down and right up, I can get your classic, right?"
+  },
+  {
+    "start": 771.86,
+    "text": " And remember, that's just for A."
+  },
+  {
+    "start": 772.86,
+    "text": " So if I turn these other ones on, this is what's fun about it."
+  },
+  {
+    "start": 777.86,
+    "text": " Just A is being modulated."
+  },
+  {
+    "start": 779.86,
+    "text": " Maybe I just want A and D."
+  },
+  {
+    "start": 782.86,
+    "text": " Maybe I just want B and the filter frequency, for example, to be modulated."
+  },
+  {
+    "start": 791.86,
+    "text": " So the power of this single LFO is actually pretty awesome."
+  },
+  {
+    "start": 794.86,
+    "text": " I mean, you can just do the filter or just these different oscillators, right?"
+  },
+  {
+    "start": 799.86,
+    "text": " You also have these other destinations."
+  },
+  {
+    "start": 802.86,
+    "text": " Now, this thing gets so deep, and this is going to be something for the next couple of videos."
+  },
+  {
+    "start": 808.86,
+    "text": " We're going to get a lot deeper into those things."
+  },
+  {
+    "start": 810.86,
+    "text": " But I just want to keep moving on, right?"
+  },
+  {
+    "start": 812.86,
+    "text": " Because we're just doing an overview, all right?"
+  },
+  {
+    "start": 814.86,
+    "text": " So stay tuned for the next couple of videos."
+  },
+  {
+    "start": 816.86,
+    "text": " Like, comment, subscribe also."
+  },
+  {
+    "start": 818.86,
+    "text": " And that way you can be notified when this next video comes out."
+  },
+  {
+    "start": 821.86,
+    "text": " So I'm going to turn these actually off, and we're going to go to..."
+  },
+  {
+    "start": 823.86,
+    "text": " Well, I'll leave the filter on, I guess."
+  },
+  {
+    "start": 825.86,
+    "text": " I'm going to go to the pitch envelope, all right?"
+  },
+  {
+    "start": 827.86,
+    "text": " So let's take a look at this screen."
+  },
+  {
+    "start": 829.86,
+    "text": " If I turn this on, automatically, nothing happens."
+  },
+  {
+    "start": 834.86,
+    "text": " But this is also an envelope, in the same way that all of these have an envelope."
+  },
+  {
+    "start": 841.86,
+    "text": " This is also an envelope, but it looks a little different, right?"
+  },
+  {
+    "start": 844.86,
+    "text": " And the reason that is is because it is still an attack, decay, and sustain and release ADSR envelope."
+  },
+  {
+    "start": 852.86,
+    "text": " But what you can do with this is really fun."
+  },
+  {
+    "start": 855.86,
+    "text": " So if I turn this up, it's a pitch envelope, right?"
+  },
+  {
+    "start": 861.86,
+    "text": " And I can change the initial frequency."
+  },
+  {
+    "start": 865.86,
+    "text": " Woo!"
+  },
+  {
+    "start": 867.86,
+    "text": " Or I can go the other way, either by pulling this down or by pulling this down."
+  },
+  {
+    "start": 874.86,
+    "text": " So same thing."
+  },
+  {
+    "start": 876.86,
+    "text": " It's either adding a negative 100% or I'm just pulling it down, right?"
+  },
+  {
+    "start": 880.86,
+    "text": " Now, why is this awesome?"
+  },
+  {
+    "start": 882.86,
+    "text": " Well, one of the main things is you can do those kind of cool bass lines where it's moving slower."
+  },
+  {
+    "start": 887.86,
+    "text": " Let's just show that, okay?"
+  },
+  {
+    "start": 896.86,
+    "text": " I'm going to make it just a little bit faster."
+  },
+  {
+    "start": 898.86,
+    "text": " Hey!"
+  },
+  {
+    "start": 901.86,
+    "text": " I'm going to play deeper on my keyboard."
+  },
+  {
+    "start": 903.86,
+    "text": " What's cool about this is that this sustain setting, instead of being a time base, what it actually has instead, or sorry, a volume base, instead what it has is it actually has a step base, okay?"
+  },
+  {
+    "start": 917.86,
+    "text": " So what that means is these are actually musical steps."
+  },
+  {
+    "start": 919.86,
+    "text": " So if I play a C, it's going to start all the way on, what do I got this set on, all the way down at negative 48 steps, but it's going to go up to zero steps."
+  },
+  {
+    "start": 928.86,
+    "text": " So even if this is super long, right, I know that it's going to end on that F that I just played."
+  },
+  {
+    "start": 938.86,
+    "text": " Right?"
+  },
+  {
+    "start": 940.86,
+    "text": " How rad is that?"
+  },
+  {
+    "start": 942.86,
+    "text": " So you've got this really rad situation where you know what note you're going to end up at."
+  },
+  {
+    "start": 948.86,
+    "text": " And so there are so many musical applications for this, right?"
+  },
+  {
+    "start": 950.86,
+    "text": " So I'm going to turn the pitch modulation all the way down."
+  },
+  {
+    "start": 952.86,
+    "text": " And the next thing to know is that you also have, this is where you find all some of these other things."
+  },
+  {
+    "start": 954.86,
+    "text": " You're like, operator doesn't have glide time, yes it does."
+  },
+  {
+    "start": 956.86,
+    "text": " Just right here, right?"
+  },
+  {
+    "start": 958.86,
+    "text": " Right?"
+  },
+  {
+    "start": 960.86,
+    "text": " And you can change the time here."
+  },
+  {
+    "start": 962.86,
+    "text": " Right?"
+  },
+  {
+    "start": 964.86,
+    "text": " And you can change the time here."
+  },
+  {
+    "start": 966.86,
+    "text": " Right?"
+  },
+  {
+    "start": 968.86,
+    "text": " And you can change the time here."
+  },
+  {
+    "start": 970.86,
+    "text": " Right?"
+  },
+  {
+    "start": 972.86,
+    "text": " And you can change the time here."
+  },
+  {
+    "start": 974.86,
+    "text": " Right?"
+  },
+  {
+    "start": 976.86,
+    "text": " And you can change the time here."
+  },
+  {
+    "start": 978.86,
+    "text": " Right?"
+  },
+  {
+    "start": 980.86,
+    "text": " So you got your glide time."
+  },
+  {
+    "start": 982.86,
+    "text": " And then in this final box area, you're like, well, I don't want it to be polyphonic, I want it to be, I'll just do it right here."
+  },
+  {
+    "start": 986.86,
+    "text": " In this final box where we found the algorithms, you can change the voices down to one."
+  },
+  {
+    "start": 990.86,
+    "text": " So you can get those kind of, you know, minimo kind of sounds, you know?"
+  },
+  {
+    "start": 994.86,
+    "text": " Something you can do right off the bat that's really fun is you can pan the keys."
+  },
+  {
+    "start": 998.86,
+    "text": " So when you're playing up high, they're a little bit to the right, but you can also do them from the left."
+  },
+  {
+    "start": 1002.86,
+    "text": " can do right off the bat that's really fun is you can pan the keys so when"
+  },
+  {
+    "start": 1006.42,
+    "text": " you're playing up high they're a little bit to the right in fact let's just turn"
+  },
+  {
+    "start": 1009.62,
+    "text": " up so you can hear all the way so this is up high and that's kind of to the right and"
+  },
+  {
+    "start": 1013.38,
+    "text": " this is down low kind of to the left right so it just kind of treats it like a"
+  },
+  {
+    "start": 1016.74,
+    "text": " mic to piano you know that kind of thing and you can also do your classic random"
+  },
+  {
+    "start": 1021.42,
+    "text": " panning which is super fun"
+  },
+  {
+    "start": 1024.26,
+    "text": " right ok so that is an overview of operator now we're going to get a lot"
+  },
+  {
+    "start": 1035.3,
+    "text": " deeper into this this is going to be a lot lot crazier this is just I wanted to"
+  },
+  {
+    "start": 1039.98,
+    "text": " show you the interface so you can understand what it does and what it is"
+  },
+  {
+    "start": 1043.22,
+    "text": " watch the next video and you'll be able to we're going to dive a lot deeper into"
+  },
+  {
+    "start": 1048.06,
+    "text": " this we're going to get so deep in fact that there won't be any sound you can"
+  },
+  {
+    "start": 1051.58,
+    "text": " think of in your head that we can't make with this thing ok alright so stay"
+  },
+  {
+    "start": 1056.22,
+    "text": " tuned for the next video thanks for watching everybody yeah love you see it"
+  },
+  {
+    "start": 1059.6599999999999,
+    "text": " bye"
+  }
+]

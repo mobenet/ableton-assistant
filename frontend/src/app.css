@@ -77,8 +77,49 @@ html, body, #root { height: 100%; margin: 0; background: var(--bg); color: var(-
 }
 
 .input-wrap .actions button[type="submit"] {
-  color: #fff;           /* flecha blanca */
+  color: #fff;
 }
 .input-wrap .actions button[type="submit"]:hover {
-  color: #fff;           /* mantiene blanco al pasar el ratón */
+  color: #fff;
+}
+
+/* Error Boundary */
+.error-boundary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+  text-align: center;
+  background: var(--bg);
+  color: var(--text);
+}
+.error-boundary h2 {
+  color: #ff6b6b;
+  margin-bottom: 16px;
+}
+.error-boundary p {
+  color: var(--muted);
+  margin-bottom: 24px;
+  max-width: 400px;
+}
+.error-boundary button {
+  padding: 12px 24px;
+  background: var(--accent);
+  color: #000;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+}
+.error-boundary button:hover {
+  opacity: 0.9;
+}
+
+/* Icon buttons SVG styling */
+.iconbtn svg {
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
 }

@@ -1,0 +1,586 @@
+[
+  {
+    "start": 0.96,
+    "text": " Ableton Live has a number of excellent delay effects…"
+  },
+  {
+    "start": 4.0,
+    "text": " …but did you know that you can use them for a lot more than just echo?"
+  },
+  {
+    "start": 8.16,
+    "text": " Let's explore some unexpected uses for Ableton's various delays."
+  },
+  {
+    "start": 15.200000000000001,
+    "text": " We'll start with something simple using the Delay Device…"
+  },
+  {
+    "start": 17.8,
+    "text": " …which is available in all versions of Live."
+  },
+  {
+    "start": 21.36,
+    "text": " You can use Delay to enhance the stereo width of elements in your mix."
+  },
+  {
+    "start": 27.240000000000002,
+    "text": " Let's make this drum beat wider."
+  },
+  {
+    "start": 29.16,
+    "text": " I've already added Delay to the Clap Channel."
+  },
+  {
+    "start": 32.04,
+    "text": " I'll unlink the Delays and set them both to Time mode."
+  },
+  {
+    "start": 37.32,
+    "text": " I'll set the Left Delay as low as possible…"
+  },
+  {
+    "start": 39.519999999999996,
+    "text": " …and the Right Delay to 15 milliseconds."
+  },
+  {
+    "start": 45.56,
+    "text": " I'll also set the Feedback to 0 and turn off the Filter section."
+  },
+  {
+    "start": 49.760000000000005,
+    "text": " Now, as I increase the Dry Wet, you'll hear the claps get wider."
+  },
+  {
+    "start": 59.199999999999996,
+    "text": " This is known as the Haas effect."
+  },
+  {
+    "start": 62.12,
+    "text": " It's a psychoacoustic phenomenon that works by splitting a signal…"
+  },
+  {
+    "start": 65.32,
+    "text": " …and sending a slightly delayed version to one ear."
+  },
+  {
+    "start": 68.12,
+    "text": " Our ears then perceive the two sounds as coming from different directions…"
+  },
+  {
+    "start": 71.56,
+    "text": " …creating the illusion of stereo width from an otherwise mono part."
+  },
+  {
+    "start": 76.0,
+    "text": " This can work well on a number of different elements in your mix."
+  },
+  {
+    "start": 79.12,
+    "text": " For example, if you want to create a sound that is a bit more dynamic…"
+  },
+  {
+    "start": 82.12,
+    "text": " …you can use the Delay Device."
+  },
+  {
+    "start": 84.12,
+    "text": " You can also use the Delay Device to create a sound that is a bit more dynamic…"
+  },
+  {
+    "start": 87.12,
+    "text": " …and a number of different elements in your mix."
+  },
+  {
+    "start": 89.28,
+    "text": " However, there are a few disclaimers to bear in mind when using the effect."
+  },
+  {
+    "start": 93.48,
+    "text": " The biggest concern is mono compatibility."
+  },
+  {
+    "start": 96.56,
+    "text": " Mono compatibility and the phase issues that go along with it are a complicated subject…"
+  },
+  {
+    "start": 100.92,
+    "text": " …and one that we don't have time for in this video."
+  },
+  {
+    "start": 103.44,
+    "text": " But, essentially, we want to make sure that our mix sounds as close as possible to the stereo version…"
+  },
+  {
+    "start": 108.64,
+    "text": " …if it's ever played back in mono."
+  },
+  {
+    "start": 111.16,
+    "text": " Let's hear what I mean."
+  },
+  {
+    "start": 113.2,
+    "text": " You can make a stereo sound mono using Live's Utility Device."
+  },
+  {
+    "start": 117.12,
+    "text": " …"
+  },
+  {
+    "start": 121.12,
+    "text": " At the moment, this doesn't sound so bad when summed to mono…"
+  },
+  {
+    "start": 124.12,
+    "text": " …but listen to what happens when I set the right delay to a smaller amount."
+  },
+  {
+    "start": 128.12,
+    "text": " …"
+  },
+  {
+    "start": 131.84,
+    "text": " Notice how the sound of the clap has completely fallen apart."
+  },
+  {
+    "start": 135.20000000000002,
+    "text": " It's got an odd ringing and has lost a lot of its attack."
+  },
+  {
+    "start": 137.88,
+    "text": " It only barely sounds like a clap."
+  },
+  {
+    "start": 139.88,
+    "text": " …"
+  },
+  {
+    "start": 142.8,
+    "text": " Without getting too much into what's going on here…"
+  },
+  {
+    "start": 145.07999999999998,
+    "text": " …the best thing to do when using this technique is load Utility after the delay…"
+  },
+  {
+    "start": 149.6,
+    "text": " …and check your sound in mono."
+  },
+  {
+    "start": 151.6,
+    "text": " If you adjust the delay time while the sound is monoed…"
+  },
+  {
+    "start": 154.35999999999999,
+    "text": " …you'll be able to find a sweet spot where the sound maintains most of its original character."
+  },
+  {
+    "start": 159.0,
+    "text": " If the delay time is too low, you end up with odd phasing."
+  },
+  {
+    "start": 162.51999999999998,
+    "text": " …"
+  },
+  {
+    "start": 165.07999999999998,
+    "text": " Too high and suddenly we're hearing an audible delay."
+  },
+  {
+    "start": 167.56,
+    "text": " …"
+  },
+  {
+    "start": 170.64,
+    "text": " The exact sweet spot will differ depending on the sound…"
+  },
+  {
+    "start": 173.4,
+    "text": " …but once you've found it, you can disable Utility and you'll have a nice wide sound."
+  },
+  {
+    "start": 177.64000000000001,
+    "text": " …"
+  },
+  {
+    "start": 181.04000000000002,
+    "text": " This technique works really well on some sounds and less well on others, so be sure to experiment."
+  },
+  {
+    "start": 186.28,
+    "text": " There are many other ways to add stereo width to your sounds…"
+  },
+  {
+    "start": 189.28,
+    "text": " …but this is one quick and easy way that works well in certain situations."
+  },
+  {
+    "start": 193.64000000000001,
+    "text": " I'll include links in the description to where you can learn more about the Haas effect and mono compatibility."
+  },
+  {
+    "start": 198.56,
+    "text": " I'd encourage you to check them out."
+  },
+  {
+    "start": 201.56,
+    "text": " Let's look at another fun use for delay…"
+  },
+  {
+    "start": 203.56,
+    "text": " …using it to create tape style effects."
+  },
+  {
+    "start": 206.56,
+    "text": " I've loaded another delay onto these chords."
+  },
+  {
+    "start": 209.56,
+    "text": " The feedback is set to 0% and dry wet is at 100%."
+  },
+  {
+    "start": 213.56,
+    "text": " Both delays are linked, set to time mode and have a delay of 1ms."
+  },
+  {
+    "start": 218.56,
+    "text": " I also want to make sure the delay is in repitch mode."
+  },
+  {
+    "start": 221.56,
+    "text": " This allows us to get tape style pitching effects when adjusting the delay time."
+  },
+  {
+    "start": 231.56,
+    "text": " …"
+  },
+  {
+    "start": 237.56,
+    "text": " This is a really fun parameter to automate and if you've got Max for Live, you could also modulate the delay time with an LFO."
+  },
+  {
+    "start": 247.56,
+    "text": " You'll probably want to restrict the range a bit…"
+  },
+  {
+    "start": 253.56,
+    "text": " …I find the random waveform gives some good results."
+  },
+  {
+    "start": 260.56,
+    "text": " …"
+  },
+  {
+    "start": 274.56,
+    "text": " Bear in mind that this is actually still adding a small time delay to the signal…"
+  },
+  {
+    "start": 278.56,
+    "text": " …so it's best used on parts that aren't particularly timing sensitive, like pads."
+  },
+  {
+    "start": 284.56,
+    "text": " Staying with these chords, let's look at another effect, Live's Echo."
+  },
+  {
+    "start": 288.56,
+    "text": " You can use Echo to create classic modulation effects like chorus and flanger."
+  },
+  {
+    "start": 293.56,
+    "text": " The cool thing is that because of the range of controls available in Echo,"
+  },
+  {
+    "start": 297.56,
+    "text": " you can get much richer and more interesting results than you might using standard chorus and flanger effects."
+  },
+  {
+    "start": 303.56,
+    "text": " To start, disable most of Echo's functions like the filter and any modulation or character settings."
+  },
+  {
+    "start": 313.56,
+    "text": " Set the feedback to 0 and the dry wet to the max."
+  },
+  {
+    "start": 318.56,
+    "text": " Chorus and flanger effects are created by modulating the delay time."
+  },
+  {
+    "start": 322.56,
+    "text": " Chorus tends to occur at delay times of around 20ms, while flanging happens at much shorter delay times."
+  },
+  {
+    "start": 329.56,
+    "text": " Let's go with chorus first."
+  },
+  {
+    "start": 330.56,
+    "text": " Make sure both delays are linked and set to time mode, then set the delay time to around 20ms."
+  },
+  {
+    "start": 337.56,
+    "text": " Next, head over to the modulation tab and increase the delay's modulation amount to a moderate setting."
+  },
+  {
+    "start": 342.56,
+    "text": " Make sure that the modulating LFOs are out of phase as well, basically anything other than 0 on the phase control."
+  },
+  {
+    "start": 349.56,
+    "text": " You can already hear some chorusing, but this is even more exaggerated when turning up the feedback."
+  },
+  {
+    "start": 357.56,
+    "text": " Turning the feedback too high sounds a bit weird, but settings around 60% or below sound pretty good."
+  },
+  {
+    "start": 364.56,
+    "text": " Now that we've got the basic chorus effect, let's start bringing in other effects."
+  },
+  {
+    "start": 368.56,
+    "text": " What about some reverb as part of the feedback chain?"
+  },
+  {
+    "start": 374.56,
+    "text": " You could try ping pong mode…"
+  },
+  {
+    "start": 380.56,
+    "text": " Or adjust the rate of the LFO for some different characters."
+  },
+  {
+    "start": 398.56,
+    "text": " You could bring in some wobble for more of a wonky feel…"
+  },
+  {
+    "start": 410.56,
+    "text": " You can turn on Echo's input drive and increase the input gain to add some saturation…"
+  },
+  {
+    "start": 422.56,
+    "text": " And even use the built-in filter to colour the chorus…"
+  },
+  {
+    "start": 428.56,
+    "text": " And you can also use the effect to add some saturation…"
+  },
+  {
+    "start": 447.56,
+    "text": " Flanging is achieved using fairly similar settings."
+  },
+  {
+    "start": 451.56,
+    "text": " We need a shorter delay time…"
+  },
+  {
+    "start": 454.56,
+    "text": " Higher feedback…"
+  },
+  {
+    "start": 458.56,
+    "text": " Much higher modulation amounts…"
+  },
+  {
+    "start": 463.56,
+    "text": " And it tends to work best in stereo mode."
+  },
+  {
+    "start": 472.56,
+    "text": " Echo even includes this 4x switch that multiplies the modulation depth by 4 for an even deeper flanging."
+  },
+  {
+    "start": 478.56,
+    "text": " Chorus and flanging are great tools to add depth and width to just about any sound…"
+  },
+  {
+    "start": 483.56,
+    "text": " And we can create really colourful, analogue style effects using Echo."
+  },
+  {
+    "start": 487.56,
+    "text": " Try adding chorusing to chords to make them sound lush and wide…"
+  },
+  {
+    "start": 490.56,
+    "text": " Or try using subtle flanging on drum tracks to add a bit of liveliness."
+  },
+  {
+    "start": 496.56,
+    "text": " Another cool thing we can do with Echo is create analogue style loop textures."
+  },
+  {
+    "start": 501.56,
+    "text": " Early analogue loop patterns are used to create a more realistic effect."
+  },
+  {
+    "start": 505.56,
+    "text": " And we can also create really cool loop textures."
+  },
+  {
+    "start": 509.56,
+    "text": " Early analogue loop pedals were actually just delays with really long delay times and a high feedback…"
+  },
+  {
+    "start": 514.56,
+    "text": " And we can set up something similar in Echo."
+  },
+  {
+    "start": 517.56,
+    "text": " I've loaded Echo onto a synth track I'll be using to feed the looper."
+  },
+  {
+    "start": 521.56,
+    "text": " For now, I'll disable the filter and any other settings like modulation or wobble."
+  },
+  {
+    "start": 527.56,
+    "text": " With both delays linked and in sync mode, I'll set the delay time as high as it will go."
+  },
+  {
+    "start": 532.56,
+    "text": " And the feedback to exactly 100%."
+  },
+  {
+    "start": 536.56,
+    "text": " Now, whatever I play into Echo will be captured into a loop."
+  },
+  {
+    "start": 544.56,
+    "text": " These notes are now captured and will repeat forever because the feedback is set to 100%."
+  },
+  {
+    "start": 549.56,
+    "text": " I can play new notes on each loop cycle and they'll be added to the loop."
+  },
+  {
+    "start": 562.56,
+    "text": " Now for the best bit."
+  },
+  {
+    "start": 564.56,
+    "text": " As long as Echo is in repitch mode, I can adjust the delay time and the loop will repitch itself."
+  },
+  {
+    "start": 578.56,
+    "text": " Halving or doubling the loop time will raise or lower the pitch of the loop by an octave."
+  },
+  {
+    "start": 583.56,
+    "text": " Every time you adjust the loop's rate, the pitching artifacts also save the loop time."
+  },
+  {
+    "start": 587.56,
+    "text": " This is an awesome technique for creating interesting textural loops."
+  },
+  {
+    "start": 591.56,
+    "text": " Let's hear another example."
+  },
+  {
+    "start": 593.56,
+    "text": " To stop the current loop playing, simply set the feedback to 0% and the loop will die out after the next cycle."
+  },
+  {
+    "start": 617.56,
+    "text": " You can of course experiment with the other controls in Echo to add a more analogue flavour to your loops."
+  },
+  {
+    "start": 647.56,
+    "text": " And the best way to capture these loops is to resample them to a new audio track."
+  },
+  {
+    "start": 651.56,
+    "text": " And the best way to capture these loops is to resample them to a new audio track."
+  },
+  {
+    "start": 681.56,
+    "text": " Going back to the idea I was working on before,"
+  },
+  {
+    "start": 708.56,
+    "text": " I've used this looping technique to create a synth texture that sits underneath the main pattern."
+  },
+  {
+    "start": 713.56,
+    "text": " You'll also hear I've used the repitching effect to build the energy of the part in the second half of the loop by stepping it up a few octaves."
+  },
+  {
+    "start": 739.56,
+    "text": " There's one more fun delay trick to look at, using the Grain Delay as a rudimentary pitch shifter."
+  },
+  {
+    "start": 746.56,
+    "text": " I want to add a vocal to this beat."
+  },
+  {
+    "start": 757.56,
+    "text": " It sounds a bit repetitive as is, so I'll use Grain Delay to give it some life."
+  },
+  {
+    "start": 762.56,
+    "text": " First I'll set the delay mode to Time and turn it all the way down to 1ms, so there's minimal time delay on the signal."
+  },
+  {
+    "start": 769.56,
+    "text": " I'll also make sure Feedback is set to 0."
+  },
+  {
+    "start": 773.56,
+    "text": " You can set the Pitch value to whatever you'd like to pitch shift by."
+  },
+  {
+    "start": 777.56,
+    "text": " I'll go with 12 semitones, which is an octave."
+  },
+  {
+    "start": 781.56,
+    "text": " The Spray and Frequency controls require the most adjusting to get the sound you want, as we'll see shortly, but I'll set those to moderate values for now."
+  },
+  {
+    "start": 792.56,
+    "text": " Now, when I increase the Dry Wet, you'll hear the signal being pitch shifted up an octave."
+  },
+  {
+    "start": 804.56,
+    "text": " Now we can explore different settings for the Spray and Frequency controls to adjust the tone of the effect."
+  },
+  {
+    "start": 821.56,
+    "text": " This is a great effect to automate."
+  },
+  {
+    "start": 824.56,
+    "text": " I've already set up a clip with some automation for the Pitch Amount and Dry Wet controls."
+  },
+  {
+    "start": 851.56,
+    "text": " The Short Vocal Loop is already much more interesting."
+  },
+  {
+    "start": 857.56,
+    "text": " The pitching effects work really well on vocals, but it sounds great on all sorts of different material, so be sure to explore it on different sounds."
+  },
+  {
+    "start": 866.56,
+    "text": " So, we've seen that Ableton Live's delays are useful for way more than simply adding delay to your sounds."
+  },
+  {
+    "start": 873.56,
+    "text": " I'd encourage you to explore setting these effects up for yourself, but I've also put together a series of free preset racks that give you easy access to each of the effects."
+  },
+  {
+    "start": 881.56,
+    "text": " I'll include a link to those in the description."
+  },
+  {
+    "start": 884.56,
+    "text": " Drop a comment below if you've got any questions, and hit to elephant.io to watch more tutorials and download free Ableton Live packs."
+  },
+  {
+    "start": 893.56,
+    "text": " This has been Elephant. Thanks for watching."
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "start": 0.0,
+    "text": " What's up? This is Alex, DJ Couchking, and welcome to another video in my beginner series"
+  },
+  {
+    "start": 5.04,
+    "text": " on Ableton Live 10. In this video, I'm going to show you how to get started recording and editing"
+  },
+  {
+    "start": 10.0,
+    "text": " audio inside Ableton Live. I'm going to break this video down into four parts. In the first part,"
+  },
+  {
+    "start": 15.92,
+    "text": " I'll tell you everything you need to follow along with this tutorial. In the second part,"
+  },
+  {
+    "start": 20.240000000000002,
+    "text": " we'll set up the software for recording. In part three, we will record some audio. And in part four,"
+  },
+  {
+    "start": 26.88,
+    "text": " I'll show you the basic editing functions inside Ableton Live. The first thing you'll need is some"
+  },
+  {
+    "start": 32.16,
+    "text": " kind of input source. This could be a microphone, a DJ setup like the one behind me, a guitar,"
+  },
+  {
+    "start": 38.32,
+    "text": " a keyboard, whatever. You just need something to actually record. Next, make sure you have all the"
+  },
+  {
+    "start": 43.599999999999994,
+    "text": " appropriate cables to connect your input source to your computer or interface. Finally, you'll"
+  },
+  {
+    "start": 48.96,
+    "text": " need some sort of input to your computer. This could be the built-in microphone or the built-in"
+  },
+  {
+    "start": 54.32,
+    "text": " input on your computer, but I would highly recommend getting an external audio interface."
+  },
+  {
+    "start": 60.56,
+    "text": " Something like this guy, the Focusrite 2i2. These are great little recording interfaces,"
+  },
+  {
+    "start": 65.52,
+    "text": " and they're very affordable. I'll put a link to this and some affordable microphones in the"
+  },
+  {
+    "start": 70.08,
+    "text": " description below. Now that we've got all our hardware ready, let's jump into the software."
+  },
+  {
+    "start": 74.8,
+    "text": " All right, so I've opened up Ableton Live on my computer. Let's set up our DAW for recording. For"
+  },
+  {
+    "start": 79.6,
+    "text": " this tutorial, we will be using the arrangement view. Press the tab key on your keyboard or click"
+  },
+  {
+    "start": 84.39999999999999,
+    "text": " the horizontal lines on the top right to switch views. New live sets are created with two audio"
+  },
+  {
+    "start": 91.28,
+    "text": " and two MIDI tracks. We will only need one audio track for this, so let's delete the others by"
+  },
+  {
+    "start": 95.75999999999999,
+    "text": " clicking on the labels on the right-hand side and pressing the delete key. Next, we will need to"
+  },
+  {
+    "start": 101.91999999999999,
+    "text": " make sure that we have the right input set up in our audio preferences. If you're on PC, click on"
+  },
+  {
+    "start": 107.12,
+    "text": " options and go to preferences. If you're on a Mac, this will be under the menu called live. Once we"
+  },
+  {
+    "start": 112.32000000000001,
+    "text": " have the preferences open, make sure you click on the audio tab. Under audio device, make sure your"
+  },
+  {
+    "start": 117.76,
+    "text": " audio interface is selected. If you're on Windows, also make sure that the driver type is set to ASIO."
+  },
+  {
+    "start": 124.16,
+    "text": " Now we can click on input config. From here, we can activate all the different inputs that we'll"
+  },
+  {
+    "start": 128.8,
+    "text": " be using. Your interface may have less or more inputs than mine. Whichever input you plugged"
+  },
+  {
+    "start": 133.2,
+    "text": " your input source into, make sure that that's activated. If you're not sure, just go ahead and"
+  },
+  {
+    "start": 137.67999999999998,
+    "text": " turn all these on. It's really not going to hurt anything. Once you're done here, just press okay"
+  },
+  {
+    "start": 142.0,
+    "text": " and close out of the preferences window. Now that our audio preferences are set up for recording,"
+  },
+  {
+    "start": 146.23999999999998,
+    "text": " let's set up our audio track. On the right-hand side, in the middle of our channel strip settings,"
+  },
+  {
+    "start": 150.07999999999998,
+    "text": " you'll see three drop-down boxes. This is your input and output routing for each of the channels"
+  },
+  {
+    "start": 154.56,
+    "text": " inside Ableton Live. In this tutorial, we will only be recording one source, but if you're recording"
+  },
+  {
+    "start": 159.28,
+    "text": " multiple microphones, multiple instruments, or just multiple of anything, just repeat the following"
+  },
+  {
+    "start": 163.6,
+    "text": " steps multiple times and you should be just fine. I'm going to leave external input selected in the"
+  },
+  {
+    "start": 169.04,
+    "text": " top box and then choose the input that I've plugged my microphone into on the bottom box."
+  },
+  {
+    "start": 174.08,
+    "text": " If you talk into it, you should see some activity going on on the meters. As you can see, mine is"
+  },
+  {
+    "start": 178.8,
+    "text": " plugged into input number nine, so I'm going to click on that right there. Next, take a look at"
+  },
+  {
+    "start": 183.6,
+    "text": " the monitoring section directly below this. By default, this is set to off. The monitoring section"
+  },
+  {
+    "start": 189.04,
+    "text": " allows you to listen to whatever you're recording through the software. If this is set to off, the"
+  },
+  {
+    "start": 193.44,
+    "text": " software is expecting you to be listening through your interface or mixing board. If your interface"
+  },
+  {
+    "start": 197.92,
+    "text": " does not have direct monitoring, set this to auto and it will allow you to monitor your input. I'm"
+  },
+  {
+    "start": 202.32,
+    "text": " going to leave this set to off since I'm monitoring through my interface. This setup will be different"
+  },
+  {
+    "start": 206.39999999999998,
+    "text": " for everyone, so if you're not sure what to do here, refer to the manual for your interface."
+  },
+  {
+    "start": 210.88,
+    "text": " But if you want to be able to hear effects such as reverbs, compressors, delays, any of that,"
+  },
+  {
+    "start": 215.12,
+    "text": " then you're going to have to monitor through the software, which means that you'll have to"
+  },
+  {
+    "start": 218.64,
+    "text": " have this set to auto. And if you click in, this means that you want to listen to that input all"
+  },
+  {
+    "start": 223.35999999999999,
+    "text": " the time, and I don't recommend this unless you're doing live looping or live performance."
+  },
+  {
+    "start": 228.39999999999998,
+    "text": " Now that our routing is set up, let's record arm the track by clicking the record arm button on"
+  },
+  {
+    "start": 232.07999999999998,
+    "text": " the far right of the channel. Our track is now set up to record. If you look up in the top screen,"
+  },
+  {
+    "start": 236.79999999999998,
+    "text": " you will notice that there are two record buttons. We've got a hollered out one and then one that is"
+  },
+  {
+    "start": 241.83999999999997,
+    "text": " filled in solid black. We're only going to worry about this one that is filled in solid black."
+  },
+  {
+    "start": 246.32,
+    "text": " We're in the arrangement view, and this is our arrangement record. The other one is for recording"
+  },
+  {
+    "start": 251.51999999999998,
+    "text": " into the session view, which we'll cover in another video. Before you record, check the metronome and"
+  },
+  {
+    "start": 256.96,
+    "text": " quantize settings over here in the top left. If you're not sure what these do, refer to my last"
+  },
+  {
+    "start": 261.68,
+    "text": " video in this series where I give a complete overview of the Ableton Live software. And I'm"
+  },
+  {
+    "start": 267.12,
+    "text": " going to turn my metronome off, make sure there's no count in, and then just make sure there's no"
+  },
+  {
+    "start": 272.08,
+    "text": " quantize because I'm just recording a voice over here. Now we can go ahead and hit the"
+  },
+  {
+    "start": 277.03999999999996,
+    "text": " arrangement record button to start recording. Hi, my name is Alex, and I'm recording in Ableton Live."
+  },
+  {
+    "start": 283.76,
+    "text": " Now that we've recorded some audio to work with, let's move on to editing. So by default,"
+  },
+  {
+    "start": 287.91999999999996,
+    "text": " Ableton will have the musical grid active. You can view the grid settings by right clicking and"
+  },
+  {
+    "start": 292.71999999999997,
+    "text": " scrolling down to the bottom of the context menu. If you're recording music, this is a great way to"
+  },
+  {
+    "start": 297.6,
+    "text": " keep your edits in time with the click. In this case, I'm just recording a voice over,"
+  },
+  {
+    "start": 302.32000000000005,
+    "text": " so I'm going to make sure that this is turned off. So I'm going to double click stop to go back to"
+  },
+  {
+    "start": 306.8,
+    "text": " the beginning here. And then I'm going to just edit this so that my voice starts playing right"
+  },
+  {
+    "start": 312.56,
+    "text": " at the beginning. Right now you can see there's a little bit of a delay. Hi, my name is Alex,"
+  },
+  {
+    "start": 317.04,
+    "text": " and I'm recording in Ableton Live. Now there's a few different ways we can do this. I can either"
+  },
+  {
+    "start": 322.24,
+    "text": " just come up here to the top left of the label and grab it and scooch it right up to the beginning"
+  },
+  {
+    "start": 326.96,
+    "text": " there. I can hover over the middle of the clip and highlight a section and then delete it."
+  },
+  {
+    "start": 335.2,
+    "text": " Or I can double click on the clip label and open up the clip editor. I'm not going to go over all"
+  },
+  {
+    "start": 340.15999999999997,
+    "text": " the settings in the clip editor in this video. We will cover all of it over the course of the"
+  },
+  {
+    "start": 344.15999999999997,
+    "text": " remaining videos. These two arrows above the waveform show the start, end, and loop points."
+  },
+  {
+    "start": 349.2,
+    "text": " If I grab the bottom arrow and move it, this will adjust the start point in the arrangement"
+  },
+  {
+    "start": 356.16,
+    "text": " view above. As you can see, when I move this, it moves the clip up here up top. So if I snug"
+  },
+  {
+    "start": 361.84000000000003,
+    "text": " this right up against it, and also if you're working with the grid off, they are separate."
+  },
+  {
+    "start": 366.32000000000005,
+    "text": " So make sure that you turn the grid off down here also. Otherwise, that can be kind of annoying."
+  },
+  {
+    "start": 371.6,
+    "text": " Everything I mentioned before applies to adjusting the end point of a clip also."
+  },
+  {
+    "start": 375.84000000000003,
+    "text": " So if I want to trim the end of this, I can grab this arrow over here and just move that."
+  },
+  {
+    "start": 380.8,
+    "text": " Or I can come up here and grab the label and adjust it there, or highlight and delete."
+  },
+  {
+    "start": 386.24,
+    "text": " A bunch of different ways to do it. I kind of like editing things down here, so I'm going to"
+  },
+  {
+    "start": 389.84000000000003,
+    "text": " go ahead and grab this and move it and trim that up. Down here you can also adjust the level"
+  },
+  {
+    "start": 396.56,
+    "text": " of the recorded audio. You can also do things like warp and transpose, but we're going to cover"
+  },
+  {
+    "start": 402.72,
+    "text": " those in other videos. It's just too much for one video. The last thing I want to talk about is"
+  },
+  {
+    "start": 407.68,
+    "text": " adding fades to your audio. To do this, we're just going to hover over the middle of the clip,"
+  },
+  {
+    "start": 411.36,
+    "text": " and you will see these four squares pop up. The top square is to add a fade in or fade out"
+  },
+  {
+    "start": 418.24,
+    "text": " to the audio, and then the bottom square adjusts where that fade starts or ends. To add a cross"
+  },
+  {
+    "start": 424.16,
+    "text": " fade to multiple clips, highlight a section of both of the audio clips, right click, and click"
+  },
+  {
+    "start": 432.0,
+    "text": " on create cross fade. Thanks for checking this video out. If you have any questions for me,"
+  },
+  {
+    "start": 436.16,
+    "text": " feel free to leave a comment. I try to get back to everyone as soon as I can. If you like this"
+  },
+  {
+    "start": 440.40000000000003,
+    "text": " video and you learned something from it, make sure to hit that like button, hit the subscribe button,"
+  },
+  {
+    "start": 445.44,
+    "text": " and turn on notifications so you can get all of the videos in this series as soon as they come out."
+  },
+  {
+    "start": 450.24,
+    "text": " Thanks for watching. Peace."
+  }
+]

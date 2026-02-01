@@ -1,0 +1,742 @@
+[
+  {
+    "start": 0.0,
+    "text": " Bueno, a ver, ya pasó un doceavo de año, o sea una doceava parte del año, o sea hace"
+  },
+  {
+    "start": 9.08,
+    "text": " fue un mes. Seguramente para cuando ya nos demos cuenta va a ser agosto. Así que es"
+  },
+  {
+    "start": 12.96,
+    "text": " hora de sacar ya el culo de la silla y empezar a hacer música, empezar a producir, empezar"
+  },
+  {
+    "start": 17.92,
+    "text": " a hacer cosas, dale. Se iba, ¿a dónde se iba? ¿para qué se iba?"
+  },
+  {
+    "start": 23.84,
+    "text": " Hola, soy Nico Estegiano y sí, hoy vamos a estar viendo Ableton Live, este multipista"
+  },
+  {
+    "start": 32.08,
+    "text": " increíble, súper poderoso y que sé que muchos de ustedes quieren empezar a usar,"
+  },
+  {
+    "start": 36.68,
+    "text": " pero han visto la interfaz y dicen, che, esto es complicado, tiene dos ventanas,"
+  },
+  {
+    "start": 40.96,
+    "text": " qué hago con esto, para qué sirve tal. Así que hoy vamos a ver los primeros pasos con"
+  },
+  {
+    "start": 44.519999999999996,
+    "text": " este poderosísimo DAW, o DAW si lo quieren pasar a la traducción para el castellano español."
+  },
+  {
+    "start": 50.88,
+    "text": " Para empezar este software es básicamente lo mismo que todos los otros, que Cubase,"
+  },
+  {
+    "start": 55.040000000000006,
+    "text": " que Pro Tools, que Fruity Loops, pero como ya se habrán dado cuenta cada multipista tiene"
+  },
+  {
+    "start": 59.160000000000004,
+    "text": " su diseño particular para cumplir con ciertas funciones. Ableton Live está pensado exclusivamente"
+  },
+  {
+    "start": 64.08,
+    "text": " para producir y está todo diseñado para que podamos crear lo más rápido y eficiente y"
+  },
+  {
+    "start": 69.12,
+    "text": " proliferamente posible. Prolíferamente, prolíficamente, prolífera, bueno, no sé."
+  },
+  {
+    "start": 74.92,
+    "text": " Bueno, como pueden ver acá cuando ustedes abren Ableton Live lo primero que les va a aparecer es"
+  },
+  {
+    "start": 80.16,
+    "text": " esta pantalla. Y sí, sé que para muchos de ustedes por ahí es un poco intimidante,"
+  },
+  {
+    "start": 84.8,
+    "text": " ya que tenemos un montón de parámetros y normalmente no la vemos como una pantalla"
+  },
+  {
+    "start": 89.88,
+    "text": " de multipista común, como es en Cubase o en Pro Tools, que está todo horizontalmente hablando."
+  },
+  {
+    "start": 95.12,
+    "text": " Pero bueno, no se preocupen, hoy vamos a despejar todas esas dudas. Vamos a empezar con la primera"
+  },
+  {
+    "start": 99.84,
+    "text": " ventana. Tenemos acá a la izquierda lo que se llama la ventana de browser, o es a donde están"
+  },
+  {
+    "start": 105.24,
+    "text": " nuestras carpetas. Esta misma se divide en dos partes, lo que sería el macro browse o la parte"
+  },
+  {
+    "start": 111.6,
+    "text": " más macro de todas nuestras carpetas. Y todo lo que tenemos dentro de nuestra carpeta está acá"
+  },
+  {
+    "start": 116.24,
+    "text": " definido hacia la derecha. Y también como podemos ver acá arriba tenemos un buscador,"
+  },
+  {
+    "start": 120.72,
+    "text": " el cual si se mete en el mundo de Ableton Live lo van a usar un montón. Como podemos ver,"
+  },
+  {
+    "start": 125.11999999999999,
+    "text": " si yo cambio acá, por ejemplo, en instrumentos, me aparecen acá los distintos instrumentos. Si"
+  },
+  {
+    "start": 130.48,
+    "text": " voy a audio effects me aparecen los distintos efectos. Luego tenemos la famosa Main View,"
+  },
+  {
+    "start": 136.07999999999998,
+    "text": " o esta es la parte principal, que tiene dos ventanas. Así es, si nosotros apretamos la"
+  },
+  {
+    "start": 141.44,
+    "text": " tecla tab, vamos a pasar a la otra pantalla. Vamos por parte. Esta pantalla se llama la"
+  },
+  {
+    "start": 147.12,
+    "text": " pantalla de sesión o la pantalla Live o la pantalla de Jam. La van a encontrar con muchos"
+  },
+  {
+    "start": 152.44,
+    "text": " nombres. La segunda pantalla, a la vez que apretamos tab, se llama la pantalla de arrangement"
+  },
+  {
+    "start": 158.08,
+    "text": " o de arreglos o la pantalla multi track. La diferencia es que en la pantalla de sesión vamos"
+  },
+  {
+    "start": 162.68,
+    "text": " a leer todo desde arriba hacia abajo, o sea de manera vertical. Y en la pantalla de arrangement"
+  },
+  {
+    "start": 168.4,
+    "text": " o la pantalla multipista vamos a leer todo como un libro, es decir, de izquierda a derecha. Podemos"
+  },
+  {
+    "start": 173.60000000000002,
+    "text": " definir también la pantalla de sesión como la pantalla en donde vamos a utilizar loops,"
+  },
+  {
+    "start": 177.16000000000003,
+    "text": " en donde vamos a hacer jams. Y a su vez podemos definir la pantalla multipista o la pantalla de"
+  },
+  {
+    "start": 182.56,
+    "text": " arrangement como la pantalla más técnica, en donde vamos a trabajar nuestra mezcla, en donde vamos"
+  },
+  {
+    "start": 187.2,
+    "text": " a trabajar edición, a donde vamos a trabajar automatizaciones. Para explicar esto más sencillo,"
+  },
+  {
+    "start": 191.95999999999998,
+    "text": " lo vamos a ver en ejemplos. Por ejemplo, vamos a agarrar este sample y vamos a hacer drag and drop"
+  },
+  {
+    "start": 196.35999999999999,
+    "text": " y lo vamos a llevar a un canal de audio. Como pueden ver acá, tenemos dos tracks MIDI, que su"
+  },
+  {
+    "start": 202.92,
+    "text": " nombre dice, y dos tracks de audio. Como pudieron ver, son este sample en el primer slot del track"
+  },
+  {
+    "start": 208.32,
+    "text": " de audio número 3, en donde si nosotros le damos play, va a sonar y va a sonar infinitamente. Es"
+  },
+  {
+    "start": 219.23999999999998,
+    "text": " por eso que se le dice también la ventana de loops, porque acá vamos a trabajar precisa y"
+  },
+  {
+    "start": 223.23999999999998,
+    "text": " exclusivamente loops. También podemos trabajar audio, pero se hace un poquito más engorroso y"
+  },
+  {
+    "start": 228.56,
+    "text": " normalmente se trabaja desde la vista de multitrack. Ahora, si yo voy a la pista de arrangement o"
+  },
+  {
+    "start": 234.64,
+    "text": " multipista y largo el mismo, exactamente el mismo sample, como pueden ver lo tenemos de"
+  },
+  {
+    "start": 240.88,
+    "text": " manera horizontal, es decir, podemos ver el audio. Lo voy a cortar un poquito porque va a ser súper"
+  },
+  {
+    "start": 245.79999999999998,
+    "text": " largo, dura 8 compases. Si lo doy play, fíjense lo que pasa. La barra sigue corriendo como pueden"
+  },
+  {
+    "start": 259.32,
+    "text": " ver, pero no se reproduce ningún audio. ¿Por qué? Porque en esta ventana es donde vamos a ver el"
+  },
+  {
+    "start": 264.2,
+    "text": " macro de nuestro proyecto. Vamos a ver el proyecto total. Vamos a ver cómo estos loops de la ventana"
+  },
+  {
+    "start": 269.52,
+    "text": " de sesión, luego van a terminar en la ventana de arrangement para ser editados y mezclados y poder"
+  },
+  {
+    "start": 275.24,
+    "text": " finalizar nuestro proyecto. Este tipo de desarrollo de software de Ableton Live es algo parecido para"
+  },
+  {
+    "start": 280.28,
+    "text": " aquellos que conozcan a Fruity Loops, en donde también tenemos de alguna manera las dos ventanas."
+  },
+  {
+    "start": 284.68,
+    "text": " Luego, como podrán haber visto en la barra de acá abajo, que es nuestra barra de información o barra"
+  },
+  {
+    "start": 290.44,
+    "text": " de instrumentos y efectos, podemos ver en este caso la info de este clip. Acá tenemos el clip"
+  },
+  {
+    "start": 296.8,
+    "text": " que está sonando y tenemos toda la información, ya sea de cuánto es la duración, su BPM, podemos"
+  },
+  {
+    "start": 302.8,
+    "text": " también modificar su volumen, podemos modificar su pitch, podemos hacer un montón de cosas. No voy"
+  },
+  {
+    "start": 308.4,
+    "text": " a explicar acá detenidamente porque lo quiero mantener sencillo. En el caso de que usemos información"
+  },
+  {
+    "start": 313.08,
+    "text": " MIDI, fíjense lo que sucede. Como verán acá abajo, la información de audio ahora es información"
+  },
+  {
+    "start": 318.48,
+    "text": " MIDI, es decir, tenemos un piano roll en donde vamos a poner las distintas notas y vamos a poder"
+  },
+  {
+    "start": 324.12,
+    "text": " luego trabajar todo lo que es la información MIDI. Pero como les dije anteriormente, en esta ventana"
+  },
+  {
+    "start": 329.04,
+    "text": " vamos a ver todos los instrumentos, FX, plugins y todo lo que utilicemos y decidamos poner aquí."
+  },
+  {
+    "start": 334.08000000000004,
+    "text": " Fíjense, por ejemplo, si yo quiero agarrar y poner unas drums, vamos a agarrar para armar un bit y"
+  },
+  {
+    "start": 339.24,
+    "text": " elijo por ejemplo la 808 key. La arrastro, lo largo acá, obviamente va a estar en el canal 2,"
+  },
+  {
+    "start": 346.0,
+    "text": " que es el canal que está seleccionado, como pueden ver acá."
+  },
+  {
+    "start": 354.48,
+    "text": " Pero como también les dije, acá vamos a poner los plugins, entonces si yo quiero ponerle,"
+  },
+  {
+    "start": 358.16,
+    "text": " por ejemplo, un plugin o un efecto de delay, si yo lo arrastro y lo largo acá, fíjense."
+  },
+  {
+    "start": 366.24,
+    "text": " Ahora tiene delay. Bueno, para avanzar en las distintas partes de Ableton Live,"
+  },
+  {
+    "start": 370.96,
+    "text": " lo que tenemos acá a la derecha es nuestra ventana de channel o de canales. Acá podemos ver de"
+  },
+  {
+    "start": 376.68,
+    "text": " manera horizontal los distintos canales, como pueden ver, canal 1, canal 2, canal 3 y canal 4,"
+  },
+  {
+    "start": 381.76,
+    "text": " donde con clic derecho en la parte de acá que está vacía podemos insertar una nueva pista de audio"
+  },
+  {
+    "start": 386.4,
+    "text": " o podemos insertar una nueva pista MIDI. También podemos crear nuestros canales de envío para los"
+  },
+  {
+    "start": 392.03999999999996,
+    "text": " distintos efectos que utilicemos en toda la mezcla. Esta ventana también la tenemos si nosotros ponemos"
+  },
+  {
+    "start": 396.88,
+    "text": " tab, la tenemos en la ventana de sesión o en la ventana de loops, en donde también acá tenemos"
+  },
+  {
+    "start": 401.68,
+    "text": " todos nuestros canales. En la ventana de sesión tenemos la posibilidad de aprender o apagar cada"
+  },
+  {
+    "start": 407.8,
+    "text": " uno de los canales, tenemos la posibilidad de hacer solo de cada uno de los canales,"
+  },
+  {
+    "start": 412.68,
+    "text": " si mantenemos apretada la tecla control podemos hacer solo en más de un canal y abajo tenemos"
+  },
+  {
+    "start": 418.36,
+    "text": " la opción de armar el canal o de poner para grabar el canal. Esto es muy común en casi todos los"
+  },
+  {
+    "start": 424.08,
+    "text": " multipistas, necesitamos tener esto activado para poder grabar en el caso que queramos grabar."
+  },
+  {
+    "start": 428.44,
+    "text": " Tenemos en esta ventana los envíos, que en este caso tenemos dos envíos, como pueden ver en la"
+  },
+  {
+    "start": 433.76,
+    "text": " parte derecha tenemos un envío que se llama reverb y el otro envío que se llama delay y además tenemos"
+  },
+  {
+    "start": 438.47999999999996,
+    "text": " el canal de master. Obviamente esto viene predeterminado en donde pueden ver en el canal"
+  },
+  {
+    "start": 443.0,
+    "text": " de reverb tenemos acá abajo a donde van nuestros efectos tenemos una reverb y en el canal de delay"
+  },
+  {
+    "start": 448.0,
+    "text": " tenemos un delay propiamente dicho. Esto lo podemos cambiar. Estos son nuestros canales de envío,"
+  },
+  {
+    "start": 452.56,
+    "text": " es decir efectos globales que vamos a utilizar en más de un canal. Esto hace un poco más de"
+  },
+  {
+    "start": 456.96,
+    "text": " referencia a la vieja escuela de cómo trabajaban ante las consolas, pero tranquilamente podemos"
+  },
+  {
+    "start": 461.28000000000003,
+    "text": " poner efectos en cada uno de nuestros canales o si queremos tener un efecto global como suele ser"
+  },
+  {
+    "start": 466.16,
+    "text": " en los multipistas más pensados para mezcla lo podemos trabajar también desde acá. Estos mismos"
+  },
+  {
+    "start": 470.72,
+    "text": " como dije antes se controlan a través de estos knobs, el envío A por un lado, el envío B y acá"
+  },
+  {
+    "start": 475.66,
+    "text": " arriba tenemos lo que va a ser el ruteo ya sea de nuestra placa, los canales que vamos a grabar,"
+  },
+  {
+    "start": 480.0,
+    "text": " hacia dónde va a ir si tenemos monitorización off, auto o in. En la ventana multitrack o en la"
+  },
+  {
+    "start": 486.08,
+    "text": " ventana de arrangement también tenemos lo mismo pero está diagramada de otra manera. Fíjense,"
+  },
+  {
+    "start": 490.52,
+    "text": " tenemos también para prender y apagar el canal solo el de armar o de record. Acá tenemos la"
+  },
+  {
+    "start": 496.4,
+    "text": " posibilidad también de paneo, el volumen lo tenemos como una barra al igual que los envíos,"
+  },
+  {
+    "start": 501.15999999999997,
+    "text": " lo tenemos como si fueran unas barritas acá que se van llenando y también tenemos el ruteo de canal."
+  },
+  {
+    "start": 506.92,
+    "text": " En esta ventana vamos a ver luego en el futuro lo que va a ser la parte de automatización en"
+  },
+  {
+    "start": 511.8,
+    "text": " donde vamos a poder trabajar nuestras automatizaciones como nosotros querramos. Por otro lado en la parte"
+  },
+  {
+    "start": 518.24,
+    "text": " superior tenemos lo que es nuestra barra de transporte completa acá arriba, tenemos la"
+  },
+  {
+    "start": 522.84,
+    "text": " posibilidad de poner nuestro metrónomo, es decir elegir el BPM en el que va a estar nuestra canción,"
+  },
+  {
+    "start": 528.0,
+    "text": " lo podemos hacer a través de un tap también en este caso, tenemos para elegir el compás en el"
+  },
+  {
+    "start": 532.28,
+    "text": " que va a estar nuestro metrónomo y si lo prendemos lo apagamos. Por otro lado tenemos acá un número"
+  },
+  {
+    "start": 539.8399999999999,
+    "text": " que nos va a indicar en dónde está nuestro excursor, en este caso está en el compás 79,"
+  },
+  {
+    "start": 543.64,
+    "text": " si yo lo pongo acá en el compás 12 aparece en el compás 12. Tenemos a su vez también el play,"
+  },
+  {
+    "start": 548.68,
+    "text": " el stop y el record, el de grabar, esto sumamente sencillo, play para poner play, stop para frenar,"
+  },
+  {
+    "start": 555.4399999999999,
+    "text": " rec para grabar. Luego como podrán ver en el futuro se va a trabajar muchísimo con loops"
+  },
+  {
+    "start": 561.6,
+    "text": " dentro de Ableton Live, entonces esta herramienta que tenemos acá es precisamente para ello. Por"
+  },
+  {
+    "start": 566.72,
+    "text": " ejemplo, se acuerdan ese beat que nosotros habíamos puesto, esa batería que sonaba ahí,"
+  },
+  {
+    "start": 570.36,
+    "text": " si nosotros la seleccionamos sosteniendo el click izquierdo apretado y apretamos control L,"
+  },
+  {
+    "start": 575.5600000000001,
+    "text": " como pueden ver acá arriba se prendió la ventanita que significa la ventana de loop,"
+  },
+  {
+    "start": 579.76,
+    "text": " que nos está indicando esto, si se fijan a la izquierda dice 1 1 1, es decir compás 1 y como"
+  },
+  {
+    "start": 585.48,
+    "text": " pueden ver a la derecha dice compás 4, que quiere decir esto, que el loop está seleccionado desde"
+  },
+  {
+    "start": 589.36,
+    "text": " compás 1 al 4. Como pueden ver también en el multipista se seleccionó esta barra que"
+  },
+  {
+    "start": 593.76,
+    "text": " podemos modificar para saber que vamos a estar looping. Si yo le doy play,"
+  },
+  {
+    "start": 605.88,
+    "text": " esto también es bastante común en varios de los multipistas, es una opción muy muy utilizada."
+  },
+  {
+    "start": 610.72,
+    "text": " Luego en la parte superior derecha lo importante que tenemos que tener en cuenta acá es este"
+  },
+  {
+    "start": 615.14,
+    "text": " numerito que vemos acá, que es un número de porcentaje, que este es especialmente"
+  },
+  {
+    "start": 618.44,
+    "text": " importante, ¿por qué? Porque esto nos está marcando el rendimiento de nuestra CPU, es decir,"
+  },
+  {
+    "start": 622.6800000000001,
+    "text": " mientras mayor esté este número más estamos exigiendo nuestra computadora, así que si vamos"
+  },
+  {
+    "start": 626.96,
+    "text": " a cargar un montón de sintetizadores seguramente este número va a llegar bien alto. En el momento"
+  },
+  {
+    "start": 631.9200000000001,
+    "text": " que llegue a 100 va a generar un clip digital, es decir el sonido se va a pagar y por ende no"
+  },
+  {
+    "start": 636.32,
+    "text": " vamos a poder seguir trabajando hasta que el número baje. Esto es muy importante tener en cuenta para"
+  },
+  {
+    "start": 640.96,
+    "text": " aquellos que hayan usado Ableton Live en vivo y esto se los puedo decir de experiencia propia,"
+  },
+  {
+    "start": 645.44,
+    "text": " tocando en vivo ese número es súper importante y cuando llega a 100 se corta todo y a mí me pasó"
+  },
+  {
+    "start": 651.8000000000001,
+    "text": " en vivo, es feo. Así que siempre intentamos tener este número por abajo de 100 para que no sucedan"
+  },
+  {
+    "start": 657.12,
+    "text": " estas cosas. Por último algunos shortcuts súper importantes para que tengan en cuenta y empiecen"
+  },
+  {
+    "start": 661.5200000000001,
+    "text": " a trabajar súper rápido. Para crear un nuevo track de audio podemos utilizar Ctrl T para crearlo,"
+  },
+  {
+    "start": 666.4000000000001,
+    "text": " acá está el número 7. Si queremos crear un canal MIDI, Ctrl Shift T y creamos un canal MIDI. Esto"
+  },
+  {
+    "start": 672.62,
+    "text": " es súper práctico para cuando estamos trabajando. Por otro lado si queremos eliminar un clip de"
+  },
+  {
+    "start": 677.12,
+    "text": " audio por ejemplo lo seleccionamos y apretamos de LED y este se va a borrar. Si queremos hacer"
+  },
+  {
+    "start": 681.7,
+    "text": " la acción undo o undo como se saben decir Ctrl Z y vuelve a aparecer, es decir volvemos la acción"
+  },
+  {
+    "start": 687.58,
+    "text": " hacia atrás. Si queremos renombrar un canal de audio no lo vamos a poder hacer con doble clic,"
+  },
+  {
+    "start": 691.58,
+    "text": " apretamos Ctrl R y podemos poner aquí beat por ejemplo y ya tenemos renombrado nuestro canal."
+  },
+  {
+    "start": 697.46,
+    "text": " Funciones súper prácticas y sencillas si queremos duplicar este track, es decir queremos hacer un"
+  },
+  {
+    "start": 702.3,
+    "text": " loop más largo, Ctrl D y vamos a hacer las duplicaciones. Algo súper práctico es que si"
+  },
+  {
+    "start": 707.3399999999999,
+    "text": " nosotros queremos duplicar por ejemplo el clip de audio más el espacio que tenemos a continuación"
+  },
+  {
+    "start": 711.4599999999999,
+    "text": " seleccionado, seleccionamos manteniendo el clic izquierdo y fíjense, se copia con el espacio. Algo"
+  },
+  {
+    "start": 717.8199999999999,
+    "text": " súper útil si nosotros estamos armando por ejemplo un beat de batería. También el famoso popular"
+  },
+  {
+    "start": 722.66,
+    "text": " copy paste o copiar y pegar, seleccionamos Ctrl C, Ctrl V, muy sencillo. Algo también que habrán notado"
+  },
+  {
+    "start": 731.66,
+    "text": " es que todo sucede dentro de una grilla, es decir como pueden ver hay una especie de división"
+  },
+  {
+    "start": 736.3399999999999,
+    "text": " dentro de esta grilla, esto no pasa mucho en algunos otros multipistas como Cubase y Pro Tools"
+  },
+  {
+    "start": 741.06,
+    "text": " porque como ya les dije Ableton Live está muy pensado hacia el loop, entonces si nosotros queremos"
+  },
+  {
+    "start": 745.78,
+    "text": " saber en qué división está clic derecho sobre cualquier parte acá en la pantalla principal y"
+  },
+  {
+    "start": 750.2199999999999,
+    "text": " acá abajo dice rejilla fija 8 bars, 4 bars, 2 bars, es decir compases, subdivisión de compases y off."
+  },
+  {
+    "start": 756.66,
+    "text": " Yo les recomiendo al principio que se queden con la grilla encendida en la división que ustedes"
+  },
+  {
+    "start": 760.94,
+    "text": " quieran para poder hacer un trabajo mucho más sencillo. Si nosotros ponemos por ejemplo 8 bars"
+  },
+  {
+    "start": 765.6600000000001,
+    "text": " verán que los espacios, fíjense, son bloques de 8 compases. Si yo lo paso a 4 compases,"
+  },
+  {
+    "start": 771.86,
+    "text": " esto es muy útil por ejemplo si nosotros queremos mover partes de los samples, fíjense ahora se va"
+  },
+  {
+    "start": 777.22,
+    "text": " a mover siempre a tempo de 4 compases en 4 compases, es decir que el sample va a estar siempre a tempo."
+  },
+  {
+    "start": 782.86,
+    "text": " En el caso de que yo elija apagar la grilla, fíjense el sample queda totalmente libre. Bueno"
+  },
+  {
+    "start": 788.5,
+    "text": " para cerrar les voy a mostrar básicamente cuál es la diferencia práctica entre las dos ventanas,"
+  },
+  {
+    "start": 793.86,
+    "text": " la ventana de sesión y la ventana multipista para que ustedes lo entiendan así súper rápido. Vamos"
+  },
+  {
+    "start": 799.06,
+    "text": " a agarrar y vamos a poner ese beat que habíamos puesto, lo vamos a largar acá en audio porque es"
+  },
+  {
+    "start": 804.22,
+    "text": " nuestro beat, vamos a buscar un bajo por ejemplo, lo voy a poner acá también en audio y vamos a"
+  },
+  {
+    "start": 814.3,
+    "text": " agarrar por ejemplo un hi hat y lo vamos a largar acá. Una vez que coloque estos tres instrumentos"
+  },
+  {
+    "start": 820.42,
+    "text": " digo bueno voy a poner play y va a sonar, fíjense. No suena, no pasa nada. ¿Por qué? Porque se llama"
+  },
+  {
+    "start": 827.9399999999999,
+    "text": " ventana de sesión o ventana de loops. ¿Qué quiere decir con esto? Cada uno de los slots que nosotros"
+  },
+  {
+    "start": 833.18,
+    "text": " tenemos acá funcionan como espacios para poner los loops, es decir lo que pongamos ahí se va a loopear."
+  },
+  {
+    "start": 837.78,
+    "text": " Entonces si yo le pongo play como pueden ver ahí se reproduce el hi hat. Si yo le doy play al bajo"
+  },
+  {
+    "start": 845.9399999999999,
+    "text": " se reproduce el bajo y el hi hat. Si yo le doy play al beat se reproduce todo junto. Si yo quiero"
+  },
+  {
+    "start": 858.5799999999999,
+    "text": " pararlo voy acá al cuadradito que está acá y los paro. Ahora como pueden ver acá en el canal de"
+  },
+  {
+    "start": 863.98,
+    "text": " master tenemos algo que no tenemos en la otra ventana. Tenemos números 1 2 3 4 5 6 7 8 podemos"
+  },
+  {
+    "start": 870.0600000000001,
+    "text": " tener un montón más. Estas son las escenas. ¿Por qué las escenas? Muy sencillo. Si nosotros le damos"
+  },
+  {
+    "start": 875.54,
+    "text": " play a la escena acá en el canal de master, fíjense qué pasa. Se le da play a todos los loops que"
+  },
+  {
+    "start": 886.02,
+    "text": " estén en esa escena, es decir en la escena 1, todo al mismo tiempo. Si yo por ejemplo en la próxima"
+  },
+  {
+    "start": 891.26,
+    "text": " escena quiero tener solamente el hi hat, vamos a volver a copiar el hi hat acá, podemos hacerlo"
+  },
+  {
+    "start": 897.06,
+    "text": " manteniendo la tecla alt y arrastrando. Voy a tener en la escena 1 todos los instrumentos sonando"
+  },
+  {
+    "start": 902.26,
+    "text": " pero en la escena 2 voy a tener solamente el hi hat. Entonces si yo voy de la escena 1"
+  },
+  {
+    "start": 907.48,
+    "text": " a la escena 2 y de vuelta a la escena 1"
+  },
+  {
+    "start": 918.12,
+    "text": " se dan cuenta cómo funciona y además todo sucede en tempo. Es decir, no cambia en el momento que"
+  },
+  {
+    "start": 928.76,
+    "text": " nosotros ponemos play sino que va contando y en el próximo compás va a ser el paso siguiente. Ahora"
+  },
+  {
+    "start": 933.44,
+    "text": " en la ventana de arrangement como pueden ver no tenemos nada, está totalmente vacío pero si"
+  },
+  {
+    "start": 939.08,
+    "text": " arrastramos los mismos instrumentos acá, fíjense cómo se ven. Acá tenemos en la ventana de arrangement"
+  },
+  {
+    "start": 944.1600000000001,
+    "text": " o multipista, fíjense, no tenemos los loops. Si yo voy al principio y le doy play,"
+  },
+  {
+    "start": 949.96,
+    "text": " va a reproducir lo que dura el sample. No, acá no hay versión loop ni mucho menos, acá sucede"
+  },
+  {
+    "start": 963.64,
+    "text": " prácticamente lo mismo que pasa en otras multipistas como Cubase y Pro Tools, va a reproducir el audio"
+  },
+  {
+    "start": 968.24,
+    "text": " que está pasando por la barra de trampón. Bueno hasta acá Ableton Live, primeros pasos para animar"
+  },
+  {
+    "start": 973.6,
+    "text": " a aquellos que quieran meterse en este mundo Ableton Live. La verdad si se van a dedicar a"
+  },
+  {
+    "start": 977.56,
+    "text": " producir y hacer música, lo veo súper necesario tener Ableton Live. Con esto no digo que sea un"
+  },
+  {
+    "start": 983.3199999999999,
+    "text": " limitante pero Ableton Live es casi un estándar para aquellos que quieran producir y quieran ser"
+  },
+  {
+    "start": 987.8399999999999,
+    "text": " muy expeditivos con la cantidad de trabajo que hacen y que puedan trabajar muchas cosas a la vez."
+  },
+  {
+    "start": 992.2399999999999,
+    "text": " La verdad que en Ableton Live yo encuentro algo que no encuentro en ningún otro multipista y es"
+  },
+  {
+    "start": 996.4,
+    "text": " la capacidad de producir y producir mucho, producir cantidad y producir rápido y producir de manera"
+  },
+  {
+    "start": 1002.4,
+    "text": " divertida, motivante todo el tiempo, es divertido trabajar en Ableton, está bueno, todo es práctico,"
+  },
+  {
+    "start": 1008.16,
+    "text": " todo funciona súper sencillo y eso lo hace mi software principal a la hora de trabajar"
+  },
+  {
+    "start": 1012.64,
+    "text": " producciones. Así que bueno como ya saben, dejan las dudas en los comentarios, voy a intentar"
+  },
+  {
+    "start": 1017.04,
+    "text": " responderlas más que pueda y nada, espero que les haya servido y nos vemos la próxima."
+  }
+]

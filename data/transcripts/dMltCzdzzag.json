@@ -1,0 +1,1374 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hi, my name is Boris and in this video I'm going to talk about one of the most underrated"
+  },
+  {
+    "start": 9.36,
+    "text": " stock Ableton synthesizers, which is called Analog."
+  },
+  {
+    "start": 13.3,
+    "text": " This synth is so often overlooked because of its rather poor set of presets that come"
+  },
+  {
+    "start": 19.2,
+    "text": " with Ableton."
+  },
+  {
+    "start": 20.2,
+    "text": " But my goal for today is to convince you that this is a versatile beast."
+  },
+  {
+    "start": 24.96,
+    "text": " Not only can it produce a wide range of sounds, but also it's got a really amazing character."
+  },
+  {
+    "start": 30.44,
+    "text": " And it's modeled after several vintage synthesizers and that gives it an amazing tone."
+  },
+  {
+    "start": 36.0,
+    "text": " Before we get into the details of Analog, if you like what we are doing on this channel,"
+  },
+  {
+    "start": 40.120000000000005,
+    "text": " consider subscribing for more Ableton life tips like this one."
+  },
+  {
+    "start": 43.8,
+    "text": " Okay, so here's Analog and this synth might look a little bit confusing at first because"
+  },
+  {
+    "start": 49.98,
+    "text": " it's got this classic Ableton style layout."
+  },
+  {
+    "start": 53.9,
+    "text": " So you don't see everything at once, but instead of the parameters are folded nicely into tabs,"
+  },
+  {
+    "start": 61.419999999999995,
+    "text": " which you can access by clicking on different sections of the synth."
+  },
+  {
+    "start": 65.96,
+    "text": " And if you click on different sections, the center display shows the corresponding parameters."
+  },
+  {
+    "start": 71.84,
+    "text": " If you are coming from a more visual synth, this might be a disadvantage for you because"
+  },
+  {
+    "start": 77.58,
+    "text": " it's going to make designing patches slightly harder at the beginning."
+  },
+  {
+    "start": 81.5,
+    "text": " But in fact, I find it really nice to work with because it is really tidy and it fits"
+  },
+  {
+    "start": 86.58,
+    "text": " perfectly into the workflow of Ableton."
+  },
+  {
+    "start": 89.26,
+    "text": " You don't have any floating windows like with a VST."
+  },
+  {
+    "start": 92.58,
+    "text": " And another amazing advantage of Analog is that it's really lightweight so you can stack"
+  },
+  {
+    "start": 98.38,
+    "text": " multiple instances of it."
+  },
+  {
+    "start": 100.26,
+    "text": " You don't have to freeze and flatten tracks and you shouldn't overload your CPU."
+  },
+  {
+    "start": 105.5,
+    "text": " So this video is also going to be a little bit of an introduction to subtractive synthesis."
+  },
+  {
+    "start": 112.18,
+    "text": " So if you're a beginner at synthesis as a whole, this is also going to work for you."
+  },
+  {
+    "start": 117.46000000000001,
+    "text": " I'm going to basically explain how basic synthesis works."
+  },
+  {
+    "start": 121.94,
+    "text": " And if you're new to Analog, I'm also going to go over essential features of the synthesizer."
+  },
+  {
+    "start": 129.42,
+    "text": " And also I'm going to demonstrate a couple of sounds that I have designed this cool keys patch."
+  },
+  {
+    "start": 144.73999999999998,
+    "text": " This is pretty simple, just some analog keys with a bunch of effects on top."
+  },
+  {
+    "start": 149.56,
+    "text": " And then we're going to make this synth wavy sort of baseline."
+  },
+  {
+    "start": 159.42,
+    "text": " So this is something heavier."
+  },
+  {
+    "start": 164.26,
+    "text": " As you can hear, Analog sounds really powerful, really big for bass sounds and all sorts of"
+  },
+  {
+    "start": 170.45999999999998,
+    "text": " sounds."
+  },
+  {
+    "start": 171.45999999999998,
+    "text": " So let's just get started."
+  },
+  {
+    "start": 173.38,
+    "text": " Let's quickly go over the basics of subtractive synthesis."
+  },
+  {
+    "start": 177.64,
+    "text": " So this synth basically consists of three basic parts."
+  },
+  {
+    "start": 182.14,
+    "text": " First part is an oscillator, which is placed right here and that controls the timbre and"
+  },
+  {
+    "start": 188.38000000000002,
+    "text": " pitch of our sound."
+  },
+  {
+    "start": 190.46,
+    "text": " Then this section right here called an amplifier or an amp that controls how loud the sound"
+  },
+  {
+    "start": 197.9,
+    "text": " is."
+  },
+  {
+    "start": 198.9,
+    "text": " And there's a filter section between the oscillator and the amp right here, but more on that later."
+  },
+  {
+    "start": 205.64000000000001,
+    "text": " First of all, you can disable all the other features of Analog by just clicking and disabling"
+  },
+  {
+    "start": 211.66000000000003,
+    "text": " everything."
+  },
+  {
+    "start": 213.02,
+    "text": " I have the default patch."
+  },
+  {
+    "start": 214.29999999999998,
+    "text": " I can just disable all other elements, but the first oscillator, put it down one octave"
+  },
+  {
+    "start": 219.98,
+    "text": " to zero."
+  },
+  {
+    "start": 220.98,
+    "text": " Let's choose the sine wave first here because we've got four shapes here and the sine wave"
+  },
+  {
+    "start": 226.66,
+    "text": " is the most basic one."
+  },
+  {
+    "start": 228.78,
+    "text": " Right now we are going to get no sound."
+  },
+  {
+    "start": 230.66,
+    "text": " Even if I arm this track and I play on the keyboard, there is absolutely no sound."
+  },
+  {
+    "start": 235.18,
+    "text": " And that is because the oscillator on its own does not generate sound."
+  },
+  {
+    "start": 239.06,
+    "text": " We need the amplifier, which controls how loud the sound is going to be."
+  },
+  {
+    "start": 243.46,
+    "text": " So I'm going to enable this component and now we should get sound."
+  },
+  {
+    "start": 249.42000000000002,
+    "text": " So that is a basic sine wave."
+  },
+  {
+    "start": 251.86,
+    "text": " It's not very bright."
+  },
+  {
+    "start": 253.26000000000002,
+    "text": " It's quite subtle and typically fits more in the background than in the foreground if"
+  },
+  {
+    "start": 258.26,
+    "text": " you're going to use it."
+  },
+  {
+    "start": 259.38,
+    "text": " Each amplifier section on a subtractive synth is going to have something called an amplifier"
+  },
+  {
+    "start": 264.74,
+    "text": " envelope, an envelope basically."
+  },
+  {
+    "start": 267.34000000000003,
+    "text": " The envelope controls how loud the sound is over time."
+  },
+  {
+    "start": 271.14,
+    "text": " So instead of, for example, moving this knob right here, we can have the amplifier envelope"
+  },
+  {
+    "start": 277.62,
+    "text": " doing that for us basically."
+  },
+  {
+    "start": 279.54,
+    "text": " There are two basic parameters of an envelope that are most frequently used and that's attack"
+  },
+  {
+    "start": 286.82,
+    "text": " and decay."
+  },
+  {
+    "start": 287.82,
+    "text": " And both of these parameters you can see right here."
+  },
+  {
+    "start": 290.36,
+    "text": " So attack basically tells us if we increase attack, the sound is going to come in gradually"
+  },
+  {
+    "start": 295.62,
+    "text": " instead of abruptly."
+  },
+  {
+    "start": 297.22,
+    "text": " Let's try it."
+  },
+  {
+    "start": 298.7,
+    "text": " That's no attack and increasing it."
+  },
+  {
+    "start": 304.66,
+    "text": " You got the idea."
+  },
+  {
+    "start": 306.22,
+    "text": " And then decay basically controls how long the sound is going to stay with us."
+  },
+  {
+    "start": 311.5,
+    "text": " So let's take the attack down all the way and the decay is now really short as well."
+  },
+  {
+    "start": 315.98,
+    "text": " But if we increase the decay, you can hear that the sound got much longer."
+  },
+  {
+    "start": 323.9,
+    "text": " So we can play around with the attack and decay."
+  },
+  {
+    "start": 334.21999999999997,
+    "text": " And we can actually visualize that."
+  },
+  {
+    "start": 335.94,
+    "text": " I'm going to duplicate, freeze and flatten this track and I'm going to show you where"
+  },
+  {
+    "start": 340.65999999999997,
+    "text": " these parameters are with a blank utility."
+  },
+  {
+    "start": 344.02,
+    "text": " So this would be our attack, this portion of the sound and this is our release."
+  },
+  {
+    "start": 349.88,
+    "text": " So the attack controls how long it's going to take for the sound to reach this level"
+  },
+  {
+    "start": 356.36,
+    "text": " and then basically this is the release."
+  },
+  {
+    "start": 359.0,
+    "text": " Okay, so that's it for the attack and decay."
+  },
+  {
+    "start": 363.44,
+    "text": " And then also there is something called the sustain and the release."
+  },
+  {
+    "start": 367.68,
+    "text": " And the sustain basically can be used if you would like the sound to be sustained as long"
+  },
+  {
+    "start": 373.92,
+    "text": " as you're holding the note."
+  },
+  {
+    "start": 375.21999999999997,
+    "text": " So let's make the decay shorter."
+  },
+  {
+    "start": 379.88,
+    "text": " And if we increase the sustain, it's going to sustain the note as long as we are playing"
+  },
+  {
+    "start": 386.24,
+    "text": " the key."
+  },
+  {
+    "start": 389.56,
+    "text": " We are still getting the attack and decay, but instead of ending up on silence, we are"
+  },
+  {
+    "start": 394.24,
+    "text": " ending up on the sustain level."
+  },
+  {
+    "start": 396.4,
+    "text": " And the last parameter is the release and that basically is like a decay at the end"
+  },
+  {
+    "start": 401.68,
+    "text": " when we've stopped pushing the key."
+  },
+  {
+    "start": 403.64,
+    "text": " So let's increase that."
+  },
+  {
+    "start": 407.16,
+    "text": " Okay, so let's visualize that once again."
+  },
+  {
+    "start": 411.12,
+    "text": " So here's what this envelope looks like now."
+  },
+  {
+    "start": 414.32000000000005,
+    "text": " This would be our attack portion."
+  },
+  {
+    "start": 417.44,
+    "text": " This would be our decay portion."
+  },
+  {
+    "start": 419.44000000000005,
+    "text": " You can see that here the volume decreases."
+  },
+  {
+    "start": 423.28000000000003,
+    "text": " Now we have sustain, so static loudness and then it's the release time."
+  },
+  {
+    "start": 429.40000000000003,
+    "text": " So once again, this would be our attack, this would be our decay, this would be our sustain"
+  },
+  {
+    "start": 433.88,
+    "text": " level."
+  },
+  {
+    "start": 434.88,
+    "text": " So we are sustained as long as we are pressing the key and then we've got the release after"
+  },
+  {
+    "start": 440.04,
+    "text": " we've stopped pushing the key."
+  },
+  {
+    "start": 441.84,
+    "text": " And we've got a really cool infographic."
+  },
+  {
+    "start": 443.92,
+    "text": " You can see that the attack is the time we are taking from zero to the max amplitude."
+  },
+  {
+    "start": 449.71999999999997,
+    "text": " Then there's the decay and then we're reaching the sustain level and there's the release."
+  },
+  {
+    "start": 455.44,
+    "text": " And this infographic is available in a much better resolution as a link in the description."
+  },
+  {
+    "start": 461.52000000000004,
+    "text": " It's a free download, so make sure you guys get that."
+  },
+  {
+    "start": 464.92,
+    "text": " Just a quick break before we go back to the tutorial."
+  },
+  {
+    "start": 467.92,
+    "text": " If you find these type of videos helpful, we can highly recommend the PML Academy with"
+  },
+  {
+    "start": 472.76,
+    "text": " over 35 full-length online courses, spreading over topics like writing chords and melodies"
+  },
+  {
+    "start": 478.8,
+    "text": " or arranging our songs to producing entire songs from start to finish."
+  },
+  {
+    "start": 483.44,
+    "text": " So check out the link in the description to see what's inside the all courses bundle exactly."
+  },
+  {
+    "start": 488.16,
+    "text": " Let's make this patch more interesting."
+  },
+  {
+    "start": 490.04,
+    "text": " To do that, we're going to switch from this boring sine wave to a saw wave."
+  },
+  {
+    "start": 495.28000000000003,
+    "text": " And the saw wave is much brighter and it is going to not be too pleasant right now, but"
+  },
+  {
+    "start": 501.12,
+    "text": " let's turn down the volume and hear what it sounds like."
+  },
+  {
+    "start": 506.6,
+    "text": " Yeah, so it's really, really bright."
+  },
+  {
+    "start": 508.48,
+    "text": " And the same goes for the square wave."
+  },
+  {
+    "start": 513.12,
+    "text": " Then there's white noise, which is not really melodic."
+  },
+  {
+    "start": 517.56,
+    "text": " But for now, let's stick to the saw wave."
+  },
+  {
+    "start": 520.76,
+    "text": " With the saw wave and the square wave, it's really crucial to use the filter, the module"
+  },
+  {
+    "start": 526.7199999999999,
+    "text": " between the oscillator and the amplifier."
+  },
+  {
+    "start": 529.8399999999999,
+    "text": " So if we turn that on, you'll immediately hear what the difference is."
+  },
+  {
+    "start": 536.5999999999999,
+    "text": " So right now you can hear that the frequencies are a bit limited."
+  },
+  {
+    "start": 541.4399999999999,
+    "text": " It's a bit muffled, much more like the sine wave we've used at the beginning."
+  },
+  {
+    "start": 546.76,
+    "text": " But if we use this frequency knob here, we can change the timbre."
+  },
+  {
+    "start": 557.84,
+    "text": " And the majority of magic and synthesizers comes from this knob, this frequency knob."
+  },
+  {
+    "start": 563.3199999999999,
+    "text": " If you have a MIDI controller, you should have some automatic mappings in Ableton and"
+  },
+  {
+    "start": 567.48,
+    "text": " the first control should be this frequency knob."
+  },
+  {
+    "start": 571.4,
+    "text": " So the filter basically attenuates some of the frequencies."
+  },
+  {
+    "start": 578.52,
+    "text": " There are different kinds of filters and the typical use is with a low pass filter."
+  },
+  {
+    "start": 583.92,
+    "text": " So we are attenuating the high frequencies and leaving the low frequencies."
+  },
+  {
+    "start": 588.4,
+    "text": " But there's also a possibility that you're going to be using a high pass filter, but"
+  },
+  {
+    "start": 593.4,
+    "text": " that's just going to remove the low frequencies and leave the very bright high frequencies."
+  },
+  {
+    "start": 598.56,
+    "text": " Okay, so let's leave that as it is."
+  },
+  {
+    "start": 601.2,
+    "text": " Just like with the amplifier, we can use a filter envelope to make our sound more interesting."
+  },
+  {
+    "start": 608.6400000000001,
+    "text": " And the filter envelope, just like the amplifier envelope, moves a knob for us and the knob"
+  },
+  {
+    "start": 613.72,
+    "text": " is this frequency knob."
+  },
+  {
+    "start": 615.2800000000001,
+    "text": " So if we add, for example, let's lower the sustain, lower the frequency as well."
+  },
+  {
+    "start": 621.76,
+    "text": " And we are going to add a little bit of that envelope."
+  },
+  {
+    "start": 631.2,
+    "text": " So you can hear that the frequency knob opens up at the beginning and then quickly closes."
+  },
+  {
+    "start": 641.72,
+    "text": " If we increase the decay, that's suddenly much slower."
+  },
+  {
+    "start": 649.44,
+    "text": " And the amount of our envelope is controlled with this Env control over here."
+  },
+  {
+    "start": 655.6800000000001,
+    "text": " And you can just drag this up and down."
+  },
+  {
+    "start": 658.08,
+    "text": " And this resonance control changes the timbre a little bit."
+  },
+  {
+    "start": 666.0400000000001,
+    "text": " Okay so we've got a little bit of a brass sound going on."
+  },
+  {
+    "start": 670.14,
+    "text": " Maybe we can also enable polyphony, so being able to play multiple voices."
+  },
+  {
+    "start": 674.2,
+    "text": " For that you can go to the last tab and from voices you can choose the maximum amount,"
+  },
+  {
+    "start": 680.2,
+    "text": " for example, and now we should be able to play multiple voices."
+  },
+  {
+    "start": 685.8,
+    "text": " Okay, so this is really cheesy, but this really nicely demonstrates how the filter frequency"
+  },
+  {
+    "start": 692.1999999999999,
+    "text": " has a similar behaviour as the amplifier envelope."
+  },
+  {
+    "start": 695.3199999999999,
+    "text": " Let's go down a few octaves here."
+  },
+  {
+    "start": 701.0,
+    "text": " And now there's a really cool option which is called a filter drive."
+  },
+  {
+    "start": 706.0,
+    "text": " And that basically is accessed from here."
+  },
+  {
+    "start": 708.52,
+    "text": " And you can choose different filter drive modes."
+  },
+  {
+    "start": 711.28,
+    "text": " And this basically simulates the behaviour of analog synthesizers where the filter would"
+  },
+  {
+    "start": 717.0,
+    "text": " actually add a bit of colour to our oscillator."
+  },
+  {
+    "start": 720.48,
+    "text": " To use that you can just choose the mode."
+  },
+  {
+    "start": 723.0799999999999,
+    "text": " The lower you go basically here, the brighter the sound is going to become, the more distorted."
+  },
+  {
+    "start": 728.88,
+    "text": " And to add drive basically you need to push the volume of the oscillator going into the filter."
+  },
+  {
+    "start": 738.56,
+    "text": " Let's go even brighter."
+  },
+  {
+    "start": 741.76,
+    "text": " Right, so this would be our maximum drive here."
+  },
+  {
+    "start": 744.56,
+    "text": " You can hear that that's a pretty big difference."
+  },
+  {
+    "start": 747.36,
+    "text": " So you can also mess around with that to give your sound a little bit more power even before"
+  },
+  {
+    "start": 752.36,
+    "text": " it goes out of the synthesizer."
+  },
+  {
+    "start": 755.12,
+    "text": " The filter is where you spend 50% of your time designing patches."
+  },
+  {
+    "start": 760.48,
+    "text": " This is really, really crucial to get that right."
+  },
+  {
+    "start": 763.12,
+    "text": " Choosing the right frequency cutoff position as well as the right envelope settings is"
+  },
+  {
+    "start": 768.0799999999999,
+    "text": " like half of the job."
+  },
+  {
+    "start": 769.96,
+    "text": " But then the other half of sound design happens after you've designed the source of your sound"
+  },
+  {
+    "start": 776.0400000000001,
+    "text": " and it happens with audio effects."
+  },
+  {
+    "start": 778.0400000000001,
+    "text": " So for example we can put, I don't know, a reverb on here and this is already going to"
+  },
+  {
+    "start": 784.88,
+    "text": " sound much cooler."
+  },
+  {
+    "start": 790.44,
+    "text": " And another really commonly used audio effect would be the chorus which makes a sound much"
+  },
+  {
+    "start": 796.1600000000001,
+    "text": " wider."
+  },
+  {
+    "start": 797.16,
+    "text": " You can see chorus from earlier versions of Ableton but you can use chorus ensemble effect"
+  },
+  {
+    "start": 801.4399999999999,
+    "text": " from Live 11."
+  },
+  {
+    "start": 806.92,
+    "text": " Let's remove these effects and let's go through some other crucial parameters in analog because"
+  },
+  {
+    "start": 812.8,
+    "text": " the oscillator, filter and amplifier is not all that analog has to offer."
+  },
+  {
+    "start": 818.0,
+    "text": " So obviously you've got another set of oscillator, filter and amp at the bottom and you can choose"
+  },
+  {
+    "start": 824.9599999999999,
+    "text": " different routings here."
+  },
+  {
+    "start": 826.96,
+    "text": " So the second oscillator for example can go into the first filter or the first oscillator"
+  },
+  {
+    "start": 832.6800000000001,
+    "text": " can go into the second filter and so on."
+  },
+  {
+    "start": 834.9200000000001,
+    "text": " This basically can be controlled by these controls over here."
+  },
+  {
+    "start": 838.4000000000001,
+    "text": " So this now goes to filter one, this now goes to filter two and the quick routings are a"
+  },
+  {
+    "start": 843.52,
+    "text": " really cool option because you can quickly choose the routings here."
+  },
+  {
+    "start": 847.2800000000001,
+    "text": " So you can see oscillator is O, filter is F, amp is A and this is really visual and really"
+  },
+  {
+    "start": 853.4000000000001,
+    "text": " quick way to do your routings."
+  },
+  {
+    "start": 856.08,
+    "text": " So these are the routings."
+  },
+  {
+    "start": 857.76,
+    "text": " Something else that's really useful would be the LFO."
+  },
+  {
+    "start": 862.36,
+    "text": " Disable this envelope on the filter and we can assign the LFO to also move the frequency"
+  },
+  {
+    "start": 870.76,
+    "text": " knob here."
+  },
+  {
+    "start": 885.8,
+    "text": " So LFO stands for Low Frequency Oscillator and it basically is a bit of a sine wave or"
+  },
+  {
+    "start": 891.64,
+    "text": " a different shape here that you can assign to some parameters like the frequency cutoff"
+  },
+  {
+    "start": 897.8,
+    "text": " on the filter and it basically moves it a regular way."
+  },
+  {
+    "start": 901.5,
+    "text": " This is done in a continuous manner, not just like the envelope which just happens once."
+  },
+  {
+    "start": 906.9399999999999,
+    "text": " Another feature is the vibrato which basically is which you can assign to the pitch of your"
+  },
+  {
+    "start": 912.14,
+    "text": " sound."
+  },
+  {
+    "start": 913.14,
+    "text": " So you can increase it here."
+  },
+  {
+    "start": 922.64,
+    "text": " So this also is really used if you're emulating different acoustic instruments because these"
+  },
+  {
+    "start": 927.54,
+    "text": " often have a bit of vibrato going on like guitars and so on."
+  },
+  {
+    "start": 931.4399999999999,
+    "text": " That's pretty much it."
+  },
+  {
+    "start": 932.4399999999999,
+    "text": " You can add a bit of wobble."
+  },
+  {
+    "start": 933.62,
+    "text": " Then there's this unison which is really crucial if you're going to be stacking multiple voices,"
+  },
+  {
+    "start": 939.28,
+    "text": " so making bigger sounding sounds."
+  },
+  {
+    "start": 941.3,
+    "text": " If you enable unison, you need to increase this detune knob here."
+  },
+  {
+    "start": 950.26,
+    "text": " So before, after."
+  },
+  {
+    "start": 954.54,
+    "text": " This basically duplicates your oscillator and detunes these a little bit so that it"
+  },
+  {
+    "start": 960.22,
+    "text": " makes the sound."
+  },
+  {
+    "start": 961.4599999999999,
+    "text": " So it's like two people singing together and it just makes the sound much bigger."
+  },
+  {
+    "start": 965.68,
+    "text": " Then you can also increase the voices amount to for example four."
+  },
+  {
+    "start": 971.92,
+    "text": " This makes it much, much bigger."
+  },
+  {
+    "start": 973.56,
+    "text": " And also you can add another oscillator and that adds another four voices."
+  },
+  {
+    "start": 981.7199999999999,
+    "text": " And now we've gone from a basic patch to something that sounds really powerful."
+  },
+  {
+    "start": 988.56,
+    "text": " Then you've got glide which basically adds the gliding effect."
+  },
+  {
+    "start": 994.52,
+    "text": " So you can glide between notes if you overlap them on your keyboard."
+  },
+  {
+    "start": 999.22,
+    "text": " And another cool feature is that if you access the oscillator tab, you've got these controls"
+  },
+  {
+    "start": 1005.02,
+    "text": " right here which change the oscillator at its core."
+  },
+  {
+    "start": 1008.5799999999999,
+    "text": " So for example, it's really crucial with the square wave because by default the pulse width"
+  },
+  {
+    "start": 1014.22,
+    "text": " modulation is applied."
+  },
+  {
+    "start": 1016.1,
+    "text": " It's at 50% by default and the most common square wave state would be at 100%."
+  },
+  {
+    "start": 1025.24,
+    "text": " And then if we go down, it changes the timbre."
+  },
+  {
+    "start": 1032.98,
+    "text": " So at zero, it's really tiny, a little bit squashed."
+  },
+  {
+    "start": 1036.8600000000001,
+    "text": " But at 100% it's the default state."
+  },
+  {
+    "start": 1040.28,
+    "text": " And if we go here into the saw wave, there's only this sub and sync section available and"
+  },
+  {
+    "start": 1046.84,
+    "text": " the sub basically adds an octave below the oscillator."
+  },
+  {
+    "start": 1056.24,
+    "text": " And the sync also really modifies the timbre, adds a lot of high frequencies."
+  },
+  {
+    "start": 1066.76,
+    "text": " But this gets really noisy quickly."
+  },
+  {
+    "start": 1068.8,
+    "text": " And also there is this noise section which just generates white noise."
+  },
+  {
+    "start": 1072.58,
+    "text": " And this is really useful if you've already used up two oscillators and you want to boost"
+  },
+  {
+    "start": 1077.8,
+    "text": " the sound even more by adding some noise."
+  },
+  {
+    "start": 1081.9199999999998,
+    "text": " And this adds that really nice analog warm white noise that basically fills up space"
+  },
+  {
+    "start": 1089.0,
+    "text": " and makes patches sound much, much fuller."
+  },
+  {
+    "start": 1092.24,
+    "text": " Okay, so if we've got the basics of synthesis in analog covered, then it's probably time"
+  },
+  {
+    "start": 1098.0800000000002,
+    "text": " to take a look at some of the presets here, maybe go over how to make keys, patches and"
+  },
+  {
+    "start": 1104.28,
+    "text": " bass patches."
+  },
+  {
+    "start": 1105.28,
+    "text": " So very basic sounds here."
+  },
+  {
+    "start": 1107.16,
+    "text": " So first of all, let's take a look at this patch."
+  },
+  {
+    "start": 1117.48,
+    "text": " And it's quite a dynamic patch."
+  },
+  {
+    "start": 1119.28,
+    "text": " The filter responds to the velocity of the keys."
+  },
+  {
+    "start": 1128.92,
+    "text": " And that's a really nice feature of analog as well."
+  },
+  {
+    "start": 1131.28,
+    "text": " And it can be accessed from right here."
+  },
+  {
+    "start": 1134.0,
+    "text": " But let's dissect this preset a little bit more."
+  },
+  {
+    "start": 1137.2,
+    "text": " So we have a saw wave oscillator with a really long amp envelope, like nine seconds of decay"
+  },
+  {
+    "start": 1147.56,
+    "text": " or three or almost four seconds of release."
+  },
+  {
+    "start": 1151.0,
+    "text": " Then we are applying a filter."
+  },
+  {
+    "start": 1152.78,
+    "text": " So at 300 Hertz, there's the filter cutoff, so really low."
+  },
+  {
+    "start": 1157.24,
+    "text": " And we're applying quite a bit of the filter envelope."
+  },
+  {
+    "start": 1160.96,
+    "text": " So without and with."
+  },
+  {
+    "start": 1170.06,
+    "text": " So we have quite a long decay and release as well, but not as long as in the amplifier"
+  },
+  {
+    "start": 1174.3999999999999,
+    "text": " section."
+  },
+  {
+    "start": 1175.44,
+    "text": " So we have a bit of drive going on here as well."
+  },
+  {
+    "start": 1177.92,
+    "text": " The first sort of soft drive and we're driving it with the oscillator."
+  },
+  {
+    "start": 1185.72,
+    "text": " And that's how this is created."
+  },
+  {
+    "start": 1188.16,
+    "text": " Then we've applied the envelope to respond to the velocity."
+  },
+  {
+    "start": 1197.4,
+    "text": " And this works really nice if you're playing a MIDI keyboard, because then it gives the"
+  },
+  {
+    "start": 1201.24,
+    "text": " patch a more live feel."
+  },
+  {
+    "start": 1203.48,
+    "text": " The same can be actually applied here to the amplifier section is actually applied to four."
+  },
+  {
+    "start": 1209.0,
+    "text": " So not only does the filter cutoff respond to the velocity, but also the amp level as"
+  },
+  {
+    "start": 1214.88,
+    "text": " well."
+  },
+  {
+    "start": 1215.88,
+    "text": " There is no LFO, no unison and the sound is mono by now."
+  },
+  {
+    "start": 1222.6000000000001,
+    "text": " But we are applying chorus."
+  },
+  {
+    "start": 1226.2,
+    "text": " And chorus is one of the most commonly used effects with analog synthesizers, because"
+  },
+  {
+    "start": 1231.12,
+    "text": " unison accents are typically mono."
+  },
+  {
+    "start": 1234.08,
+    "text": " And then with chorus, we are really spreading the voices, adding a delay."
+  },
+  {
+    "start": 1239.8,
+    "text": " We are adding a bunch of voices to make it much wider and much more lush."
+  },
+  {
+    "start": 1250.68,
+    "text": " After the chorus, we've got drum bus, which drives our sound."
+  },
+  {
+    "start": 1260.84,
+    "text": " Even without it."
+  },
+  {
+    "start": 1267.0,
+    "text": " So the drum bus not only boosts the volume, but also adds a bit of drive."
+  },
+  {
+    "start": 1271.48,
+    "text": " OK, so the next one is echo and this adds a slight bit of delay."
+  },
+  {
+    "start": 1277.04,
+    "text": " So eighth notes."
+  },
+  {
+    "start": 1284.76,
+    "text": " And echo is really nice, really warm and it's a great pairing with the analog synthesizer,"
+  },
+  {
+    "start": 1292.0,
+    "text": " because it's really warm sounding."
+  },
+  {
+    "start": 1293.64,
+    "text": " Very basic eighth notes with not too much dry wet."
+  },
+  {
+    "start": 1297.64,
+    "text": " And then we are applying a bit of reverb with all the parameters disabled, high quality"
+  },
+  {
+    "start": 1302.92,
+    "text": " and a bit of chorus as well."
+  },
+  {
+    "start": 1304.72,
+    "text": " Over a little over one second of decay time."
+  },
+  {
+    "start": 1311.84,
+    "text": " So it's not too much reverb, but just enough to put it in a space."
+  },
+  {
+    "start": 1316.32,
+    "text": " And then I'm adding just an EQ to clean up the low end."
+  },
+  {
+    "start": 1319.4399999999998,
+    "text": " If you're wondering how I'm quickly folding and unfolding these effects, I am simply pressing"
+  },
+  {
+    "start": 1325.36,
+    "text": " plus or minus on the computer keyboard."
+  },
+  {
+    "start": 1328.6799999999998,
+    "text": " And this allows you to quickly see an overview of which effects you have applied."
+  },
+  {
+    "start": 1333.52,
+    "text": " Most patches nowadays are going to use a bunch of effects, not only one or two."
+  },
+  {
+    "start": 1339.0,
+    "text": " So to keep it nice and tidy, you can just fold them and not only by double clicking,"
+  },
+  {
+    "start": 1343.68,
+    "text": " but also by pressing plus and minus."
+  },
+  {
+    "start": 1345.92,
+    "text": " These would be our keys."
+  },
+  {
+    "start": 1347.68,
+    "text": " And now let's take a look at the bass."
+  },
+  {
+    "start": 1359.48,
+    "text": " We can even mess around with the frequency."
+  },
+  {
+    "start": 1375.2,
+    "text": " This is a little bit more complex, but not too much."
+  },
+  {
+    "start": 1378.76,
+    "text": " Let's quickly fold the audio effects."
+  },
+  {
+    "start": 1380.76,
+    "text": " Okay, so let's take a look at analog at the beginning."
+  },
+  {
+    "start": 1384.28,
+    "text": " I'm going to disable the filter, disable the second oscillator, and I'm also going to disable"
+  },
+  {
+    "start": 1389.32,
+    "text": " the arpeggiator MIDI effect."
+  },
+  {
+    "start": 1394.12,
+    "text": " So as you can see, we've got no release here, but we've got this linear mode here in the"
+  },
+  {
+    "start": 1400.1599999999999,
+    "text": " amplifier section instead of exponential."
+  },
+  {
+    "start": 1402.74,
+    "text": " So that basically means that the sound basically goes down in volume in a linear way instead"
+  },
+  {
+    "start": 1409.3999999999999,
+    "text": " of just much more quickly in the exponential mode."
+  },
+  {
+    "start": 1412.9399999999998,
+    "text": " And we've got sustain all the way down."
+  },
+  {
+    "start": 1415.1599999999999,
+    "text": " Decay is set to around 600 milliseconds."
+  },
+  {
+    "start": 1417.72,
+    "text": " The most important characteristic comes from the filter."
+  },
+  {
+    "start": 1421.3600000000001,
+    "text": " Maybe we can also disable this unison."
+  },
+  {
+    "start": 1424.68,
+    "text": " Right."
+  },
+  {
+    "start": 1426.52,
+    "text": " So basically we are really, really low, almost all the way down with the frequency here."
+  },
+  {
+    "start": 1431.64,
+    "text": " We have drive enabled, but we're not really driving the filter much with the gain and"
+  },
+  {
+    "start": 1436.32,
+    "text": " we have a lot of envelope applied and the same decay as in the amplifier section."
+  },
+  {
+    "start": 1442.78,
+    "text": " And we are also in linear mode."
+  },
+  {
+    "start": 1444.72,
+    "text": " So this would sound like an exponential mode."
+  },
+  {
+    "start": 1450.26,
+    "text": " This is a little bit slower basically."
+  },
+  {
+    "start": 1452.4,
+    "text": " Yeah."
+  },
+  {
+    "start": 1453.4,
+    "text": " So we have unison applied with four voices and that basically makes it so that basically"
+  },
+  {
+    "start": 1463.08,
+    "text": " multiplies our voices by four."
+  },
+  {
+    "start": 1465.72,
+    "text": " So this basically multiplies our oscillator by four and the D tunes and D tunes the voices."
+  },
+  {
+    "start": 1472.56,
+    "text": " And then I am doing the same thing with oscillator two."
+  },
+  {
+    "start": 1475.86,
+    "text": " So I'm duplicating the voices even more."
+  },
+  {
+    "start": 1477.76,
+    "text": " We're playing four voices here."
+  },
+  {
+    "start": 1480.44,
+    "text": " Actually, if I disable the effects, you will hear what it sounds like."
+  },
+  {
+    "start": 1492.32,
+    "text": " This is not too punchy, not too powerful."
+  },
+  {
+    "start": 1495.4,
+    "text": " First of all, we are doing a bit of chorus, just to like 30% to give it a little bit of"
+  },
+  {
+    "start": 1500.76,
+    "text": " stereo spread."
+  },
+  {
+    "start": 1504.04,
+    "text": " But then the most power actually comes from the drum bus audio effect."
+  },
+  {
+    "start": 1508.32,
+    "text": " So we are adding a lot of drive and crunch."
+  },
+  {
+    "start": 1514.8799999999999,
+    "text": " This mode of distortion is really, really nice."
+  },
+  {
+    "start": 1517.24,
+    "text": " I really love using the drum bus for saturation."
+  },
+  {
+    "start": 1519.94,
+    "text": " And then we are using the echo for a little bit of a delay, but just 12% of dry wet."
+  },
+  {
+    "start": 1529.88,
+    "text": " And then we are just adding a splash of reverb to just put it in a space as well with a bit"
+  },
+  {
+    "start": 1536.88,
+    "text": " of a longer decay time, but you don't need to use that long to have that sort of outrun"
+  },
+  {
+    "start": 1542.8000000000002,
+    "text": " synth wave sequencing style arpeggiator."
+  },
+  {
+    "start": 1546.0,
+    "text": " I've applied the arpeggiator before the analog as a media effect is basically you can find"
+  },
+  {
+    "start": 1551.44,
+    "text": " that basically you will find it in media effects at the top and I'm doing eighth notes with"
+  },
+  {
+    "start": 1557.36,
+    "text": " the gate all the way up and this is what it sounds like."
+  },
+  {
+    "start": 1571.72,
+    "text": " So as you can see and hear analog sounds really, really powerful when paired with a bunch of"
+  },
+  {
+    "start": 1577.2,
+    "text": " audio effects and when you're really utilizing all of the functions that it has to offer."
+  },
+  {
+    "start": 1582.64,
+    "text": " It's really, really simple, but for patches that are not really crazy, this is an amazing"
+  },
+  {
+    "start": 1587.48,
+    "text": " solution because it's really lightweight."
+  },
+  {
+    "start": 1589.7800000000002,
+    "text": " If I play this patch without the audio effects, you can see that I'm only having like 5% of"
+  },
+  {
+    "start": 1598.76,
+    "text": " my CPU power taken."
+  },
+  {
+    "start": 1600.5600000000002,
+    "text": " So that's not too much and you're definitely not going to get that with some very modern"
+  },
+  {
+    "start": 1606.0,
+    "text": " VSTs like Diva or Serum."
+  },
+  {
+    "start": 1608.4,
+    "text": " So that would be it for this tutorial guys."
+  },
+  {
+    "start": 1610.3600000000001,
+    "text": " Thank you very much for watching and I hope you learned something today."
+  },
+  {
+    "start": 1613.96,
+    "text": " Make sure to check out our PMO Academy."
+  },
+  {
+    "start": 1616.32,
+    "text": " We've got a lot of start to finish courses for both beginners and more advanced producers."
+  },
+  {
+    "start": 1621.44,
+    "text": " Subscribe and hit the notification bell, leave a like and comment and I will see you in the"
+  },
+  {
+    "start": 1625.68,
+    "text": " next ones."
+  }
+]

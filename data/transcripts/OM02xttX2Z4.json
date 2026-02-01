@@ -1,0 +1,274 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey there music lovers, today we're diving deep into the world of Ableton's compressor effect,"
+  },
+  {
+    "start": 5.44,
+    "text": " a powerful tool for leveling up your tracks."
+  },
+  {
+    "start": 8.2,
+    "text": " Compression is all about controlling the dynamic range,"
+  },
+  {
+    "start": 11.28,
+    "text": " and a good compressor can give your track that polished, professional edge,"
+  },
+  {
+    "start": 15.76,
+    "text": " from subtle smoothing to full-on punch."
+  },
+  {
+    "start": 18.400000000000002,
+    "text": " So, what does a compressor actually do?"
+  },
+  {
+    "start": 21.28,
+    "text": " A compressor reduces the gain of signals that go above a set threshold,"
+  },
+  {
+    "start": 26.479999999999997,
+    "text": " bringing down the loud peaks and giving you more headroom to turn up the overall signal."
+  },
+  {
+    "start": 31.52,
+    "text": " This means your track will sound louder and more punchy without actually increasing its peak volume."
+  },
+  {
+    "start": 38.0,
+    "text": " Two key settings you'll need to understand are threshold and ratio."
+  },
+  {
+    "start": 42.64,
+    "text": " The threshold slider sets the level where compression starts."
+  },
+  {
+    "start": 46.32,
+    "text": " Signals above this threshold get turned down."
+  },
+  {
+    "start": 49.36,
+    "text": " The ratio determines how strong the compression is, controlling how much the signal is reduced."
+  },
+  {
+    "start": 55.36,
+    "text": " For example, with a ratio of 3, if a signal above the threshold increases by 3 decibels,"
+  },
+  {
+    "start": 61.36,
+    "text": " the output will increase by only 1 decibel."
+  },
+  {
+    "start": 64.56,
+    "text": " The higher the ratio, the more aggressive the compression."
+  },
+  {
+    "start": 68.32000000000001,
+    "text": " Now, keep an eye on the orange gain reduction meter."
+  },
+  {
+    "start": 71.92,
+    "text": " This shows how much gain is being reduced at any given moment."
+  },
+  {
+    "start": 76.64,
+    "text": " If you see a lot of reduction, like above 6 decibels, you're really squashing those peaks,"
+  },
+  {
+    "start": 82.72,
+    "text": " which might be what you're after, but be careful,"
+  },
+  {
+    "start": 86.16,
+    "text": " because too much can flatten the dynamics of your track."
+  },
+  {
+    "start": 89.52,
+    "text": " Remember, less is often more."
+  },
+  {
+    "start": 91.92,
+    "text": " Next, you've got the output control, which lets you raise the overall volume"
+  },
+  {
+    "start": 96.47999999999999,
+    "text": " of the compressed signal so it sits right in the mix."
+  },
+  {
+    "start": 100.08,
+    "text": " Enable the makeup button to automatically adjust this level as you change the threshold and ratio."
+  },
+  {
+    "start": 106.64,
+    "text": " Want more control over your sound?"
+  },
+  {
+    "start": 108.88,
+    "text": " Try using the dry-wet control to blend between the compressed and uncompressed signals."
+  },
+  {
+    "start": 114.24,
+    "text": " This can give you the punch of compression"
+  },
+  {
+    "start": 116.24,
+    "text": " without losing the natural dynamics of your original track."
+  },
+  {
+    "start": 119.6,
+    "text": " The knee control is another powerful tool."
+  },
+  {
+    "start": 122.24,
+    "text": " It adjusts how gradually compression kicks in as you approach the threshold."
+  },
+  {
+    "start": 126.88,
+    "text": " A hard knee applies full compression at the threshold, which can sound harsh."
+  },
+  {
+    "start": 132.07999999999998,
+    "text": " With a soft knee, compression starts gradually as you near the threshold"
+  },
+  {
+    "start": 136.72,
+    "text": " for a smoother, more musical sound."
+  },
+  {
+    "start": 139.28,
+    "text": " Ableton's compressor has multiple display modes."
+  },
+  {
+    "start": 142.4,
+    "text": " Collapsed view shows only the basics, while the transfer curve and activity views"
+  },
+  {
+    "start": 147.68,
+    "text": " give you visual feedback of what's happening to your signal."
+  },
+  {
+    "start": 150.72,
+    "text": " Use these to set the knee parameter, see input levels, and check your gain reduction."
+  },
+  {
+    "start": 156.32,
+    "text": " The attack and release controls are essential for shaping the compressor's response."
+  },
+  {
+    "start": 161.44,
+    "text": " Attack sets how quickly compression kicks in once the threshold is crossed."
+  },
+  {
+    "start": 166.48,
+    "text": " While release determines how quickly the compressor stops compressing"
+  },
+  {
+    "start": 170.79999999999998,
+    "text": " after the signal drops below the threshold."
+  },
+  {
+    "start": 173.92,
+    "text": " For rhythmic tracks, experiment with these settings to preserve punch without distortion."
+  },
+  {
+    "start": 179.83999999999997,
+    "text": " Set a slower attack if you want some transient detail to shine through,"
+  },
+  {
+    "start": 184.56,
+    "text": " or a fast release if you want to avoid pumping effects."
+  },
+  {
+    "start": 188.79999999999998,
+    "text": " And for added precision, try the look-ahead setting."
+  },
+  {
+    "start": 192.56,
+    "text": " This delays the input signal slightly, letting the compressor react in real time to sudden peaks."
+  },
+  {
+    "start": 199.36,
+    "text": " Ableton offers three options here."
+  },
+  {
+    "start": 201.68,
+    "text": " 0 milliseconds, 1 millisecond, and 10 milliseconds,"
+  },
+  {
+    "start": 205.6,
+    "text": " with longer look-aheads giving smoother, more controlled compression."
+  },
+  {
+    "start": 210.72,
+    "text": " Finally, let's talk modes."
+  },
+  {
+    "start": 212.72,
+    "text": " Ableton's compressor has three main modes."
+  },
+  {
+    "start": 215.84,
+    "text": " Peak, RMS, and expand."
+  },
+  {
+    "start": 218.88,
+    "text": " Peak mode responds instantly to short peaks, perfect for limiting tasks."
+  },
+  {
+    "start": 224.0,
+    "text": " RMS mode is a bit more relaxed, compressing only when the level stays high,"
+  },
+  {
+    "start": 229.27999999999997,
+    "text": " ideal for a more natural musical compression."
+  },
+  {
+    "start": 232.48,
+    "text": " And with expand mode, you can actually increase dynamic range"
+  },
+  {
+    "start": 236.56,
+    "text": " by making the louder parts louder relative to the quiet ones."
+  },
+  {
+    "start": 240.23999999999998,
+    "text": " Switching between linear and logarithmic envelope shapes"
+  },
+  {
+    "start": 244.0,
+    "text": " also changes how the compressor responds."
+  },
+  {
+    "start": 247.2,
+    "text": " In LYN mode, the attack and release times control speed."
+  },
+  {
+    "start": 250.95999999999998,
+    "text": " In LOG mode, the compressor adapts to the signal for smoother, less noticeable compression."
+  },
+  {
+    "start": 257.36,
+    "text": " Sidechain compression is another powerful technique, but we'll leave that for another video."
+  },
+  {
+    "start": 262.88,
+    "text": " If this breakdown helped, don't forget to follow,"
+  },
+  {
+    "start": 265.76,
+    "text": " like, and book a coaching call with me to dive even deeper into mastering your mix."
+  },
+  {
+    "start": 271.12,
+    "text": " Quick question for you, what's your biggest challenge with compression?"
+  },
+  {
+    "start": 275.28000000000003,
+    "text": " Drop it in the comments, I'd love to help."
+  },
+  {
+    "start": 278.08000000000004,
+    "text": " Until next time, keep creating and stay curious."
+  }
+]

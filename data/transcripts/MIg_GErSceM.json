@@ -1,0 +1,246 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hi everybody, today we are going to go over audio effects inside of Ableton Live."
+  },
+  {
+    "start": 20.04,
+    "text": " Now Ableton comes inbuilt with a huge amount of effects."
+  },
+  {
+    "start": 24.12,
+    "text": " So if we come over to the browser window here and we click audio effects, you can see that"
+  },
+  {
+    "start": 29.64,
+    "text": " there is a lot in here. So this is not going to be a tutorial on breaking down what each and every"
+  },
+  {
+    "start": 35.120000000000005,
+    "text": " one is, it's just going to be a quick way of showing you how you can start experimenting with"
+  },
+  {
+    "start": 39.16,
+    "text": " them, how you actually pull them in and put them on a channel and that sort of thing. It's not going"
+  },
+  {
+    "start": 45.6,
+    "text": " to be in depth of what each effect does. So this is just going to get you set up so you can start"
+  },
+  {
+    "start": 51.16,
+    "text": " experimenting and start learning what they do. So I've got this audio sample here that I've pulled"
+  },
+  {
+    "start": 58.919999999999995,
+    "text": " from my browser window and I'm just going to audition that. So I'm going to select the clip"
+  },
+  {
+    "start": 63.239999999999995,
+    "text": " and press play. Cool, so you can hear what that sounds like. I'm going to click on the clip,"
+  },
+  {
+    "start": 68.36,
+    "text": " I'm going to press Z so that I move zoom way in on it. So let's click that, press Z and now we can"
+  },
+  {
+    "start": 76.28,
+    "text": " see it up close. Okay, so first things first is the first audio effect here is an amp. So we could"
+  },
+  {
+    "start": 86.28,
+    "text": " select the amp and we can click and drag onto the channel that we would like or if we select"
+  },
+  {
+    "start": 94.28,
+    "text": " the channel and then double click that also will put the effect down here. So we'll quickly just"
+  },
+  {
+    "start": 101.08,
+    "text": " look at an overview of the plugins in a very general sense. So the first thing is this yellow"
+  },
+  {
+    "start": 106.67999999999999,
+    "text": " button here, this turns on and off the effect. So when the yellow is bright that means the effect"
+  },
+  {
+    "start": 113.4,
+    "text": " is turned on. When it's greyed out like that it means the effect is turned off. So that is the"
+  },
+  {
+    "start": 119.88000000000001,
+    "text": " first important control. The second important control that's going to exist on most of these"
+  },
+  {
+    "start": 124.60000000000001,
+    "text": " plugins is dry wet. Okay, so dry would mean the signal before any effect has been applied to it"
+  },
+  {
+    "start": 133.48000000000002,
+    "text": " and then wet would indicate not so much of the original signal but all the affected sound. So"
+  },
+  {
+    "start": 141.8,
+    "text": " it's basically the ratio between before and after the effect. So when we've got 100% wet,"
+  },
+  {
+    "start": 150.76,
+    "text": " we're only hearing 100% of that effect applied. If we've got it 50, we're going to hear 50% of the"
+  },
+  {
+    "start": 159.64000000000001,
+    "text": " original signal before any effect and then 50% of the signal after the effect has been applied."
+  },
+  {
+    "start": 167.4,
+    "text": " So that will give you an idea where you can only apply a small amount of that effect,"
+  },
+  {
+    "start": 172.76,
+    "text": " you don't have to necessarily give it all that it's got. So what does that amp sound like once"
+  },
+  {
+    "start": 178.44,
+    "text": " we've pulled it in? What does it change? Cool, so we can A, B what it sounds like before. So we'll"
+  },
+  {
+    "start": 185.4,
+    "text": " turn it off and play. We'll turn it on and play. Cool, so it's more of an aggressive sound, it"
+  },
+  {
+    "start": 194.04,
+    "text": " sounds louder and the high part of that bass sound is more in your face so to speak."
+  },
+  {
+    "start": 201.88,
+    "text": " So that's how you just pull in a regular amp. I'm going to select the channel, I'm going to select"
+  },
+  {
+    "start": 206.76,
+    "text": " the device up the top and I'm going to press delete to get rid of it. I'm going to drop down"
+  },
+  {
+    "start": 212.6,
+    "text": " this downward arrow and I can see that there's actually a whole lot of let's say presets. So I"
+  },
+  {
+    "start": 219.96,
+    "text": " can grab heavy and I can click and drag and then I can press spacebar to audition what that sounds"
+  },
+  {
+    "start": 224.92000000000002,
+    "text": " like. Cool, so that is very aggressive and let's say, all right I like that but let's pull it back"
+  },
+  {
+    "start": 232.76000000000002,
+    "text": " a little bit so we can pull back on this dry wet and we can say we'll just let 40%. So we're still"
+  },
+  {
+    "start": 239.48000000000002,
+    "text": " getting the aggression but it's not completely saturating the sound. Cool, so that's a look at"
+  },
+  {
+    "start": 248.2,
+    "text": " the amps. I'm going to select that and turn it off. What else do we have here? We've got filters,"
+  },
+  {
+    "start": 254.11999999999998,
+    "text": " so we can grab that filter, we can click and drag, so it's the same principle of pulling it into a"
+  },
+  {
+    "start": 258.52,
+    "text": " channel and then we've got some controls here. So again we've got the on off and with a filter you"
+  },
+  {
+    "start": 264.28,
+    "text": " could start playing around with the frequency and see what it does. So if I pull it all the way down"
+  },
+  {
+    "start": 267.56,
+    "text": " here, all right we don't get any crispiness of the sound if I pull it up. Okay sweet, so I can see if"
+  },
+  {
+    "start": 277.72,
+    "text": " I played around with that we're going to get some interesting effects and we're able to chain a whole"
+  },
+  {
+    "start": 286.44000000000005,
+    "text": " bunch of things together. So let's put the amp first, we'll put it on the heavy setting"
+  },
+  {
+    "start": 294.28000000000003,
+    "text": " and we're already starting to create effects chains that are doing interesting things."
+  },
+  {
+    "start": 300.52000000000004,
+    "text": " We've got other effects like a ping pong delay, we'll just pull the dry wet down and we'll play"
+  },
+  {
+    "start": 306.52,
+    "text": " that and see how it sounds. Cool, that's very trippy. We've got pedal effects, that's like a distortion."
+  },
+  {
+    "start": 325.15999999999997,
+    "text": " So there's all sorts of"
+  },
+  {
+    "start": 330.2,
+    "text": " different things that we can do with the pedal effects. Now again to reiterate, this is not a"
+  },
+  {
+    "start": 335.24,
+    "text": " tutorial to show you what every single effect plugin does, but a lot of them speaks for themselves."
+  },
+  {
+    "start": 342.84000000000003,
+    "text": " If you're already in the audio world you know an amplifier, it's modelling a guitar and this sort"
+  },
+  {
+    "start": 347.96000000000004,
+    "text": " of thing, a guitar amplifier. So that is how you pull in effects and start using them. So you've"
+  },
+  {
+    "start": 354.04,
+    "text": " got your on off switch which is very important and then your dry wet. So that will get you started,"
+  },
+  {
+    "start": 359.8,
+    "text": " you can pull things on, you can make massive big long chains of effects and see what everything does"
+  },
+  {
+    "start": 366.52000000000004,
+    "text": " and that's a fantastic way of getting in and learning. So that is how you use audio effects,"
+  },
+  {
+    "start": 372.36,
+    "text": " just very basically to pull them in on channels and start using them. So I'll see you guys in the next video."
+  },
+  {
+    "start": 378.44,
+    "text": " Hey everybody, thank you so much for watching my videos. If you'd like to support the channel,"
+  },
+  {
+    "start": 382.68,
+    "text": " go ahead and subscribe. You can follow me on Facebook, you can find my music pages in the links"
+  },
+  {
+    "start": 389.48,
+    "text": " in the comment description below. You can jump on our Discord server, I've got the link for that down"
+  },
+  {
+    "start": 394.12,
+    "text": " below and I just want to alert you guys about Steemit, Dtube and Dsound. So if you guys are"
+  },
+  {
+    "start": 400.28000000000003,
+    "text": " into cryptocurrency, I've got links for all of that down in the video description. I've got profiles on"
+  },
+  {
+    "start": 405.24,
+    "text": " there so jump on and follow me and these platforms look really promising and look like they're really"
+  },
+  {
+    "start": 411.32,
+    "text": " going to change things for content producers. So thanks again for watching and I'll see you guys in another video."
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "start": 0.0,
+    "text": " Sam Smires here. Today I want to talk about how to use the multi band dynamics plugin in Ableton Live."
+  },
+  {
+    "start": 5.4,
+    "text": " So let's go ahead and jump into the video."
+  },
+  {
+    "start": 12.0,
+    "text": " In order to understand how the multi band dynamics plugin works, then we have to understand the types of processing that it does."
+  },
+  {
+    "start": 18.400000000000002,
+    "text": " It does four types of processing. It does upward compression, downward compression, upward expansion, and downward expansion."
+  },
+  {
+    "start": 26.3,
+    "text": " With compression, you reduce the dynamic range so you have a smaller dynamic range."
+  },
+  {
+    "start": 30.5,
+    "text": " And then with expansion, you increase the dynamic range so you have a larger dynamic range."
+  },
+  {
+    "start": 36.1,
+    "text": " They are essentially the opposite of each other."
+  },
+  {
+    "start": 38.5,
+    "text": " When we think about compression, a lot of times we are thinking about downward compression because downward compression makes loud signals quieter."
+  },
+  {
+    "start": 46.3,
+    "text": " Any signal that goes above a threshold is reduced to below that threshold according to whatever the rate of the ratio is."
+  },
+  {
+    "start": 54.6,
+    "text": " And then upward compression is actually going to be making quiet signals louder."
+  },
+  {
+    "start": 59.2,
+    "text": " So anytime that a signal falls below a threshold, that signal is brought up and you are therefore creating a smaller dynamic range."
+  },
+  {
+    "start": 67.8,
+    "text": " Let's take a look at downward and upward expansion."
+  },
+  {
+    "start": 70.4,
+    "text": " Downward expansion makes quiet signals quieter."
+  },
+  {
+    "start": 72.9,
+    "text": " Think about when you use a noise gate."
+  },
+  {
+    "start": 75.1,
+    "text": " You typically use a noise gate on things like vocals or drums when you want to reduce the background noise."
+  },
+  {
+    "start": 80.2,
+    "text": " You set the threshold and then anytime the noise falls below that threshold, then it is pushed down even further so that the actual vocals or the drums that you want will stand out more."
+  },
+  {
+    "start": 91.0,
+    "text": " Upward expansion is going to make loud signals louder."
+  },
+  {
+    "start": 94.5,
+    "text": " Anytime that a signal passes above a threshold, then that signal is actually made louder, therefore increasing the dynamic range."
+  },
+  {
+    "start": 102.7,
+    "text": " Hey, everyone, I just wanted to interrupt really quickly."
+  },
+  {
+    "start": 105.0,
+    "text": " If you are enjoying the video, please go ahead and give it a like and subscribe to my channel because that will help you stay updated with videos that are just like this."
+  },
+  {
+    "start": 112.2,
+    "text": " Now back to the video."
+  },
+  {
+    "start": 113.2,
+    "text": " Here is a visual representation of downward and upward compression."
+  },
+  {
+    "start": 117.5,
+    "text": " Here we have the original dynamic range with downward compression."
+  },
+  {
+    "start": 121.4,
+    "text": " It is made into a smaller dynamic range upward compression."
+  },
+  {
+    "start": 124.9,
+    "text": " We have the original dynamic range and it's also made into a smaller dynamic range."
+  },
+  {
+    "start": 129.5,
+    "text": " However, with downward compression, we are compressing the signal down and then with upward compression, we're compressing the signal up."
+  },
+  {
+    "start": 137.3,
+    "text": " Let's take a look at downward and upward expansion."
+  },
+  {
+    "start": 140.0,
+    "text": " We have the original dynamic range and then we increase that dynamic range with downward expansion by pulling those quieter sounds quieter."
+  },
+  {
+    "start": 147.9,
+    "text": " And then with upward expansion, anytime that a loud signal goes above a threshold, then we increase that loud signal even more, increasing the dynamic range."
+  },
+  {
+    "start": 157.8,
+    "text": " Now that you understand the types of processing that the multi band dynamics plugin does, let's go ahead and talk about how to use the plugin."
+  },
+  {
+    "start": 164.20000000000002,
+    "text": " I'll put the multi band dynamics plugin onto this drum track and let's go ahead and just play a loop of this drum track."
+  },
+  {
+    "start": 179.10000000000002,
+    "text": " I just have a shaker looping, a shaker loop and the multi band dynamics plugin."
+  },
+  {
+    "start": 183.70000000000002,
+    "text": " We have three different bands."
+  },
+  {
+    "start": 185.0,
+    "text": " We have the high band, the mid band and the low band."
+  },
+  {
+    "start": 189.3,
+    "text": " This high band is currently set at 2.5 kilohertz."
+  },
+  {
+    "start": 193.1,
+    "text": " This band deals with anything at 2.5 kilohertz and above."
+  },
+  {
+    "start": 196.9,
+    "text": " This mid band is going to represent anything that is between the high and low band."
+  },
+  {
+    "start": 201.5,
+    "text": " The low band is at 120."
+  },
+  {
+    "start": 203.1,
+    "text": " Anything under 120 Hertz is going to be within this low band."
+  },
+  {
+    "start": 207.9,
+    "text": " And then anything between these two ranges is going to be that mid band."
+  },
+  {
+    "start": 211.6,
+    "text": " And I can also change the range here."
+  },
+  {
+    "start": 214.1,
+    "text": " I could just set this to 2 kilohertz."
+  },
+  {
+    "start": 217.4,
+    "text": " I could set this to 200 Hertz."
+  },
+  {
+    "start": 220.2,
+    "text": " I can also click this high and turn it off so that now I only have the middle band and the low band."
+  },
+  {
+    "start": 228.1,
+    "text": " Or I could turn off the low band so that I only have the mid band and the high band."
+  },
+  {
+    "start": 232.1,
+    "text": " Or I could turn off both the high and low bands so that I only have one band and that is no longer multi band processing."
+  },
+  {
+    "start": 240.9,
+    "text": " I could also just mute these by clicking this button here or I could solo the bands like that."
+  },
+  {
+    "start": 246.9,
+    "text": " And then you can adjust the input gain, the output gain here, the total output of the plugin and the amount of the plugin,"
+  },
+  {
+    "start": 255.9,
+    "text": " whether you want to run this plugin in parallel."
+  },
+  {
+    "start": 258.9,
+    "text": " This time knob here will actually allow you to scale the attack and release times for each of these bands."
+  },
+  {
+    "start": 263.9,
+    "text": " Down here we have the soft knee."
+  },
+  {
+    "start": 265.9,
+    "text": " If I have this turned on, then compression or expansion will begin gradually as it approaches the threshold."
+  },
+  {
+    "start": 271.9,
+    "text": " Then you have RMS or peak."
+  },
+  {
+    "start": 274.9,
+    "text": " This will determine how quickly the multi band dynamics plugin reacts to short peaks."
+  },
+  {
+    "start": 279.9,
+    "text": " With peak enabled, it will react quicker to short peaks."
+  },
+  {
+    "start": 282.9,
+    "text": " And then with RMS enabled, it will be a bit slower to react to short peaks."
+  },
+  {
+    "start": 288.9,
+    "text": " What I'm going to do is I'm going to put this on peak and I'm going to turn off the soft knee."
+  },
+  {
+    "start": 292.9,
+    "text": " This T, B and A stands for time for T, B for below and A for above."
+  },
+  {
+    "start": 299.9,
+    "text": " Let's go ahead and go to B for below and we'll start dealing with this high band here."
+  },
+  {
+    "start": 305.9,
+    "text": " We have the threshold at negative 60 dB."
+  },
+  {
+    "start": 307.9,
+    "text": " I can go to these two columns here and I can raise this threshold up or down for the below."
+  },
+  {
+    "start": 314.9,
+    "text": " And then I can go here for the above and raise the threshold up and down."
+  },
+  {
+    "start": 321.9,
+    "text": " Let's go back to the below."
+  },
+  {
+    "start": 323.9,
+    "text": " Then we have the ratio at one to one."
+  },
+  {
+    "start": 326.9,
+    "text": " Nothing is going to be happening."
+  },
+  {
+    "start": 328.9,
+    "text": " Let's listen to what happens whenever I increase this ratio with the track."
+  },
+  {
+    "start": 345.9,
+    "text": " As you heard, I was adjusting the high band that was dealing with the shakers."
+  },
+  {
+    "start": 349.9,
+    "text": " As I increased that ratio, we are applying upward compression."
+  },
+  {
+    "start": 353.9,
+    "text": " The quieter parts of the shaker get louder."
+  },
+  {
+    "start": 356.9,
+    "text": " Let's turn this back on."
+  },
+  {
+    "start": 357.9,
+    "text": " Reset the ratio."
+  },
+  {
+    "start": 358.9,
+    "text": " Now, if I reduce the ratio to something below one, then we are going to apply downward expansion."
+  },
+  {
+    "start": 380.9,
+    "text": " Now, with the multi-band dynamics turned on, we don't hear any of those quiet parts of the shaker."
+  },
+  {
+    "start": 386.9,
+    "text": " We only hear those louder parts because the quieter parts have been reduced almost to zero."
+  },
+  {
+    "start": 391.9,
+    "text": " We can't even really hear them."
+  },
+  {
+    "start": 392.9,
+    "text": " I can also go through all of the other bands and do the same thing."
+  },
+  {
+    "start": 395.9,
+    "text": " I can go to my mid band."
+  },
+  {
+    "start": 403.9,
+    "text": " And there I just increase that ratio to create upward compression."
+  },
+  {
+    "start": 407.9,
+    "text": " Now you hear the reverb from that clap being brought up and you're reducing the dynamic range of that clap."
+  },
+  {
+    "start": 412.9,
+    "text": " Let's go and reset these settings here."
+  },
+  {
+    "start": 415.9,
+    "text": " And let's go to above."
+  },
+  {
+    "start": 417.9,
+    "text": " Let's go back to that high band and increase the ratio and reduce the threshold."
+  },
+  {
+    "start": 432.9,
+    "text": " Now we are applying downward compression."
+  },
+  {
+    "start": 434.9,
+    "text": " This is usually what we think of when we think of compression."
+  },
+  {
+    "start": 436.9,
+    "text": " We're taking the loud signal that is going above the threshold and reducing it to some amount below the threshold according to whatever our ratio is."
+  },
+  {
+    "start": 445.9,
+    "text": " Now I can apply upward expansion by decreasing the ratio to something below one to one."
+  },
+  {
+    "start": 451.9,
+    "text": " Now anytime that signal goes above the threshold, we are increasing how loud it is and you can hear it definitely with that clap sounds a lot louder and the shakers sound a lot louder."
+  },
+  {
+    "start": 461.9,
+    "text": " Let's move on to a different part of this drum loop."
+  },
+  {
+    "start": 466.9,
+    "text": " This is going to be a bit louder, going to have all the different parts of the drum loop."
+  },
+  {
+    "start": 471.9,
+    "text": " And let's just play around with some of the settings on this multiband dynamics."
+  },
+  {
+    "start": 502.9,
+    "text": " In that example, I increased the kick."
+  },
+  {
+    "start": 505.9,
+    "text": " You feel that kick becoming louder."
+  },
+  {
+    "start": 507.9,
+    "text": " I'm applying upward expansion and then I'm reducing the hi hat."
+  },
+  {
+    "start": 510.9,
+    "text": " I'm applying downward compression."
+  },
+  {
+    "start": 512.9,
+    "text": " The multiband dynamics plugin also has a sidechain option."
+  },
+  {
+    "start": 515.9,
+    "text": " So let me show you how to use sidechain compression with the multiband dynamics plugin."
+  },
+  {
+    "start": 520.9,
+    "text": " I'm going to go to my base and I'm going to insert a multiband dynamics on my base."
+  },
+  {
+    "start": 525.9,
+    "text": " And then I just have a kick here."
+  },
+  {
+    "start": 527.9,
+    "text": " This is the bass and kick together."
+  },
+  {
+    "start": 531.9,
+    "text": " I can open up the sidechain menu here, turn it on audio from kick."
+  },
+  {
+    "start": 542.9,
+    "text": " I am just checking that kick audio."
+  },
+  {
+    "start": 546.9,
+    "text": " And basically what I can do is I can choose to only sidechain compress a particular frequency range."
+  },
+  {
+    "start": 553.9,
+    "text": " In this example, let's say I only want to take down and sidechain compress the low end from my base."
+  },
+  {
+    "start": 560.9,
+    "text": " While maintaining that high end from the base so that I maintain all that width in that groove."
+  },
+  {
+    "start": 565.9,
+    "text": " What I can do is I can deactivate these two bands so that I only have a low band."
+  },
+  {
+    "start": 571.9,
+    "text": " Let's set this low band at 200 Hertz."
+  },
+  {
+    "start": 575.9,
+    "text": " Let's go to above."
+  },
+  {
+    "start": 577.9,
+    "text": " This is going to set the sidechain compression."
+  },
+  {
+    "start": 590.9,
+    "text": " Let's exaggerate it."
+  },
+  {
+    "start": 599.9,
+    "text": " There we hear the bass still in there, but we don't hear any of the low end from the bass because I'm just compressing out that low end from the bass every time that kick hits."
+  },
+  {
+    "start": 608.9,
+    "text": " And there I adjusted the attack and release settings so that we have a fast attack and a fast release."
+  },
+  {
+    "start": 620.9,
+    "text": " And we can take a look at a spectrum analyzer to see what we are doing."
+  },
+  {
+    "start": 630.9,
+    "text": " Let's go ahead and turn off the multiband dynamics and play the bass."
+  },
+  {
+    "start": 639.9,
+    "text": " This is going to be the frequency range of the bass."
+  },
+  {
+    "start": 643.9,
+    "text": " Let's go ahead and turn on the multiband dynamics and let's watch as just this low end is being taken out while maintaining this mid to high end frequency range."
+  },
+  {
+    "start": 669.9,
+    "text": " Now I'm exaggerating these settings."
+  },
+  {
+    "start": 672.9,
+    "text": " I'm taking out a lot of that low end there, but I'm still maintaining this mid to high end range."
+  },
+  {
+    "start": 677.9,
+    "text": " So this multiband dynamic technique of using the sidechain to just sidechain the low end can actually help you maintain energy in the track if you don't want to take out all of the frequencies of the bass."
+  },
+  {
+    "start": 689.9,
+    "text": " You can also use this for other things, not just a bass."
+  },
+  {
+    "start": 691.9,
+    "text": " You can also sidechain other instruments with each other or vocals with some instruments."
+  },
+  {
+    "start": 696.9,
+    "text": " You can get creative with just using sidechain compression on a particular frequency range."
+  },
+  {
+    "start": 702.9,
+    "text": " That about does it for the multiband dynamics plugin."
+  },
+  {
+    "start": 705.9,
+    "text": " Hopefully you understand better those four types of processing upward compression, downward compression, upward expansion and downward expansion."
+  },
+  {
+    "start": 712.9,
+    "text": " Understanding those four types of processing will help you understand how to use the multiband dynamics plugin now."
+  },
+  {
+    "start": 717.9,
+    "text": " And now you can use it in your next production."
+  },
+  {
+    "start": 720.9,
+    "text": " If you enjoyed this video, please go ahead and give it a like and subscribe to my channel because that will help you stay updated with future videos that are just like this."
+  },
+  {
+    "start": 727.9,
+    "text": " Thank you so much for watching. I'll see you next time."
+  }
+]

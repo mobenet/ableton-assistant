@@ -1,0 +1,558 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey, it's Andrew Huang!"
+  },
+  {
+    "start": 22.88,
+    "text": " Ableton Push 3 just came out and I'm going to show you everything that is new about it."
+  },
+  {
+    "start": 27.4,
+    "text": " Thank you to Ableton for giving me early access to this unit and sponsoring this video."
+  },
+  {
+    "start": 31.799999999999997,
+    "text": " Been an Ableton user for 20 years, been a Push user since version 1, so this is super exciting to me."
+  },
+  {
+    "start": 36.839999999999996,
+    "text": " If you like Push 1 or Push 2, you will love Push 3. It does all the same stuff,"
+  },
+  {
+    "start": 41.32,
+    "text": " but also adds some completely new things that could step up your workflow in Ableton,"
+  },
+  {
+    "start": 45.239999999999995,
+    "text": " or even just in your studio in general."
+  },
+  {
+    "start": 47.4,
+    "text": " It's got a bunch more dedicated controls, the pads now have MIDI polyphonic expression,"
+  },
+  {
+    "start": 51.96,
+    "text": " and look at what I have connected to it here."
+  },
+  {
+    "start": 54.92,
+    "text": " I've added some audio cables because there is now a built-in audio interface,"
+  },
+  {
+    "start": 59.160000000000004,
+    "text": " and if you look at what else I have connected here, there's absolutely nothing,"
+  },
+  {
+    "start": 63.96000000000001,
+    "text": " because it can now work battery powered and standalone."
+  },
+  {
+    "start": 67.4,
+    "text": " So that's a game changer, and there are so many other improvements and additions."
+  },
+  {
+    "start": 70.92,
+    "text": " Let me walk you through it all."
+  },
+  {
+    "start": 72.12,
+    "text": " So first of all, we've got this nice new big jog wheel, which is handy for navigating."
+  },
+  {
+    "start": 87.80000000000001,
+    "text": " Obviously, you can scroll with it, you can tap to make a selection,"
+  },
+  {
+    "start": 91.88000000000001,
+    "text": " and then you can nudge it to the right and to the left,"
+  },
+  {
+    "start": 94.36000000000001,
+    "text": " and that does different things depending on the context."
+  },
+  {
+    "start": 96.76,
+    "text": " Here in the browser, as you can see, it goes up a folder."
+  },
+  {
+    "start": 99.24,
+    "text": " You can still navigate the old way with the arrow keys here,"
+  },
+  {
+    "start": 101.72,
+    "text": " but they've added in the middle of those this button to make your selection,"
+  },
+  {
+    "start": 105.08,
+    "text": " where the way it used to be, this button would change into a load button."
+  },
+  {
+    "start": 108.44,
+    "text": " So faster navigation all around."
+  },
+  {
+    "start": 110.03999999999999,
+    "text": " I think the major thing to highlight with the jog wheel is that there is a more robust note editor."
+  },
+  {
+    "start": 115.24,
+    "text": " So if I go to clip view here, I can navigate around with the jog wheel,"
+  },
+  {
+    "start": 119.96,
+    "text": " and I can select different notes, whichever one that I hover on,"
+  },
+  {
+    "start": 124.52,
+    "text": " I can tap on, and then I can edit those."
+  },
+  {
+    "start": 129.24,
+    "text": " Push 3's pads are now MPE enabled."
+  },
+  {
+    "start": 156.44,
+    "text": " So if you're using an MPE sound, you can hold down a pad and slide up and down it."
+  },
+  {
+    "start": 162.76,
+    "text": " For different expressions, you can also press down on it."
+  },
+  {
+    "start": 167.96,
+    "text": " Moving left to right on a pad gives you a bit of vibrato."
+  },
+  {
+    "start": 174.92,
+    "text": " And you can slide left to right across pads for pitch bends."
+  },
+  {
+    "start": 178.12,
+    "text": " You can adjust some of the MPE settings so the width and the height of the sliding can be adjusted,"
+  },
+  {
+    "start": 184.12,
+    "text": " and there's also a finger mode or a pad mode."
+  },
+  {
+    "start": 187.48000000000002,
+    "text": " If you're in pad mode, then tuning is absolute."
+  },
+  {
+    "start": 189.72,
+    "text": " You have to be really careful about where you're hitting on the pads."
+  },
+  {
+    "start": 196.04000000000002,
+    "text": " And if you're in finger mode, it means that wherever you first hit on a pad,"
+  },
+  {
+    "start": 199.24,
+    "text": " it will be in tune to the scale that you've set, and then as you slide, it will bend."
+  },
+  {
+    "start": 203.96,
+    "text": " Fun little tip with this setup, you can just slide your finger around in random shapes."
+  },
+  {
+    "start": 207.64000000000001,
+    "text": " Great way to end a solo."
+  },
+  {
+    "start": 214.20000000000002,
+    "text": " So the MPE stuff is especially well integrated into the new Drift synth that comes with the latest"
+  },
+  {
+    "start": 218.68,
+    "text": " Ableton update, but it does work with any MPE enabled instrument."
+  },
+  {
+    "start": 223.32,
+    "text": " Another cool thing though is what Able to do is you can use the MPE"
+  },
+  {
+    "start": 228.92,
+    "text": " kit, so you can have a drum rack where every pad is a midi polyphonic instrument."
+  },
+  {
+    "start": 238.27999999999997,
+    "text": " One fun little expressive way of playing that I kind of stumbled on is if you turn on"
+  },
+  {
+    "start": 242.35999999999999,
+    "text": " repeats, then every note that you hold down"
+  },
+  {
+    "start": 247.48,
+    "text": " repeats at the division of the beat that you've set, and this combined with the MPE"
+  },
+  {
+    "start": 252.27999999999997,
+    "text": " kit is a really cool thing."
+  },
+  {
+    "start": 254.28,
+    "text": " Repeats at the division of the beat that you've set, and this combined with the MPE"
+  },
+  {
+    "start": 259.4,
+    "text": " is a really fun way to play beats."
+  },
+  {
+    "start": 267.8,
+    "text": " So standalone mode."
+  },
+  {
+    "start": 269.32,
+    "text": " Push 3 can operate without being connected to your computer, and it has a battery in it,"
+  },
+  {
+    "start": 274.36,
+    "text": " so you don't have to even have it plugged into power."
+  },
+  {
+    "start": 277.0,
+    "text": " And this is actually an optional feature, so if you don't care about it, you can save money,"
+  },
+  {
+    "start": 281.0,
+    "text": " or if you get the non-standalone version of Push, there's actually an upgrade kit,"
+  },
+  {
+    "start": 285.16,
+    "text": " and you can install it later."
+  },
+  {
+    "start": 286.92,
+    "text": " Ableton also told me there's other upgrade options they're planning, like you can increase"
+  },
+  {
+    "start": 290.36,
+    "text": " the processor speed and the hard drive size, things like that."
+  },
+  {
+    "start": 293.48,
+    "text": " So what does standalone mode actually mean?"
+  },
+  {
+    "start": 295.56,
+    "text": " In many ways, it's the same as if you had the Push connected to a computer, it's just that"
+  },
+  {
+    "start": 300.44,
+    "text": " it's not connected, there is Ableton inside the Push."
+  },
+  {
+    "start": 303.48,
+    "text": " I haven't been connected to a computer for this whole video, so you know you've seen me"
+  },
+  {
+    "start": 306.6,
+    "text": " browse stuff, add instruments, plan, record notes, launch clips."
+  },
+  {
+    "start": 310.68,
+    "text": " All of that can happen wherever you want to take Push 3 unconnected to anything."
+  },
+  {
+    "start": 315.48,
+    "text": " The two big things I'd say you miss from the desktop Ableton experience are that you can't"
+  },
+  {
+    "start": 320.12,
+    "text": " use third-party plugins on the Push 3 standalone, and also you don't really have access to"
+  },
+  {
+    "start": 325.32,
+    "text": " arrangement view."
+  },
+  {
+    "start": 326.52,
+    "text": " It's very much a session view-based workflow where you're working with different clips and scenes."
+  },
+  {
+    "start": 331.48,
+    "text": " But of course, any project you start in Push standalone, you can transfer over to live."
+  },
+  {
+    "start": 336.28000000000003,
+    "text": " They've added some stuff that helps with Push being standalone, like if you press shift and"
+  },
+  {
+    "start": 339.88,
+    "text": " a track name, you can see you've got access to renaming, grouping, freezing, and flattening"
+  },
+  {
+    "start": 344.6,
+    "text": " right on the device."
+  },
+  {
+    "start": 345.8,
+    "text": " In the browser, you can now go up a level from before and look at sets."
+  },
+  {
+    "start": 350.28,
+    "text": " So here's a bunch of my live sets."
+  },
+  {
+    "start": 353.32,
+    "text": " If you go to the settings page and you hit control live and you're connected with the"
+  },
+  {
+    "start": 357.96,
+    "text": " USB-C to the computer, then it switches to the classic use case of Push as a control"
+  },
+  {
+    "start": 363.56,
+    "text": " surface for live."
+  },
+  {
+    "start": 364.84,
+    "text": " Push 3 can also connect to Wi-Fi, so if you're on the same network as your computer that"
+  },
+  {
+    "start": 369.24,
+    "text": " has Ableton on it, that's how you're able to transfer sets and presets and samples between"
+  },
+  {
+    "start": 374.84000000000003,
+    "text": " the device and your computer."
+  },
+  {
+    "start": 399.24,
+    "text": " Alright, so now let's talk about the audio interface."
+  },
+  {
+    "start": 413.16,
+    "text": " You get two quarter inch jacks."
+  },
+  {
+    "start": 415.08,
+    "text": " You can choose between three different gain settings."
+  },
+  {
+    "start": 417.04,
+    "text": " There's also different sample rates going up to 96k."
+  },
+  {
+    "start": 420.72,
+    "text": " You can link the two channels for a stereo device that you might want to record, and"
+  },
+  {
+    "start": 424.40000000000003,
+    "text": " you can route your outputs as you like."
+  },
+  {
+    "start": 426.32,
+    "text": " There's also ADAT connections on the back of Push, so with those you can actually add"
+  },
+  {
+    "start": 429.8,
+    "text": " an additional eight tracks in and out."
+  },
+  {
+    "start": 432.59999999999997,
+    "text": " And then built into Push 3, there are two quarter inch output jacks and one quarter"
+  },
+  {
+    "start": 436.04,
+    "text": " inch headphone jack."
+  },
+  {
+    "start": 437.88,
+    "text": " And one new little detail, the volume knob is now an encoder, so pushing it switches"
+  },
+  {
+    "start": 441.98,
+    "text": " between the different outputs."
+  },
+  {
+    "start": 456.32,
+    "text": " For connectivity, you've got MIDI in and out on eighth inch jacks, so for instance"
+  },
+  {
+    "start": 486.28,
+    "text": " you could connect a regular keyboard if you don't want to use the pads for entering notes,"
+  },
+  {
+    "start": 490.9,
+    "text": " or you can use Push standalone as a MIDI sequencer."
+  },
+  {
+    "start": 493.53999999999996,
+    "text": " So if you like the way Ableton works as a sequencer, you know how you enter notes with"
+  },
+  {
+    "start": 497.09999999999997,
+    "text": " the pads or all the different clips that you can use, the probability, velocity, note editing."
+  },
+  {
+    "start": 503.53999999999996,
+    "text": " You basically get all of Ableton's MIDI power without having to touch a computer if you"
+  },
+  {
+    "start": 506.97999999999996,
+    "text": " don't want to."
+  },
+  {
+    "start": 508.09999999999997,
+    "text": " There is a USB-A connector, so you can connect certain types of external synths and MIDI"
+  },
+  {
+    "start": 512.3399999999999,
+    "text": " controllers there."
+  },
+  {
+    "start": 513.6,
+    "text": " You can also use it with a hub, so if you plug a USB hub into there, you can connect"
+  },
+  {
+    "start": 517.94,
+    "text": " multiple devices to Push."
+  },
+  {
+    "start": 520.1,
+    "text": " And not only that, if Push is connected to your computer, then all of those devices through"
+  },
+  {
+    "start": 524.74,
+    "text": " the hub will also be connected to your computer."
+  },
+  {
+    "start": 527.72,
+    "text": " There are two pedal jacks on Push, and that's not a new feature for Push 3, but they are"
+  },
+  {
+    "start": 531.72,
+    "text": " now able to be switched into CV outs."
+  },
+  {
+    "start": 534.98,
+    "text": " And they are stereo, so if you use TRS cables, you can actually have two CV signals per pedal"
+  },
+  {
+    "start": 539.88,
+    "text": " jack."
+  },
+  {
+    "start": 543.7,
+    "text": " There is a dedicated capture button, so if you don't know about that feature in Ableton,"
+  },
+  {
+    "start": 548.5,
+    "text": " if you're just messing around on MIDI and you're not recording, it's still always listening"
+  },
+  {
+    "start": 553.12,
+    "text": " and anytime you hit capture, it shows you all the stuff you were just playing and also"
+  },
+  {
+    "start": 557.74,
+    "text": " automatically loops the last little chunk."
+  },
+  {
+    "start": 559.98,
+    "text": " Here it's doing two bars because I have my fixed length set to two bars."
+  },
+  {
+    "start": 564.18,
+    "text": " I'm going to quantize this."
+  },
+  {
+    "start": 568.6400000000001,
+    "text": " We've also got a dedicated hot swap button, so here I can just change this sound out to"
+  },
+  {
+    "start": 573.5600000000001,
+    "text": " something else and see what it sounds like."
+  },
+  {
+    "start": 585.76,
+    "text": " There is now a lock button for the solo, mute, and stop clip functions."
+  },
+  {
+    "start": 590.08,
+    "text": " So if you've got your clips playing, you can hold solo and press the track button to solo,"
+  },
+  {
+    "start": 595.5799999999999,
+    "text": " same thing with mute of course, and then the same thing with stopping whatever clip is"
+  },
+  {
+    "start": 599.8599999999999,
+    "text": " playing."
+  },
+  {
+    "start": 600.8599999999999,
+    "text": " But if you want to lock any of those, for instance, we'll lock muting."
+  },
+  {
+    "start": 605.5799999999999,
+    "text": " Now it just stays on mute, you don't have to hold it down while you engage those functions."
+  },
+  {
+    "start": 610.02,
+    "text": " A handy performance feature."
+  },
+  {
+    "start": 611.54,
+    "text": " There's now a learn button up here, there's a light bulb where there are a few different"
+  },
+  {
+    "start": 615.66,
+    "text": " things that you can learn, and I think they're planning on continuing to add to this, so"
+  },
+  {
+    "start": 619.9799999999999,
+    "text": " it's just like handy little mini-manuals if you want to get to know Push better."
+  },
+  {
+    "start": 624.42,
+    "text": " This last new button, I'm using it right now, there is an option for the screen to display"
+  },
+  {
+    "start": 629.0,
+    "text": " session view, all of the clips that you have, while you can use the pads in note view, or"
+  },
+  {
+    "start": 635.68,
+    "text": " you know, whatever different layout you want."
+  },
+  {
+    "start": 637.56,
+    "text": " So you can keep an overview of your session while playing things in live on the pads,"
+  },
+  {
+    "start": 641.7199999999999,
+    "text": " and you can still navigate and launch individual clips with the arrows, or you can use the"
+  },
+  {
+    "start": 645.8,
+    "text": " jog wheel for launching whole scenes."
+  },
+  {
+    "start": 649.76,
+    "text": " Thanks again to Ableton for sponsoring this video."
+  },
+  {
+    "start": 651.9,
+    "text": " Source 3 is available at Ableton.com, and you can subscribe here for more music fun."
+  },
+  {
+    "start": 656.62,
+    "text": " My camera is at 1%."
+  },
+  {
+    "start": 658.18,
+    "text": " Amazing, we did it."
+  },
+  {
+    "start": 659.54,
+    "text": " Alright, I'll see you next time."
+  },
+  {
+    "start": 661.06,
+    "text": " Leave a comment, drop a like, do the things."
+  }
+]

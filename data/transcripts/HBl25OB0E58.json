@@ -1,0 +1,1626 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends! Well, I've been putting this off long enough. We're going to do the operator"
+  },
+  {
+    "start": 8.88,
+    "text": " super deep dive. This is going to be as comprehensive as I can be within the time that I've given"
+  },
+  {
+    "start": 15.4,
+    "text": " myself. If you feel like I've missed something that you feel like everyone should know, leave"
+  },
+  {
+    "start": 18.8,
+    "text": " it in the comments. Let's do this. Okay, so I'm also going to assume that you have watched"
+  },
+  {
+    "start": 26.82,
+    "text": " the first video and that you're familiar with the interface of operator. And if you haven't"
+  },
+  {
+    "start": 31.7,
+    "text": " watched that video, here's the link. Check it out. Okay, here we go. So I'm going to"
+  },
+  {
+    "start": 36.26,
+    "text": " go over the things that I didn't go over yet. If you look at the oscillator section, you"
+  },
+  {
+    "start": 39.9,
+    "text": " have the coarse adjustment and the fine adjustment for all of these oscillators on this side."
+  },
+  {
+    "start": 46.94,
+    "text": " This coarse control follows the harmonic overtone series. So instead of it being octaves, you"
+  },
+  {
+    "start": 53.14,
+    "text": " know, one octave, fifth octave, third, so on and so forth. Okay. When I step through"
+  },
+  {
+    "start": 67.3,
+    "text": " the coarse control, I'm frequency modulating at different harmonic overtone rates. And"
+  },
+  {
+    "start": 74.14,
+    "text": " so these, when you have these locked in harmonic overtone series rates, you get these really"
+  },
+  {
+    "start": 79.1,
+    "text": " awesome sweet spots, right? So hopefully as you step through these and you turn these"
+  },
+  {
+    "start": 87.66,
+    "text": " different things up, you can kind of understand why they did it this way. It's because there"
+  },
+  {
+    "start": 94.5,
+    "text": " are, there are, there are sweet spots in FM synthesis. Okay. So these coarse controls"
+  },
+  {
+    "start": 99.13999999999999,
+    "text": " are set up for that. Let's just turn off these other oscillators. Okay. And we're just going"
+  },
+  {
+    "start": 102.84,
+    "text": " to focus on the first one. Okay. So I can mess with the coarse, I can mess with the"
+  },
+  {
+    "start": 110.08,
+    "text": " fine. I can also make it fixed. Okay. Why would you want to fix the frequency of the"
+  },
+  {
+    "start": 116.52000000000001,
+    "text": " oscillator? Well, there's a couple of reasons. All right. Maybe one of the first ones might"
+  },
+  {
+    "start": 120.32000000000001,
+    "text": " be immediately obvious. Well, you can synthesize drums with operator. And in fact, operators"
+  },
+  {
+    "start": 124.64,
+    "text": " drum synthesis modes are incredible. Okay. You can, you can make some really convincing"
+  },
+  {
+    "start": 131.16000000000003,
+    "text": " sounds. So let's make a kick drum. All right. So we're going to go over some of the advanced"
+  },
+  {
+    "start": 134.84,
+    "text": " features just by making a kick drum. Right? So obviously a kick drum is, it consists of"
+  },
+  {
+    "start": 141.72000000000003,
+    "text": " something that's making like a fundamental deep sound. Right? So I'm using a sine waveform,"
+  },
+  {
+    "start": 147.04000000000002,
+    "text": " right? Here's your waveform selector. And I've got an envelope that's pretty short, right?"
+  },
+  {
+    "start": 153.20000000000002,
+    "text": " But that's not usually what a kick drum does. Usually you also have a do, do you got, you"
+  },
+  {
+    "start": 157.48,
+    "text": " got a pitch envelope. So what I can do is I can turn on the pitch envelope and I can"
+  },
+  {
+    "start": 162.4,
+    "text": " make it go up here. Right? So I'm, I'm increasing the peak. And if I turn the, see right now"
+  },
+  {
+    "start": 168.64,
+    "text": " it's still not going to do anything. I got to turn the pitch envelope up. Now I got this"
+  },
+  {
+    "start": 172.76,
+    "text": " do, do, do, right? That's pretty high pitched. So what I can do is I can actually turn the"
+  },
+  {
+    "start": 177.12,
+    "text": " frequency down. So I'm now in kick territory. So it doesn't matter what key I press, the,"
+  },
+  {
+    "start": 185.36,
+    "text": " the frequency is fixed. Now what does this multiplier do? Well, I could be up here and"
+  },
+  {
+    "start": 189.52,
+    "text": " I could just divide by 10. That's all this thing is doing is just dividing and adding,"
+  },
+  {
+    "start": 194.96,
+    "text": " depending upon where you put it. Right? So now I've got this pretty deep kick sound."
+  },
+  {
+    "start": 202.52,
+    "text": " Right? Now the next thing I'm, I'm in, in, in order to make a kick drum, it's not just"
+  },
+  {
+    "start": 209.20000000000002,
+    "text": " the, it's not just a deep sound, right? That's not enough. That's not going to cut through"
+  },
+  {
+    "start": 214.46,
+    "text": " any mix. There's no attack. There's no, there's no real transient. So I'm going to turn on"
+  },
+  {
+    "start": 219.18,
+    "text": " a second oscillator and I'm just going to turn it on a white noise. Okay. So go back"
+  },
+  {
+    "start": 223.82,
+    "text": " to the envelope, make it a really sharp, quick envelope. And this is what we get. Now we're"
+  },
+  {
+    "start": 230.94,
+    "text": " getting into kick drum territory, but obviously this is too rich. Right? So a little bit of"
+  },
+  {
+    "start": 235.86,
+    "text": " filtering and boom, you got a pretty robust kick. Okay. I can keep this on fixed. It doesn't"
+  },
+  {
+    "start": 249.12,
+    "text": " matter. It's noise, but let's maybe go to the four bit sign. So now check this out."
+  },
+  {
+    "start": 261.46,
+    "text": " I can kind of tune like what the head of the drum sounds like. Right? Now it's nice"
+  },
+  {
+    "start": 267.94,
+    "text": " and thuddy, right? Okay. So that's why you have a fixed controls. You can also do a whole"
+  },
+  {
+    "start": 274.32,
+    "text": " lot more with this and we're going to cover this more in some of the other videos, but"
+  },
+  {
+    "start": 277.62,
+    "text": " now I've got a pretty robust kick sound. Right? I don't want to stop there. What I want to"
+  },
+  {
+    "start": 282.82,
+    "text": " show you is that like you can fix these frequencies, but I think, especially in modern music, a"
+  },
+  {
+    "start": 287.94,
+    "text": " more useful kind of situation is if you don't fix the initial oscillator and check this"
+  },
+  {
+    "start": 292.66,
+    "text": " out. So as I play different notes up and down the keyboard, I get different pitches. So"
+  },
+  {
+    "start": 299.86,
+    "text": " I'm going to go down to this area. And one thing I'm going to do is I'm going to look"
+  },
+  {
+    "start": 304.94,
+    "text": " at this envelope. I'm actually going to pull this back up. Right? I'm going to make this"
+  },
+  {
+    "start": 312.14,
+    "text": " just a little bit faster. So the decay section of the pitch envelope will be a little bit"
+  },
+  {
+    "start": 316.14,
+    "text": " faster. A lot of music nowadays, a lot of production music has the kick drum and the"
+  },
+  {
+    "start": 325.21999999999997,
+    "text": " bass. Most of the time, especially in trap music and stuff like that, you have the drum"
+  },
+  {
+    "start": 330.94,
+    "text": " and the bass almost the same instrument, that kind of 808 thing. That's what I've done here."
+  },
+  {
+    "start": 336.53999999999996,
+    "text": " So right now I've got this oscillator making sort of a clicky sound. And in order for really"
+  },
+  {
+    "start": 341.59999999999997,
+    "text": " to get these to be separated, I can also remember, I can change my algorithm. So now these are"
+  },
+  {
+    "start": 346.04,
+    "text": " totally discrete. If I turn this off, I just get that click, right? Okay, it's at a fixed"
+  },
+  {
+    "start": 352.24,
+    "text": " frequency. I can change the tone of it here. What I can do is I can I can turn this one"
+  },
+  {
+    "start": 357.28000000000003,
+    "text": " back on. And now that these are totally discrete, whatever note I play, as long as in my pitch"
+  },
+  {
+    "start": 364.56,
+    "text": " envelope section, the sustain is set at zero steps, any note that I play, I know that'll"
+  },
+  {
+    "start": 370.2,
+    "text": " be a C. So I can play a bass line now. Now that we have this kind of kick drum sound,"
+  },
+  {
+    "start": 378.68,
+    "text": " that's also a bass line. Let's look at some of the other things that the oscillator can"
+  },
+  {
+    "start": 383.0,
+    "text": " do. I'm going to click on the oscillator page. Now, you might be wondering, all right, so"
+  },
+  {
+    "start": 386.15999999999997,
+    "text": " what is this? All right. These are the harmonic that you can choose the amount of harmonics"
+  },
+  {
+    "start": 391.91999999999996,
+    "text": " inside of this. Remember, we're going the harmonic overtone series. So this is this"
+  },
+  {
+    "start": 397.2,
+    "text": " is the fundamental. This is the first octave. Right? So what I can do is I can look at less"
+  },
+  {
+    "start": 406.64,
+    "text": " harmonics. Why would I want to do that? Well, let's design this kick drum right now. Those"
+  },
+  {
+    "start": 411.52,
+    "text": " of you that aren't wearing headphones can't hear how deep this this this kick drum is."
+  },
+  {
+    "start": 415.62,
+    "text": " You can't hear the bass line, right? If I shrink down the amount of harmonics I'm looking"
+  },
+  {
+    "start": 419.78,
+    "text": " at, I can actually be like, all right, so this is this is the fundamental. This is an"
+  },
+  {
+    "start": 424.2,
+    "text": " octave up. This is a fifth. This is another octave, a third, so on and so forth. Check"
+  },
+  {
+    "start": 427.68,
+    "text": " this out. So I can I can add harmonics in. So listen to the amount of control I have"
+  },
+  {
+    "start": 445.32,
+    "text": " and not using any saturation. If I want to, I can add saturation also to those so we can"
+  },
+  {
+    "start": 451.34000000000003,
+    "text": " this even more harmonically complex. Remember, I can choose this shaper. But if you want"
+  },
+  {
+    "start": 457.22,
+    "text": " more options with the shaper, choose one of these analog modeled filters and you have"
+  },
+  {
+    "start": 460.98,
+    "text": " a lot more options. So I'll put it on soft mode, turn the volume down a little bit because"
+  },
+  {
+    "start": 464.82,
+    "text": " it's going to get a little loud and I'll add some gain. Now just listen to how powerful"
+  },
+  {
+    "start": 475.82,
+    "text": " that kick drum is. You know, you can always go back to your envelope here and kind of"
+  },
+  {
+    "start": 482.74,
+    "text": " maybe bring it down just a little bit. If you want to be more punchy and less and have"
+  },
+  {
+    "start": 486.26,
+    "text": " less sustain, you can, you know. Boom. All right, so let's take a look at some of the"
+  },
+  {
+    "start": 496.38,
+    "text": " envelope stages. Now I went over the envelope stage before. Obviously, I'm just going to"
+  },
+  {
+    "start": 499.74,
+    "text": " choose. Let's choose a triangle just for the fun of it. What I haven't shown you yet is"
+  },
+  {
+    "start": 504.62,
+    "text": " there's a looping section for this. Okay, so in the looping section, you have all these"
+  },
+  {
+    "start": 509.58,
+    "text": " different options. Now, if you look at this, you have just your classic loop. All right,"
+  },
+  {
+    "start": 514.66,
+    "text": " so now if I turn this all the way down, but the decay stage isn't lower than this, this"
+  },
+  {
+    "start": 519.22,
+    "text": " isn't going to do anything, right? It'll just wait until the end of the decay stage. So"
+  },
+  {
+    "start": 524.34,
+    "text": " you can crank this all the way down. One thing to do a lot of the times I'll just crank this"
+  },
+  {
+    "start": 527.22,
+    "text": " down and use this decay stage to determine how long the loop is. Right. So check this"
+  },
+  {
+    "start": 531.46,
+    "text": " out. I just turned it up just a little bit. As I pull this down, listen. So what is that?"
+  },
+  {
+    "start": 544.3000000000001,
+    "text": " Well, what we're doing is we're looping the envelope of this oscillator at audio rate."
+  },
+  {
+    "start": 550.06,
+    "text": " This is a common move you can do in modular synthesis. So interacting with these controls,"
+  },
+  {
+    "start": 564.8599999999999,
+    "text": " you get these really rad sounds. Then if you decrease the attack, you can soften them. Right?"
+  },
+  {
+    "start": 573.98,
+    "text": " And now this is a great bass layer for some other FM modulation. Okay, so that's looping"
+  },
+  {
+    "start": 581.22,
+    "text": " at a very fast rate, like audio rate. Now, if I slow this down a little bit,"
+  },
+  {
+    "start": 584.86,
+    "text": " maybe your head is starting to spin a little bit. Oh, cool. I could, oh man,"
+  },
+  {
+    "start": 593.98,
+    "text": " I could do all kinds of rhythmic stuff. You're right. So I'm going to grab a brand new operator."
+  },
+  {
+    "start": 598.14,
+    "text": " Let's put it on a saw. Okay. And what I want to do is I'm just going to make this kind of a"
+  },
+  {
+    "start": 609.8199999999999,
+    "text": " shorter envelope. Now in the loop modes, I can also choose beat or sync. All right. So beat means"
+  },
+  {
+    "start": 615.5,
+    "text": " that it's going to repeat at a subdivision of your clock, okay, that you got Ableton set at. Right now"
+  },
+  {
+    "start": 621.54,
+    "text": " it's doing a 16th, right? Something that's cool about this is that if you play different"
+  },
+  {
+    "start": 629.9,
+    "text": " keys at different times, you can spread it out. So if I play these at the same time,"
+  },
+  {
+    "start": 632.8199999999999,
+    "text": " I'm playing, you know, C and F, but if I play them separately, see that spread you get? Or if you do"
+  },
+  {
+    "start": 641.02,
+    "text": " a big chord. All right. So there we go. Now, if you put it on sync though, it will quantize"
+  },
+  {
+    "start": 648.34,
+    "text": " your playing to fit if the clock is playing. So here's a, I have a beat going."
+  },
+  {
+    "start": 663.86,
+    "text": " Feel me? So this is awesome. And, and remember the decay stage is independent of this. So check"
+  },
+  {
+    "start": 669.62,
+    "text": " this out. The decay stage can be modulated. I'm going to focus a lot on this, on, on how operator,"
+  },
+  {
+    "start": 679.34,
+    "text": " I mean, one thing that sets operator apart is its amazing ability to sync up to the clock of"
+  },
+  {
+    "start": 684.34,
+    "text": " Ableton and just how, how integrated Ableton's clock is an operator. Okay. So I'm going to start"
+  },
+  {
+    "start": 690.38,
+    "text": " another brand new operator. We're going to look at another thing. So right now, when you, when you"
+  },
+  {
+    "start": 693.7,
+    "text": " start an operator, you start in this algorithm. If you put it on an algorithm that doesn't have"
+  },
+  {
+    "start": 698.22,
+    "text": " oscillators that are modulating each other, all of a sudden this control comes up, this feedback."
+  },
+  {
+    "start": 704.74,
+    "text": " So what this does is it makes the waveform modulate itself. So you can go from a, you know,"
+  },
+  {
+    "start": 713.9,
+    "text": " like a sine waveform all the way up to a, what sounds like a pretty robust saw waveform, right?"
+  },
+  {
+    "start": 720.1800000000001,
+    "text": " How cool is that? Now let's talk a little bit more about drawing your own waveform. So you"
+  },
+  {
+    "start": 728.18,
+    "text": " can choose, remember you can choose here, you can choose the different harmonic amounts. If you have"
+  },
+  {
+    "start": 731.9399999999999,
+    "text": " lower harmonic amounts, you get more lo-fi types of waveforms, right? If you increase all the way"
+  },
+  {
+    "start": 742.18,
+    "text": " up to 64, these, these, these are just higher pitches, right? I mean, that's basically what"
+  },
+  {
+    "start": 745.4599999999999,
+    "text": " this is. It's oscillating higher pitches. Right? So what you also have, I was talking about feedback,"
+  },
+  {
+    "start": 755.98,
+    "text": " you can also repeat the partials of this, which are all these different parts, right? And you get"
+  },
+  {
+    "start": 763.5,
+    "text": " different results, right? So these, these are all kinds of different ways to make so many different"
+  },
+  {
+    "start": 773.94,
+    "text": " waveforms. Now listen to that. Listen how cool that is. That is a really high harmonic, but still"
+  },
+  {
+    "start": 784.7,
+    "text": " has a lot of the bass tones in it by trying this, this repeat control out. Okay. So that's what that"
+  },
+  {
+    "start": 793.1,
+    "text": " does. I'm going to open yet another brand new operator and let's take, let's take a look at"
+  },
+  {
+    "start": 797.86,
+    "text": " phase. So this is really important to, to, to understand. When you start operator up, you have"
+  },
+  {
+    "start": 802.82,
+    "text": " all of these oscillators, regardless of where you have them, okay. They all have their, their"
+  },
+  {
+    "start": 811.58,
+    "text": " re-trigger and their phase set at zero. So what does that mean? When you play a note, a note on"
+  },
+  {
+    "start": 815.94,
+    "text": " message, all of these oscillators waveforms, regardless of how different they are, they're"
+  },
+  {
+    "start": 821.98,
+    "text": " all going to start at the same place, right? So it's going to start at the beginning of this. Now,"
+  },
+  {
+    "start": 826.74,
+    "text": " if I change this phase on one of them, hear that little click sound at the beginning of the wave?"
+  },
+  {
+    "start": 834.5,
+    "text": " That's because we're cutting this wave off and starting it high. Okay. So why does this matter?"
+  },
+  {
+    "start": 840.9,
+    "text": " Well, let's check this out. Let's, let's open a new operator. And what I'm going to do is I'm"
+  },
+  {
+    "start": 844.66,
+    "text": " going to actually make kind of a big sounding analog style synthesizer sound. All right. So"
+  },
+  {
+    "start": 851.22,
+    "text": " here's a saw. In fact, let's do all, no, let's do all square D's. Okay. So square D, square D,"
+  },
+  {
+    "start": 857.14,
+    "text": " square D to three of these oscillators. All right. I'm going to turn them up about the same volume"
+  },
+  {
+    "start": 862.18,
+    "text": " and I'm going to set this to your classic subtractive synth, discrete oscillator mode,"
+  },
+  {
+    "start": 867.34,
+    "text": " this last algorithm, right? So if I look at this first thing, if I turn the, the re-trigger off"
+  },
+  {
+    "start": 873.02,
+    "text": " and I, and I just play the notes, listen to each note on, you get different phase relationships"
+  },
+  {
+    "start": 883.4200000000001,
+    "text": " between the oscillator. Now you might say, well, wow, some of those sound really cool,"
+  },
+  {
+    "start": 887.38,
+    "text": " but some of them I don't like. Well, what you can do is you can relock all of these re-triggers,"
+  },
+  {
+    "start": 892.14,
+    "text": " right? And just start messing with the phase of them. So move it around until you like it. So I'm"
+  },
+  {
+    "start": 896.82,
+    "text": " just going to do B and A, right? They're the same volume. Okay. I like the way that sounds. I'll turn"
+  },
+  {
+    "start": 903.86,
+    "text": " on C. That's what phase is for. It's the phase relationship between the different oscillators."
+  },
+  {
+    "start": 913.9000000000001,
+    "text": " And even though they re-trigger at the same time, their phase starts in different places. So if you"
+  },
+  {
+    "start": 919.9200000000001,
+    "text": " want to get that really big kind of analog synth kind of sound, you know, a lot of those analog"
+  },
+  {
+    "start": 925.5,
+    "text": " synths didn't even have the ability to phase their oscillators in phase with each other. They needed"
+  },
+  {
+    "start": 931.82,
+    "text": " a sync signal and some of them didn't even have that option. So some of the big pads you hear from"
+  },
+  {
+    "start": 935.82,
+    "text": " back in the day had this kind of thing going on, right? So this is where I'm going to show you"
+  },
+  {
+    "start": 940.22,
+    "text": " something else. I'm going to make an analog style pad. All right. Most analog oscillators don't have"
+  },
+  {
+    "start": 946.22,
+    "text": " the luxury of having all these different envelopes. So you'd have to set, you know, you'd have to set"
+  },
+  {
+    "start": 950.22,
+    "text": " their envelopes differently. So to make a pad, you know, you open the attack a little bit so that it"
+  },
+  {
+    "start": 954.26,
+    "text": " takes a while, right? I'm going to turn these other oscillators off and you get... So that's the"
+  },
+  {
+    "start": 960.58,
+    "text": " beginning of our sound. You need to open the release up so that it kind of, you know, washes away slowly."
+  },
+  {
+    "start": 964.8199999999999,
+    "text": " Right? So now if I turn these other oscillators on, listen to this. You see how the other oscillators,"
+  },
+  {
+    "start": 977.74,
+    "text": " for some reason, I'm actually going to turn the frequency up so you can really hear this. Listen."
+  },
+  {
+    "start": 980.54,
+    "text": " Do you see how the harmonics of the other oscillators go away once my finger is up? Well,"
+  },
+  {
+    "start": 988.5,
+    "text": " that's because their envelope is different. What? So what you need to do is you need to click on,"
+  },
+  {
+    "start": 994.9,
+    "text": " in order to make the envelopes the same across the board of all these, you need to click on"
+  },
+  {
+    "start": 999.38,
+    "text": " another envelope and right click on it and say, copy envelope from oscillator A. And if you do"
+  },
+  {
+    "start": 1004.02,
+    "text": " that to all these, right click in this area, copy from oscillator A, and now you get..."
+  },
+  {
+    "start": 1009.62,
+    "text": " All of the envelopes kind of playing together as if they were one envelope, right? So that's this."
+  },
+  {
+    "start": 1020.02,
+    "text": " Now this right click menu has a bunch of different options you can see. You can copy from oscillators,"
+  },
+  {
+    "start": 1025.98,
+    "text": " you can copy the envelope. So let's say I had a setting on this oscillator where it was a square"
+  },
+  {
+    "start": 1032.22,
+    "text": " 6 with a different decay rate, all this other stuff with some feedback up. I can, instead of"
+  },
+  {
+    "start": 1037.94,
+    "text": " copying the envelope, I can just click on here and say, copy the oscillator from A and see it"
+  },
+  {
+    "start": 1044.66,
+    "text": " just snapped. It copies all the different options. So just to be a completist, if you will, you have"
+  },
+  {
+    "start": 1051.8200000000002,
+    "text": " velocity settings right here, right? So it's just, it's really simple. The velocity of this envelope"
+  },
+  {
+    "start": 1056.78,
+    "text": " will be generated based on this percentage. So if I put this on, let's put it on like this side,"
+  },
+  {
+    "start": 1062.46,
+    "text": " right? So that's just, that's where that is if you were wondering. Now the key level, this is how much,"
+  },
+  {
+    "start": 1071.42,
+    "text": " this is how loud it will get as you go up or down the keyboard. This is a positive or negative thing"
+  },
+  {
+    "start": 1075.3799999999999,
+    "text": " just like velocity is, okay? So it'll get louder or quieter as I play and now it'll get louder and"
+  },
+  {
+    "start": 1081.14,
+    "text": " quieter as I go up in notes. So here's, see how the higher notes are louder? So the final thing"
+  },
+  {
+    "start": 1088.42,
+    "text": " I'm going to go over is, let's say you've got a kick drum like this one. This section right here"
+  },
+  {
+    "start": 1099.0600000000002,
+    "text": " just makes it so that when you play harder, then your pitch will either go up or down based on the"
+  },
+  {
+    "start": 1104.22,
+    "text": " setting. So let's, you know, I'm going to boost this a little bit. So I'm playing the same note,"
+  },
+  {
+    "start": 1110.3,
+    "text": " so I'm playing the same note, but I'm getting different pitches. Now, if you want this to be"
+  },
+  {
+    "start": 1114.66,
+    "text": " more like a drum, you're going to have to turn this velocity quantize off because this just keeps"
+  },
+  {
+    "start": 1119.66,
+    "text": " it to lock to certain notes. If I turn this off, listen, just random values, right? So a very small"
+  },
+  {
+    "start": 1127.22,
+    "text": " setting of this goes a long way, especially with a drum. It's almost like taking a drum head and"
+  },
+  {
+    "start": 1134.06,
+    "text": " stretching it, especially when you've got this fixed control on. Okay, now let's take a deep dive"
+  },
+  {
+    "start": 1144.8999999999999,
+    "text": " into the LFO section. All right, when you turn the LFO section on, first of all, it applies itself"
+  },
+  {
+    "start": 1151.74,
+    "text": " to all the different oscillators. So let's just get ourselves a nice little, we'll just use a saw D,"
+  },
+  {
+    "start": 1157.62,
+    "text": " maybe we'll use two and we'll just slightly detune them. Okay, so right now you just get the classic"
+  },
+  {
+    "start": 1167.9799999999998,
+    "text": " drunk sound. What we're going to do is we're just going to modulate A instead of B. All right,"
+  },
+  {
+    "start": 1173.9399999999998,
+    "text": " so you get this. Let's make these the same waveform. That's what I meant to do. All right."
+  },
+  {
+    "start": 1188.1,
+    "text": " So you got this nice big fat sound here. Now what I want to do is I want to talk about this LFO. You"
+  },
+  {
+    "start": 1195.9799999999998,
+    "text": " can do some really fun things with this. So the LFO has its own envelope. You can decrease the attack"
+  },
+  {
+    "start": 1200.54,
+    "text": " so that it will take a while to reach maximum amplitude, right? And what does that sound like?"
+  },
+  {
+    "start": 1206.42,
+    "text": " Well, right? If I make this longer, I can get a pure tone. You know, and setting this in different"
+  },
+  {
+    "start": 1226.38,
+    "text": " places really gets some cool results. So the LFO also loops. So I'm going to put this on a"
+  },
+  {
+    "start": 1237.5,
+    "text": " square D. So it's a nice and harmonic, pull the frequency down a little bit. So right now the"
+  },
+  {
+    "start": 1248.42,
+    "text": " LFO is re-triggering, right? This little R is on. So every single time I start the LFO, it's going"
+  },
+  {
+    "start": 1255.38,
+    "text": " to start in the same place. If I turn this off, that's all the re-trigger is. Whenever you see"
+  },
+  {
+    "start": 1261.0200000000002,
+    "text": " re-trigger in operator really anywhere, it's just talking about the phase of the waveform, right?"
+  },
+  {
+    "start": 1267.5800000000002,
+    "text": " All right. So now what we can do with this oscillator in terms of looping is really fun,"
+  },
+  {
+    "start": 1273.2600000000002,
+    "text": " you know? So let's put it on just a beat. And now it's going to re-trigger itself as long as,"
+  },
+  {
+    "start": 1280.54,
+    "text": " remember, so the decay needs to be down here. How fun is that? So you can make those kind of"
+  },
+  {
+    "start": 1294.8999999999999,
+    "text": " like the old toy helicopter kind of sounds, right? So that's the envelope. You can do so much more"
+  },
+  {
+    "start": 1303.22,
+    "text": " stuff with it. I'm just going to kind of leave it where it is right now. Something else that I don't"
+  },
+  {
+    "start": 1307.06,
+    "text": " know if you've noticed it is you have all these different destinations. Look at all of the places"
+  },
+  {
+    "start": 1310.74,
+    "text": " you can send this LFO, right? So one thing you can do is you can send the LFO to time. Time is"
+  },
+  {
+    "start": 1316.3,
+    "text": " incredible. Basically what time is, is that all of the different envelopes in the entire operator"
+  },
+  {
+    "start": 1324.34,
+    "text": " instance that you're using can be shrank or extended by changing this time control. So let's"
+  },
+  {
+    "start": 1331.06,
+    "text": " check out what that is, right? So right off the bat, let's just say I have a... I'm going to loop"
+  },
+  {
+    "start": 1338.22,
+    "text": " this envelope just for the heck of it, just for demonstration purposes, right? So this envelope"
+  },
+  {
+    "start": 1345.1,
+    "text": " is looping. Now if I increase time... In fact, I'm going to make this just a little bit longer. If"
+  },
+  {
+    "start": 1353.62,
+    "text": " I increase time, right, it gets longer, right? If I decrease time, it gets slower. So now hopefully"
+  },
+  {
+    "start": 1364.1,
+    "text": " your gears are turning. If you turn on LFO and you turn off all these... And you go to destination,"
+  },
+  {
+    "start": 1368.9399999999998,
+    "text": " you say, all right, destination to time. You hear what's going on? Now this can get a lot of fun,"
+  },
+  {
+    "start": 1382.18,
+    "text": " especially if you check this other mode of the LFO out. If you turn it on to sync mode,"
+  },
+  {
+    "start": 1387.98,
+    "text": " now what this does is it locks to Ableton's clock. So if something's playing... I'm going to make this"
+  },
+  {
+    "start": 1394.3,
+    "text": " some more harmonically, but just to Saudi. So listen... Now it's not going to change much"
+  },
+  {
+    "start": 1400.18,
+    "text": " because it's repeating, okay? And also we're going to need to turn the rate down a little bit. Check"
+  },
+  {
+    "start": 1404.5,
+    "text": " this out. I'm making a galloping sound. Do you hear that? That's because the decay rate is slower"
+  },
+  {
+    "start": 1411.98,
+    "text": " than the rate of the LFO. How cool is that? And so I can get different rhythms actually. I can get"
+  },
+  {
+    "start": 1427.54,
+    "text": " different rhythms by changing the amount. And I can also get different rhythms by changing the"
+  },
+  {
+    "start": 1438.78,
+    "text": " decay rate of the first oscillator. There's so much fun to be had with the sync rates. Now,"
+  },
+  {
+    "start": 1448.86,
+    "text": " let's take a look at some other stuff. Now, if we want to... I started a new operator instance,"
+  },
+  {
+    "start": 1454.82,
+    "text": " I'm going to turn this on something harmonically rich again. And let's look at some of the other"
+  },
+  {
+    "start": 1458.38,
+    "text": " stuff that we can do. So when we're looking at this LFO, we can also put the LFO in a high mode,"
+  },
+  {
+    "start": 1464.9,
+    "text": " meaning that it's going to spin as fast as an oscillator. So what does this become? This"
+  },
+  {
+    "start": 1468.38,
+    "text": " becomes yet another way to frequency modulate. So if I only send this to A, right? Let's put"
+  },
+  {
+    "start": 1477.86,
+    "text": " this on sine to really hear what's happening. And now we're oscillating it at a very specific"
+  },
+  {
+    "start": 1485.26,
+    "text": " rate. And so we can also change the waveform. Now that this is spinning an audio rate, we can"
+  },
+  {
+    "start": 1493.9799999999998,
+    "text": " really hear this. We can change the waveform of the LFO. Right now it's a sine, so that's not"
+  },
+  {
+    "start": 1499.74,
+    "text": " going to be that extreme of a sound, but we put it on square. Check out how extreme, especially"
+  },
+  {
+    "start": 1502.86,
+    "text": " at these high settings it sounds. And as you play higher or lower on the keyboard, you can change"
+  },
+  {
+    "start": 1515.1,
+    "text": " the rate down here of the LFO. And you can change the amount by velocity. So check out what we're"
+  },
+  {
+    "start": 1527.58,
+    "text": " about to create. This is going to be really cool. So the rate is to the key and the amount is to"
+  },
+  {
+    "start": 1537.1799999999998,
+    "text": " the velocity. So let's turn this up just a little bit. If I play softly, but if I play hard, how fun"
+  },
+  {
+    "start": 1552.38,
+    "text": " is that? So then I could also do these really cool sounds. Let's turn this all the way down."
+  },
+  {
+    "start": 1557.8200000000002,
+    "text": " See what I've done is I've made it so that the attack stage is longer and now this is just kind"
+  },
+  {
+    "start": 1567.74,
+    "text": " of like scrambling up the note, but over time so I can hear the fundamental. And now a lot of these"
+  },
+  {
+    "start": 1576.0600000000002,
+    "text": " softer FM kind of sounds that you make with Operator can sound a lot better if you go into"
+  },
+  {
+    "start": 1582.26,
+    "text": " the filter section and just turn the shaper on and again switch to one of these different filter modes."
+  },
+  {
+    "start": 1598.82,
+    "text": " Look at that. I'm not even using the other oscillators. I'm just using the LFO, right?"
+  },
+  {
+    "start": 1604.34,
+    "text": " And then changing the rate, I get different sounds."
+  },
+  {
+    "start": 1606.1,
+    "text": " So what you could do is you could kind of tune this. Let's say you're in like C,"
+  },
+  {
+    "start": 1619.54,
+    "text": " maybe 60."
+  },
+  {
+    "start": 1624.66,
+    "text": " Now it sounds really cool in C"
+  },
+  {
+    "start": 1630.02,
+    "text": " and some of the other notes sound more scrambled."
+  },
+  {
+    "start": 1636.02,
+    "text": " Right? So that's super fun. Now some of these other wave shapes, you can get a lot of stuff."
+  },
+  {
+    "start": 1643.86,
+    "text": " You can actually make this become noise, right? So now if I play this,"
+  },
+  {
+    "start": 1653.46,
+    "text": " you get this kind of lo-fi noise. Now noise gets brighter as you increase the rate. Why?"
+  },
+  {
+    "start": 1658.42,
+    "text": " Because noise is actually just random notes ever. So check this out."
+  },
+  {
+    "start": 1666.58,
+    "text": " So you could think of LFO as a really, really robust noise oscillator as well."
+  },
+  {
+    "start": 1671.54,
+    "text": " Sample and hold is kind of the same thing."
+  },
+  {
+    "start": 1676.58,
+    "text": " But because it holds certain positions, it tends to scramble the note more and as you decrease it, listen."
+  },
+  {
+    "start": 1687.3799999999999,
+    "text": " And if you turn the amount down, you get some pretty interesting results."
+  },
+  {
+    "start": 1690.18,
+    "text": " Hopefully that's got your gears turning a little bit. This is kind of now like a cool like pluck sound."
+  },
+  {
+    "start": 1696.98,
+    "text": " Kind of like Sid style pluck, especially if you put a little distortion."
+  },
+  {
+    "start": 1707.14,
+    "text": " Now in case you're like, whoa, man, slow down. I want to learn that. I want to learn that."
+  },
+  {
+    "start": 1710.26,
+    "text": " I'm going to actually do the next video is going to be like practical applications of like"
+  },
+  {
+    "start": 1714.42,
+    "text": " what's going on in the next video. So I'm going to do a little bit of distortion."
+  },
+  {
+    "start": 1718.18,
+    "text": " So it's going to be like practical applications of like different things you can do with with operator, right?"
+  },
+  {
+    "start": 1723.94,
+    "text": " So let's say we've got a complex FM voice."
+  },
+  {
+    "start": 1730.5800000000002,
+    "text": " All right. So that's really complex, right? There's a lot of FM going on."
+  },
+  {
+    "start": 1734.1000000000001,
+    "text": " Maybe we'll even change some of these. Yeah. So that's a really bright FM voice going on."
+  },
+  {
+    "start": 1739.8600000000001,
+    "text": " So the LFO can also be mapped to what this is. This is just so fun."
+  },
+  {
+    "start": 1745.78,
+    "text": " You can also map it to the FM drive. Okay. So at this point, FM is 100%."
+  },
+  {
+    "start": 1754.1,
+    "text": " Right. So it sounds."
+  },
+  {
+    "start": 1757.62,
+    "text": " But if we go to FM drive, listen."
+  },
+  {
+    "start": 1762.02,
+    "text": " Now, obviously that's a little harsh. We're going to pull the filter down."
+  },
+  {
+    "start": 1764.66,
+    "text": " Now, if I want to maybe let's try something else. We're going to do a saw down shape for the LFO."
+  },
+  {
+    "start": 1772.5800000000002,
+    "text": " Let's sync it. Okay. And now we have."
+  },
+  {
+    "start": 1795.22,
+    "text": " Right. So how fun is that? So really it just comes down to you."
+  },
+  {
+    "start": 1801.5400000000002,
+    "text": " You know, you're trying these different things out and figuring out like some of the fun stuff you can do."
+  },
+  {
+    "start": 1805.5400000000002,
+    "text": " You can do the same thing with shaper drive, right? So."
+  },
+  {
+    "start": 1812.1000000000001,
+    "text": " I'm going to make this a little bit less harmonically complex. Turn the shaper on."
+  },
+  {
+    "start": 1816.3400000000001,
+    "text": " And, you know, in order for this to work, I need to choose a different algorithm, right?"
+  },
+  {
+    "start": 1819.94,
+    "text": " Right. So yeah, now you can start to see that might be an even more useful."
+  },
+  {
+    "start": 1828.66,
+    "text": " Kind of voice. And remember, you can always reduce your voices so you don't get that kind of like cross note talk."
+  },
+  {
+    "start": 1838.5,
+    "text": " So this is a really cool like baseline with a lot of movement in it."
+  },
+  {
+    "start": 1841.3,
+    "text": " You know, another thing you can do is obviously turn the glide time on."
+  },
+  {
+    "start": 1843.7,
+    "text": " Let's make some looping envelopes that are all synced to the clock, but synced in different polyrhythms."
+  },
+  {
+    "start": 1847.6200000000001,
+    "text": " So we're going to make saw. Okay."
+  },
+  {
+    "start": 1854.74,
+    "text": " And I'm just going to copy this to each one of these."
+  },
+  {
+    "start": 1857.22,
+    "text": " Remember, you can just right click. If you have something already set, you can right click and copy."
+  },
+  {
+    "start": 1861.6200000000001,
+    "text": " Copy from oscillator A, copy from oscillator A, copy from oscillator A. This copies everything, right?"
+  },
+  {
+    "start": 1867.62,
+    "text": " Now I'm going to unsync all these. Actually, I'm not. Why not? This could be even cooler."
+  },
+  {
+    "start": 1871.54,
+    "text": " So now I'm going to start looping the envelopes on the sync modes. Okay."
+  },
+  {
+    "start": 1878.5,
+    "text": " So this one will go every six. This one will go maybe every four."
+  },
+  {
+    "start": 1884.7399999999998,
+    "text": " This one will go every sixteenth and this one will go every sixteenth."
+  },
+  {
+    "start": 1893.46,
+    "text": " Every sixteenth and this one will go every second."
+  },
+  {
+    "start": 1904.1,
+    "text": " Now how cool is that? Just by doing the sync modes, if you have a drum beat again."
+  },
+  {
+    "start": 1913.54,
+    "text": " Okay. So there we go. Now we've got, remember all these oscillators have a decay rate of 1.81 seconds."
+  },
+  {
+    "start": 1920.42,
+    "text": " Now if I go to the LFO, let's go over the final thing I want to show you here. Time. Okay."
+  },
+  {
+    "start": 1926.02,
+    "text": " Time is what this does is it actually, it's like a global control in all of the envelopes,"
+  },
+  {
+    "start": 1932.3400000000001,
+    "text": " in all the different sections. So every single one, there's an envelope for each one of these sections."
+  },
+  {
+    "start": 1937.38,
+    "text": " It will decrease or increase the time of those. So if I just play this,"
+  },
+  {
+    "start": 1945.0600000000002,
+    "text": " that's longer. Now if I decrease this,"
+  },
+  {
+    "start": 1950.98,
+    "text": " right? How fun is that? So that's kind of cool. So what I can do now is I can go in here and I can"
+  },
+  {
+    "start": 1957.38,
+    "text": " turn on the LFO and I can set it to time. Whoa. So if I unsync this and I change this to"
+  },
+  {
+    "start": 1964.1000000000001,
+    "text": " some lower rate, maybe something like this, check it out."
+  },
+  {
+    "start": 1973.78,
+    "text": " So now if I have a beat,"
+  },
+  {
+    "start": 1980.42,
+    "text": " obviously I can turn off the pitch modulation and just leave the destination B going, right? So I can have notes."
+  },
+  {
+    "start": 1996.66,
+    "text": " I hope this really gets you excited. You can do so much with rhythm. In fact,"
+  },
+  {
+    "start": 2000.3400000000001,
+    "text": " you can even sync the LFO at slower rates and get these kind of cross,"
+  },
+  {
+    "start": 2004.98,
+    "text": " you know, cross modulation different things happening in time."
+  },
+  {
+    "start": 2011.38,
+    "text": " Now because the LFO is restarting longer than the phase of this whole thing, you're going to need to set this at shorter times."
+  },
+  {
+    "start": 2027.46,
+    "text": " See how that's like one, like it repeats what it's doing one and a half times for every one time these do it, right?"
+  },
+  {
+    "start": 2032.5800000000002,
+    "text": " Or I could do it at one and it'll kind of just do it at the same rate of a bar."
+  },
+  {
+    "start": 2041.0600000000002,
+    "text": " Right? So you can do just, oh man, it's just, it's so fun. Like, and then you can edit the time control."
+  },
+  {
+    "start": 2050.5,
+    "text": " Maybe here's a live performance you're doing, you know, all you have is a macro"
+  },
+  {
+    "start": 2054.34,
+    "text": " just mapped to the time control and everything else is already preset. So"
+  },
+  {
+    "start": 2057.54,
+    "text": " see what I'm saying? So time is incredible and that's one of the things that really sets operator apart. Okay."
+  },
+  {
+    "start": 2060.74,
+    "text": " All right. So now let's move on to the filter section and we're going to go over the stuff we haven't gone over yet."
+  },
+  {
+    "start": 2065.94,
+    "text": " So in, I'm going to start a new operator and put it on something harmonically rich because, I mean, that's what a filter needs to do."
+  },
+  {
+    "start": 2071.94,
+    "text": " If you have this, you know, obviously just as an aside, you have this on a sign,"
+  },
+  {
+    "start": 2074.9,
+    "text": " filter isn't going to be able to do that, but you can do it. So you can do it."
+  },
+  {
+    "start": 2078.34,
+    "text": " So you can do it. So you can do it. So you can do it. So you can do it. So you can do it. So you can do it."
+  },
+  {
+    "start": 2083.14,
+    "text": " So, you know, obviously just as an aside, you have this on a sign, filter isn't going to do much, right?"
+  },
+  {
+    "start": 2088.1,
+    "text": " So I go to something bright."
+  },
+  {
+    "start": 2092.8199999999997,
+    "text": " This main filter can't self-oscillate. All right. I'm going to turn this down just to show you."
+  },
+  {
+    "start": 2098.66,
+    "text": " Even though that is, that's a lot of harmonics, it's not self-oscillating. It's not making its own"
+  },
+  {
+    "start": 2104.58,
+    "text": " frequency, right? Or it's not making it loud enough to continue over time. So if I choose some of these other models, though,"
+  },
+  {
+    "start": 2111.94,
+    "text": " when the resonance is above 100%, you really get, hear that extra ringing sound?"
+  },
+  {
+    "start": 2118.1,
+    "text": " You can control that more than you think you can. I mean, it's pretty cool."
+  },
+  {
+    "start": 2122.26,
+    "text": " You can change the frequency based on the key. So if I..."
+  },
+  {
+    "start": 2131.06,
+    "text": " Now a setting of 100% should get it to follow the notes that I play with relative accuracy."
+  },
+  {
+    "start": 2136.02,
+    "text": " And this is a lot more useful if you use, once again, your shaper, okay?"
+  },
+  {
+    "start": 2146.5,
+    "text": " Sounds like a filter drive above a certain amount will make it so the fundamental waveform coming out of the oscillator will defeat kind of this."
+  },
+  {
+    "start": 2154.02,
+    "text": " So, you know, maybe drive settings are a little bit lower."
+  },
+  {
+    "start": 2156.02,
+    "text": " So this is really fun. Listen to the wide variety of tones you can get out of the filter, just changing this frequency and changing some of these modes."
+  },
+  {
+    "start": 2179.46,
+    "text": " A lot of the times you can be confused by, by operator's interface."
+  },
+  {
+    "start": 2182.74,
+    "text": " Don't forget that this pitch envelope area doesn't mean it needs to be just for pitch, okay?"
+  },
+  {
+    "start": 2187.62,
+    "text": " Now something that you can do with this pitch envelope is you can also make it go to different places."
+  },
+  {
+    "start": 2193.14,
+    "text": " If I turn off all the destinations, right?"
+  },
+  {
+    "start": 2197.62,
+    "text": " This is my sound right now."
+  },
+  {
+    "start": 2202.66,
+    "text": " By changing the resonance at this high because this filter is self-oscillating,"
+  },
+  {
+    "start": 2207.2999999999997,
+    "text": " I'd love to be able to do that with an envelope. And the cool thing is that you can."
+  },
+  {
+    "start": 2210.6600000000003,
+    "text": " So just like the LFO has these destination B's, this free envelope, this is a free envelope, you can put this envelope anywhere."
+  },
+  {
+    "start": 2218.5,
+    "text": " I can actually choose something else. So filter resonance. Check this out."
+  },
+  {
+    "start": 2231.5400000000004,
+    "text": " Now listen to that."
+  },
+  {
+    "start": 2234.2599999999998,
+    "text": " I can mess with that resonance depending upon this setting. So again, this is a plus or minus setting."
+  },
+  {
+    "start": 2242.58,
+    "text": " Now if I want to go the other way, I can soften that hit or make it harder."
+  },
+  {
+    "start": 2250.1,
+    "text": " Now let's explore this free envelope in so many different ways."
+  },
+  {
+    "start": 2255.54,
+    "text": " So now something else. Let's just say we have a classic kind of vibratey..."
+  },
+  {
+    "start": 2266.58,
+    "text": " Vibrating sound. Let's do a saw."
+  },
+  {
+    "start": 2275.7799999999997,
+    "text": " And let's make this go just a little bit."
+  },
+  {
+    "start": 2278.58,
+    "text": " So that's our sound. So let's turn this envelope on. But we're going to turn off all the switches except for the LFO."
+  },
+  {
+    "start": 2290.74,
+    "text": " And remember, in order to get this to have any sort of effect, this needs to be edited a little bit."
+  },
+  {
+    "start": 2295.14,
+    "text": " And you need to turn this up a little bit."
+  },
+  {
+    "start": 2300.5,
+    "text": " Now if I make it so this LFO starts right away, and I'm sending this pitch envelope just to the LFO,"
+  },
+  {
+    "start": 2306.18,
+    "text": " and remember the destination is 100%."
+  },
+  {
+    "start": 2310.66,
+    "text": " If I make this longer, listen to the LFO."
+  },
+  {
+    "start": 2319.2999999999997,
+    "text": " See how it slows down?"
+  },
+  {
+    "start": 2328.9,
+    "text": " And maybe if I pull this all the way down, check this out. Now we have a..."
+  },
+  {
+    "start": 2336.1,
+    "text": " Listen to that. It's kind of like a laser gun."
+  },
+  {
+    "start": 2347.94,
+    "text": " Now that's really fun. I mean, if we did this with a sine waveform..."
+  },
+  {
+    "start": 2353.22,
+    "text": " And a little bit of FM..."
+  },
+  {
+    "start": 2361.46,
+    "text": " We can get some really, really awesome sounds. Now check this out."
+  },
+  {
+    "start": 2365.14,
+    "text": " Here's some fun. So now I can do oscillator volume to B, okay?"
+  },
+  {
+    "start": 2372.42,
+    "text": " And if I turn this all the way up, but make the... I make the percentage that's going to it the opposite."
+  },
+  {
+    "start": 2385.06,
+    "text": " I've got this really nifty, super awesome kind of like transition sound."
+  },
+  {
+    "start": 2395.54,
+    "text": " And that's just having... What I'm doing is I'm sending this envelope, this free envelope."
+  },
+  {
+    "start": 2400.18,
+    "text": " It's a free envelope you can send anywhere really. I mean, I really wish that..."
+  },
+  {
+    "start": 2403.7799999999997,
+    "text": " That's kind of what they called it, you know?"
+  },
+  {
+    "start": 2407.22,
+    "text": " This section, you can send it to all these different places and get these really amazing results"
+  },
+  {
+    "start": 2410.74,
+    "text": " depending upon these different settings."
+  },
+  {
+    "start": 2415.54,
+    "text": " Now remember that time, once again, time can change this."
+  },
+  {
+    "start": 2421.54,
+    "text": " So it's a slower one, right?"
+  },
+  {
+    "start": 2424.58,
+    "text": " And if you want more harmonically rich stuff, you know, just..."
+  },
+  {
+    "start": 2440.5,
+    "text": " So let's look at the master section and talk about making a really complex voice, okay?"
+  },
+  {
+    "start": 2446.66,
+    "text": " A lot of production music you hear nowadays is made in operator, and a lot of people just don't"
+  },
+  {
+    "start": 2450.34,
+    "text": " think that that is true. They open operator and they're like, yeah, well, you know, it sounds"
+  },
+  {
+    "start": 2456.1000000000004,
+    "text": " cheap, blah, blah. Well, just know that operator doesn't have built-in reverb, okay? Doesn't have"
+  },
+  {
+    "start": 2461.1400000000003,
+    "text": " built-in delay. I mean, reverb and delay can really change... I mean, I could get a Casio keyboard and"
+  },
+  {
+    "start": 2465.3,
+    "text": " play a Casio keyboard and put it through like a Strymon Big Sky or an Eventide reverb and just like"
+  },
+  {
+    "start": 2471.78,
+    "text": " it will blow your mind, right? So what operator really does well in is sounding really good,"
+  },
+  {
+    "start": 2477.7,
+    "text": " completely dry, okay? And you have all these different connections that you can make"
+  },
+  {
+    "start": 2482.5,
+    "text": " with your playing and your expressiveness to make these sounds sound really good. So in this case,"
+  },
+  {
+    "start": 2487.54,
+    "text": " let's make a harmonically rich..."
+  },
+  {
+    "start": 2494.8199999999997,
+    "text": " Sound."
+  },
+  {
+    "start": 2499.9399999999996,
+    "text": " Pull the filter frequency down. So here's my root sound, right?"
+  },
+  {
+    "start": 2503.86,
+    "text": " Pretty uneventful, right? Well, let's go ahead and check this master section out, okay? So not only"
+  },
+  {
+    "start": 2512.26,
+    "text": " do you have the time control, which I've already showed you, you have an overall tone. So"
+  },
+  {
+    "start": 2518.58,
+    "text": " what this basically is, I think, is an FM index."
+  },
+  {
+    "start": 2524.1800000000003,
+    "text": " So even though these are all modulating each other, if the tone is all the way down,"
+  },
+  {
+    "start": 2529.86,
+    "text": " you get those discrete oscillators again. But by turning this up, I think it just indexes this"
+  },
+  {
+    "start": 2535.3,
+    "text": " amount of modulation going from each oscillator to another. Now, you might be wondering what"
+  },
+  {
+    "start": 2542.02,
+    "text": " anti-aliasing does. Well, what this does is it's a filter that's set up so high you can't really"
+  },
+  {
+    "start": 2546.1800000000003,
+    "text": " hear necessarily the filter, but what it does is it reduces the waveform's amplitude at the same"
+  },
+  {
+    "start": 2555.7799999999997,
+    "text": " frequencies that you can't hear. So what you don't get is those distortions. But"
+  },
+  {
+    "start": 2562.5,
+    "text": " when you have a harmonically complex situation like this going on, turning this filter on"
+  },
+  {
+    "start": 2567.14,
+    "text": " or off can get you different sounds."
+  },
+  {
+    "start": 2574.02,
+    "text": " Right? And so that's what that's doing, just in case you wanted to know. All right, so"
+  },
+  {
+    "start": 2578.8999999999996,
+    "text": " anyway, back to this. Now that we have this sound that we've got going on, let's talk about some"
+  },
+  {
+    "start": 2584.9,
+    "text": " things that we can do with this. We can send velocity to two different places. I mean, this"
+  },
+  {
+    "start": 2589.3,
+    "text": " is just so powerful. So obviously, filter frequency. If I turn this all the way up,"
+  },
+  {
+    "start": 2596.34,
+    "text": " and then I turn the filter frequency down. Right? Easy enough. You know, maybe something that I"
+  },
+  {
+    "start": 2606.5,
+    "text": " that I might not be thinking as much of is I could send one to tone. Okay, so now this is actually"
+  },
+  {
+    "start": 2613.06,
+    "text": " changing the FM index, especially if tone is turned down. Right? So maybe aftertouch"
+  },
+  {
+    "start": 2627.46,
+    "text": " can open the filter a little bit, right? So I'm gonna... And this is especially useful if this"
+  },
+  {
+    "start": 2636.98,
+    "text": " is kind of set in more of a... So that's just me pushing the key harder, right? You know,"
+  },
+  {
+    "start": 2653.86,
+    "text": " mod wheel, pitch bend, all of these places can go, all of these modulation sources can go to"
+  },
+  {
+    "start": 2658.66,
+    "text": " different places. And so you can get a really complex, really expressive instrument by just"
+  },
+  {
+    "start": 2665.14,
+    "text": " messing around with all of these. Okay? Okay, so I hope that this has been really informative."
+  },
+  {
+    "start": 2673.8599999999997,
+    "text": " Again, if you feel like I've missed something extremely essential, go ahead and leave it in"
+  },
+  {
+    "start": 2677.94,
+    "text": " the comments. Like, comment, subscribe. There's another video coming, and it's going to be even"
+  },
+  {
+    "start": 2682.02,
+    "text": " crazier than this one. This one's kind of like your boring deep dive, right? I hope you really"
+  },
+  {
+    "start": 2687.06,
+    "text": " got a lot out of this and you learned something you didn't know before about Operator. And yeah,"
+  },
+  {
+    "start": 2692.5,
+    "text": " stay tuned for the next episode. It's going to be really, really epic. We're really gonna tie a"
+  },
+  {
+    "start": 2697.7,
+    "text": " lot of things together, and I'm going to show you how to do specific forms of synthesis"
+  },
+  {
+    "start": 2700.98,
+    "text": " and other really fun things there, right? Anyway, thanks for watching, everybody. Much love. See you"
+  },
+  {
+    "start": 2706.9,
+    "text": " next time."
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "start": 0.0,
+    "text": " El último efecto de audio que vamos a ver en este curso es la distorsión."
+  },
+  {
+    "start": 3.24,
+    "text": " No se olviden que en la descripción tienen una lista con el curso completo."
+  },
+  {
+    "start": 6.640000000000001,
+    "text": " Para entender qué hace la distorsión,"
+  },
+  {
+    "start": 8.24,
+    "text": " vamos a cargar rápidamente una instancia de drift como siempre."
+  },
+  {
+    "start": 14.52,
+    "text": " Y después, en efectos de audio,"
+  },
+  {
+    "start": 16.28,
+    "text": " vamos a seleccionar aquí arriba donde dice distorsión."
+  },
+  {
+    "start": 19.48,
+    "text": " Y como podemos ver, nos muestra todos los efectos de distorsión"
+  },
+  {
+    "start": 22.32,
+    "text": " que tiene Ableton Live 12."
+  },
+  {
+    "start": 24.080000000000002,
+    "text": " Por esta vez, solo vamos a ver el más común que se llama Overdrive,"
+  },
+  {
+    "start": 27.2,
+    "text": " que es de este de acá."
+  },
+  {
+    "start": 28.36,
+    "text": " Así que lo cargamos de nuestra pista"
+  },
+  {
+    "start": 30.0,
+    "text": " y ya saben que si quieren un tutorial de otro de estos en específico,"
+  },
+  {
+    "start": 33.0,
+    "text": " me lo pueden dejar en los comentarios."
+  },
+  {
+    "start": 34.92,
+    "text": " Primero vamos a aprender qué es distorsión."
+  },
+  {
+    "start": 36.92,
+    "text": " Distorsión es un efecto que deforma la onda del sonido"
+  },
+  {
+    "start": 39.56,
+    "text": " y lo que hace básicamente es alterar el sonido."
+  },
+  {
+    "start": 42.24,
+    "text": " Como pudieron ver antes, hay varios efectos de distorsión"
+  },
+  {
+    "start": 45.040000000000006,
+    "text": " que representan diferentes tipos de este efecto."
+  },
+  {
+    "start": 47.480000000000004,
+    "text": " Sin embargo, vamos a empezar con Overdrive."
+  },
+  {
+    "start": 49.6,
+    "text": " También me gustaría añadir aquí un Spectrum"
+  },
+  {
+    "start": 51.760000000000005,
+    "text": " que es básicamente un efecto que nos da la representación gráfica"
+  },
+  {
+    "start": 55.08,
+    "text": " de las frecuencias de nuestro sonido"
+  },
+  {
+    "start": 57.0,
+    "text": " para que podamos observar cómo afecta la distorsión a nuestro sonido."
+  },
+  {
+    "start": 60.36,
+    "text": " Entonces, para eso le quito esto que dice Distorsión"
+  },
+  {
+    "start": 62.8,
+    "text": " y me voy todo hacia abajo hasta encontrar el Spectrum."
+  },
+  {
+    "start": 66.72,
+    "text": " Voy a poner esta flechita de acá y se me abre todo esto."
+  },
+  {
+    "start": 70.2,
+    "text": " Para empezar con el Overdrive,"
+  },
+  {
+    "start": 71.72,
+    "text": " vamos a escuchar cómo suena con el efecto aplicado y sin el efecto,"
+  },
+  {
+    "start": 75.48,
+    "text": " pero también me gustaría hacerle unos cambios a mi drift primero."
+  },
+  {
+    "start": 78.64,
+    "text": " Para empezar, voy a usar solo un oscilador"
+  },
+  {
+    "start": 81.92,
+    "text": " y aquí en vez de esta onda, le voy a poner una sinusoidal."
+  },
+  {
+    "start": 85.76,
+    "text": " Ya que este tipo de onda tiene menos armonías,"
+  },
+  {
+    "start": 88.03999999999999,
+    "text": " por lo tanto, vamos a ver menos frecuencias"
+  },
+  {
+    "start": 90.24,
+    "text": " y será más difícil diferenciar el efecto de la distorsión."
+  },
+  {
+    "start": 93.0,
+    "text": " Ahora sí, así suena mi drift sin Overdrive."
+  },
+  {
+    "start": 100.0,
+    "text": " Y cuando prendo la distorsión..."
+  },
+  {
+    "start": 105.2,
+    "text": " Y como pueden ver, tenemos pocas frecuencias levantadas en el gráfico."
+  },
+  {
+    "start": 111.32,
+    "text": " Sin embargo, si le prendo el efecto, eso va cambiando."
+  },
+  {
+    "start": 115.72,
+    "text": " En esta parte de acá se puede ver claramente cómo añade más frecuencias."
+  },
+  {
+    "start": 129.24,
+    "text": " Y como vimos, en la parte de la derecha, o sea, en las frecuencias altas,"
+  },
+  {
+    "start": 132.84,
+    "text": " el volumen sube y también vemos más frecuencias."
+  },
+  {
+    "start": 135.72,
+    "text": " Ahora sí, yo juego con este parámetro que se llama Drive,"
+  },
+  {
+    "start": 138.48,
+    "text": " que significa básicamente cuánta distorsión se puede hacer."
+  },
+  {
+    "start": 141.68,
+    "text": " Vamos a ver cómo va cambiando"
+  },
+  {
+    "start": 143.56,
+    "text": " o cómo se va formando mi sonido aquí en el gráfico."
+  },
+  {
+    "start": 159.52,
+    "text": " Por cierto, le voy a bajar un poco el volumen."
+  },
+  {
+    "start": 162.52,
+    "text": " Y también voy a bajar un poco el volumen."
+  },
+  {
+    "start": 164.8,
+    "text": " Y ahora sí, vamos a ver cómo va cambiando."
+  },
+  {
+    "start": 168.36,
+    "text": " Por cierto, le voy a bajar un poco el volumen."
+  },
+  {
+    "start": 171.16,
+    "text": " Y también vamos a escuchar cómo la distorsión, al haber deformado la onda,"
+  },
+  {
+    "start": 174.96,
+    "text": " hace que mi sonido tenga más frecuencias altas."
+  },
+  {
+    "start": 177.08,
+    "text": " Y por eso escuchamos el sonido más agudo cuando la distorsión está al máximo."
+  },
+  {
+    "start": 187.4,
+    "text": " Entonces, ¿para qué sirve la distorsión?"
+  },
+  {
+    "start": 189.4,
+    "text": " La verdad es que muchas veces lo podemos usar como un efecto creativo"
+  },
+  {
+    "start": 192.68,
+    "text": " ya que muchos sonidos suenan mejor, más llenos y más completos"
+  },
+  {
+    "start": 196.16,
+    "text": " cuando están distorsionados."
+  },
+  {
+    "start": 197.72,
+    "text": " O también podemos usarla para que sonidos que no destacan mucho"
+  },
+  {
+    "start": 200.92000000000002,
+    "text": " puedan brillar un poco más."
+  },
+  {
+    "start": 202.4,
+    "text": " Por ejemplo, si uso el mismo sonido pero más grave, va a sonar así."
+  },
+  {
+    "start": 206.08,
+    "text": " Para esto le bajo dos octavas y ahora suena así."
+  },
+  {
+    "start": 211.28,
+    "text": " Y probablemente si estás escuchando desde tu celular"
+  },
+  {
+    "start": 213.96,
+    "text": " o desde unos parlantes que no tengan mucho bajo,"
+  },
+  {
+    "start": 216.20000000000002,
+    "text": " se te va a dificultar escuchar este bajo que acaba de tocar."
+  },
+  {
+    "start": 219.16,
+    "text": " Sin embargo, si le voy subiendo la distorsión,"
+  },
+  {
+    "start": 221.16,
+    "text": " vamos a ver cómo este sonido se va a ir escuchando con más facilidad."
+  },
+  {
+    "start": 227.12,
+    "text": " Ahora, para continuar viendo qué más podemos cambiar en el overdrive,"
+  },
+  {
+    "start": 230.24,
+    "text": " aparte del drive, tenemos aquí arriba un filtro de ancho de banda"
+  },
+  {
+    "start": 234.48000000000002,
+    "text": " el cual podemos configurar dando clic a esta bola amarilla"
+  },
+  {
+    "start": 237.44,
+    "text": " o también desde estas casillas que tenemos abajo del filtro."
+  },
+  {
+    "start": 240.20000000000002,
+    "text": " Por ejemplo, si lo hago con el filtro de ancho de banda,"
+  },
+  {
+    "start": 243.68,
+    "text": " el filtro de ancho de banda va a cambiar el filtro de banda."
+  },
+  {
+    "start": 246.72,
+    "text": " Y si lo hago con el filtro de ancho de banda,"
+  },
+  {
+    "start": 249.64000000000001,
+    "text": " el filtro de ancho de banda va a cambiar el filtro de ancho de banda."
+  },
+  {
+    "start": 253.0,
+    "text": " O también así."
+  },
+  {
+    "start": 256.96,
+    "text": " También tenemos al lado del drive el tono,"
+  },
+  {
+    "start": 259.2,
+    "text": " y esto lo que hace es actuar como un EQ"
+  },
+  {
+    "start": 261.6,
+    "text": " que potencia las frecuencias altas después de haberlas distorsionado."
+  },
+  {
+    "start": 264.92,
+    "text": " Y suena así."
+  },
+  {
+    "start": 277.8,
+    "text": " Y ahora vamos a ver cómo se va a cambiar el tono de la guitarra."
+  },
+  {
+    "start": 281.56,
+    "text": " Si le subo de nuevo a dos octavas..."
+  },
+  {
+    "start": 291.12,
+    "text": " Podemos escuchar como mientras más le subo el tono,"
+  },
+  {
+    "start": 293.56,
+    "text": " más se escuchan las frecuencias agudas."
+  },
+  {
+    "start": 295.2,
+    "text": " Y el gráfico muestra lo mismo con las frecuencias del lado de la derecha."
+  },
+  {
+    "start": 306.03999999999996,
+    "text": " Por último, tenemos esta sección que dice Dynamo,"
+  },
+  {
+    "start": 308.64000000000004,
+    "text": " que es para preservar el rango dinámico de nuestro sonido."
+  },
+  {
+    "start": 311.04,
+    "text": " Y si no se acuerdan lo que es de eso,"
+  },
+  {
+    "start": 312.84000000000003,
+    "text": " les dejo por aquí arriba y en la descripción la clase del compresor."
+  },
+  {
+    "start": 316.52000000000004,
+    "text": " Ya que lo que hace este Dynamix es básicamente comprimir"
+  },
+  {
+    "start": 319.72,
+    "text": " más o menos del sonido distorsionado."
+  },
+  {
+    "start": 321.72,
+    "text": " Cuando está en 100%, no se comprime,"
+  },
+  {
+    "start": 324.44,
+    "text": " y cuando está en cero, se comprime por completo."
+  },
+  {
+    "start": 334.56,
+    "text": " Y también tenemos la sección de la guitarra."
+  },
+  {
+    "start": 337.88,
+    "text": " Y también tenemos más abajo el Dry Wet, que como ya saben,"
+  },
+  {
+    "start": 341.40000000000003,
+    "text": " es para ver qué cantidad de efecto queremos aplicar."
+  },
+  {
+    "start": 344.12,
+    "text": " Si está en cero, se escucha nuestro sonido normalmente."
+  },
+  {
+    "start": 349.12,
+    "text": " Y si está en 100%, se escucha todo el efecto."
+  },
+  {
+    "start": 357.56,
+    "text": " Y eso fue la distorsión."
+  }
+]

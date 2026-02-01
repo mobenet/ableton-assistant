@@ -1,0 +1,914 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hi hi hi hi and welcome to LNA does audio stuff. Hey today you will learn every"
+  },
+  {
+    "start": 5.8,
+    "text": " single bit there is to know about Ableton Live's analog. So it's not a copy"
+  },
+  {
+    "start": 10.36,
+    "text": " of just any old synthesizer but it's actually made so that it combines"
+  },
+  {
+    "start": 14.72,
+    "text": " features of legendary synthesizers so that it becomes one modern instrument."
+  },
+  {
+    "start": 20.72,
+    "text": " It uses physical modeling synthesis which means that the waveform is"
+  },
+  {
+    "start": 24.6,
+    "text": " generated using mathematical model. So basically a bunch of equations and"
+  },
+  {
+    "start": 30.520000000000003,
+    "text": " algorithms to simulate physical source of sound. Yeah. But hey before we get into"
+  },
+  {
+    "start": 36.68,
+    "text": " all the details please remember to subscribe and hit the bell icon so that"
+  },
+  {
+    "start": 40.92,
+    "text": " you feed every single algorithm on YouTube and you will definitely see all"
+  },
+  {
+    "start": 45.400000000000006,
+    "text": " my videos when I post because you want to be here because I have a lot of cool"
+  },
+  {
+    "start": 48.68000000000001,
+    "text": " content. Let's get into it."
+  },
+  {
+    "start": 54.6,
+    "text": " Part one of this video is overview. So let's go here and add an analog from"
+  },
+  {
+    "start": 75.48,
+    "text": " instruments. There we go. Beautiful thing. Let's have a look what's it made of. So"
+  },
+  {
+    "start": 80.68,
+    "text": " we have basically a thing called shell. So shell is this gray area here. So all"
+  },
+  {
+    "start": 86.04,
+    "text": " these sections are separated by these little lines and all the sections also"
+  },
+  {
+    "start": 91.52000000000001,
+    "text": " have orange on off button. So we have two oscillators. Oscillator one, oscillator"
+  },
+  {
+    "start": 98.56,
+    "text": " two. Noise oscillator. I don't know what that is. Filter one, filter two, amplifier"
+  },
+  {
+    "start": 106.0,
+    "text": " one, amp two, LFO one. And then we have a global section with the volume,"
+  },
+  {
+    "start": 114.56,
+    "text": " vibrato, vibrato, not vibrato, vibrato. Yeah, unison and glide. Inside of this shell we"
+  },
+  {
+    "start": 125.76,
+    "text": " have the display and display shows all the options that the section of the"
+  },
+  {
+    "start": 131.56,
+    "text": " shell has to offer. So example, let's take the global area. You can see that"
+  },
+  {
+    "start": 136.2,
+    "text": " there's quick routing options. There's also options of vibrato. Yes, that's"
+  },
+  {
+    "start": 142.52,
+    "text": " correct. Keyboard and unison and glide. So all that is to do with vibrato,"
+  },
+  {
+    "start": 149.24,
+    "text": " unison and glide as well as other routing options for the whole synthesizer. So"
+  },
+  {
+    "start": 153.44,
+    "text": " we're gonna now go each of these shell sections one by one."
+  },
+  {
+    "start": 161.56,
+    "text": " Okay, so we have three primary sources of sound. We have oscillator one, noise"
+  },
+  {
+    "start": 170.36,
+    "text": " and oscillator two. Let's just take those off. So again, the orange button is on and"
+  },
+  {
+    "start": 176.56,
+    "text": " off button. I'm also gonna take the filter one away. So let's just leave"
+  },
+  {
+    "start": 181.68,
+    "text": " amplifier one. This means that we have now one oscillator on. So when I press"
+  },
+  {
+    "start": 186.95999999999998,
+    "text": " key, you can hear the sound of this oscillator. So inside of the oscillator, of"
+  },
+  {
+    "start": 194.23999999999998,
+    "text": " course, we have that on and off button. We also have the output level of the oscillator. We"
+  },
+  {
+    "start": 198.32,
+    "text": " also have the F1, F2 and this means the filter. So this is to do with the"
+  },
+  {
+    "start": 203.48,
+    "text": " routing. So it's the balance of the oscillator's output to each filter. So"
+  },
+  {
+    "start": 209.88,
+    "text": " example, now it's connected fully to F1, which means this filter here. If I put it"
+  },
+  {
+    "start": 215.96,
+    "text": " completely to the left, it will be connected to here. Then we have also the"
+  },
+  {
+    "start": 220.96,
+    "text": " shape. We have sine, sawtooth, rectangle and noise. So if we example take the"
+  },
+  {
+    "start": 227.86,
+    "text": " rectangle from here, we also get a little bit extra controls in our display. So as"
+  },
+  {
+    "start": 234.76000000000002,
+    "text": " you can see when I put a sine, the width, bullet pulse width and the sub modes go"
+  },
+  {
+    "start": 239.84,
+    "text": " away. I'm gonna talk about those in a minute. Then we have octave, semi and"
+  },
+  {
+    "start": 244.52,
+    "text": " detune. So these are to do with pitch. What octave are we in? This is the middle C."
+  },
+  {
+    "start": 250.04000000000002,
+    "text": " Then we could go octave lower, semitone. So example 12 would be octave lower and"
+  },
+  {
+    "start": 259.40000000000003,
+    "text": " so on and detune. Especially amazing when you're creating synth sound and you want"
+  },
+  {
+    "start": 267.16,
+    "text": " two oscillators to sound slightly different. Detuning and using these"
+  },
+  {
+    "start": 271.32,
+    "text": " controls are very important. Then we have pitch envelope here and we have the"
+  },
+  {
+    "start": 277.72,
+    "text": " pitch envelope initial time. So where does it start? Lower. We also have the"
+  },
+  {
+    "start": 287.0,
+    "text": " time. How long does the pitch take to go from the initial to reach the final"
+  },
+  {
+    "start": 293.0,
+    "text": " level? So example if we go, let's go a little bit."
+  },
+  {
+    "start": 296.92,
+    "text": " And then we have also pitch mode. So we have these are modulation options and"
+  },
+  {
+    "start": 306.16,
+    "text": " every single of these screens, displays also show the modulation options. So they"
+  },
+  {
+    "start": 313.0,
+    "text": " kind of repeat themselves. So when you get one, you will get them all. So we have"
+  },
+  {
+    "start": 317.96000000000004,
+    "text": " pitch modulation. How is the LFO 1, which is here, modulating the pitch of this"
+  },
+  {
+    "start": 325.04,
+    "text": " oscillator? So if I turn this LFO 1 on and we have a little bit of rate and"
+  },
+  {
+    "start": 330.88,
+    "text": " sine wave there, you can see when we put that on. If I put this key to zero,"
+  },
+  {
+    "start": 339.24,
+    "text": " you can see that I'm pressing all the keys and going up the scale and they're"
+  },
+  {
+    "start": 346.0,
+    "text": " all just the same note. When I go to 100%, so I double click it and go to the"
+  },
+  {
+    "start": 350.28,
+    "text": " default. Now it goes up the scale the normal way and when I go to 200%, which"
+  },
+  {
+    "start": 357.11999999999995,
+    "text": " is the extended completely to the other end, they basically go octave higher on"
+  },
+  {
+    "start": 364.71999999999997,
+    "text": " each step. Pulse width, I can show it really easily here. So if I go here and"
+  },
+  {
+    "start": 370.67999999999995,
+    "text": " go rectangle and you can see the width of the signal just going up and down. We"
+  },
+  {
+    "start": 376.6,
+    "text": " can make it wider, which makes it sound maybe be more bigger and boomier, where"
+  },
+  {
+    "start": 381.8,
+    "text": " if we make it very small it could sound a little bit more tinier sound. We can"
+  },
+  {
+    "start": 385.78000000000003,
+    "text": " modulate the width also with LFO 1. We can also add a mode. So example, now we"
+  },
+  {
+    "start": 392.20000000000005,
+    "text": " could create a bass sound out of this. We turn on a sub oscillator, so basically"
+  },
+  {
+    "start": 398.96000000000004,
+    "text": " another sound that is added to the top of this sound, but it goes octave lower."
+  },
+  {
+    "start": 404.59999999999997,
+    "text": " If we have it on sump and put it on 100%, you know we can get very nice bass"
+  },
+  {
+    "start": 413.32,
+    "text": " sound. Put it octave lower. So that's already very interesting. We can also"
+  },
+  {
+    "start": 418.71999999999997,
+    "text": " sync it. It restarts the oscillator waveform according to the additional"
+  },
+  {
+    "start": 424.64,
+    "text": " oscillator. So we can get some really interesting textures using this one."
+  },
+  {
+    "start": 431.92,
+    "text": " But I'm gonna go for the sub because we create a bass."
+  },
+  {
+    "start": 440.6,
+    "text": " So now we're gonna create a very, very basic bass using the two oscillators. So"
+  },
+  {
+    "start": 446.52000000000004,
+    "text": " let's go and activate the oscillator 2. Let's go here and add a sine wave. Sine"
+  },
+  {
+    "start": 452.24,
+    "text": " wave has a very like a soft sound and then we could just take the volume down"
+  },
+  {
+    "start": 459.28000000000003,
+    "text": " a little bit on the oscillator 1 so we can hear the sine wave a little bit"
+  },
+  {
+    "start": 462.64,
+    "text": " further. For the oscillator 2 we can add a little bit of pitch envelope and make"
+  },
+  {
+    "start": 471.84000000000003,
+    "text": " the time a little bit shorter. So we get that. We also can detune it a little"
+  },
+  {
+    "start": 478.59999999999997,
+    "text": " bit and try maybe sawtooth. Ooh retro bass. We can also add a noise oscillator"
+  },
+  {
+    "start": 490.76,
+    "text": " here. So it just oscillates noise and why is that good? Sometimes noise can add a"
+  },
+  {
+    "start": 495.68,
+    "text": " little bit extra harmonics and extra color into a synth sound. We can also use"
+  },
+  {
+    "start": 501.76,
+    "text": " it as a very creative tool to create risers, lifts and stuff. So example if"
+  },
+  {
+    "start": 507.08000000000004,
+    "text": " it's quite loud and we use a filter to noise it in and out. So that's cool but"
+  },
+  {
+    "start": 517.4,
+    "text": " also if we just put it a little bit lower in the volume and then we also"
+  },
+  {
+    "start": 523.24,
+    "text": " select the color of the frequencies. We can just add that kind of color, the"
+  },
+  {
+    "start": 530.6,
+    "text": " warmth on the top of the synth sound."
+  },
+  {
+    "start": 538.04,
+    "text": " Okay so now we obviously need to filter these. Let's go through what's in the"
+  },
+  {
+    "start": 544.1999999999999,
+    "text": " filter. So we have filter 1 example here. Here we have first the filter band mode"
+  },
+  {
+    "start": 549.9599999999999,
+    "text": " demonstrate here. So these are the different bands. This is a high pass,"
+  },
+  {
+    "start": 554.36,
+    "text": " that's a low pass. So we also have the option in them the 12 or 24. So this one"
+  },
+  {
+    "start": 561.88,
+    "text": " will cut 48 and this one will 12. So what do we have? We have 24 of 12. So you can"
+  },
+  {
+    "start": 569.76,
+    "text": " see what that means here. So you can relate it to these numbers. So this is"
+  },
+  {
+    "start": 575.28,
+    "text": " really interesting. So you have this filter 2 percentage. So you can see that"
+  },
+  {
+    "start": 581.04,
+    "text": " under filter 2 there is a follow option. If this is on it means that the filter"
+  },
+  {
+    "start": 586.68,
+    "text": " 2's cutoff frequency will follow the filter 1's cutoff frequency. So how cool"
+  },
+  {
+    "start": 594.1999999999999,
+    "text": " is that? So then we can of course select the frequency. So if we have example low"
+  },
+  {
+    "start": 600.3199999999999,
+    "text": " pass filter here 12. If we take this frequency down it does the same action"
+  },
+  {
+    "start": 605.92,
+    "text": " as we would do it with the EQ like that. We are filtering the high frequencies"
+  },
+  {
+    "start": 611.12,
+    "text": " and we're passing the low frequencies. Okay so then we have a resonance and"
+  },
+  {
+    "start": 615.88,
+    "text": " resonance means how much are we adding frequencies using our bands. Doing this"
+  },
+  {
+    "start": 622.2,
+    "text": " equals as doing this like lifting it up. Inside here in the display we have our"
+  },
+  {
+    "start": 629.2800000000001,
+    "text": " envelope for the filter. So you can see here you can see when I move these"
+  },
+  {
+    "start": 632.76,
+    "text": " around they also move over here. Basically what envelope always means so"
+  },
+  {
+    "start": 637.8000000000001,
+    "text": " these attack, decay, sustain and release. How is the filter working? How fast is"
+  },
+  {
+    "start": 643.24,
+    "text": " the filter starting? And how fast the filter going away? So all these controls"
+  },
+  {
+    "start": 648.72,
+    "text": " are meaning that. We can work on the slope. We can select how if we work on a"
+  },
+  {
+    "start": 653.36,
+    "text": " linear way. So you can see that it's a very like a more stiff control."
+  },
+  {
+    "start": 658.08,
+    "text": " Exponential like this. We can also put a legato mode and free mode. When the"
+  },
+  {
+    "start": 664.0,
+    "text": " legato mode is on each note will trigger their own envelope. Then we have free. So"
+  },
+  {
+    "start": 670.04,
+    "text": " this one is especially this is bypassing so making that it's taking away the decay"
+  },
+  {
+    "start": 675.36,
+    "text": " phase. This is especially good if you're doing percussive sounds. Okay we also"
+  },
+  {
+    "start": 679.36,
+    "text": " have the loop and this is the envelope loop. If you're not really sure what"
+  },
+  {
+    "start": 683.2,
+    "text": " all these are, well to be honest if you're not sure about anything ever, then"
+  },
+  {
+    "start": 688.2,
+    "text": " always go to the info view and it really shows really well here. So filter envelope"
+  },
+  {
+    "start": 693.24,
+    "text": " loop mode, ADR, attack and decay phases repeat until key releases. So it's just"
+  },
+  {
+    "start": 698.48,
+    "text": " different ways that the envelope is reacting again when we are playing. We"
+  },
+  {
+    "start": 703.48,
+    "text": " also have envelope velocity or most of the controllers have velocity controls."
+  },
+  {
+    "start": 707.88,
+    "text": " So this one has how much effect the velocity has on the envelope and how the"
+  },
+  {
+    "start": 712.8000000000001,
+    "text": " envelope is working. So this will affect a lot especially if you're light"
+  },
+  {
+    "start": 716.8000000000001,
+    "text": " performing and it's a very good if you want more expression in your sound. Then"
+  },
+  {
+    "start": 722.12,
+    "text": " we have drive and we have the different drive style. So will it add"
+  },
+  {
+    "start": 727.28,
+    "text": " symmetric distortion or asymmetric distortion and all of them have"
+  },
+  {
+    "start": 732.4,
+    "text": " different qualities. So then we have remember these modulation modes similar"
+  },
+  {
+    "start": 737.48,
+    "text": " than here. So we have frequency modulation of course. How is the filter"
+  },
+  {
+    "start": 741.76,
+    "text": " frequencies so this here modulated by LFO 1. So example we can add some here we"
+  },
+  {
+    "start": 748.1999999999999,
+    "text": " have our LFO 1 on. Very big change. That's a really cool sound actually. Or how is"
+  },
+  {
+    "start": 755.5999999999999,
+    "text": " the key that I press modulating the frequency. So I'm pressing different"
+  },
+  {
+    "start": 760.5999999999999,
+    "text": " keys. Okay and I put the key up. Okay then we have also envelope and how is the"
+  },
+  {
+    "start": 773.3199999999999,
+    "text": " envelope modulating the filter frequency. How much? Not at all."
+  },
+  {
+    "start": 785.8,
+    "text": " Okay we have also resonance mode. So we have the LFO 1 key and envelope and you"
+  },
+  {
+    "start": 794.9599999999999,
+    "text": " know how in the EQ 8 we have the Q which is here. So that is adjusting how much"
+  },
+  {
+    "start": 803.4799999999999,
+    "text": " resonance are we adding. So this is a lot of resonance and this is quite narrow"
+  },
+  {
+    "start": 807.4799999999999,
+    "text": " resonance. So the Q is how big is the band. How wide is the band. So then this"
+  },
+  {
+    "start": 814.52,
+    "text": " means how much is the LFO 1 modulating the Q again in 4. Then we have the key"
+  },
+  {
+    "start": 826.28,
+    "text": " which is the same thing as before. How is the keys modulating the resonance the"
+  },
+  {
+    "start": 831.8,
+    "text": " Q of the filter. And then we have envelope again. How is the envelope"
+  },
+  {
+    "start": 835.68,
+    "text": " modulating the resonance of the Q of the filter. Cool so we have now gone through"
+  },
+  {
+    "start": 842.12,
+    "text": " the filters and as I said everything else works in the filter 2 exactly the"
+  },
+  {
+    "start": 845.98,
+    "text": " same way. Okay so we can now add that filter to ours. So well that goes to"
+  },
+  {
+    "start": 851.64,
+    "text": " filter 1. Maybe this if the noise would be 50 50 half on the filter 2 half on"
+  },
+  {
+    "start": 858.5200000000001,
+    "text": " the filter 1. I could take the follow away and then go to filter here. We're"
+  },
+  {
+    "start": 869.56,
+    "text": " keeping it quite retro. I'm gonna take the release quite short and then also"
+  },
+  {
+    "start": 876.56,
+    "text": " the oscillator 2 should go to the filter 2. So I'm gonna go all the way to the"
+  },
+  {
+    "start": 882.0,
+    "text": " left and then let's just have a look what happens here. Maybe linear. Add the"
+  },
+  {
+    "start": 893.7199999999999,
+    "text": " asymmetric drive. Activate LFO 2 so that we can get some interesting sounds to our"
+  },
+  {
+    "start": 914.6,
+    "text": " bass. And now we're gonna go to the most important part. I think one of the most"
+  },
+  {
+    "start": 927.2,
+    "text": " important part when we are sound designing especially with instruments"
+  },
+  {
+    "start": 929.96,
+    "text": " is amp. So we have amp 1 amp 2 works exactly similarly that we have. So the"
+  },
+  {
+    "start": 934.64,
+    "text": " amp 1 is oscillator 1's amp and then we have amp 2 that is oscillator 2's amp."
+  },
+  {
+    "start": 939.32,
+    "text": " But again we can route them slightly differently later on. So can you see that"
+  },
+  {
+    "start": 944.36,
+    "text": " actually the options here are very similar. So we also have an envelope. It"
+  },
+  {
+    "start": 948.0,
+    "text": " has exactly the same commands and it does as in filter. So we have linear"
+  },
+  {
+    "start": 953.6800000000001,
+    "text": " exponential, we have legato free, all these same options. But the only"
+  },
+  {
+    "start": 958.24,
+    "text": " difference is that we don't have drive obviously and where our modulation modes"
+  },
+  {
+    "start": 963.12,
+    "text": " are slightly different. But the modulations are for panning. But the"
+  },
+  {
+    "start": 966.48,
+    "text": " logic of behind these are exactly the same. How much is the LFO 1 modulating"
+  },
+  {
+    "start": 974.08,
+    "text": " the pan? Going left and right. So let's put that. How is the key affecting the"
+  },
+  {
+    "start": 984.88,
+    "text": " pan? What more I go to the right in my keys the more right it will go in my"
+  },
+  {
+    "start": 990.24,
+    "text": " headphones. Can you see that? Then we go octaves and it goes to the left. How is"
+  },
+  {
+    "start": 1003.96,
+    "text": " the envelope of the amp affecting the pan? So this is the amplifier's output"
+  },
+  {
+    "start": 1008.64,
+    "text": " level. How much is the LFO modulating amplifier's level? So example we could"
+  },
+  {
+    "start": 1017.2800000000001,
+    "text": " create very interesting sidechaining type of effects with this. Example put the"
+  },
+  {
+    "start": 1021.64,
+    "text": " LFO 1 4. Okay we also have how is the key affecting the output level?"
+  },
+  {
+    "start": 1034.88,
+    "text": " It's getting louder or we can go quieter. So even if you want to create only using"
+  },
+  {
+    "start": 1044.72,
+    "text": " the oscillators and the amps that's absolutely fine. But it will affect a lot"
+  },
+  {
+    "start": 1049.72,
+    "text": " on how the sound is working. So when you press the button, when you press the key,"
+  },
+  {
+    "start": 1054.96,
+    "text": " how is the sound starting? How is it gonna like be formed? And how is it gonna"
+  },
+  {
+    "start": 1060.04,
+    "text": " be ending? So example if I want that lot of decay on this oscillator, I'm gonna put"
+  },
+  {
+    "start": 1067.08,
+    "text": " the release very long. What if I want very more like shorter and punchier"
+  },
+  {
+    "start": 1072.08,
+    "text": " sound? I might put the decay up and also release a little bit shorter. And then"
+  },
+  {
+    "start": 1082.04,
+    "text": " example like I could have oscillator 2 activate the amp there. So now we have"
+  },
+  {
+    "start": 1096.52,
+    "text": " worked on both of those and I do like the level so I might put go and activate"
+  },
+  {
+    "start": 1102.2,
+    "text": " the put little bit of LFO 2 into the output level of the oscillator 2 amplifier."
+  },
+  {
+    "start": 1110.52,
+    "text": " It's really cool, not that much."
+  },
+  {
+    "start": 1122.2,
+    "text": " So then we have the LFO and we already talked about that a little bit. So LFO is"
+  },
+  {
+    "start": 1127.0,
+    "text": " a low frequency oscillator. Now we can example change the rate of the LFO using"
+  },
+  {
+    "start": 1131.64,
+    "text": " Hertz. So rate of the frequency. So you can see the rate here in very nice"
+  },
+  {
+    "start": 1136.72,
+    "text": " visualization. Or we can go here and use a time signature. So example 1, 4. We also"
+  },
+  {
+    "start": 1143.2800000000002,
+    "text": " have the wave. We can also go sine wave which makes it sound slightly different."
+  },
+  {
+    "start": 1147.5200000000002,
+    "text": " So if I go and add it to the amplifier. So here of the oscillator 1. The width of"
+  },
+  {
+    "start": 1160.28,
+    "text": " it and it will change how the oscillator sounds. Rectangle now is very wide. And"
+  },
+  {
+    "start": 1169.8799999999999,
+    "text": " then we have a rhetoric which is retrig in English but I always like"
+  },
+  {
+    "start": 1175.8799999999999,
+    "text": " saying it retrig because it sounds Swedish. Each time a sound is played it's always"
+  },
+  {
+    "start": 1181.24,
+    "text": " gonna start from the same point of the face. So this is the face. So does it"
+  },
+  {
+    "start": 1185.88,
+    "text": " start from here or we can also put the face on offset. So you can see that this"
+  },
+  {
+    "start": 1192.64,
+    "text": " offset is changing the face of the signal. Then we have the delay. How"
+  },
+  {
+    "start": 1197.44,
+    "text": " delayed is the LFO is on the sound. So is it if we have like three seconds."
+  },
+  {
+    "start": 1204.88,
+    "text": " And it starts soon. There we go. So it was a delayed. We have also attack. How slow is it"
+  },
+  {
+    "start": 1215.36,
+    "text": " to start. So it doesn't start smoothly from the beginning. So it's slightly different than the"
+  },
+  {
+    "start": 1223.1999999999998,
+    "text": " delay because it's already started but it's not as effective in the beginning. It kind of goes."
+  },
+  {
+    "start": 1228.7199999999998,
+    "text": " Okay so in the LFO 2 is obviously same stuff. Okay and then we have the global. First we have"
+  },
+  {
+    "start": 1243.72,
+    "text": " volume. Then we have a vibrato. Okay rate of the vibrato. I actually love using vibrato on a"
+  },
+  {
+    "start": 1252.6000000000001,
+    "text": " instrument. And the unison. That is basically how much do we want to add like unison voices into it."
+  },
+  {
+    "start": 1260.68,
+    "text": " And you can see in the display there's unison voices. We can add two or four. Retro or two."
+  },
+  {
+    "start": 1269.68,
+    "text": " So slightly more subtle. And then detune of the unison. This can add a lot of color into the mix"
+  },
+  {
+    "start": 1277.88,
+    "text": " if you use the detune. You can also add the delay of the detune. So does it start the unison straight"
+  },
+  {
+    "start": 1283.7600000000002,
+    "text": " away or a little bit with delay. A bit like the LFO. So it kind of grows into that unison. Then"
+  },
+  {
+    "start": 1293.52,
+    "text": " we have glide. We also have a glide mode. Constant which will be a constant without any thought"
+  },
+  {
+    "start": 1302.8,
+    "text": " about intervals and proportional which is about intervals and how it's going to go between the"
+  },
+  {
+    "start": 1307.84,
+    "text": " interval lengths. Legato mode it will also only happen if the second note of the keys is played"
+  },
+  {
+    "start": 1318.24,
+    "text": " before that second one is ended. Otherwise we have the quick routing and keyboard. So these are"
+  },
+  {
+    "start": 1323.44,
+    "text": " the last things. So we have quick routing and here you can see OOFFAA. What do they mean?"
+  },
+  {
+    "start": 1331.76,
+    "text": " They mean oscillator, oscillator, filter, filter and amp, amp. So you can see here oscillator, filter,"
+  },
+  {
+    "start": 1338.64,
+    "text": " amp, oscillator, filter, amp. So this is the routing of the instrument. Does it go that oscillator,"
+  },
+  {
+    "start": 1346.16,
+    "text": " frequency and amp? This first row works independently without these three here. Or do we"
+  },
+  {
+    "start": 1353.68,
+    "text": " want example that oscillator 2 and oscillator 1 go both into filter 1 and amp 1. So these are quick"
+  },
+  {
+    "start": 1363.68,
+    "text": " routing. So then you don't need to go through here all these little F1s and F2s and so on. You can"
+  },
+  {
+    "start": 1370.8,
+    "text": " just actually route everything automatically by just using this. They can just give you"
+  },
+  {
+    "start": 1379.52,
+    "text": " very different answers even if you designed your sound on a one routing."
+  },
+  {
+    "start": 1388.48,
+    "text": " Like that's example pretty cool."
+  },
+  {
+    "start": 1393.9199999999998,
+    "text": " I like that. Otherwise we have keyboard options. So these are to the whole global keyboard."
+  },
+  {
+    "start": 1399.68,
+    "text": " What octave are we? So example we can go octave higher, lower. Very easy. We can just tune the"
+  },
+  {
+    "start": 1407.2,
+    "text": " actual keyboard. We can detune it. We also have the pitch bend range. So this stretch is quite"
+  },
+  {
+    "start": 1421.1200000000001,
+    "text": " interesting. So this will mean that if we go positive values it will end up the higher"
+  },
+  {
+    "start": 1426.64,
+    "text": " notes are going to be tuned higher and lower notes are going to be tuned lower."
+  },
+  {
+    "start": 1435.76,
+    "text": " And then doing the opposite of course. Also we have this error here, an error there."
+  },
+  {
+    "start": 1443.76,
+    "text": " And basically it will add some random tuning into our playing. We also have a priority. So are we"
+  },
+  {
+    "start": 1450.96,
+    "text": " high, low, last? And this is to do with the voices. So we can add polyphonic voices here. So how many"
+  },
+  {
+    "start": 1457.2,
+    "text": " polyphonic voices can be played at once? So example 24. And priority is what stops playing first,"
+  },
+  {
+    "start": 1464.48,
+    "text": " what stops playing last. Higher notes get priority. So lower notes get cut first. And then other way"
+  },
+  {
+    "start": 1471.92,
+    "text": " around. Lower notes are priority and high ones get cut first. And then we can also put last."
+  },
+  {
+    "start": 1477.84,
+    "text": " Which means that the most reasoned notes get priority. Hey thank you so much for watching."
+  },
+  {
+    "start": 1484.3999999999999,
+    "text": " Please make sure to check out my whole series on all about Ableton Live devices. I have plenty"
+  },
+  {
+    "start": 1490.8799999999999,
+    "text": " and plenty and plenty of these similar type of videos on almost all Ableton Live instruments and"
+  },
+  {
+    "start": 1496.6399999999999,
+    "text": " effects. And if I'm missing one from this playlist then please let me know and I want to make it."
+  },
+  {
+    "start": 1502.08,
+    "text": " Please remember to subscribe and also check out my Patreon. Here are my Patreon family. So in Patreon"
+  },
+  {
+    "start": 1509.1999999999998,
+    "text": " we have monthly master classes, weekly live streams. I give feedback on certain tiers. There's"
+  },
+  {
+    "start": 1515.12,
+    "text": " a private discord for just for my Patreon family and it's such a lovely bunch of people. So if you"
+  },
+  {
+    "start": 1520.8799999999999,
+    "text": " really want like support and family and people to talk about all the geeky stuff in a very safe"
+  },
+  {
+    "start": 1526.8,
+    "text": " environment then please check this out because they are all lovely and we have a lot of fun."
+  },
+  {
+    "start": 1531.36,
+    "text": " Hey thank you so much for watching. Please come again and love ya. Happy bass making."
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "start": 0.0,
+    "text": " Let's investigate how we can edit MIDI notes in Live's Note View"
+  },
+  {
+    "start": 4.64,
+    "text": " and start by quickly orientating ourselves using this simple bassline."
+  },
+  {
+    "start": 24.16,
+    "text": " It's a bit messy, so we'll use Live's editing tools to clean it up."
+  },
+  {
+    "start": 29.12,
+    "text": " We can adjust the grid size via the menu in the top right"
+  },
+  {
+    "start": 33.12,
+    "text": " and quantise the notes via the context menu"
+  },
+  {
+    "start": 36.12,
+    "text": " or by pressing CMD-U on a Mac or CTRL-U on Windows."
+  },
+  {
+    "start": 47.120000000000005,
+    "text": " By pressing K on my computer keyboard, I can highlight the notes of the clip's scale"
+  },
+  {
+    "start": 53.12,
+    "text": " and I can hide unnecessary notes by either toggling fold notes with F or fold scale with G."
+  },
+  {
+    "start": 62.12,
+    "text": " I'm going to nudge my bassline into key by using the Fit to Scale button from the Pitch and Time Utilities tab."
+  },
+  {
+    "start": 69.12,
+    "text": " With no notes selected, this will nudge all of my notes into the clip's key."
+  },
+  {
+    "start": 74.12,
+    "text": " However, I could choose to fit a selection of notes to the scale."
+  },
+  {
+    "start": 83.12,
+    "text": " In this clip, I have a drum loop that I would like to work on."
+  },
+  {
+    "start": 103.12,
+    "text": " First, I'm going to draw one long note onto the Hi-Hat pad"
+  },
+  {
+    "start": 109.12,
+    "text": " and then hit CMD-E on a Mac or CTRL-E on Windows and slice the long note to the current grid setting."
+  },
+  {
+    "start": 122.12,
+    "text": " I can change the grid size and further slice some notes into smaller divisions to create some rolls."
+  },
+  {
+    "start": 138.12,
+    "text": " As well as slicing to the grid, we can divide a note into equal parts."
+  },
+  {
+    "start": 143.12,
+    "text": " I'm going to draw a long note on the snare pad and then hold down OPTION-E on a Mac and drag up or down."
+  },
+  {
+    "start": 150.12,
+    "text": " On Windows, I'll hold down E and then CTRL."
+  },
+  {
+    "start": 153.12,
+    "text": " As you can see, when I drag, I slice the note."
+  },
+  {
+    "start": 156.12,
+    "text": " I can also drag the note to the grid and drag it to the grid."
+  },
+  {
+    "start": 161.12,
+    "text": " I can also manually slice notes or selections of notes by holding down E and clicking on the point that I wish to cut."
+  },
+  {
+    "start": 173.12,
+    "text": " I can also drag the note to the grid and drag it to the grid."
+  },
+  {
+    "start": 178.12,
+    "text": " I can also drag the note to the grid and drag it to the grid."
+  },
+  {
+    "start": 184.12,
+    "text": " For this, I can use the mouse to cut."
+  },
+  {
+    "start": 192.12,
+    "text": " I can also join notes together by selecting them and pressing CMD-J on a Mac or CTRL-J on Windows."
+  },
+  {
+    "start": 201.12,
+    "text": " When selecting notes either by clicking and dragging or by holding down SHIFT and clicking on individual notes,"
+  },
+  {
+    "start": 207.12,
+    "text": " you'll notice that handles appear at the beginning and end of the selection."
+  },
+  {
+    "start": 211.12,
+    "text": " I can drag these to the left and right to scale the selection, changing its length whilst maintaining the relative distances between the notes."
+  },
+  {
+    "start": 220.12,
+    "text": " This function snaps to the current grid, and I can hold down CMD on a Mac or ALT on Windows to disable snapping."
+  },
+  {
+    "start": 228.12,
+    "text": " When working with patterns, it can be useful to toggle between selections."
+  },
+  {
+    "start": 234.12,
+    "text": " After selecting a group of notes, I can press CMD-Shift-A on a Mac or CTRL-Shift-A on Windows to select everything that isn't currently selected."
+  },
+  {
+    "start": 246.12,
+    "text": " I can repeat the keyboard shortcut to toggle between the two."
+  },
+  {
+    "start": 251.12,
+    "text": " Let's take my original baseline and copy it onto this synth track by holding down OPT on a Mac or CTRL on Windows and dragging and dropping the clip."
+  },
+  {
+    "start": 263.12,
+    "text": " I'm going to select notes and choose Fit Notes to Selected Time Range from the context menu."
+  },
+  {
+    "start": 270.12,
+    "text": " I could also use the shortcut CMD-OPT-J on a Mac or CTRL-ALT-J on Windows."
+  },
+  {
+    "start": 277.12,
+    "text": " As we can see, this stretches the beginning and end of every note to match the beginning and end of the whole selection."
+  },
+  {
+    "start": 285.12,
+    "text": " In this example, I've quickly created chords from the selected material."
+  },
+  {
+    "start": 291.12,
+    "text": " Double checking my grid is set to 16th notes."
+  },
+  {
+    "start": 296.12,
+    "text": " I'll hit CMD-E on a Mac or CTRL-E on Windows to slice the notes to the grid."
+  },
+  {
+    "start": 308.12,
+    "text": " Now I'll select the first section and add some velocity randomisation using the lanes at the bottom of the note view."
+  },
+  {
+    "start": 317.12,
+    "text": " Here I can set the range of the randomisation using the slider."
+  },
+  {
+    "start": 321.12,
+    "text": " And if I wanted to, I could add deviation to the randomisation using the slider on the far right."
+  },
+  {
+    "start": 328.12,
+    "text": " I'll do the same for the third section."
+  },
+  {
+    "start": 331.12,
+    "text": " Now I'll select the second section and program an upwards ramp to the velocity using the sliders in the velocity lane."
+  },
+  {
+    "start": 341.12,
+    "text": " I'll do the opposite in the fourth section, ramping the velocity downwards."
+  },
+  {
+    "start": 361.12,
+    "text": " I can select a note or group of notes and adjust their velocity holding CMD on a Mac or ALT on Windows and using my keyboard's arrow keys."
+  },
+  {
+    "start": 378.12,
+    "text": " I can also hold down this key and drag up and down with my mouse or trackpad for quicker adjustments."
+  },
+  {
+    "start": 386.12,
+    "text": " Finally, I can type the desired velocity number and hit enter."
+  },
+  {
+    "start": 391.12,
+    "text": " Many functions in Ableton Live are both toggled and momentary using their shortcut key."
+  },
+  {
+    "start": 397.12,
+    "text": " Take for example B, which is used to toggle the pencil."
+  },
+  {
+    "start": 401.12,
+    "text": " If I press it once quickly, we can see that it toggles state."
+  },
+  {
+    "start": 405.12,
+    "text": " However, if I press and hold B, it becomes momentary and the pencil will be active until I let go of B."
+  },
+  {
+    "start": 413.12,
+    "text": " The same principle applies to many other shortcuts, such as S for solo or Z for zoom."
+  },
+  {
+    "start": 421.12,
+    "text": " Finally, when the computer MIDI keyboard is activated, either via its button or the shortcut key M,"
+  },
+  {
+    "start": 428.12,
+    "text": " you can hold down shift to temporarily disable the MIDI keyboard and access shortcut keys."
+  }
+]

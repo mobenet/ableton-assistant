@@ -1,0 +1,1698 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey everybody, today in this video we're going to be taking a look at manipulating audio inside of Ableton Live."
+  },
+  {
+    "start": 5.84,
+    "text": " So we're going to be doing this on the arrangement view and we're going to be basically looking at shortcut commands,"
+  },
+  {
+    "start": 15.6,
+    "text": " different ways of basically cutting up audio, warping it, chopping it and all of that sort of stuff."
+  },
+  {
+    "start": 24.32,
+    "text": " And we'll find some samples that we like the sound of and well, I mean even if we don't like the sound of them,"
+  },
+  {
+    "start": 32.8,
+    "text": " we are just going to grab some that we'll use. So let's grab some sequences."
+  },
+  {
+    "start": 38.32,
+    "text": " So if we go to synths, we can come to lead lines here."
+  },
+  {
+    "start": 48.88,
+    "text": " Cool, that's something that'll work. So we'll just click that, drag it and drop."
+  },
+  {
+    "start": 52.72,
+    "text": " So now we've got audio on the timeline and something that I'm going to make sure that I've got turned off right now is this little icon up here."
+  },
+  {
+    "start": 62.0,
+    "text": " So I want my keyboard to respond as a keyboard, not as a musical keyboard."
+  },
+  {
+    "start": 68.8,
+    "text": " So if I turn that off, my key presses will be registered as regular computer keyboard presses."
+  },
+  {
+    "start": 76.0,
+    "text": " I'm going to select these other channels. I'm just going to delete them."
+  },
+  {
+    "start": 78.96000000000001,
+    "text": " We're not really that interested in dealing with them right now."
+  },
+  {
+    "start": 82.32,
+    "text": " So when we're looking at an audio sample, there's a couple of different ways you can select it so that you can start manipulating and moving around."
+  },
+  {
+    "start": 91.75999999999999,
+    "text": " So when you have your cursor on the top half of an audio clip, so this is the top half between here and here and then the bottom half between here and here."
+  },
+  {
+    "start": 103.91999999999999,
+    "text": " When we're on the top half, we can click and we can select that clip and we can drag it and we can move it around."
+  },
+  {
+    "start": 110.8,
+    "text": " If we were to click on the bottom half, it doesn't select to move the clip, but it selects so that we could make cuts in the clip or we could copy that particular part and paste it."
+  },
+  {
+    "start": 125.44,
+    "text": " Or, you know, a bunch or we could go control L to loop just that particular part."
+  },
+  {
+    "start": 131.12,
+    "text": " So let's have a look at all of the ways that we could copy a particular part of the audio."
+  },
+  {
+    "start": 140.8,
+    "text": " So we have copy and paste commands like you would have in a word processor or image editing software or almost any other type of program on a computer."
+  },
+  {
+    "start": 153.28,
+    "text": " So if I selected an area, remember on the bottom half, I can go control C and then I could come over here, click somewhere else on the timeline and go control V to paste it."
+  },
+  {
+    "start": 166.88,
+    "text": " Or I could select it. I could right click. I could go copy."
+  },
+  {
+    "start": 172.48,
+    "text": " And then I could right click and paste where I wanted to. But the quicker way of doing it is with the keyboard."
+  },
+  {
+    "start": 178.24,
+    "text": " So then I've got a command so I could go control X, which deletes it from there."
+  },
+  {
+    "start": 183.32000000000002,
+    "text": " But then if I go control V, it puts it over there. So the difference between copy and cut is in the name."
+  },
+  {
+    "start": 191.44,
+    "text": " Copy will make a copy. Cut cuts it out from there and then it allows you to paste it somewhere else."
+  },
+  {
+    "start": 197.60000000000002,
+    "text": " Another command that you can use to basically multiply things is a duplicate command."
+  },
+  {
+    "start": 202.36,
+    "text": " So I could select that area and I could go control D. It copies it over and it duplicates the exact same audio."
+  },
+  {
+    "start": 208.8,
+    "text": " All right. So if I play that now."
+  },
+  {
+    "start": 215.84,
+    "text": " So it copied both of those over, so they are identical."
+  },
+  {
+    "start": 220.48000000000002,
+    "text": " A quick command for zooming in on audio is I can click on the clip on the top half and then I can press Z and it expands it so that it's full screen."
+  },
+  {
+    "start": 233.36,
+    "text": " So if we do that again with this one, click on it, press Z, it expands it so it's full screen."
+  },
+  {
+    "start": 240.36,
+    "text": " I can come over to this big long one, press Z, it expands it so that it's full screen."
+  },
+  {
+    "start": 245.36,
+    "text": " Another way that I can quickly zoom in and out is by pressing the minus or plus command on my keyboard."
+  },
+  {
+    "start": 255.36,
+    "text": " So if I place my cursor on the 25th bar and I press plus, it's going to keep that sort of not necessarily centered,"
+  },
+  {
+    "start": 265.36,
+    "text": " but it's going to keep that as a section of the arrangement view that it's going to basically be moving in on."
+  },
+  {
+    "start": 273.36,
+    "text": " So if I press it over here and zoom in, zoom out."
+  },
+  {
+    "start": 278.36,
+    "text": " And if I had basically something that was dead in the middle of my screen,"
+  },
+  {
+    "start": 284.36,
+    "text": " so we'll try and line that up as best we can, that's in the middle."
+  },
+  {
+    "start": 287.36,
+    "text": " It basically just moves straight in on the spot, straight out on the spot."
+  },
+  {
+    "start": 291.36,
+    "text": " What we can also do in order to get a better view of this audio is we can actually drag the channels so that we can see more of it."
+  },
+  {
+    "start": 300.36,
+    "text": " And then if we zoom in, then we've got a really wide display of what that clip looks like."
+  },
+  {
+    "start": 305.36,
+    "text": " So yeah, you can grab the bottom of that and you can pull that out."
+  },
+  {
+    "start": 308.36,
+    "text": " And that's quite handy."
+  },
+  {
+    "start": 312.36,
+    "text": " So what we'll do is we'll have this rather big."
+  },
+  {
+    "start": 315.36,
+    "text": " And then what we can do is I can show you another command."
+  },
+  {
+    "start": 318.36,
+    "text": " So if I select in the bottom half of the screen and I click right there and I go control E on my keyboard,"
+  },
+  {
+    "start": 325.36,
+    "text": " what that's done is it's sliced that on the point where I had my cursor."
+  },
+  {
+    "start": 332.36,
+    "text": " So I could make another slice. I could say, oops, it is."
+  },
+  {
+    "start": 336.36,
+    "text": " You go back. I could select that area and then I could go control E."
+  },
+  {
+    "start": 343.36,
+    "text": " And now I've sliced out this particular part of the audio."
+  },
+  {
+    "start": 348.36,
+    "text": " I could do that again."
+  },
+  {
+    "start": 351.36,
+    "text": " And I'm making slices in this audio so I can quickly chop it up."
+  },
+  {
+    "start": 356.36,
+    "text": " And then if I zoom out a little bit, I can place different parts in different areas."
+  },
+  {
+    "start": 360.36,
+    "text": " So we could quickly change the way this is arranged."
+  },
+  {
+    "start": 363.36,
+    "text": " So for example, now we've we've changed the sequence a bit."
+  },
+  {
+    "start": 366.36,
+    "text": " So now it's."
+  },
+  {
+    "start": 372.36,
+    "text": " And then if we go control copy, control paste, and then if I select this whole area,"
+  },
+  {
+    "start": 379.36,
+    "text": " I can go control L to set a loop brace."
+  },
+  {
+    "start": 390.36,
+    "text": " And oops, go control Z to go back."
+  },
+  {
+    "start": 393.36,
+    "text": " So control copy, control paste play."
+  },
+  {
+    "start": 404.36,
+    "text": " So that's a very quick way that I can chop and change audio around."
+  },
+  {
+    "start": 408.36,
+    "text": " But you'll notice when I'm moving this audio around, it's not letting me place it anywhere on the timeline."
+  },
+  {
+    "start": 414.36,
+    "text": " It's snapping to particular locations."
+  },
+  {
+    "start": 417.36,
+    "text": " And that is because the grid is enabled."
+  },
+  {
+    "start": 420.36,
+    "text": " So here's a command that you can use to move freely anywhere."
+  },
+  {
+    "start": 425.36,
+    "text": " So you click and you hold and you move."
+  },
+  {
+    "start": 427.36,
+    "text": " So you've got something selected."
+  },
+  {
+    "start": 429.36,
+    "text": " And then if you hold control, sorry, alt on your keyboard, it lets you place that absolutely anywhere."
+  },
+  {
+    "start": 437.36,
+    "text": " So that's deactivating the grid."
+  },
+  {
+    "start": 440.36,
+    "text": " And then if I take alt off, the grid comes back and it'll snap."
+  },
+  {
+    "start": 444.36,
+    "text": " So hold alt, place it where you want it, and then let go and then let go of alt."
+  },
+  {
+    "start": 450.36,
+    "text": " So you let go of the mouse first."
+  },
+  {
+    "start": 452.36,
+    "text": " So let go of the mouse and then let go of the key."
+  },
+  {
+    "start": 456.36,
+    "text": " You've dropped it."
+  },
+  {
+    "start": 458.36,
+    "text": " Another feature that you can use is you can click, you can hold control and that adds a copy."
+  },
+  {
+    "start": 465.36,
+    "text": " So then you can make multiple copies and you have to hold control down."
+  },
+  {
+    "start": 472.36,
+    "text": " Let go of your mouse click and then let go of the button."
+  },
+  {
+    "start": 477.36,
+    "text": " Okay."
+  },
+  {
+    "start": 479.36,
+    "text": " So that'll be something that you may need to just practice with to get the hang of if you're new to keyboard commands and that sort of thing."
+  },
+  {
+    "start": 487.36,
+    "text": " When we're looking at an audio sample, we've got a couple of other parameters that we can have control over."
+  },
+  {
+    "start": 496.36,
+    "text": " So if I click on this guy and zoom in again, you'll notice that there's these little dots at the beginning at the end of the clip."
+  },
+  {
+    "start": 505.36,
+    "text": " So what these are, they're clip fades."
+  },
+  {
+    "start": 507.36,
+    "text": " So that's a volume fade."
+  },
+  {
+    "start": 509.36,
+    "text": " So I can fade volume in and I can fade volume out."
+  },
+  {
+    "start": 513.36,
+    "text": " And then if I grab the bottom here, it changes the start position of that clip."
+  },
+  {
+    "start": 518.36,
+    "text": " And the same with the end."
+  },
+  {
+    "start": 523.36,
+    "text": " So I can change the length of the clip."
+  },
+  {
+    "start": 536.36,
+    "text": " We've got a nice little loop going on here."
+  },
+  {
+    "start": 539.36,
+    "text": " We could use this in a track."
+  },
+  {
+    "start": 541.36,
+    "text": " So that's exactly what we're looking for."
+  },
+  {
+    "start": 544.36,
+    "text": " We could use this in a track."
+  },
+  {
+    "start": 546.36,
+    "text": " So that's exactly the sort of thing that we wanted."
+  },
+  {
+    "start": 551.36,
+    "text": " So what we can do in order to make sure that this is correctly in time is we can just have a look how this starts."
+  },
+  {
+    "start": 563.36,
+    "text": " Okay."
+  },
+  {
+    "start": 564.36,
+    "text": " So it starts here."
+  },
+  {
+    "start": 565.36,
+    "text": " So if I'm just going to I'm going to make a very fine adjustment to set that right as it begins and we'll just do a little fade."
+  },
+  {
+    "start": 574.36,
+    "text": " And if I move all of these across, what you want to get in the habit of doing is arranging things properly on your timeline."
+  },
+  {
+    "start": 585.36,
+    "text": " So you need to be aware of the BPM of the particular clip."
+  },
+  {
+    "start": 591.36,
+    "text": " And in this case, it's 40 BPM and it's changed my Ableton timeline to 40 BPM."
+  },
+  {
+    "start": 597.36,
+    "text": " And I'm happy to work at that speed."
+  },
+  {
+    "start": 599.36,
+    "text": " But you'll notice that if I set it so that this starts playing on 36, it's actually quite perfectly in time with the grid."
+  },
+  {
+    "start": 612.36,
+    "text": " Right."
+  },
+  {
+    "start": 613.36,
+    "text": " So that second transient happens right there."
+  },
+  {
+    "start": 617.36,
+    "text": " And if I pull that next, I could grab this one and now I've dropped that on there and it's happening almost perfectly in time as well."
+  },
+  {
+    "start": 626.36,
+    "text": " What I could do is I can hold alt, put a little fade, drag and drop it."
+  },
+  {
+    "start": 632.36,
+    "text": " So now these are lined up very nicely with the grid."
+  },
+  {
+    "start": 640.36,
+    "text": " So we'll make a sequence that's actually nicely in time."
+  },
+  {
+    "start": 644.36,
+    "text": " So this is the next one and we'll zoom in."
+  },
+  {
+    "start": 648.36,
+    "text": " We'll hold alt."
+  },
+  {
+    "start": 650.36,
+    "text": " We'll drag that right there."
+  },
+  {
+    "start": 652.36,
+    "text": " We'll put a little fade on it just so it doesn't click at the beginning if I haven't clipped it quite properly."
+  },
+  {
+    "start": 656.36,
+    "text": " And then we'll pull this short and we'll roll the end off."
+  },
+  {
+    "start": 660.36,
+    "text": " We'll roll the end off that one a bit more."
+  },
+  {
+    "start": 663.36,
+    "text": " Let's have a listen."
+  },
+  {
+    "start": 668.36,
+    "text": " Maybe we'll put a gap."
+  },
+  {
+    "start": 670.36,
+    "text": " And we'll place this one here."
+  },
+  {
+    "start": 678.36,
+    "text": " Sweet."
+  },
+  {
+    "start": 679.36,
+    "text": " That's a nice little phrase."
+  },
+  {
+    "start": 681.36,
+    "text": " And we could tighten this up a little bit."
+  },
+  {
+    "start": 685.36,
+    "text": " Place it there."
+  },
+  {
+    "start": 687.36,
+    "text": " And we could roll the end off like so."
+  },
+  {
+    "start": 691.36,
+    "text": " And now we've got a repeating pattern that we could have riffs on."
+  },
+  {
+    "start": 698.36,
+    "text": " That we could have riffing in our track that we've just edited."
+  },
+  {
+    "start": 708.36,
+    "text": " And if we wanted to, what we could do is we could actually maybe even try slicing it so that it was a shorter repeating pattern."
+  },
+  {
+    "start": 718.36,
+    "text": " Let's have a listen."
+  },
+  {
+    "start": 720.36,
+    "text": " Yeah, so let's try this."
+  },
+  {
+    "start": 729.36,
+    "text": " Doesn't sound quite right because it's chopping the end off."
+  },
+  {
+    "start": 731.36,
+    "text": " But I liked it how we had it there."
+  },
+  {
+    "start": 736.36,
+    "text": " So that's a little bit of how you can quickly make slices and changes."
+  },
+  {
+    "start": 741.36,
+    "text": " But now what if we wanted to maybe start stretching audio?"
+  },
+  {
+    "start": 745.36,
+    "text": " So I'm going to use this guy as an example."
+  },
+  {
+    "start": 747.36,
+    "text": " And I want to stretch it."
+  },
+  {
+    "start": 749.36,
+    "text": " But if I come over here and I zoom out, you'll see that actually all of the other audio is still existing inside this one clip."
+  },
+  {
+    "start": 756.36,
+    "text": " And if I move this out, it's all still there."
+  },
+  {
+    "start": 759.36,
+    "text": " And in this example, I want to just be dealing with that piece of audio."
+  },
+  {
+    "start": 764.36,
+    "text": " So what I need to do is I need to make a command which is called consolidate."
+  },
+  {
+    "start": 769.36,
+    "text": " And what that does is it basically takes this piece of audio that I've got on my screen and it removes all of the extra audio out of the clip."
+  },
+  {
+    "start": 779.36,
+    "text": " So if I click on this and I go Ctrl J, you'll notice that all of this stuff disappears and I'm just left with this part here."
+  },
+  {
+    "start": 785.36,
+    "text": " So Ctrl J, consolidate."
+  },
+  {
+    "start": 787.36,
+    "text": " Now, if I click on it and try and zoom out, all I'm dealing with is this audio here."
+  },
+  {
+    "start": 793.36,
+    "text": " And now what I can do is I can actually warp this audio and I can use a new command to warp it on the grid."
+  },
+  {
+    "start": 800.36,
+    "text": " So if I let it go and go Ctrl Z to go back to what I had, there's ways I could warp inside of here by basically creating little notches and then pulling them to stretch the audio."
+  },
+  {
+    "start": 813.36,
+    "text": " And we'll look at how that's done."
+  },
+  {
+    "start": 815.36,
+    "text": " But what we're going to do first is we're going to do a cool new command that Ableton 10 has implemented."
+  },
+  {
+    "start": 820.36,
+    "text": " So basically what I need to do is I need to make sure that my cursor is at the end of the clip and it's in the top half of the clip."
+  },
+  {
+    "start": 827.36,
+    "text": " And then I can press Shift and you'll see that there's a little arrow that comes up next to the cursor."
+  },
+  {
+    "start": 833.36,
+    "text": " So hold Shift, click and drag."
+  },
+  {
+    "start": 836.36,
+    "text": " And that lets me warp inside of Ableton's timeline."
+  },
+  {
+    "start": 842.36,
+    "text": " And I can drag that."
+  },
+  {
+    "start": 844.36,
+    "text": " And that's as far as the algorithm's going to let me warp it to."
+  },
+  {
+    "start": 848.36,
+    "text": " So I let go of my mouse and then I let go of the Shift button."
+  },
+  {
+    "start": 852.36,
+    "text": " And then I come over here because Ableton actually has a bunch of different warping algorithms that it uses."
+  },
+  {
+    "start": 859.36,
+    "text": " So I'm going to use repitch and then we're going to have a listen."
+  },
+  {
+    "start": 862.36,
+    "text": " Okay, that sounds cool."
+  },
+  {
+    "start": 863.36,
+    "text": " So we'll put it here."
+  },
+  {
+    "start": 864.36,
+    "text": " And what we're going to do now is we're going to go Ctrl J."
+  },
+  {
+    "start": 867.36,
+    "text": " We're going to consolidate that."
+  },
+  {
+    "start": 869.36,
+    "text": " And then we're going to stretch it even more."
+  },
+  {
+    "start": 871.36,
+    "text": " So it only allows you to stretch it so long."
+  },
+  {
+    "start": 875.36,
+    "text": " So what you could do is you can consolidate and then restretch."
+  },
+  {
+    "start": 878.36,
+    "text": " And you can just keep doing that."
+  },
+  {
+    "start": 880.36,
+    "text": " And that'll basically give you a nice little bit of a stretch."
+  },
+  {
+    "start": 884.36,
+    "text": " So that's what we're going to do."
+  },
+  {
+    "start": 886.36,
+    "text": " So what you could do is you can consolidate and then restretch."
+  },
+  {
+    "start": 889.36,
+    "text": " And you can just keep doing that."
+  },
+  {
+    "start": 891.36,
+    "text": " And that'll basically give you, I presume, an infinite amount of stretching if you like."
+  },
+  {
+    "start": 896.36,
+    "text": " So I just want to go all the way."
+  },
+  {
+    "start": 901.36,
+    "text": " You'll see down the bottom it's counting up to 999 BPM as the maximum it'll let me stretch."
+  },
+  {
+    "start": 908.36,
+    "text": " So I've got it at that."
+  },
+  {
+    "start": 909.36,
+    "text": " I'll let go of my mouse."
+  },
+  {
+    "start": 910.36,
+    "text": " I'll let go of the key."
+  },
+  {
+    "start": 911.36,
+    "text": " So that's the number that I'm talking about down there."
+  },
+  {
+    "start": 914.36,
+    "text": " And then let's change that again to repitch."
+  },
+  {
+    "start": 941.36,
+    "text": " So that's a very interesting texture."
+  },
+  {
+    "start": 943.36,
+    "text": " I can imagine putting a reverb on that and messing around with it."
+  },
+  {
+    "start": 947.36,
+    "text": " But for now, we're going to make the clip short."
+  },
+  {
+    "start": 950.36,
+    "text": " We're going to press Z to zoom in."
+  },
+  {
+    "start": 952.36,
+    "text": " And then we're going to look at another command, which is how to move this around so that we can basically be looking at different parts of the audio."
+  },
+  {
+    "start": 965.36,
+    "text": " So the file in total is super long."
+  },
+  {
+    "start": 970.36,
+    "text": " But we're basically we're zooming in sort of let's zoom in on a section like this and then we want to cycle through it."
+  },
+  {
+    "start": 977.36,
+    "text": " So we only want this much of the audio playing, but we want to move through the clip to find a piece that we like."
+  },
+  {
+    "start": 986.36,
+    "text": " So the way that you do that is with the control button and the shift button."
+  },
+  {
+    "start": 992.36,
+    "text": " And you'll notice that the cursor has changed to this different sort of hand."
+  },
+  {
+    "start": 996.36,
+    "text": " And then if I click and drag, it's moving the part of the audio that I'm dealing with."
+  },
+  {
+    "start": 1004.36,
+    "text": " And I can go I can even go longer than what the clip has in front of it."
+  },
+  {
+    "start": 1009.36,
+    "text": " So this was consolidated and it was set to there."
+  },
+  {
+    "start": 1013.36,
+    "text": " But with this command, it allows me actually to keep changing the starting position as well."
+  },
+  {
+    "start": 1018.36,
+    "text": " So we could go ahead and we could say, OK, well, I want it to like start there."
+  },
+  {
+    "start": 1022.36,
+    "text": " And that's it."
+  },
+  {
+    "start": 1023.36,
+    "text": " So that was control shift with the clip selected."
+  },
+  {
+    "start": 1028.3600000000001,
+    "text": " You can do it without the clip selected as well."
+  },
+  {
+    "start": 1031.3600000000001,
+    "text": " So that's it without the clip selected, but you can do it even with it highlighted."
+  },
+  {
+    "start": 1038.3600000000001,
+    "text": " So that's another really cool command."
+  },
+  {
+    "start": 1040.3600000000001,
+    "text": " What we'll look at now is we'll look at how I could do that similar sort of warping, but in here rather than up on the timeline."
+  },
+  {
+    "start": 1048.36,
+    "text": " And, you know, there might be scenarios where you want to do it whichever way."
+  },
+  {
+    "start": 1053.36,
+    "text": " So we'll press Z to zoom in on that clip."
+  },
+  {
+    "start": 1055.36,
+    "text": " And we're going to go control J again to consolidate this clip."
+  },
+  {
+    "start": 1058.36,
+    "text": " So we're just dealing with this audio."
+  },
+  {
+    "start": 1060.36,
+    "text": " And then I can double click to place a little note on the end."
+  },
+  {
+    "start": 1063.36,
+    "text": " And what I could do just for the ease of doing this simply is I can come to the end here and I can increase the end of the clip just so I've got a lot of room to deal with."
+  },
+  {
+    "start": 1073.36,
+    "text": " And then I can grab that and I can drag that way."
+  },
+  {
+    "start": 1076.36,
+    "text": " And now I've made that audio really long."
+  },
+  {
+    "start": 1079.36,
+    "text": " I'll pull the end of that back in."
+  },
+  {
+    "start": 1082.36,
+    "text": " I'll set it to a custom sort of area, maybe there."
+  },
+  {
+    "start": 1086.36,
+    "text": " And then I'll click on the clip."
+  },
+  {
+    "start": 1088.36,
+    "text": " I'll press Z so it zooms and fills the screen again."
+  },
+  {
+    "start": 1091.36,
+    "text": " And if I go control J, now I've got that whole clip again."
+  },
+  {
+    "start": 1095.36,
+    "text": " I can again place my cursor at the end."
+  },
+  {
+    "start": 1099.36,
+    "text": " Double click to create a yellow note."
+  },
+  {
+    "start": 1101.36,
+    "text": " And I can pull that up and then I can grab this."
+  },
+  {
+    "start": 1105.36,
+    "text": " And if I zoom out, then I can actually pull it to the maximum limit that it will let me stretch to like that again."
+  },
+  {
+    "start": 1114.36,
+    "text": " I click on the clip, press Z so it zooms out again."
+  },
+  {
+    "start": 1117.36,
+    "text": " Control J to consolidate."
+  },
+  {
+    "start": 1120.36,
+    "text": " And so on and so on."
+  },
+  {
+    "start": 1121.36,
+    "text": " I could keep going."
+  },
+  {
+    "start": 1123.36,
+    "text": " And I've done it on beats, so it's slightly different to last time that I did it on the repitch."
+  },
+  {
+    "start": 1127.36,
+    "text": " So the beats kind of glitches it out and loops it and does weird things."
+  },
+  {
+    "start": 1131.36,
+    "text": " And you can experiment."
+  },
+  {
+    "start": 1136.36,
+    "text": " You can experiment with like doing different sort of things like with the warping parameters and that sort of thing."
+  },
+  {
+    "start": 1143.36,
+    "text": " So they're the two different ways you can warp stuff."
+  },
+  {
+    "start": 1146.36,
+    "text": " How about if I just do a little bit of a loop and then I can just do a little bit of a loop."
+  },
+  {
+    "start": 1151.36,
+    "text": " So they're the two different ways you can warp stuff."
+  },
+  {
+    "start": 1153.36,
+    "text": " How about if we pulled in an audio clip that actually wasn't in time with 140 BPM?"
+  },
+  {
+    "start": 1158.36,
+    "text": " This is a really great exercise."
+  },
+  {
+    "start": 1160.36,
+    "text": " So let's pull something in."
+  },
+  {
+    "start": 1164.36,
+    "text": " That's a hundred and thirty three BPM."
+  },
+  {
+    "start": 1167.36,
+    "text": " Right. Click, drag and drop on the timeline."
+  },
+  {
+    "start": 1170.36,
+    "text": " And if you look at where these hits are lining up on the timeline, you'll notice that some of them do line up and hit correctly."
+  },
+  {
+    "start": 1180.36,
+    "text": " But a bunch of the other ones don't."
+  },
+  {
+    "start": 1182.36,
+    "text": " So, for example, six triggers right on the timeline in time."
+  },
+  {
+    "start": 1186.36,
+    "text": " Eight does as well."
+  },
+  {
+    "start": 1188.36,
+    "text": " But you'll notice that this one doesn't."
+  },
+  {
+    "start": 1190.36,
+    "text": " Yeah, there's a bunch of them that are incorrect."
+  },
+  {
+    "start": 1192.36,
+    "text": " So how do you warp it so that it ends up being in time with the rest of the clips that you've got enabled?"
+  },
+  {
+    "start": 1200.36,
+    "text": " And so a cool way of doing this, first of all, you'd select your warp mode."
+  },
+  {
+    "start": 1204.36,
+    "text": " I'll use re-pitch because I just for the example of this video, I think it'll be the easiest."
+  },
+  {
+    "start": 1210.36,
+    "text": " And what we'll do is we're just going to slice that part and we'll delete that second part."
+  },
+  {
+    "start": 1215.36,
+    "text": " And we're going to consolidate this part."
+  },
+  {
+    "start": 1218.36,
+    "text": " And we're just going to deal with this this little section."
+  },
+  {
+    "start": 1220.36,
+    "text": " In fact, we might just if I press alt, I can select anywhere on the timeline that I like."
+  },
+  {
+    "start": 1227.36,
+    "text": " And then I can go control E to slice at that point, control J to consolidate it."
+  },
+  {
+    "start": 1233.36,
+    "text": " So now I'm just dealing with that audio and we'll zoom in a bit."
+  },
+  {
+    "start": 1238.36,
+    "text": " We'll zoom in here and we'll deal with this first part."
+  },
+  {
+    "start": 1243.36,
+    "text": " OK, so we've got all of the beginning transients and these would need to be in time if we wanted to line this up and have it work musically with the rest of the track."
+  },
+  {
+    "start": 1254.36,
+    "text": " So we've got an option."
+  },
+  {
+    "start": 1256.36,
+    "text": " We can we can double click here to present to put a node at the beginning of the clip."
+  },
+  {
+    "start": 1261.36,
+    "text": " And then if we dragged this way, we're moving it in time and we're placing it into timing or we can move it that way."
+  },
+  {
+    "start": 1268.36,
+    "text": " So we've got a decision to like squeeze it shorter or pull it longer or we could even go on small increments and we could place one here."
+  },
+  {
+    "start": 1275.36,
+    "text": " And for example, what I could do is I could change this completely."
+  },
+  {
+    "start": 1279.36,
+    "text": " So let's have a listen what this sounds like."
+  },
+  {
+    "start": 1286.36,
+    "text": " And for now, we'll just move we'll just move that away as well and we'll just deal with this guy."
+  },
+  {
+    "start": 1296.36,
+    "text": " So that's that's in time now."
+  },
+  {
+    "start": 1299.36,
+    "text": " What we are going to do is we'll zoom in."
+  },
+  {
+    "start": 1302.36,
+    "text": " We're going to place a node at the end of that this guy and then we'll place a node at the beginning of this guy and we'll squeeze that all the way up."
+  },
+  {
+    "start": 1316.36,
+    "text": " And it's not going to quite let me go all the way."
+  },
+  {
+    "start": 1319.36,
+    "text": " So what I might do is I might just pull it that way, pull that way."
+  },
+  {
+    "start": 1323.36,
+    "text": " And I'm just going to jiggle it."
+  },
+  {
+    "start": 1324.36,
+    "text": " So I'm going to get that there."
+  },
+  {
+    "start": 1326.36,
+    "text": " OK, now what I've done is I've squished this part completely, but I'm still preserving the length of this one."
+  },
+  {
+    "start": 1335.36,
+    "text": " All right."
+  },
+  {
+    "start": 1336.36,
+    "text": " If I double click on this and and get rid of it, it squishes that short."
+  },
+  {
+    "start": 1340.36,
+    "text": " Right. So now it sounds like that."
+  },
+  {
+    "start": 1344.36,
+    "text": " If I go control Z to go back instead of preserving the the the hit the way that it was in the original clip."
+  },
+  {
+    "start": 1353.36,
+    "text": " So now if I press play and then what I'll do is I'll double click there, double click there and I'll drag that to there."
+  },
+  {
+    "start": 1366.36,
+    "text": " And I'm going to pull that forward."
+  },
+  {
+    "start": 1368.36,
+    "text": " I'll place another node there."
+  },
+  {
+    "start": 1369.36,
+    "text": " I'm going to pull that to there."
+  },
+  {
+    "start": 1371.36,
+    "text": " And let's have a listen to all of that."
+  },
+  {
+    "start": 1378.36,
+    "text": " And this second hit, we could warp that just a little bit so it's a bit more there."
+  },
+  {
+    "start": 1389.36,
+    "text": " And that's how you can warp things to get them in time with the rest of your tracks."
+  },
+  {
+    "start": 1394.36,
+    "text": " So now if I mean, this isn't really going to sound very good, but let's have a listen to it."
+  },
+  {
+    "start": 1409.36,
+    "text": " These sounds don't go together at all, but it gives you an idea that they're actually in time now."
+  },
+  {
+    "start": 1415.36,
+    "text": " So the when when this guy in fact, if I move that there, it'd be even better example because then it would start on a sound."
+  },
+  {
+    "start": 1423.36,
+    "text": " And let's have a listen."
+  },
+  {
+    "start": 1429.36,
+    "text": " So they don't work together so much, but they're not out of time."
+  },
+  {
+    "start": 1432.36,
+    "text": " They're not out of time with one another."
+  },
+  {
+    "start": 1434.36,
+    "text": " So that's how you can walk close."
+  },
+  {
+    "start": 1437.36,
+    "text": " And that's the same deal if you're working with like drum patterns as well."
+  },
+  {
+    "start": 1441.36,
+    "text": " And I wonder whether they've got any they got percussion loops, I guess."
+  },
+  {
+    "start": 1445.36,
+    "text": " Drum patterns can be quite fun to do as well."
+  },
+  {
+    "start": 1448.36,
+    "text": " So let's just quickly find one."
+  },
+  {
+    "start": 1455.36,
+    "text": " So here's a percussion loop."
+  },
+  {
+    "start": 1458.36,
+    "text": " We can click and drag that and we'll turn that off and we'll deal with these guys."
+  },
+  {
+    "start": 1463.36,
+    "text": " In fact, we're done with that example."
+  },
+  {
+    "start": 1465.36,
+    "text": " Get rid of it."
+  },
+  {
+    "start": 1466.36,
+    "text": " We'll use this sound to make it sound better."
+  },
+  {
+    "start": 1469.36,
+    "text": " And if I have all of this and I go control L."
+  },
+  {
+    "start": 1476.36,
+    "text": " Now, this is actually already in time."
+  },
+  {
+    "start": 1478.36,
+    "text": " You see, everything's actually falling really nicely on the grid."
+  },
+  {
+    "start": 1481.36,
+    "text": " It's a little bit off, but I guess that's because it's got a bit of a swing to it."
+  },
+  {
+    "start": 1485.36,
+    "text": " And we listen together."
+  },
+  {
+    "start": 1499.36,
+    "text": " So what we could do is we could change the way that this clip works."
+  },
+  {
+    "start": 1503.36,
+    "text": " We could change it dramatically."
+  },
+  {
+    "start": 1506.36,
+    "text": " So we could warp it to make something new creative or we could just gently warp it to kind of move the placement of where some of the hits happen."
+  },
+  {
+    "start": 1516.36,
+    "text": " So if we."
+  },
+  {
+    "start": 1518.36,
+    "text": " Oops."
+  },
+  {
+    "start": 1519.36,
+    "text": " If we you can just watch me doing this because it's good practice for you to understand how I'm going about it."
+  },
+  {
+    "start": 1527.36,
+    "text": " So place a note here, place a note here, pull that."
+  },
+  {
+    "start": 1531.36,
+    "text": " So now."
+  },
+  {
+    "start": 1538.36,
+    "text": " So now we can just move the placement of where some of the hits happen."
+  },
+  {
+    "start": 1544.36,
+    "text": " I'm going to drag that back a little bit."
+  },
+  {
+    "start": 1547.36,
+    "text": " This second hit, I want it to be in time, so I'll put it there."
+  },
+  {
+    "start": 1551.36,
+    "text": " This one, what we'll do is we'll go like so."
+  },
+  {
+    "start": 1557.36,
+    "text": " And."
+  },
+  {
+    "start": 1560.36,
+    "text": " This guy will pull it to like there."
+  },
+  {
+    "start": 1563.36,
+    "text": " And."
+  },
+  {
+    "start": 1565.36,
+    "text": " We just want to keep everything."
+  },
+  {
+    "start": 1568.36,
+    "text": " This one."
+  },
+  {
+    "start": 1569.36,
+    "text": " And this one."
+  },
+  {
+    "start": 1572.36,
+    "text": " We'll pull it like that."
+  },
+  {
+    "start": 1573.36,
+    "text": " We'll pull that on there."
+  },
+  {
+    "start": 1575.36,
+    "text": " So I'm just keeping it all on the grid."
+  },
+  {
+    "start": 1577.36,
+    "text": " So let's have a listen."
+  },
+  {
+    "start": 1578.36,
+    "text": " I would say the first half of this sounds really good."
+  },
+  {
+    "start": 1581.36,
+    "text": " Second half is a bit lost."
+  },
+  {
+    "start": 1582.36,
+    "text": " So."
+  },
+  {
+    "start": 1583.36,
+    "text": " So."
+  },
+  {
+    "start": 1584.36,
+    "text": " So."
+  },
+  {
+    "start": 1585.36,
+    "text": " So."
+  },
+  {
+    "start": 1586.36,
+    "text": " So."
+  },
+  {
+    "start": 1587.36,
+    "text": " So."
+  },
+  {
+    "start": 1588.36,
+    "text": " So."
+  },
+  {
+    "start": 1589.36,
+    "text": " So."
+  },
+  {
+    "start": 1590.36,
+    "text": " So."
+  },
+  {
+    "start": 1591.36,
+    "text": " So."
+  },
+  {
+    "start": 1592.36,
+    "text": " So."
+  },
+  {
+    "start": 1593.36,
+    "text": " So."
+  },
+  {
+    "start": 1594.36,
+    "text": " So."
+  },
+  {
+    "start": 1595.36,
+    "text": " So."
+  },
+  {
+    "start": 1596.36,
+    "text": " So."
+  },
+  {
+    "start": 1597.36,
+    "text": " So."
+  },
+  {
+    "start": 1598.36,
+    "text": " So."
+  },
+  {
+    "start": 1599.36,
+    "text": " So."
+  },
+  {
+    "start": 1600.36,
+    "text": " So."
+  },
+  {
+    "start": 1601.36,
+    "text": " So."
+  },
+  {
+    "start": 1602.36,
+    "text": " So."
+  },
+  {
+    "start": 1603.36,
+    "text": " So."
+  },
+  {
+    "start": 1604.36,
+    "text": " So."
+  },
+  {
+    "start": 1605.36,
+    "text": " So."
+  },
+  {
+    "start": 1606.36,
+    "text": " So."
+  },
+  {
+    "start": 1608.36,
+    "text": " Could work."
+  },
+  {
+    "start": 1610.36,
+    "text": " But what I'd probably do is I'd go like that."
+  },
+  {
+    "start": 1621.36,
+    "text": " Cool."
+  },
+  {
+    "start": 1623.36,
+    "text": " So we've ordered, edited a bunch of audio and what we could do as well,"
+  },
+  {
+    "start": 1628.36,
+    "text": " is we could just add some flavor by going control, paste."
+  },
+  {
+    "start": 1633.36,
+    "text": " Oh, so does it."
+  },
+  {
+    "start": 1634.76,
+    "text": " Or I could select that area, hold Control, and let go."
+  },
+  {
+    "start": 1639.4799999999998,
+    "text": " And now I've made a copy."
+  },
+  {
+    "start": 1645.12,
+    "text": " That works really well."
+  },
+  {
+    "start": 1647.1599999999999,
+    "text": " And I've consolidated it."
+  },
+  {
+    "start": 1648.1999999999998,
+    "text": " Now that's a new clip."
+  },
+  {
+    "start": 1657.6,
+    "text": " Control, paste."
+  },
+  {
+    "start": 1660.4799999999998,
+    "text": " Control and paste."
+  },
+  {
+    "start": 1663.36,
+    "text": " Cool."
+  },
+  {
+    "start": 1670.32,
+    "text": " And that could be a really cool percussion loop that I'd have playing around,"
+  },
+  {
+    "start": 1673.7199999999998,
+    "text": " whilst the synth line was playing."
+  },
+  {
+    "start": 1675.4799999999998,
+    "text": " And then I had like kick and bass playing underneath,"
+  },
+  {
+    "start": 1678.4799999999998,
+    "text": " had some other percussion playing."
+  },
+  {
+    "start": 1680.6,
+    "text": " And I could do all of that by editing audio."
+  },
+  {
+    "start": 1684.24,
+    "text": " So I'm just going to have a think and see if there's anything else"
+  },
+  {
+    "start": 1687.6,
+    "text": " that I have forgotten to cover."
+  },
+  {
+    "start": 1689.44,
+    "text": " So there's a few more things that I can share with you before we end this video,"
+  },
+  {
+    "start": 1694.48,
+    "text": " which will actually be really cool."
+  },
+  {
+    "start": 1696.72,
+    "text": " So what we can do is we can change the grid size either by right clicking"
+  },
+  {
+    "start": 1703.92,
+    "text": " and selecting a grid size or having it on the adaptive grid"
+  },
+  {
+    "start": 1706.88,
+    "text": " so it gets smaller as we zoom in."
+  },
+  {
+    "start": 1709.0800000000002,
+    "text": " Or what we can do is we can actually press Control and 1 to go smaller"
+  },
+  {
+    "start": 1714.5600000000002,
+    "text": " or Control 2 to go larger."
+  },
+  {
+    "start": 1717.36,
+    "text": " So we can change it that way."
+  },
+  {
+    "start": 1719.76,
+    "text": " So that's quite cool."
+  },
+  {
+    "start": 1720.9599999999998,
+    "text": " Another thing that we could do is I can select this."
+  },
+  {
+    "start": 1723.6799999999998,
+    "text": " I can go Control E. And then I can press R. And I've just reversed that."
+  },
+  {
+    "start": 1734.1999999999998,
+    "text": " So again, if we do that, we could slice a bit of this audio clip."
+  },
+  {
+    "start": 1741.08,
+    "text": " So at the end of the second bar, what we could do is we could select that,"
+  },
+  {
+    "start": 1744.88,
+    "text": " go Control E to slice it, and then just press R to reverse it."
+  },
+  {
+    "start": 1749.2800000000002,
+    "text": " So let's have a listen to see how that sounds."
+  },
+  {
+    "start": 1751.2800000000002,
+    "text": " Cool."
+  },
+  {
+    "start": 1755.8400000000001,
+    "text": " So you can add little variations and flare into your clips."
+  },
+  {
+    "start": 1760.24,
+    "text": " So let's go ahead and select that, reverse that as well."
+  },
+  {
+    "start": 1774.88,
+    "text": " And all you want to be aware of is just that these little parts are making clicking and"
+  },
+  {
+    "start": 1787.1200000000001,
+    "text": " popping sounds."
+  },
+  {
+    "start": 1788.1200000000001,
+    "text": " And we just want to make sure that we don't have that in our audio because that'll show"
+  },
+  {
+    "start": 1793.16,
+    "text": " up on systems where there's a highly detailed sound system."
+  },
+  {
+    "start": 1800.48,
+    "text": " Should show up on your studio monitors as well."
+  },
+  {
+    "start": 1803.72,
+    "text": " So beautiful."
+  },
+  {
+    "start": 1808.08,
+    "text": " Some other commands that are really handy that I think a lot of producers don't know"
+  },
+  {
+    "start": 1813.88,
+    "text": " is these ones."
+  },
+  {
+    "start": 1815.44,
+    "text": " So if I put that on a grid, if I place my cursor here, I can go Control I. And this"
+  },
+  {
+    "start": 1823.56,
+    "text": " allows me to insert time."
+  },
+  {
+    "start": 1826.02,
+    "text": " So if I set that to four and press OK, it's just made four bars of musical time for me."
+  },
+  {
+    "start": 1833.4,
+    "text": " So if I've got an arrangement and I really like this half of the arrangement and I really"
+  },
+  {
+    "start": 1838.3200000000002,
+    "text": " like that half of the arrangement, but I need something actually in between to bridge the"
+  },
+  {
+    "start": 1841.8000000000002,
+    "text": " gap, I can click Insert, select the amount of bars that I want to put in so I could put"
+  },
+  {
+    "start": 1849.1200000000001,
+    "text": " a heap in if I wanted."
+  },
+  {
+    "start": 1850.72,
+    "text": " Four."
+  },
+  {
+    "start": 1851.72,
+    "text": " OK."
+  },
+  {
+    "start": 1852.72,
+    "text": " And it shifts everything along."
+  },
+  {
+    "start": 1853.72,
+    "text": " This is a really handy command."
+  },
+  {
+    "start": 1855.4,
+    "text": " So rather than you going like, if we go back, otherwise you'd have to do something along"
+  },
+  {
+    "start": 1861.1399999999999,
+    "text": " these lines."
+  },
+  {
+    "start": 1863.58,
+    "text": " And you'd have to select your whole timeline and you have to ship the whole thing along."
+  },
+  {
+    "start": 1867.1399999999999,
+    "text": " Rather than doing that, just simply go, boom, Control I, four, go, OK."
+  },
+  {
+    "start": 1872.82,
+    "text": " Real simple and a really handy command."
+  },
+  {
+    "start": 1876.1399999999999,
+    "text": " And if you want to see more of those sorts of commands, you can up here."
+  },
+  {
+    "start": 1880.58,
+    "text": " You can paste time."
+  },
+  {
+    "start": 1882.18,
+    "text": " So Control Shift and V."
+  },
+  {
+    "start": 1884.34,
+    "text": " So if I go Control C, if I go Control C and then I go Control Shift V, it pastes that"
+  },
+  {
+    "start": 1897.4199999999998,
+    "text": " in but if you notice, let me do it back here."
+  },
+  {
+    "start": 1901.3,
+    "text": " So if I put it here, Control Shift V, and if I selected properly, I need to select the"
+  },
+  {
+    "start": 1911.3000000000002,
+    "text": " Control Shift V. It shifts this part along and it pastes in that section, which is this"
+  },
+  {
+    "start": 1918.02,
+    "text": " section here that I copied."
+  },
+  {
+    "start": 1919.9,
+    "text": " So that's really cool."
+  },
+  {
+    "start": 1922.26,
+    "text": " So you can paste time, you can duplicate time."
+  },
+  {
+    "start": 1924.1000000000001,
+    "text": " So Control Shift D. So let's duplicate this."
+  },
+  {
+    "start": 1929.14,
+    "text": " Control Shift D. So it shifts everything along and then it duplicates it."
+  },
+  {
+    "start": 1935.26,
+    "text": " Really cool stuff."
+  },
+  {
+    "start": 1936.26,
+    "text": " So I hope you guys learn a lot in this video."
+  },
+  {
+    "start": 1939.42,
+    "text": " Video editing inside of Ableton Live is really fun and you can get lots of quirky different"
+  },
+  {
+    "start": 1945.22,
+    "text": " pieces of audio glitching and all sorts of stuff out of it when you start to get deep"
+  },
+  {
+    "start": 1949.7,
+    "text": " into it and the warping algorithms and all that sort of stuff."
+  },
+  {
+    "start": 1953.22,
+    "text": " So thank you very much for watching the video."
+  },
+  {
+    "start": 1956.46,
+    "text": " I'll see you guys again soon."
+  },
+  {
+    "start": 1957.8200000000002,
+    "text": " Another one."
+  },
+  {
+    "start": 1958.8200000000002,
+    "text": " Peace."
+  }
+]

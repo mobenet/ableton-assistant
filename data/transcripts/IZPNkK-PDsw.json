@@ -1,0 +1,642 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends, you're not looking at my mug today because I'm burning up my camera to show you these two really interesting friends we've got here."
+  },
+  {
+    "start": 6.5,
+    "text": " First of all, we've got this thing called a passive reamplifier. We'll explain that in a moment."
+  },
+  {
+    "start": 11.3,
+    "text": " And the other thing is probably something that you all have lying around in your house. This is just an analog distortion pedal."
+  },
+  {
+    "start": 17.2,
+    "text": " In this video, we're gonna go over why you'd even want to go through the trouble of doing something like this,"
+  },
+  {
+    "start": 21.8,
+    "text": " and the incredible benefit that using external, especially external saturation or external distortion, can give your music, right?"
+  },
+  {
+    "start": 29.9,
+    "text": " Let's check it out."
+  },
+  {
+    "start": 37.9,
+    "text": " Okay, so here we are in live, and you can see I've got an Ableton analog right here."
+  },
+  {
+    "start": 41.2,
+    "text": " And what's happening with this track is this is just a sine waveform with a little pitch envelope on it to give it kind of like a kick drum-y kind of bass line, right?"
+  },
+  {
+    "start": 49.8,
+    "text": " Take a listen to what's going on."
+  },
+  {
+    "start": 54.3,
+    "text": " And we've got this glue compressor right here at the end with a little bit of soft clipping on it."
+  },
+  {
+    "start": 58.2,
+    "text": " Now, at the moment, you probably can't hear this very well if you can hear the notes at all, unless you're listening with headphones or a nice subsystem."
+  },
+  {
+    "start": 64.9,
+    "text": " This is just a sine waveform. There's really not that much harmonic information, okay?"
+  },
+  {
+    "start": 69.2,
+    "text": " But what I'm gonna do is I'm gonna go ahead and turn on this distortion."
+  },
+  {
+    "start": 71.7,
+    "text": " Now, the first thing I'm gonna do is I'm gonna switch off the distortion, and I'll turn on this external audio effect."
+  },
+  {
+    "start": 76.60000000000001,
+    "text": " This is one of the devices we're gonna be using today."
+  },
+  {
+    "start": 79.10000000000001,
+    "text": " Now, with the external audio effect on, but with the distortion turned off, I'll set my reamplifier to about its middle setting, and I'm gonna go ahead and AB this."
+  },
+  {
+    "start": 87.7,
+    "text": " So you can hear there won't be too much of a difference between this being on or off. So take a listen."
+  },
+  {
+    "start": 98.2,
+    "text": " Maybe a little bit more gain when I turn this on, but other than that, as you can hear, this is pretty much bypassed, okay?"
+  },
+  {
+    "start": 103.7,
+    "text": " Now take a listen to what happens when I turn on this distortion."
+  },
+  {
+    "start": 117.7,
+    "text": " So as you can hear, a really big benefit. This sounds incredible, right?"
+  },
+  {
+    "start": 132.7,
+    "text": " This just went from an incredibly boring sound to something that's just full of life, full of character, full of harmonics, doing exactly what this kind of pedal would do."
+  },
+  {
+    "start": 142.2,
+    "text": " Now, this pedal specifically, this is a Mojo Hand BMP2. What does BMP stand for?"
+  },
+  {
+    "start": 146.7,
+    "text": " This is the Big Muff Pi Russian version. This is the second MK2 version that they made of this."
+  },
+  {
+    "start": 154.2,
+    "text": " Essentially, this is supposed to sound like those Big Muff Pies from the 70s. You got that big fuzz sound."
+  },
+  {
+    "start": 159.7,
+    "text": " Now, fuzz is a really fun type of distortion to use on synthesizers, because a lot of the time you preserve that really great low end."
+  },
+  {
+    "start": 166.7,
+    "text": " Other distortion pedals may not preserve as much of the low end as this has."
+  },
+  {
+    "start": 170.7,
+    "text": " And you also have this sustain knob, which can add a lot of clipping, a lot of sustain, and you get that just really beautiful big fuzz sound, giant sound."
+  },
+  {
+    "start": 180.2,
+    "text": " And as you can see, I've also got a glue compressor with the soft clips, which turned on on the end, just to make sure that I don't clip out my output of this track, right?"
+  },
+  {
+    "start": 189.2,
+    "text": " Okay, so just looking at this, this might seem really, really simple to you. You just take an output from your audio interface, run it into a distortion pedal, and back into your audio interface."
+  },
+  {
+    "start": 197.7,
+    "text": " And yes, you can do that, but there are some things that I want to show you that will make your life just so much easier when dealing with this."
+  },
+  {
+    "start": 204.2,
+    "text": " And the first one is this external audio effect. Whenever you're working with processing audio outside of Ableton and then bringing it back in, you should be using external audio effect. I'll show you why."
+  },
+  {
+    "start": 214.7,
+    "text": " Okay, so to demonstrate this, let's go ahead and set this up. So, track one, we want to send that out to my distortion pedal."
+  },
+  {
+    "start": 220.7,
+    "text": " So what you might do is just choose, instead of master, you choose external out, and you choose output three, because that's the output, the physical output on my audio interface I'm sending this out of."
+  },
+  {
+    "start": 230.2,
+    "text": " Now in track four, you can see external input, and we're choosing input one. That's the input that is going back into the computer, okay?"
+  },
+  {
+    "start": 237.2,
+    "text": " So this should be set up to run through my fuzz pedal. So let's go ahead and record this."
+  },
+  {
+    "start": 251.2,
+    "text": " Okay, so here we've got this audio, and if I zoom in, you can see it's pretty well synced. There's a little bit of latency here. You can see a very small amount right there, but for the most part, this is recorded pretty well, and it sounds like this."
+  },
+  {
+    "start": 270.2,
+    "text": " But perhaps the first thing you notice is that, yeah, you couldn't hear it when you were recording. So that's advantage one of using external audio, alright?"
+  },
+  {
+    "start": 278.2,
+    "text": " Let's go ahead and do something else. What I'm going to do is I'm going to go ahead and put this back on master, okay?"
+  },
+  {
+    "start": 282.7,
+    "text": " I'll turn on my glue compressor that's sitting at the end of this, and I'll turn this back on, and I'll turn this track off for now. As you can see, it's muted. So now we're listening to this again."
+  },
+  {
+    "start": 293.7,
+    "text": " I just love that sound. So something else that hopefully has occurred to you is that this is now movable as an audio effect inside of a chain, okay?"
+  },
+  {
+    "start": 303.2,
+    "text": " So I could take external audio effect and move it maybe to the end of here, and now we get..."
+  },
+  {
+    "start": 310.7,
+    "text": " Now we're sending that compressed signal, okay? That more speedy compressed signal is going into the pedal, right?"
+  },
+  {
+    "start": 316.7,
+    "text": " But if it was the other way around, the signal would go to the pedal first and then into the glue compressor."
+  },
+  {
+    "start": 324.7,
+    "text": " So what's the advantage of this? Well, we can do all kinds of really interesting things to the audio. Let's go ahead and do something wild."
+  },
+  {
+    "start": 330.2,
+    "text": " Let's go ahead and grab something. Maybe we'll grab a saturator, for example."
+  },
+  {
+    "start": 333.2,
+    "text": " Now, if I took this saturator and I drove it a little bit, okay, and I put it on hard curve, for example, this is going to sound completely different depending upon where it is in the chain."
+  },
+  {
+    "start": 343.2,
+    "text": " And you already knew that, but we're actually adding hardware effects into a chain. So take a listen to the difference that this makes when we're in this section of the chain versus somewhere else."
+  },
+  {
+    "start": 352.7,
+    "text": " So right here it sounds like this."
+  },
+  {
+    "start": 354.2,
+    "text": " But if I put it after the distortion, it sounds like this."
+  },
+  {
+    "start": 365.7,
+    "text": " So moving this around has a really interesting effect on what's going on."
+  },
+  {
+    "start": 376.7,
+    "text": " So now we need to examine the third advantage of using external audio effects, and that's when it comes to dealing with latency."
+  },
+  {
+    "start": 383.2,
+    "text": " So what I'm going to do now is I'm just going to get rid of this saturator for now."
+  },
+  {
+    "start": 386.2,
+    "text": " We'll put this external audio effect back where it was before."
+  },
+  {
+    "start": 389.2,
+    "text": " And this time what I'd like to do is I'd like to add a VST plugin."
+  },
+  {
+    "start": 394.2,
+    "text": " Let's go ahead and use this FabFilter Pro L2 and put it on the master bus."
+  },
+  {
+    "start": 397.2,
+    "text": " This isn't something that's common. People use limiters a lot."
+  },
+  {
+    "start": 400.2,
+    "text": " But why am I doing this? Well, the reason I'm doing this is look at this top bar."
+  },
+  {
+    "start": 403.2,
+    "text": " You can see it says it has 65.2 milliseconds of latency that's added to the system."
+  },
+  {
+    "start": 409.7,
+    "text": " Now, this is very, very, very important."
+  },
+  {
+    "start": 412.7,
+    "text": " What external audio is, is it's treated as an audio effect."
+  },
+  {
+    "start": 416.7,
+    "text": " And as you can see at the moment, it's got, if I hover over the top, 13.1 milliseconds of plugin delay latency."
+  },
+  {
+    "start": 423.7,
+    "text": " What does that mean? What that means is that it's compensating for the hardware latency in my system."
+  },
+  {
+    "start": 428.7,
+    "text": " So let's take a look at that. I go to my preferences."
+  },
+  {
+    "start": 431.7,
+    "text": " You can see 9.52 milliseconds and 3.54 milliseconds for the input and output latency."
+  },
+  {
+    "start": 437.7,
+    "text": " When you add those together, what do you get? You get about 13 milliseconds."
+  },
+  {
+    "start": 440.2,
+    "text": " You can see that's right there. But it's also adding this to it as well."
+  },
+  {
+    "start": 444.2,
+    "text": " Okay, 65.2 milliseconds. So I have two devices at the moment that are causing actual delay latency."
+  },
+  {
+    "start": 451.2,
+    "text": " If you look at the compressor, there's zero samples."
+  },
+  {
+    "start": 454.2,
+    "text": " Okay, so let's go ahead and figure out how this can benefit us."
+  },
+  {
+    "start": 457.7,
+    "text": " If I go ahead and record, for example, I'm going to go ahead and just leave external audio sending the audio out of the computer."
+  },
+  {
+    "start": 464.2,
+    "text": " That's fine. I don't need to make a different track for that."
+  },
+  {
+    "start": 466.2,
+    "text": " It's sending it to three. Okay."
+  },
+  {
+    "start": 468.7,
+    "text": " Now, I'm going to go to a new track and I'm going to say external input from one. Right?"
+  },
+  {
+    "start": 474.7,
+    "text": " Let's go ahead and record this again. I'll leave four muted for now."
+  },
+  {
+    "start": 483.7,
+    "text": " Uh oh. What on earth is happening here?"
+  },
+  {
+    "start": 485.7,
+    "text": " We can see compared to that first track that we recorded, we are just way out of sync. Right?"
+  },
+  {
+    "start": 491.7,
+    "text": " This sync makes no sense."
+  },
+  {
+    "start": 493.2,
+    "text": " However, if I make a new audio track below analog one and I say input from one analog, okay,"
+  },
+  {
+    "start": 501.2,
+    "text": " I'm just taking the output of this track and putting it into this track. Check out the kind of sync that we're going to get."
+  },
+  {
+    "start": 516.2,
+    "text": " So yeah, as you can see, we are just about as good as we could be right on the beat, right on the money."
+  },
+  {
+    "start": 521.2,
+    "text": " And that's because external audio is doing all the thinking or the work for you. Okay."
+  },
+  {
+    "start": 525.7,
+    "text": " So whenever you're doing this kind of thing, whenever you're processing audio outside of Ableton,"
+  },
+  {
+    "start": 530.2,
+    "text": " it is extremely important that you look at using external audio effects because it will take care of all the latency guesswork for you,"
+  },
+  {
+    "start": 536.7,
+    "text": " except for the hardware latency."
+  },
+  {
+    "start": 538.7,
+    "text": " Now, let's say that running the signal through all kinds of processing that you have in your hardware, okay,"
+  },
+  {
+    "start": 544.7,
+    "text": " like your pedals and things like that, if there's still latency there, you can adjust for it right here."
+  },
+  {
+    "start": 549.7,
+    "text": " Okay, you can adjust for here. You can even go down to the very small samples,"
+  },
+  {
+    "start": 553.2,
+    "text": " which is a very tiny little adjustment versus milliseconds. That's what that's for."
+  },
+  {
+    "start": 557.2,
+    "text": " So the interface on external audio is pretty self-explanatory, but I might as well just run you through it real quick."
+  },
+  {
+    "start": 563.2,
+    "text": " You just go to audio effects, you go to utilities, you grab yourself an external audio effect."
+  },
+  {
+    "start": 569.2,
+    "text": " I'll just go ahead and delete this one."
+  },
+  {
+    "start": 571.2,
+    "text": " And then I just need to choose the output that I'm using to send to my pedals, for example, in this case."
+  },
+  {
+    "start": 576.2,
+    "text": " I'm sending it out three, and my input is coming into one."
+  },
+  {
+    "start": 579.2,
+    "text": " Alright, so now we're right as rain, ready to roll, right?"
+  },
+  {
+    "start": 583.2,
+    "text": " Now, let's talk about something else."
+  },
+  {
+    "start": 585.2,
+    "text": " So, real quick, it's true that you can learn anything that you want to learn about Ableton Live on YouTube without getting an education."
+  },
+  {
+    "start": 591.2,
+    "text": " But it's hard to know exactly what to search for, and much of the time the lessons are scattered and unfocused, if not just plain wrong."
+  },
+  {
+    "start": 597.2,
+    "text": " You could be completely self-trained, but it's definitely going to take you a very long time."
+  },
+  {
+    "start": 601.2,
+    "text": " And here's where my courses come in."
+  },
+  {
+    "start": 603.2,
+    "text": " I've put together three different courses on Ableton production that are chronological and optimized to raise your skills to the next level quickly and efficiently."
+  },
+  {
+    "start": 610.2,
+    "text": " Between all three of these courses, there are 45 hours of hyper-focused video content, which is constantly growing as I add more and more to them."
+  },
+  {
+    "start": 617.2,
+    "text": " So, if you enjoy my teaching style and you take your music seriously and want to join a rad Discord community of amazing producers, check out the links below in the comments and in the description."
+  },
+  {
+    "start": 626.2,
+    "text": " Okay, let's get back to it."
+  },
+  {
+    "start": 628.2,
+    "text": " You might be like, well, why can't I just run the audio out of my interface into a pedal and then back into the interface?"
+  },
+  {
+    "start": 634.2,
+    "text": " Why are you using this re-amplifier? What is this thing even for?"
+  },
+  {
+    "start": 637.2,
+    "text": " This is the L2A by DI Wire. I think that's how you pronounce it."
+  },
+  {
+    "start": 641.2,
+    "text": " The whole idea behind this one is that this is just a little kit. It was very inexpensive to build."
+  },
+  {
+    "start": 646.2,
+    "text": " And it's got a cool little nifty XLR input in the back and cable that comes with it, so you can use either XLR or quarter inch."
+  },
+  {
+    "start": 654.2,
+    "text": " And in my case, the Apollo Twin has a quarter inch output."
+  },
+  {
+    "start": 657.2,
+    "text": " Now, why even care about using a re-amp box? Couldn't you just run the signal from your interface into a pedal and back into your interface?"
+  },
+  {
+    "start": 664.2,
+    "text": " Yes, you actually can. You can do that. There's nothing necessarily wrong with that."
+  },
+  {
+    "start": 669.2,
+    "text": " But what happens is that it kind of limits your options, and you also can't fix some issues."
+  },
+  {
+    "start": 674.2,
+    "text": " On the back of this thing, I don't know if you can see that or not, but that switch, that's a ground-lifting switch."
+  },
+  {
+    "start": 679.2,
+    "text": " Now, the power in this studio is really, really good."
+  },
+  {
+    "start": 683.2,
+    "text": " And I've got it power conditioned over there by multiple power conditioners, and I've got the electrical ran in this house just right."
+  },
+  {
+    "start": 689.2,
+    "text": " This electricity is really good, but in a lot of homes, especially if you're in a big city, you can get a lot of ground loops, a ground hum."
+  },
+  {
+    "start": 696.2,
+    "text": " There's a hum that happens when your gear is plugged in."
+  },
+  {
+    "start": 700.2,
+    "text": " And what the ground lift will do is that it will take that 60-cycle hum out of your signal. That's really useful."
+  },
+  {
+    "start": 706.2,
+    "text": " When you're dealing with analog audio, you're dealing with voltage, right?"
+  },
+  {
+    "start": 710.2,
+    "text": " It's really important to have good power. In lieu of good power, if you don't have good power, it's really nice to have ground lifts on your external gear."
+  },
+  {
+    "start": 718.2,
+    "text": " So that's the first advantage. The next advantage is that guitar pedals and guitar amps, they are expecting what's called a high Z signal."
+  },
+  {
+    "start": 728.2,
+    "text": " High impedance, high load. Most signals that you are working with up until now are probably low impedance, line-level signals coming from microphones, and so on."
+  },
+  {
+    "start": 738.2,
+    "text": " An amp or a pedal is expecting a high impedance signal from a guitar, right? From magnetic pickups coming out of a guitar, coming out of a bass, coming out of another pedal."
+  },
+  {
+    "start": 747.2,
+    "text": " What this box actually does is it changes the impedance load on the signals that are coming into it, and what it puts out is a high Z signal."
+  },
+  {
+    "start": 757.2,
+    "text": " So we're converting the signal from this line-level signal to a high impedance signal."
+  },
+  {
+    "start": 762.2,
+    "text": " Now, it doesn't just do that. All these reamp boxes also have, as you can see, a level control, and this is where all the magic happens."
+  },
+  {
+    "start": 770.2,
+    "text": " So essentially, take a listen to what happens as I change the level control."
+  },
+  {
+    "start": 788.2,
+    "text": " So as you can hear, we get some really, really subtle differences in the gain stage going into this pedal."
+  },
+  {
+    "start": 795.2,
+    "text": " Now, you might be like, well, I could just add a utility in Ableton. Well, the difference is that this is not going to add or subtract noise floor, okay?"
+  },
+  {
+    "start": 802.2,
+    "text": " Because I'm changing this, the noise floor is going to remain the same. It's not going to change, but by adding gain from Ableton back into this, you could potentially be adding more noise floor, and you're not really changing or giving the pedal what it expects."
+  },
+  {
+    "start": 815.2,
+    "text": " Because we're using a reamp box, this pedal is getting the kind of signal that it's used to processing, and so all kinds of really awesome subtle differences can be achieved."
+  },
+  {
+    "start": 825.2,
+    "text": " Okay, so let's listen to some subtle differences and some of the changes and the amazing sounds that I can get out of this pedal using this reamp box, okay?"
+  },
+  {
+    "start": 832.2,
+    "text": " At the moment, I have it set in the middle level, so when I turn this pedal off and I AB this, this should sound about the same."
+  },
+  {
+    "start": 839.2,
+    "text": " It's about the same, right? But with the pedal on, what I can do is I can go ahead and start to back the level off. Let's listen to some of the tones we can get when we back this level off."
+  },
+  {
+    "start": 850.2,
+    "text": " So I've got it about halfway down, and so what I'm simulating is kind of like what it might be like to plug in a quiet, older, vintage guitar, maybe a single coil. Now we get this kind of sound."
+  },
+  {
+    "start": 869.2,
+    "text": " Nice. Now let's go ahead and listen to what the tones we can get when I crank the level up on this reamplifier box."
+  },
+  {
+    "start": 899.2,
+    "text": " Now hopefully you can hear the advantage here. The whole reason that you're reaching for an analog distortion is because they're so full of character."
+  },
+  {
+    "start": 909.2,
+    "text": " They're so full of harmonics, and those harmonics are free of aliasing distortion that comes with using digital distortions."
+  },
+  {
+    "start": 917.2,
+    "text": " The reason that you'd ever want to reach for an analog distortion or just outboard gear in general is that they do provide some advantages, and the main advantage to using analog distortion is, yeah, it's free of aliasing distortion."
+  },
+  {
+    "start": 928.2,
+    "text": " It's free of the intermodulation digital distortion that can happen when you're using high gains. Instead, using a pedal with high gain, you never have to deal with any of that because it's all voltage, right?"
+  },
+  {
+    "start": 941.2,
+    "text": " And so if you're going to go as far as to try to get those subtle differences, those beautiful tones, why would you limit yourself to not having control over the input gain and also setting the pedal up for success?"
+  },
+  {
+    "start": 952.2,
+    "text": " Essentially that's what the reamp box is doing. It's setting the pedal or the amp, if you're using an amp, it's setting that up for success, right?"
+  },
+  {
+    "start": 959.2,
+    "text": " And that way you can achieve all kinds of different subtle differences and really dial in that distortion tone that you're looking for, right?"
+  },
+  {
+    "start": 965.2,
+    "text": " Now imagine using this reamp box with a series of distortion pedals and analog compressors and all kinds of other stuff. You can get some really amazing tones that I hate to say it, even in this modern age, digital distortions can never achieve this kind of sound."
+  },
+  {
+    "start": 981.2,
+    "text": " Or at least they haven't done it yet. We're getting very close. There are some really amazing distortions out there, such as Saturn II by FabFilter. I'm obviously a FabFilter fan."
+  },
+  {
+    "start": 990.2,
+    "text": " But also SoundToys Decapitator, an incredible distortion. There are amazing distortions in the digital world, but none of them can do what an actual physical analog distortion can do."
+  },
+  {
+    "start": 1001.2,
+    "text": " It just can't get that high gain setting without getting some form of intermodulation distortion or aliasing distortion when you're using high gains, right?"
+  },
+  {
+    "start": 1011.2,
+    "text": " This is just something that only analog pedals can do, okay? So it's really important that you treat these pedals with this kind of signal that they expect to get, because all of a sudden these knobs will do what they were designed to do, right?"
+  },
+  {
+    "start": 1023.2,
+    "text": " They won't be overloaded instantly with the signal. Let's go ahead and listen to what happens when I bypass this box."
+  },
+  {
+    "start": 1031.2,
+    "text": " So now we've got the box bypassed, and I'm just using a patch cable directly from the interface into the distortion pedal and back. Now take a listen to just this now."
+  },
+  {
+    "start": 1039.2,
+    "text": " Now you can hear that, yeah, there's some tones in there, and they're really fun. And there's nothing wrong with doing this other than you can hear that there isn't nearly as much nuance."
+  },
+  {
+    "start": 1063.2,
+    "text": " There isn't nearly as much different tones that I can get, because the pedal in its input stage is kind of already being overloaded. It's kind of already getting kind of a crappy sound."
+  },
+  {
+    "start": 1073.2,
+    "text": " Listen to this. You can hear that the signal itself, even the ground of the signal, is not very set up for success, right?"
+  },
+  {
+    "start": 1082.2,
+    "text": " You can hear that there's a lot of ground hum. There's all kinds of other things in that signal that this reamplifier box kind of helped us take care of, okay?"
+  },
+  {
+    "start": 1089.2,
+    "text": " So yeah, it's really important that you think about, if you're going to do this, that you just spend a little bit of extra cash and get yourself a reamplifier box."
+  },
+  {
+    "start": 1097.2,
+    "text": " I mean, reamplifier boxes aren't just awesome for this specific application. Reamplifier boxes are really awesome for if you want to play a guitar and lay down a dry track on your computer and then run it back through an amp later and try all kinds of different effects."
+  },
+  {
+    "start": 1110.2,
+    "text": " It's a great way to do that. And if there's enough interest on the channel, I might make a video just on how to use a reamp box to do just that."
+  },
+  {
+    "start": 1119.2,
+    "text": " That's record a guitar part first without any effects on it and then run it out of your computer into an amp and instead you get to play the engineer instead of the guitar player."
+  },
+  {
+    "start": 1127.2,
+    "text": " It's really sometimes freeing to do that. So yeah, if that's something that you're interested in, just go ahead and leave me a comment down in the comments down there and let me know that that's something you'd want to see."
+  },
+  {
+    "start": 1136.2,
+    "text": " Anyway, I hope you enjoyed this video. If you like this kind of thing, please like, comment and subscribe. So much love, everybody. I'll see you next time. Thank you."
+  }
+]

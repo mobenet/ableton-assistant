@@ -1,0 +1,90 @@
+[
+  {
+    "start": 0.0,
+    "text": " Let's take a look at how you can record MIDI into clips in Live."
+  },
+  {
+    "start": 5.0,
+    "text": " To start, I'll load a drum rack from my browser onto my first MIDI track."
+  },
+  {
+    "start": 10.0,
+    "text": " The first thing I'll have to do is arm the track, which means it's ready to receive notes from my MIDI input device."
+  },
+  {
+    "start": 17.0,
+    "text": " Before I get started with the recording, there are two things that I'd like to set up, a record quantization and my metronome."
+  },
+  {
+    "start": 23.0,
+    "text": " I'll go to Live's drop-down edit menu and select record quantization using 1 16th note resolution."
+  },
+  {
+    "start": 31.0,
+    "text": " I'll also like to set up my metronome to use it while I'm recording my notes."
+  },
+  {
+    "start": 36.0,
+    "text": " Using the metronome chooser, I'll set my count into 1 bar, I'll set the sound to wood, and finally I'll use the function enable only while recording."
+  },
+  {
+    "start": 47.0,
+    "text": " This allows the metronome to automatically switch on and off when the record is toggled."
+  },
+  {
+    "start": 54.0,
+    "text": " Now I'm ready to record my drum pattern. I'll double click into a slot to create a clip with a length of 1 bar."
+  },
+  {
+    "start": 62.0,
+    "text": " To start recording my drum loop, I'll toggle the session record button."
+  },
+  {
+    "start": 72.0,
+    "text": " So I've recorded my basic drum pattern, but I'd like to do some overdubs and add some more elements."
+  },
+  {
+    "start": 78.0,
+    "text": " To do this, I can simply toggle the session record button again and continue recording into that clip."
+  },
+  {
+    "start": 84.0,
+    "text": " Let's go to track number 2, which is also a MIDI track where I've loaded an instrument rack to play some chords."
+  },
+  {
+    "start": 95.0,
+    "text": " The first thing I'll have to do is arm the track."
+  },
+  {
+    "start": 101.0,
+    "text": " I'll use the metronome to switch on and off the metronome."
+  },
+  {
+    "start": 105.0,
+    "text": " I'll also use the metronome to switch on and off the metronome."
+  },
+  {
+    "start": 109.0,
+    "text": " The first thing I'll have to do is arm the track."
+  },
+  {
+    "start": 114.0,
+    "text": " I can start recording a clip by simply clicking the record button in an empty clip slot in the track."
+  },
+  {
+    "start": 128.0,
+    "text": " To end my recording, I simply hit the clip slot record button again, and the clip will automatically stop recording and start looping."
+  },
+  {
+    "start": 138.0,
+    "text": " If I want to add overdubs to this clip, I'll simply go to my session record button and activate it, and record the overdubs."
+  },
+  {
+    "start": 149.0,
+    "text": " When I finish recording, I'll simply deactivate the session record button."
+  },
+  {
+    "start": 168.0,
+    "text": " Thank you for watching!"
+  }
+]

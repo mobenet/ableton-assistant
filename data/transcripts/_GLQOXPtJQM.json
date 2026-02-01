@@ -1,0 +1,298 @@
+[
+  {
+    "start": 0.0,
+    "text": " Today I'm going to be showing you how to quantize audio in Ableton."
+  },
+  {
+    "start": 12.16,
+    "text": " So this can be really useful if you're recording a lot of vocals or guitars, specifically more"
+  },
+  {
+    "start": 17.72,
+    "text": " things like guitars and instruments that you will want to quantize to make more musically"
+  },
+  {
+    "start": 22.6,
+    "text": " pleasant and more on the grid."
+  },
+  {
+    "start": 24.46,
+    "text": " Now you never want to overdo this because you still want there to be like a human feel,"
+  },
+  {
+    "start": 28.84,
+    "text": " but you can definitely quantize things really quick and easily with audio, something that"
+  },
+  {
+    "start": 33.36,
+    "text": " I didn't find out Ableton could do for a while."
+  },
+  {
+    "start": 36.2,
+    "text": " So I have this loop here with just a simple guitar, drums and some pads."
+  },
+  {
+    "start": 40.68,
+    "text": " Let's go ahead and take a listen and notice how the guitar, this recorded guitar is out"
+  },
+  {
+    "start": 44.48,
+    "text": " of time."
+  },
+  {
+    "start": 60.16,
+    "text": " The whole performance or certain parts seem to happen a little too soon."
+  },
+  {
+    "start": 64.42,
+    "text": " So really quick and easy in Ableton."
+  },
+  {
+    "start": 66.28,
+    "text": " All you got to do is, is you want to turn on your work modes."
+  },
+  {
+    "start": 69.72,
+    "text": " Now complex and complex pro are going to be the two, your two biggest modes to use"
+  },
+  {
+    "start": 73.88,
+    "text": " here mainly because they're just the most accurate representation of the warping."
+  },
+  {
+    "start": 77.67999999999999,
+    "text": " So like I would usually keep it on complex or complex pro."
+  },
+  {
+    "start": 81.76,
+    "text": " I'm going to go ahead and leave it on complex pro."
+  },
+  {
+    "start": 84.18,
+    "text": " Now the first thing you want to do after you've engaged warping is kind of look at your grid"
+  },
+  {
+    "start": 89.16,
+    "text": " and try to make your grid size the smallest it could possibly be for this performance."
+  },
+  {
+    "start": 96.4,
+    "text": " So looking at this performance is pretty simple, right?"
+  },
+  {
+    "start": 99.03999999999999,
+    "text": " I just have chords hitting on like the beginning of each measure."
+  },
+  {
+    "start": 102.39999999999999,
+    "text": " And then there's a couple of other like notes happening on off beats in the measure."
+  },
+  {
+    "start": 107.24,
+    "text": " So what I'm going to do is I'm going to change the grid size here down to something that"
+  },
+  {
+    "start": 112.47999999999999,
+    "text": " makes more sense for quantizing because what we're going to be doing here is we're going"
+  },
+  {
+    "start": 116.6,
+    "text": " to be essentially quantizing every single warp marker that Ableton creates automatically"
+  },
+  {
+    "start": 122.24,
+    "text": " for these transients."
+  },
+  {
+    "start": 124.68,
+    "text": " So basically all you have to do is once you get the grid size to a more reasonable sizing"
+  },
+  {
+    "start": 129.58,
+    "text": " here because you know these are going to snap, right?"
+  },
+  {
+    "start": 132.04000000000002,
+    "text": " They're going to snap either left or right so you wouldn't want this to be you know like"
+  },
+  {
+    "start": 136.04000000000002,
+    "text": " this because then this is only going to snap like to right there."
+  },
+  {
+    "start": 140.04000000000002,
+    "text": " You want it to be able to snap to where it should be musically."
+  },
+  {
+    "start": 143.66,
+    "text": " So this can kind of take a little bit of getting used to but basically like I can tell that"
+  },
+  {
+    "start": 148.48000000000002,
+    "text": " if I have it as this grid size all of these markers are going to be automatically snapping"
+  },
+  {
+    "start": 154.08,
+    "text": " to the right location."
+  },
+  {
+    "start": 155.8,
+    "text": " So all you want to do is click to make sure you're engaged in the audio, press command"
+  },
+  {
+    "start": 160.0,
+    "text": " A to select everything and then the same as quantizing just press command U. And what"
+  },
+  {
+    "start": 165.92000000000002,
+    "text": " that's going to do is that's going to automatically engage all of those work markers and start"
+  },
+  {
+    "start": 170.64000000000001,
+    "text": " to quantize them."
+  },
+  {
+    "start": 171.64000000000001,
+    "text": " Now I have my quantize settings at only 52 percent."
+  },
+  {
+    "start": 176.4,
+    "text": " You can access that by holding shift command U. But if I put this at 100 percent just so"
+  },
+  {
+    "start": 181.76,
+    "text": " we can see this really in action."
+  },
+  {
+    "start": 184.32,
+    "text": " So now you can see that all of those guitar hits that were happening a little too soon"
+  },
+  {
+    "start": 188.79999999999998,
+    "text": " are now just automatically shifted to be exactly where they should be."
+  },
+  {
+    "start": 192.92,
+    "text": " And you can see that sometimes it's not perfect right like I can tell over here that this"
+  },
+  {
+    "start": 197.23999999999998,
+    "text": " is probably wrong."
+  },
+  {
+    "start": 198.4,
+    "text": " So let's go ahead and listen to it."
+  },
+  {
+    "start": 218.08,
+    "text": " So these two just because of where the original markers were like if I come on undo this command"
+  },
+  {
+    "start": 224.8,
+    "text": " Z you can see that because this was so off originally right that this actually snapped"
+  },
+  {
+    "start": 231.48000000000002,
+    "text": " to this grid grid line instead of this one."
+  },
+  {
+    "start": 235.56,
+    "text": " So again that's why you know maybe even making this grid size slightly smaller will make"
+  },
+  {
+    "start": 241.08,
+    "text": " sure that they snap automatically to the right spot since I know this is all basically just"
+  },
+  {
+    "start": 245.20000000000002,
+    "text": " quarter notes or whole notes are in each one of each measure."
+  },
+  {
+    "start": 248.72000000000003,
+    "text": " I can make the grid really big like this and it should be fixed that issue for us."
+  },
+  {
+    "start": 252.8,
+    "text": " So if I go ahead and command U and that already went ahead and fixed those last ones over"
+  },
+  {
+    "start": 259.96000000000004,
+    "text": " here."
+  },
+  {
+    "start": 271.04,
+    "text": " And then this last little hit here it looks like it's also coming in a bit early."
+  },
+  {
+    "start": 277.48,
+    "text": " Now what I would do is that because I don't need any of that."
+  },
+  {
+    "start": 281.5,
+    "text": " I think this work marker is is on the right spot but the actual transient that it picked"
+  },
+  {
+    "start": 288.9,
+    "text": " up was the wrong one."
+  },
+  {
+    "start": 289.9,
+    "text": " I wanted it to move this work this tone."
+  },
+  {
+    "start": 292.46,
+    "text": " So I'm going to do is just hold shift and drag this to bring that transient in line"
+  },
+  {
+    "start": 298.38,
+    "text": " with this work marker."
+  },
+  {
+    "start": 299.38,
+    "text": " So now at the end here and just like that you know quantized and perfectly in time right"
+  },
+  {
+    "start": 308.5,
+    "text": " did not take a lot of effort."
+  },
+  {
+    "start": 310.06,
+    "text": " It really is about finding that grid size the shortcuts for that by the way command"
+  },
+  {
+    "start": 315.18,
+    "text": " to to make your grid size bigger command one to make it smaller and then you can do command"
+  },
+  {
+    "start": 320.54,
+    "text": " three to put turn on triplets and then command four turns on and off the grid."
+  },
+  {
+    "start": 324.86,
+    "text": " But I usually just kind of use come I don't write a lot of triplets so command one and"
+  },
+  {
+    "start": 328.98,
+    "text": " command to find that largest grid size that's possible for your performance."
+  },
+  {
+    "start": 334.98,
+    "text": " And then that way you don't have to do as much work right."
+  },
+  {
+    "start": 337.21999999999997,
+    "text": " I didn't have to go in there and manually move a bunch of transients other than this"
+  },
+  {
+    "start": 340.14,
+    "text": " one over here because of selecting that grid size but it's really that easy."
+  },
+  {
+    "start": 343.82,
+    "text": " I mean obviously this can get more time consuming if you've got a bigger performance but for"
+  },
+  {
+    "start": 348.97999999999996,
+    "text": " the most part you know this is great for quickly getting your stuff in time."
+  }
+]

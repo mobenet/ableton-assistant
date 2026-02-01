@@ -1,0 +1,346 @@
+[
+  {
+    "start": 0.0,
+    "text": " In this video, we'll take an overview of Live's user interface."
+  },
+  {
+    "start": 6.08,
+    "text": " We'll focus on getting accustomed with how to navigate the interface and where to find"
+  },
+  {
+    "start": 10.24,
+    "text": " different parts of the software."
+  },
+  {
+    "start": 11.76,
+    "text": " We won't cover each section in detail as these will be covered in depth in separate"
+  },
+  {
+    "start": 16.28,
+    "text": " videos."
+  },
+  {
+    "start": 17.28,
+    "text": " By the end of this video, you should have a good idea of how to navigate within Live"
+  },
+  {
+    "start": 21.32,
+    "text": " and find different sections of the software."
+  },
+  {
+    "start": 23.72,
+    "text": " Live's user interface is designed to be modular."
+  },
+  {
+    "start": 27.78,
+    "text": " Each section can be hidden and shown as needed using several toggles around the interface."
+  },
+  {
+    "start": 40.84,
+    "text": " One useful area to be aware of when getting started with Live is called the Info View."
+  },
+  {
+    "start": 45.7,
+    "text": " This can be hidden and shown using the toggle in the bottom left."
+  },
+  {
+    "start": 49.74,
+    "text": " The Info View provides information about any part of Live's interface simply by hovering"
+  },
+  {
+    "start": 54.02,
+    "text": " your mouse over that element."
+  },
+  {
+    "start": 56.580000000000005,
+    "text": " As I move my mouse around Live's interface, you'll see that the Info View updates with"
+  },
+  {
+    "start": 60.400000000000006,
+    "text": " information about that section, down to the level of individual buttons and controls,"
+  },
+  {
+    "start": 65.56,
+    "text": " and even mentions keyboard shortcuts when available."
+  },
+  {
+    "start": 70.78,
+    "text": " If you're new to Live, leaving the Info View open is recommended to learn about any interface"
+  },
+  {
+    "start": 74.98,
+    "text": " elements at a glance."
+  },
+  {
+    "start": 76.66,
+    "text": " At the top of Live's interface is the Control Bar, which always remains visible no matter"
+  },
+  {
+    "start": 81.88,
+    "text": " where you are in Live."
+  },
+  {
+    "start": 84.04,
+    "text": " This contains things like your project tempo and time signature, Live's metronome, and"
+  },
+  {
+    "start": 89.12,
+    "text": " the key and scale of currently selected clips."
+  },
+  {
+    "start": 93.76,
+    "text": " In the middle of the Control Bar you'll find the Arrangement Position Indicator, Play,"
+  },
+  {
+    "start": 97.92,
+    "text": " Stop and Record buttons, and several buttons related to recording like MIDI Overdub, Automation"
+  },
+  {
+    "start": 103.02000000000001,
+    "text": " Arm, Capture and Session Record."
+  },
+  {
+    "start": 107.14000000000001,
+    "text": " To the right of this are Arrangement Loop Controls, Loop Start and Loop Length Controls,"
+  },
+  {
+    "start": 112.66,
+    "text": " Controls for Punch In and Punch Out, and the Loop Switch."
+  },
+  {
+    "start": 118.58,
+    "text": " On the right hand side of the Control Bar are Controls for Draw Mode, Computer MIDI"
+  },
+  {
+    "start": 122.94,
+    "text": " Keyboard and Key and MIDI Mapping."
+  },
+  {
+    "start": 127.14,
+    "text": " You can also see your project sample rate and current CPU usage."
+  },
+  {
+    "start": 133.6,
+    "text": " On the left hand side of the interface is the Browser."
+  },
+  {
+    "start": 136.42,
+    "text": " This is where you'll find and load all the instruments, sounds and effects you'll use"
+  },
+  {
+    "start": 139.85999999999999,
+    "text": " in your project."
+  },
+  {
+    "start": 142.02,
+    "text": " The Browser can be toggled using the button in the top left."
+  },
+  {
+    "start": 147.06,
+    "text": " There is an additional toggle to the right of the Browser button to show and hide Live's"
+  },
+  {
+    "start": 150.56,
+    "text": " Tuning and Groove Pool sections."
+  },
+  {
+    "start": 156.14000000000001,
+    "text": " At this point it's worth mentioning that different interface elements are resizable by clicking"
+  },
+  {
+    "start": 160.14000000000001,
+    "text": " and dragging."
+  },
+  {
+    "start": 164.94,
+    "text": " There are also several shortcuts for toggling interface elements."
+  },
+  {
+    "start": 168.34,
+    "text": " These will differ slightly on Mac and PC, but you can always find them by going to the"
+  },
+  {
+    "start": 172.02,
+    "text": " View menu."
+  },
+  {
+    "start": 173.02,
+    "text": " For example, Option Command 5 toggles the Browser on Mac."
+  },
+  {
+    "start": 182.58,
+    "text": " The main section of the interface is where you'll spend most of your time making music."
+  },
+  {
+    "start": 187.18,
+    "text": " Live has two main views that can be toggled using the icons in the top right."
+  },
+  {
+    "start": 191.86,
+    "text": " Currently we're looking at Live's Arrangement View, where you arrange the parts of your"
+  },
+  {
+    "start": 195.02,
+    "text": " song on a timeline."
+  },
+  {
+    "start": 197.66,
+    "text": " The tracks that contain the instruments and sounds in your project run horizontally, and"
+  },
+  {
+    "start": 201.3,
+    "text": " the track header is found on the right hand side."
+  },
+  {
+    "start": 204.66,
+    "text": " Let's click the icon to switch to the Session view."
+  },
+  {
+    "start": 208.42,
+    "text": " In the Session view our tracks are shown vertically as columns."
+  },
+  {
+    "start": 212.14,
+    "text": " The top section of tracks in the Session view shows our clips, the pieces of MIDI and audio"
+  },
+  {
+    "start": 216.46,
+    "text": " in our project."
+  },
+  {
+    "start": 217.46,
+    "text": " At the bottom is the Mixer section."
+  },
+  {
+    "start": 221.82,
+    "text": " Here we see things like track volume, panning, solo, mute and record arm buttons, and send"
+  },
+  {
+    "start": 227.9,
+    "text": " controls if available."
+  },
+  {
+    "start": 230.1,
+    "text": " The mixer can be toggled using the icon at the bottom right."
+  },
+  {
+    "start": 236.22,
+    "text": " The toggle to the right of the mixer icon lets us hide and show different parts of the"
+  },
+  {
+    "start": 239.62,
+    "text": " mixer as needed."
+  },
+  {
+    "start": 244.26,
+    "text": " At the right hand side of the Session view are our return tracks and the main track."
+  },
+  {
+    "start": 250.16,
+    "text": " Return tracks are commonly used for setting up effect sends."
+  },
+  {
+    "start": 253.32,
+    "text": " The main track is where all our tracks are summed together before being sent to our speakers."
+  },
+  {
+    "start": 258.92,
+    "text": " If we switch back to the Arrangement view, you'll see that the Mixer section can also"
+  },
+  {
+    "start": 263.92,
+    "text": " be shown here, including returns and the main track."
+  },
+  {
+    "start": 268.88,
+    "text": " The Arrangement mixer can be resized by clicking and dragging at the top of the mixer."
+  },
+  {
+    "start": 276.56,
+    "text": " At the very bottom of the interface is the Detail view."
+  },
+  {
+    "start": 279.6,
+    "text": " This can be toggled using the two tabs in the bottom right."
+  },
+  {
+    "start": 283.8,
+    "text": " You can either show the Device view, where you see all the instruments and effects for"
+  },
+  {
+    "start": 287.36,
+    "text": " the currently selected track, or the Clip view, where you'll see the contents of the"
+  },
+  {
+    "start": 291.52000000000004,
+    "text": " currently selected clip."
+  },
+  {
+    "start": 293.88,
+    "text": " The Clip view can be resized by clicking and dragging at the top of the view."
+  },
+  {
+    "start": 301.24,
+    "text": " You can also see the Device view and Clip views simultaneously by clicking the toggles"
+  },
+  {
+    "start": 304.92,
+    "text": " next to each tab."
+  },
+  {
+    "start": 308.5,
+    "text": " This will stack with the Mixer view if you have enough screen space."
+  },
+  {
+    "start": 313.5,
+    "text": " Lastly, let's see how to navigate within the Arrangement view."
+  },
+  {
+    "start": 324.3,
+    "text": " Above and below the Arrangement view are the Beat and Time rulers."
+  },
+  {
+    "start": 327.46,
+    "text": " If you hover your mouse over the Beat ruler, it will change to a magnifying glass."
+  },
+  {
+    "start": 333.03999999999996,
+    "text": " You can then click and drag up and down, or left and right, to zoom and pan the Arrangement."
+  },
+  {
+    "start": 340.29999999999995,
+    "text": " You can also use the plus and minus keyboard shortcuts to zoom in and out of your Arrangement."
+  },
+  {
+    "start": 347.65999999999997,
+    "text": " At the top of the Arrangement is the Overview, which shows an overview of all the clips in"
+  },
+  {
+    "start": 351.46,
+    "text": " your Arrangement."
+  },
+  {
+    "start": 353.38,
+    "text": " Click and drag at the bottom of the Arrangement overview to expand its size."
+  },
+  {
+    "start": 358.09999999999997,
+    "text": " You can also click and drag up and down, and left and right within the Arrangement overview"
+  },
+  {
+    "start": 361.98,
+    "text": " to zoom and pan the display."
+  },
+  {
+    "start": 368.3,
+    "text": " Within the Arrangement, click on the toggles next to a track's name to fold and unfold"
+  },
+  {
+    "start": 371.94,
+    "text": " that track."
+  },
+  {
+    "start": 375.62,
+    "text": " Hold Alt or Option and click any of these toggles to fold and unfold all tracks simultaneously."
+  }
+]

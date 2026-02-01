@@ -1,0 +1,394 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey people, what's up? Kay Hart here. We're back and today I wanted to share my process of how I"
+  },
+  {
+    "start": 5.6000000000000005,
+    "text": " take samples and chop and flip them into boom bap style beats. And on that note, let's hop on into"
+  },
+  {
+    "start": 11.36,
+    "text": " Ableton and get started. All right, so I've got my BPM set at 82 for this one and I'm going to drag"
+  },
+  {
+    "start": 15.92,
+    "text": " this loop in that I found on Splice. So this is what the loop sounds like by itself."
+  },
+  {
+    "start": 30.4,
+    "text": " So I'm going to go ahead and drag that sample down here to an empty track."
+  },
+  {
+    "start": 38.96,
+    "text": " And it loads a simpler for me automatically. And what I want to do is I want to warp it."
+  },
+  {
+    "start": 44.08,
+    "text": " So I'm going to hit warp and change that to Complex Pro. And then I'm going to come to"
+  },
+  {
+    "start": 49.68,
+    "text": " slice mode and let's just turn this one off so we don't hear the original. And the best way to"
+  },
+  {
+    "start": 55.84,
+    "text": " make sure that it's warped it correctly is I like to change the slice by down here"
+  },
+  {
+    "start": 60.56,
+    "text": " to beat and quarter notes is fine. And I'll turn my metronome on and I'm just going to"
+  },
+  {
+    "start": 67.52000000000001,
+    "text": " play each slice in time with it to make sure that it lines up."
+  },
+  {
+    "start": 77.92,
+    "text": " So that sounds pretty good. And if you wanted to, you could actually start finding chops this way."
+  },
+  {
+    "start": 86.8,
+    "text": " But what I want to do just to make it a little more interesting,"
+  },
+  {
+    "start": 90.8,
+    "text": " actually, first thing I want to do is take this down maybe"
+  },
+  {
+    "start": 95.84,
+    "text": " like three. So I just changed that down three semitones so it's a little bit lower."
+  },
+  {
+    "start": 100.96000000000001,
+    "text": " And I'm going to change the slice by back to transient. And what that's going to do is it's"
+  },
+  {
+    "start": 106.16,
+    "text": " going to create a few more chops here. Basically anytime it detects kind of a larger transient,"
+  },
+  {
+    "start": 111.84,
+    "text": " a larger transient, it's going to slice it there. And I'm going to drag the sensitivity down from"
+  },
+  {
+    "start": 118.56,
+    "text": " 100 maybe somewhere like here. So let's see if we can find something interesting here."
+  },
+  {
+    "start": 136.24,
+    "text": " All right, so I kind of like that pattern, but you can hear we have some problems here with this."
+  },
+  {
+    "start": 142.4,
+    "text": " And the way we can fix that, I'm going to actually move this back because you can see this actually"
+  },
+  {
+    "start": 147.6,
+    "text": " did not chop very well on that transient. So I'm going to move this back a little bit."
+  },
+  {
+    "start": 152.32,
+    "text": " And I want to try and line this up on the zero here. And what I mean by the zero is this line"
+  },
+  {
+    "start": 157.6,
+    "text": " that's going through here. This is our waveform. And if you want to avoid those clicks and pops"
+  },
+  {
+    "start": 163.12,
+    "text": " that you hear a lot of time, you want to make sure that your chop is lining up right where"
+  },
+  {
+    "start": 169.28,
+    "text": " that waveform is crossing on the zero point. So that should be pretty good. Let's see how"
+  },
+  {
+    "start": 174.4,
+    "text": " that sounds now. Still a little bit. You can actually change this fade out as well."
+  },
+  {
+    "start": 182.8,
+    "text": " All right, doesn't need to be perfect, but that sounds pretty good."
+  },
+  {
+    "start": 185.28,
+    "text": " All right, that's pretty sick. I like that. All right. And you can hear that this sample does have"
+  },
+  {
+    "start": 202.72,
+    "text": " bass in it. I do want to take that out because I'm going to add my own baseline. And what I like"
+  },
+  {
+    "start": 207.76,
+    "text": " to do is take that filter Pro-Q and you don't need Pro-Q. It's just easier because they have this nice"
+  },
+  {
+    "start": 214.88000000000002,
+    "text": " option to hear what you're cutting as you go. So what I'm going to do is I'm just going to play"
+  },
+  {
+    "start": 221.28,
+    "text": " the sample and drag this forward until I start hearing just the bass. And I know that makes it"
+  },
+  {
+    "start": 232.24,
+    "text": " sound a little bit thin without having the bass, but we're going to fill it in later with some"
+  },
+  {
+    "start": 235.92000000000002,
+    "text": " extra stuff. All right. The next thing I like to do is actually just resample that into audio"
+  },
+  {
+    "start": 240.56,
+    "text": " because it's a lot easier to work with rather than having the MIDI chops. So I'm just going to"
+  },
+  {
+    "start": 246.56,
+    "text": " have this audio track set to resampling and hit record and just have that record that. All right."
+  },
+  {
+    "start": 252.96,
+    "text": " So now that I have the main loop, I'm going to go ahead and start adding some drums."
+  },
+  {
+    "start": 257.12,
+    "text": " So I usually like to do hi-hats first and just kind of get a beat down and then add the kick"
+  },
+  {
+    "start": 261.28,
+    "text": " and snare after that. Okay. This hi-hat, I actually want to, I have it transposed down too,"
+  },
+  {
+    "start": 269.20000000000005,
+    "text": " because it's a little too harsh. And then I'm going to actually take this fade out"
+  },
+  {
+    "start": 274.96000000000004,
+    "text": " like that. So it's not as long."
+  },
+  {
+    "start": 283.28000000000003,
+    "text": " All right. And one of my favorite tricks, at least for boom bap and lo-fi hip hop,"
+  },
+  {
+    "start": 288.24,
+    "text": " is to change my quantized settings and bring it like way down, maybe like 35%"
+  },
+  {
+    "start": 293.28,
+    "text": " and quantize it like that."
+  },
+  {
+    "start": 299.03999999999996,
+    "text": " And I might just come in here and turn the random pan on a little bit too."
+  },
+  {
+    "start": 305.76,
+    "text": " Give it a little bit of stereo width. All right. Next, I want to go ahead and add my kick and snare."
+  },
+  {
+    "start": 323.2,
+    "text": " All right. I'm going to like barely quantize that"
+  },
+  {
+    "start": 333.12,
+    "text": " because otherwise it's just going to like kill the groove."
+  },
+  {
+    "start": 339.52,
+    "text": " All right. Honestly, it already killed it. I'm not even going to quantize it."
+  },
+  {
+    "start": 342.71999999999997,
+    "text": " Not going to do it. That's like the biggest part of this type of music is that swing and that groove."
+  },
+  {
+    "start": 351.12,
+    "text": " And you can see how far this is off the grid on some parts. All right. Let's go ahead and add some"
+  },
+  {
+    "start": 358.24,
+    "text": " funky bass. See what key are we in? I don't even know. C sharp minor. We took it down three,"
+  },
+  {
+    "start": 365.28000000000003,
+    "text": " so that would be B flat or A sharp, depending on how you want to look at it."
+  },
+  {
+    "start": 370.96,
+    "text": " If you could suck less, that would be great."
+  },
+  {
+    "start": 392.64,
+    "text": " All right. Let's go ahead and side chain that too."
+  },
+  {
+    "start": 396.08,
+    "text": " All right. The next thing I want to do is make these chops sound a little less thin."
+  },
+  {
+    "start": 407.67999999999995,
+    "text": " So I'm going to go ahead and grab something to layer it with."
+  },
+  {
+    "start": 425.84,
+    "text": " So I actually think the first half of this might work."
+  },
+  {
+    "start": 441.44,
+    "text": " Yeah, definitely not the second half. All right. So let me insert another audio track"
+  },
+  {
+    "start": 447.28,
+    "text": " and actually going to make this like"
+  },
+  {
+    "start": 449.84000000000003,
+    "text": " do that at the start of every bar. See how that sounds."
+  },
+  {
+    "start": 463.12,
+    "text": " That one needs to change pitch. I'm going to come down here."
+  },
+  {
+    "start": 470.08,
+    "text": " Down like five, maybe."
+  },
+  {
+    "start": 473.76,
+    "text": " That sounds sick."
+  },
+  {
+    "start": 480.56,
+    "text": " All right. Let's go ahead and just like arrange this just a little bit."
+  },
+  {
+    "start": 486.56,
+    "text": " So I'm going to go ahead and go to the beginning here and do control"
+  },
+  {
+    "start": 490.0,
+    "text": " I to insert time. And I'm going to say, what is this like four bars? So let's insert"
+  },
+  {
+    "start": 498.56,
+    "text": " four bars for an intro. I'm going to copy back the main section that we have here."
+  },
+  {
+    "start": 504.08,
+    "text": " Maybe the bass too. We need some sort of transition."
+  },
+  {
+    "start": 511.28,
+    "text": " I'm going to find like some weird vocal to throw in there. Let's see."
+  },
+  {
+    "start": 519.92,
+    "text": " Let's take that back to like here."
+  },
+  {
+    "start": 521.6,
+    "text": " Oh, that's real good."
+  },
+  {
+    "start": 525.9200000000001,
+    "text": " Grab. Let's see what else Hazy Days has for like sound effects."
+  },
+  {
+    "start": 537.76,
+    "text": " I think that might be it. Let's see. I dropped that there."
+  },
+  {
+    "start": 544.8000000000001,
+    "text": " Bring the volume down. Yeah, like a fade."
+  },
+  {
+    "start": 547.9200000000001,
+    "text": " Oh, that's real good."
+  },
+  {
+    "start": 551.5200000000001,
+    "text": " And then maybe like a cymbal hit here too."
+  },
+  {
+    "start": 556.8000000000001,
+    "text": " Sure."
+  },
+  {
+    "start": 559.36,
+    "text": " And for like a B section, I could probably just do like"
+  },
+  {
+    "start": 567.12,
+    "text": " you just like chop this section here."
+  },
+  {
+    "start": 570.32,
+    "text": " I'm just going to hold control, cop, hold control and copy it."
+  },
+  {
+    "start": 575.04,
+    "text": " Oh, hold control and copy it and duplicate it one more time."
+  },
+  {
+    "start": 579.92,
+    "text": " I may reverse it for that one."
+  },
+  {
+    "start": 583.12,
+    "text": " All right. That's a pretty solid start. I'm going to go ahead and mix it a little bit,"
+  },
+  {
+    "start": 586.8,
+    "text": " arrange it a little bit more, and I'll play the final beat for you."
+  },
+  {
+    "start": 591.76,
+    "text": " All right. So you get the intro that made, which is the chops and the bass."
+  },
+  {
+    "start": 599.8399999999999,
+    "text": " Oh, that's real good."
+  },
+  {
+    "start": 602.8,
+    "text": " Vocal sample kills it."
+  },
+  {
+    "start": 605.04,
+    "text": " So"
+  },
+  {
+    "start": 614.9599999999999,
+    "text": " just repeat that three bars."
+  },
+  {
+    "start": 617.8399999999999,
+    "text": " You see here that I've dropped everything out except for that main melody."
+  },
+  {
+    "start": 622.0,
+    "text": " I actually have RC 20 on here, automated."
+  },
+  {
+    "start": 629.4399999999999,
+    "text": " Bring it back again."
+  },
+  {
+    "start": 630.72,
+    "text": " And then this B section, you can see here that I just chopped this even more."
+  },
+  {
+    "start": 650.8,
+    "text": " I love it. All right. If you did too, please remember to hit that like button, subscribe"
+  },
+  {
+    "start": 655.6,
+    "text": " if you're not working my way up to a thousand subs, almost there. Help me out."
+  },
+  {
+    "start": 660.5600000000001,
+    "text": " I'm going to see you in the next one. Take care."
+  }
+]

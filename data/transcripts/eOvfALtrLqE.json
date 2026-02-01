@@ -1,0 +1,774 @@
+[
+  {
+    "start": 0.0,
+    "text": " What's up all? John with EDM Prod here and today we are diving deep into drum rack. By the end of"
+  },
+  {
+    "start": 5.2,
+    "text": " this video you're going to have a complete understanding of every aspect of drum rack"
+  },
+  {
+    "start": 9.76,
+    "text": " including a few less than obvious features that make this instrument even more powerful"
+  },
+  {
+    "start": 14.4,
+    "text": " than it appears to be. Let's jump on in. So first off, what is drum rack? Well you can think of it"
+  },
+  {
+    "start": 19.76,
+    "text": " as basically a collection of samplers, up to 128 of them. Each one of them placed on one of these"
+  },
+  {
+    "start": 25.76,
+    "text": " square pads we see right here. Each of these samplers responds to a single incoming MIDI note,"
+  },
+  {
+    "start": 30.48,
+    "text": " so when you play that MIDI note the drum rack knows to trigger the sampler that's on that pad"
+  },
+  {
+    "start": 36.0,
+    "text": " and play that sound back. Let's just jump on in here and I want to show you how you can load up"
+  },
+  {
+    "start": 40.800000000000004,
+    "text": " one of the core kits which is a pre-made kit that comes with Ableton. If you navigate in your browser"
+  },
+  {
+    "start": 46.400000000000006,
+    "text": " over to drums you should see the 505, 606, 707 core kits. Double click one of these to load it"
+  },
+  {
+    "start": 53.04,
+    "text": " and you'll be presented with a basic kit, usually with 16 different sounds, one on each one of these"
+  },
+  {
+    "start": 58.48,
+    "text": " pads. Each of these drum sounds can be previewed either by clicking the play button that's on each pad"
+  },
+  {
+    "start": 66.16,
+    "text": " or by playing on your MIDI controller the key associated with each drum pad."
+  },
+  {
+    "start": 76.48,
+    "text": " When you play a MIDI note to trigger these drum sounds you'll see over here in this little side"
+  },
+  {
+    "start": 81.12,
+    "text": " bar a square light up which is associated with the incoming MIDI note that you're playing."
+  },
+  {
+    "start": 86.96000000000001,
+    "text": " This lets you know if you're playing too low or too high in which case you could shift the octave"
+  },
+  {
+    "start": 94.16000000000001,
+    "text": " up or down to get to the section that contains these samples here. If you find yourself looking"
+  },
+  {
+    "start": 99.52000000000001,
+    "text": " at a drum rack with no samples and you're wondering what's going on all you have to do is click and"
+  },
+  {
+    "start": 104.16,
+    "text": " drag up or down over here in this side bar to get to the section with the lit squares. Every time we"
+  },
+  {
+    "start": 110.4,
+    "text": " have one of these highlighted gray squares that means that there is a sample on that square. If"
+  },
+  {
+    "start": 115.44000000000001,
+    "text": " you just simply click and drag up and down you move in groups of four but if you hold command"
+  },
+  {
+    "start": 120.48,
+    "text": " or control then you can move one row at a time up or down like that. For most of these kits the"
+  },
+  {
+    "start": 126.80000000000001,
+    "text": " default lowest pad is going to be C1 but if you're not sure and you'd like to see which note is"
+  },
+  {
+    "start": 133.84,
+    "text": " assigned to each one of these pads all you have to do is come over here and click this little chain"
+  },
+  {
+    "start": 138.0,
+    "text": " button and then click the I O button that appears underneath. When you click the pad it'll show you"
+  },
+  {
+    "start": 144.96,
+    "text": " the chain associated with that pad and under this row that says receive you'll see the note that"
+  },
+  {
+    "start": 150.88,
+    "text": " this drum pad is listening for to play the sample back. If you'd like to switch this let's say I"
+  },
+  {
+    "start": 155.68,
+    "text": " want to make this note C3 instead of C1 I can click it scroll down to C3 and all of a sudden"
+  },
+  {
+    "start": 164.72,
+    "text": " our kick disappeared. Where did it go? Well it didn't really disappear it just got moved"
+  },
+  {
+    "start": 168.64,
+    "text": " up higher because each of these squares represents an incoming midi note so therefore it moved the"
+  },
+  {
+    "start": 173.6,
+    "text": " bass drum here onto C3. You can also click and drag this around like I just did to move it to"
+  },
+  {
+    "start": 179.51999999999998,
+    "text": " any incoming midi note and now if I play C3 I can trigger that kick drum. To move it back to where"
+  },
+  {
+    "start": 186.72,
+    "text": " it was click and drag over into the side which will allow you to scroll up and down in blocks of"
+  },
+  {
+    "start": 192.64,
+    "text": " four and then just drag it back onto the original pad. More on this input output section later. For"
+  },
+  {
+    "start": 198.07999999999998,
+    "text": " now let's close it up and I want to show you how to make a drum pattern now that we've loaded up"
+  },
+  {
+    "start": 203.44,
+    "text": " our kit. On your new drum rack channel create a new midi clip by highlighting a section of time"
+  },
+  {
+    "start": 208.0,
+    "text": " holding shift command and pressing M. Now we can see our piano roll and when you have a drum rack"
+  },
+  {
+    "start": 213.6,
+    "text": " on a piano roll what you end up seeing is not every single note like you normally would but"
+  },
+  {
+    "start": 218.0,
+    "text": " instead just the note that has an associated chain containing a sample. All of the samples"
+  },
+  {
+    "start": 222.4,
+    "text": " are labeled right here and to program our kick all we have to do is just double click a few in"
+  },
+  {
+    "start": 229.68,
+    "text": " like that. Here's our snare sound which we can hear if we press this little"
+  },
+  {
+    "start": 234.0,
+    "text": " headphone button and click the note associated with it. We'll put a snare on two and four"
+  },
+  {
+    "start": 242.08,
+    "text": " and we have a closed hat. I'll put this on every eighth note."
+  },
+  {
+    "start": 248.0,
+    "text": " Now it's really amazing that Live has all these pre-built kits for you and if you've downloaded"
+  },
+  {
+    "start": 253.52,
+    "text": " any of the packs here there's a ton more that aren't just the immediate core kits that come with"
+  },
+  {
+    "start": 258.72,
+    "text": " Live. So this is a great way to get started and get making a beat very quickly but let's dive into"
+  },
+  {
+    "start": 263.68,
+    "text": " making our own drum kit from scratch. To add a blank drum rack all you have to do is go to the"
+  },
+  {
+    "start": 268.96,
+    "text": " drums section in the browser and at the top you're going to find the drum kit. Now you can see that"
+  },
+  {
+    "start": 276.16,
+    "text": " and at the top you're going to find the drum rack. You can drag and drop that onto your"
+  },
+  {
+    "start": 281.04,
+    "text": " MIDI channel and you'll be presented with a blank drum rack. Another way to create a drum"
+  },
+  {
+    "start": 285.76,
+    "text": " rack is to right click the header of an existing sampler or simpler and choose group to drum rack"
+  },
+  {
+    "start": 292.16,
+    "text": " from the menu. That will automatically place that sample on note C1 in a drum rack. To add a sample"
+  },
+  {
+    "start": 300.64,
+    "text": " to this drum rack all we have to do is navigate to what we want. Let's just go ahead and find a nice"
+  },
+  {
+    "start": 304.48,
+    "text": " kick. Here's one from the EDM starter kit sample pack and by the way all of these sample packs you"
+  },
+  {
+    "start": 310.64000000000004,
+    "text": " see here are available for free at edmprod.com. Go check it out there's a link in the description"
+  },
+  {
+    "start": 316.16,
+    "text": " of this video that'll take you right over to them. It's a nice chunky kick. I'll go ahead and throw"
+  },
+  {
+    "start": 321.04,
+    "text": " this on C1 and we're going to find maybe a clap and a hat. A nice tight hat. Put the closed hat"
+  },
+  {
+    "start": 329.52,
+    "text": " right here and an open hat right here. Now you have our kick"
+  },
+  {
+    "start": 336.88,
+    "text": " and hats. Now the really cool thing about this is that you're not limited to just throwing samples"
+  },
+  {
+    "start": 341.35999999999996,
+    "text": " on here. You can also throw instruments. Ableton's got these pretty awesome drum synths I like to use"
+  },
+  {
+    "start": 346.32,
+    "text": " a lot. Let's just drag a snare onto here and exactly the same way that a sample would be"
+  },
+  {
+    "start": 354.08,
+    "text": " dropped onto a pad to create a sampler or a simpler. Dropping on one of these synths"
+  },
+  {
+    "start": 358.72,
+    "text": " simply throws that synth onto this pad. You also throw third-party plugins on there. For example,"
+  },
+  {
+    "start": 364.32,
+    "text": " kick three or any VST that you like. You can also apply effects to each of these on a chain by chain"
+  },
+  {
+    "start": 372.56,
+    "text": " basis or a sound by sound basis. Let's say for example I want a little reverb on this clap sound."
+  },
+  {
+    "start": 377.84,
+    "text": " That's as easy as finding a reverb that you like and dragging it on top of one of these pads."
+  },
+  {
+    "start": 384.23999999999995,
+    "text": " This clap has this hybrid reverb applied to it."
+  },
+  {
+    "start": 391.52,
+    "text": " But none of the other sounds have this reverb. Maybe you want a delay on this snare,"
+  },
+  {
+    "start": 397.12,
+    "text": " but none of the other sounds. Drag and drop a delay and there we go. In this way, a drum rack"
+  },
+  {
+    "start": 403.76,
+    "text": " is basically like working with a bunch of individual tracks as you would over here. If you're"
+  },
+  {
+    "start": 409.12,
+    "text": " just putting them on audio tracks or individual MIDI tracks over in your main arrangement view"
+  },
+  {
+    "start": 413.92,
+    "text": " section here. It allows us to tweak each one of these individually within the drum rack."
+  },
+  {
+    "start": 418.88,
+    "text": " Let's dive into the mixer section here. If we click the show high chain list, that's going to"
+  },
+  {
+    "start": 423.76000000000005,
+    "text": " show us all of the chains and a bunch of basic mixer controls. We have the volume for each one"
+  },
+  {
+    "start": 428.96000000000004,
+    "text": " of these individual chains, panning, mute, and solo. You can also hit tab to switch over to session"
+  },
+  {
+    "start": 435.84,
+    "text": " view. Click this little drop down menu right here on the drum rack and you'll be presented with each"
+  },
+  {
+    "start": 441.91999999999996,
+    "text": " of these individual channels, including all of the effects that are on that channel. From here,"
+  },
+  {
+    "start": 447.44,
+    "text": " you can go ahead and mix all of these using the faders. I want to jump back over into the I O input"
+  },
+  {
+    "start": 453.52,
+    "text": " output section that I briefly talked about earlier. Click this I O button and we're now presented with"
+  },
+  {
+    "start": 458.88,
+    "text": " receive, play, and choke options. So as I mentioned earlier, receive is the MIDI note that that chain"
+  },
+  {
+    "start": 465.76,
+    "text": " is listening for to trigger the sound that's on that chain. But play is the note that will be sent"
+  },
+  {
+    "start": 472.64,
+    "text": " to the instrument. So for example, with this clap sound, it's listening for D sharp one, and then"
+  },
+  {
+    "start": 478.96,
+    "text": " it's going to send note C three to this simpler device. The reason why it defaults to C three is"
+  },
+  {
+    "start": 487.12,
+    "text": " because all of the samplers in Ableton use C three as the default note that will play the sample back"
+  },
+  {
+    "start": 495.12,
+    "text": " on its original pitch. But that doesn't mean it has to be C three. You could go ahead and raise this"
+  },
+  {
+    "start": 501.6,
+    "text": " or lower it."
+  },
+  {
+    "start": 505.2,
+    "text": " And that will play higher or lower notes as it sends higher values to the sampler or lower values to"
+  },
+  {
+    "start": 511.6,
+    "text": " the sampler. We also have choke groups. So when a sample is assigned to a choke group, what that"
+  },
+  {
+    "start": 516.64,
+    "text": " means is it's only going to allow one of the samples on that choke group to play at a time."
+  },
+  {
+    "start": 522.08,
+    "text": " Let me give you an example. I'm going to go ahead and put the open hat and the closed hat on choke"
+  },
+  {
+    "start": 527.12,
+    "text": " group one. If I play the open hat and then immediately play the closed hat after it, the closed hat will"
+  },
+  {
+    "start": 534.24,
+    "text": " choke the open hat and cut it off. Without the choke group, they're both going to kind of blend and play"
+  },
+  {
+    "start": 542.0,
+    "text": " over each other. We can hear that the closed hat is not choking off the open hat. This is most commonly"
+  },
+  {
+    "start": 550.16,
+    "text": " done with high hats because on an actual drum kit, the open and closed set is actually the same"
+  },
+  {
+    "start": 555.04,
+    "text": " piece of kit. And because it's the same instrument, you can really only get either closed or open hat,"
+  },
+  {
+    "start": 559.8399999999999,
+    "text": " which is why the hats are one of the more common ones. But you can do this with any of these sounds."
+  },
+  {
+    "start": 564.3199999999999,
+    "text": " And it's also important to note if you are triggering these with MIDI and you play both of"
+  },
+  {
+    "start": 570.3199999999999,
+    "text": " them together at the same time, priority goes to the higher MIDI note. But if I were to come over"
+  },
+  {
+    "start": 576.48,
+    "text": " here and swap these instead of having this on F, I'll put it on G. Now we're going to hear the open hat"
+  },
+  {
+    "start": 585.28,
+    "text": " because the G is higher than F sharp. I also want to note that any one of these chains can be set"
+  },
+  {
+    "start": 591.36,
+    "text": " to accept all incoming MIDI notes, which is really useful if you want to have a pitched instrument"
+  },
+  {
+    "start": 595.6,
+    "text": " in with your drum rack. So I just threw an operator on here. And if I click on the receive,"
+  },
+  {
+    "start": 601.12,
+    "text": " I can scroll all the way to the top and set this to all notes. Now this operator is not assigned"
+  },
+  {
+    "start": 607.76,
+    "text": " to any one of these pads, but instead can be played like a normal instrument within the drum rack."
+  },
+  {
+    "start": 616.96,
+    "text": " So moving on to one of the more powerful, somewhat hidden features within drum rack is the fact that"
+  },
+  {
+    "start": 621.76,
+    "text": " we can set up to six return channels with effects in here. To access this, all you have to do is"
+  },
+  {
+    "start": 626.64,
+    "text": " click this little button here with an R and you're going to be presented with a new box that says"
+  },
+  {
+    "start": 631.6,
+    "text": " drop audio effects here. Let's grab a reverb and throw that down here. And as soon as you add an"
+  },
+  {
+    "start": 636.56,
+    "text": " effect, the little S button will be able to be clicked. This now shows you all of your sends."
+  },
+  {
+    "start": 641.92,
+    "text": " Let's add one more effect in here, a delay. So we have send A and send B. I want to send a little"
+  },
+  {
+    "start": 648.16,
+    "text": " bit of the snare to send A. Now we have some reverb on that snare and also in the collapse of the"
+  },
+  {
+    "start": 656.24,
+    "text": " delay. And maybe we'll throw some of the hats to the reverb as well. You can also use the return"
+  },
+  {
+    "start": 664.08,
+    "text": " chains to sum together a few different sounds and apply the same processing to all of them."
+  },
+  {
+    "start": 670.08,
+    "text": " So if I throw a glue compressor down here, over here where it says audio two, I can set this to,"
+  },
+  {
+    "start": 675.6,
+    "text": " instead of rack output, be the glue compressor. So the entirety of this sound is being sent through"
+  },
+  {
+    "start": 682.72,
+    "text": " this chain right here. Let's add the snare to this as well."
+  },
+  {
+    "start": 690.0,
+    "text": " And now we can dial in some compression on this."
+  },
+  {
+    "start": 696.08,
+    "text": " And now we can add some compression to the sum of these two channels right here. The output of the"
+  },
+  {
+    "start": 701.0400000000001,
+    "text": " glue compressor then gets sent to the rack output, but it doesn't necessarily have to get sent to the"
+  },
+  {
+    "start": 705.6800000000001,
+    "text": " rack output. You can also send the outputs of any of your return channels in the drum rack"
+  },
+  {
+    "start": 711.28,
+    "text": " to any of the return channels that you have in your project. This allows you to send your drum"
+  },
+  {
+    "start": 717.36,
+    "text": " rack sounds through the same return channels that you may be sending the synths, vocals,"
+  },
+  {
+    "start": 722.48,
+    "text": " any other sound in your project through. So they all have the same kind of processing on them."
+  },
+  {
+    "start": 726.88,
+    "text": " I'm going to delete these and show you how that works. It's getting a little bit cluttered here."
+  },
+  {
+    "start": 731.1999999999999,
+    "text": " So if I right click in here, I can choose create an empty return chain. So all this is doing is"
+  },
+  {
+    "start": 736.64,
+    "text": " routing audio through. It won't have any effect because there's no effect on the sound,"
+  },
+  {
+    "start": 741.1999999999999,
+    "text": " but I can send this audio to a long verb, which is my one return chain I have over here."
+  },
+  {
+    "start": 747.6,
+    "text": " What this means is I can now send individual sounds through my long reverb."
+  },
+  {
+    "start": 756.08,
+    "text": " If I had other sounds in this project, I might be sending them through this as well. And now they're"
+  },
+  {
+    "start": 759.84,
+    "text": " all going to be using the same reverb sound. Let's close up the IO section and take a look"
+  },
+  {
+    "start": 764.56,
+    "text": " at some new sounds I added in here. Shaker one, two, and three."
+  },
+  {
+    "start": 769.5999999999999,
+    "text": " I added these three in to show you how you can nest sounds together within the drum rack. What"
+  },
+  {
+    "start": 774.7199999999999,
+    "text": " I'm going to do is highlight all three of these chains and press command or control. If you're on"
+  },
+  {
+    "start": 781.28,
+    "text": " a PC G, what this has done is it groups these as a drum rack within the drum rack. I'll press"
+  },
+  {
+    "start": 788.0799999999999,
+    "text": " command R and name this shakers. What this allows me to do is apply processing to all three of these"
+  },
+  {
+    "start": 794.32,
+    "text": " together without having to use three copies of an EQ, for example. Let me grab an EQ eight and"
+  },
+  {
+    "start": 799.84,
+    "text": " just drop it directly on the shakers chain. Now each of these are going to be processed by the same EQ."
+  },
+  {
+    "start": 811.6,
+    "text": " Currently, the way this is set up is that each of these shakers are still responding to one"
+  },
+  {
+    "start": 815.7600000000001,
+    "text": " incoming mini note each G sharp, A and B flat. But if you open up your IO section, we can now"
+  },
+  {
+    "start": 823.76,
+    "text": " set the receive to just a single note. Let's say for example, that G sharp one. Now all three of"
+  },
+  {
+    "start": 829.76,
+    "text": " these shakers are going to be triggered simultaneously when I press G sharp. We're not getting any sound"
+  },
+  {
+    "start": 835.76,
+    "text": " yet. That's because within the drum rack inside the drum rack, we have to hit the IO button and"
+  },
+  {
+    "start": 840.72,
+    "text": " set each of these to receive from in this case, note C three, because this chain is receiving"
+  },
+  {
+    "start": 847.68,
+    "text": " G sharp one and sending C three and it's sending C three to this drum rack. So now we have to set"
+  },
+  {
+    "start": 852.9599999999999,
+    "text": " this to listen to C three. Otherwise, it won't play back these samples. Now we're getting all"
+  },
+  {
+    "start": 862.7199999999999,
+    "text": " three of these samples playing when I hit one note. If you don't want to go through this whole"
+  },
+  {
+    "start": 866.3199999999999,
+    "text": " process of assigning and reassigning incoming and outgoing MIDI notes, then there's actually"
+  },
+  {
+    "start": 871.5999999999999,
+    "text": " a different way you can do this. All I have is one single shaker. Now what I can do instead"
+  },
+  {
+    "start": 877.6,
+    "text": " is group the instrument itself. What this does is create an instrument rack inside the drum"
+  },
+  {
+    "start": 883.4399999999999,
+    "text": " rack and I can drop extra shaker sounds here and now all of these shakers will be triggered"
+  },
+  {
+    "start": 889.6,
+    "text": " when I click this instrument rack. So I think this is a little bit of a faster way of doing it. Once"
+  },
+  {
+    "start": 895.04,
+    "text": " you start stacking up a lot of sounds like this, it can start to get a little bit difficult to"
+  },
+  {
+    "start": 899.36,
+    "text": " edit all of these. Let's say for example, we need to turn the volume of all three of these up."
+  },
+  {
+    "start": 904.24,
+    "text": " They're all at negative 12 right now. Well, instead of going in here and typing negative six,"
+  },
+  {
+    "start": 909.28,
+    "text": " negative six, and so on all the way through, what you can do is actually on just one of them,"
+  },
+  {
+    "start": 916.0,
+    "text": " type the volume you want, right click and choose copy value to siblings. What that will do is it"
+  },
+  {
+    "start": 923.76,
+    "text": " will copy that value to each of the chains that are inside the rack. Another example is if we want"
+  },
+  {
+    "start": 930.16,
+    "text": " to pitch this up by three semitones, you can right click and choose copy value to siblings and now"
+  },
+  {
+    "start": 936.7199999999999,
+    "text": " we've transposed it up by three semitones. So the copy value to siblings is a great,"
+  },
+  {
+    "start": 941.76,
+    "text": " great way to quickly make changes to groups of samples and instruments like this. I saved"
+  },
+  {
+    "start": 947.36,
+    "text": " my best trick for last. Before I wrap up here, I want to show you a really excellent way for you"
+  },
+  {
+    "start": 952.88,
+    "text": " to set up what I call kind of an infinite drum rack. Fundamentally, what it is is a way for you"
+  },
+  {
+    "start": 957.92,
+    "text": " to use a drum rack to quickly demo different sounds to choose the right one. So let's go"
+  },
+  {
+    "start": 963.76,
+    "text": " ahead and make our drum rack. And to make this happen, we have to use a sampler, not a simpler."
+  },
+  {
+    "start": 968.3199999999999,
+    "text": " I'll drag my sampler onto one of these pads here. Now the sampler can contain up to 128 different"
+  },
+  {
+    "start": 975.04,
+    "text": " samples. All I have to do is find the samples that I want and drag and drop them into the sampler."
+  },
+  {
+    "start": 980.24,
+    "text": " And I can either drop them into this zone section, which I get by clicking the little"
+  },
+  {
+    "start": 984.88,
+    "text": " expansion arrow, or you could just drop them directly onto where it says drop sample here."
+  },
+  {
+    "start": 990.72,
+    "text": " I'm going to throw 128 different snares in here. All right, I just dropped 119 in. So that means I"
+  },
+  {
+    "start": 996.72,
+    "text": " have to add nine more. We just grab nine more here, seven, eight, nine. So once you have your"
+  },
+  {
+    "start": 1002.48,
+    "text": " 128 samples loaded into the sampler, click up here at the top where it says selector. This is"
+  },
+  {
+    "start": 1008.08,
+    "text": " where you can assign each of these samples to a single number. That way you can use the chain"
+  },
+  {
+    "start": 1013.12,
+    "text": " selector to scroll through all 128 samples and demo them. Click the very top sample, scroll to"
+  },
+  {
+    "start": 1020.08,
+    "text": " the bottom, hold shift and click the bottom one to select all 128. Right click and choose distribute"
+  },
+  {
+    "start": 1026.32,
+    "text": " ranges equally. This is assigned one sample to one number from zero to 127 for 128 total samples."
+  },
+  {
+    "start": 1033.52,
+    "text": " If you right click this little blue rectangle up here and choose a map to macro one, you can now"
+  },
+  {
+    "start": 1040.0,
+    "text": " use this macro to scroll through individual samples. Go ahead and rename this snare and"
+  },
+  {
+    "start": 1046.8799999999999,
+    "text": " you can go ahead and close your zone selector. I threw a little beat together here to demo this."
+  },
+  {
+    "start": 1055.36,
+    "text": " And as I play this, what I'm going to do is move this macro around"
+  },
+  {
+    "start": 1059.28,
+    "text": " so you can hear how we're previewing a bunch of different snares."
+  },
+  {
+    "start": 1062.24,
+    "text": " Now if you make one of these for each one of these 16 pads, so you have 128 different kick samples,"
+  },
+  {
+    "start": 1068.3999999999999,
+    "text": " 128 different hat samples, 128 different open hat samples, what this does is create a drum rack,"
+  },
+  {
+    "start": 1075.1999999999998,
+    "text": " which is basically infinite. Here's an example of one that I made a long time ago. I made like eight"
+  },
+  {
+    "start": 1081.28,
+    "text": " of these preloaded drum racks and this allows me to hit the random buttons. So I can go ahead and"
+  },
+  {
+    "start": 1087.12,
+    "text": " make like eight of these preloaded drum racks and this allows me to hit the random button and"
+  },
+  {
+    "start": 1092.08,
+    "text": " randomize all of these different samplers. Each one of these is loaded up with 128 different options,"
+  },
+  {
+    "start": 1097.6,
+    "text": " which allows me to quickly scroll through just tons of different options for drum kits."
+  },
+  {
+    "start": 1102.88,
+    "text": " If you find one you like, all you have to do is right click that macro, choose exclude macro from"
+  },
+  {
+    "start": 1107.68,
+    "text": " randomization. And now whenever you click the random button, that macro stays on the drum sound"
+  },
+  {
+    "start": 1112.88,
+    "text": " that you found, allowing you to continually scroll through all of your samples to find different"
+  },
+  {
+    "start": 1117.2800000000002,
+    "text": " combinations that work for you."
+  },
+  {
+    "start": 1132.4,
+    "text": " Using drum racks in this way starts to really show you how incredibly powerful these instruments are."
+  },
+  {
+    "start": 1139.92,
+    "text": " Hope you found this helpful. Thanks for watching."
+  }
+]

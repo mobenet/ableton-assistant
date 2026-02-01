@@ -1,0 +1,134 @@
+[
+  {
+    "start": 0.0,
+    "text": " MIDI quantization in clips allows you to make small or large corrections to"
+  },
+  {
+    "start": 5.46,
+    "text": " timing of notes that have been recorded in live. In this video we're going to"
+  },
+  {
+    "start": 10.620000000000001,
+    "text": " take a look at how you can use MIDI quantization. In track one I have a drum"
+  },
+  {
+    "start": 16.72,
+    "text": " loop playing from a clip that I recorded earlier. Let's expand the detail view to"
+  },
+  {
+    "start": 22.78,
+    "text": " have a look at the notes recorded. As you can see most of the notes are slightly"
+  },
+  {
+    "start": 30.78,
+    "text": " behind in their timing according to the grid. So to correct the timing of"
+  },
+  {
+    "start": 36.06,
+    "text": " individual notes I can simply click and hold on the note and move that closer to"
+  },
+  {
+    "start": 40.78,
+    "text": " the grid. This is a great quantizing method to use if you only have a few"
+  },
+  {
+    "start": 46.62,
+    "text": " notes that need slight corrections in their timing. However if I want to"
+  },
+  {
+    "start": 55.059999999999995,
+    "text": " quantize several MIDI notes at the same time within a clip then there's a much"
+  },
+  {
+    "start": 59.28,
+    "text": " more efficient method to use. So let's start another clip and have a look at"
+  },
+  {
+    "start": 62.54,
+    "text": " this. You can apply the quantization to a selection or the entire clip. In this"
+  },
+  {
+    "start": 68.38,
+    "text": " case I'll apply it to the entire clip. Rather than moving the individual notes"
+  },
+  {
+    "start": 73.1,
+    "text": " this time I'll right-click and go to quantize settings. The first setting"
+  },
+  {
+    "start": 78.3,
+    "text": " quantize to allows me to set the resolution of the quantization. Adjust"
+  },
+  {
+    "start": 86.3,
+    "text": " note allows me to apply quantization to the start or the end or even both the"
+  },
+  {
+    "start": 91.06,
+    "text": " start and end of my MIDI notes. The amount slider allows me to select by how"
+  },
+  {
+    "start": 98.02,
+    "text": " much I'd like the quantization to affect the notes. 100% being full"
+  },
+  {
+    "start": 102.97999999999999,
+    "text": " quantization and 0% being no quantization. Once I click OK all of the"
+  },
+  {
+    "start": 109.3,
+    "text": " notes will be quantized as you can see in the detail view and you can also hear"
+  },
+  {
+    "start": 113.53999999999999,
+    "text": " in the feel of the rhythm. In the next clip I'll apply quantization with a"
+  },
+  {
+    "start": 125.58,
+    "text": " slightly lower amount to see what happens. In this clip I'll right-click"
+  },
+  {
+    "start": 133.74,
+    "text": " and go to quantize settings and rather than set the quantize to 100% I'll set"
+  },
+  {
+    "start": 138.7,
+    "text": " it to 35 and then apply it to the clip. In this clip the MIDI notes weren't"
+  },
+  {
+    "start": 145.38,
+    "text": " moved as much as in the previous clip and you can also hear that the feeling of"
+  },
+  {
+    "start": 149.7,
+    "text": " the actual original groove hasn't been so strongly corrected. By experimenting"
+  },
+  {
+    "start": 160.26,
+    "text": " with the quantization amount you can find a good balance between the original"
+  },
+  {
+    "start": 165.22,
+    "text": " timing and making minor corrections where necessary."
+  },
+  {
+    "start": 169.57999999999998,
+    "text": " The third method of quantization is to use quantization while recording your"
+  },
+  {
+    "start": 174.14,
+    "text": " MIDI notes. To do this go to the edit menu and select record quantization. Here"
+  },
+  {
+    "start": 181.1,
+    "text": " you can choose the resolution of quantization you'd like to apply while"
+  },
+  {
+    "start": 184.57999999999998,
+    "text": " recording your notes. Once this is selected all notes that are recorded in"
+  },
+  {
+    "start": 189.26,
+    "text": " clips will be quantized as they're recorded."
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends! So Ableton just released their 12.2 update and it's incredible. There are so many"
+  },
+  {
+    "start": 5.44,
+    "text": " awesome tools to mess with, but in this video we're going to take a deep dive into the newly"
+  },
+  {
+    "start": 9.84,
+    "text": " updated auto filter. It's incredible. Let's check it out. Okay, so what better to flex a filter than"
+  },
+  {
+    "start": 15.120000000000001,
+    "text": " a really squirpy bass sound, right? All right, so let's load up the new auto filter. And yeah,"
+  },
+  {
+    "start": 23.12,
+    "text": " as you can see the interface is completely different. We've got these beautiful visualizations now."
+  },
+  {
+    "start": 27.68,
+    "text": " You can really see what's going on in here. Now, of course, you've got your cutoff frequency and"
+  },
+  {
+    "start": 33.6,
+    "text": " this is the main control. This is the thing that all the modulators interface with and the main"
+  },
+  {
+    "start": 37.76,
+    "text": " thing that you're going to be messing with. But that's the same. The other thing that's the same,"
+  },
+  {
+    "start": 41.04,
+    "text": " of course, is your resonance and then you can choose between a 12 or a 24 decibel slope"
+  },
+  {
+    "start": 46.08,
+    "text": " on your filters. But once you click on this down menu, okay, all of a sudden we can see a bunch of"
+  },
+  {
+    "start": 51.6,
+    "text": " new filter types. Okay, that's the first thing I want to point out. The next thing I want to show"
+  },
+  {
+    "start": 55.36,
+    "text": " you is over here on the output section and this is what's so exciting about this. You can drive"
+  },
+  {
+    "start": 60.96,
+    "text": " any one of these four, what they call circuit types. We have our state variable filter and then"
+  },
+  {
+    "start": 65.76,
+    "text": " all these other filter circuit types and they interface with the resonance and the drive in"
+  },
+  {
+    "start": 71.36,
+    "text": " different ways. And of course the filter sounds different too. So this is really great. And what's"
+  },
+  {
+    "start": 75.12,
+    "text": " so awesome about this is that now we have a clip mode. So similar to glue compressor, you can now"
+  },
+  {
+    "start": 79.92,
+    "text": " drive the crap out of this."
+  },
+  {
+    "start": 100.0,
+    "text": " And it doesn't matter. You're not going to pass zero, right? That's so awesome. Okay, so I've got"
+  },
+  {
+    "start": 104.56,
+    "text": " my drive all the way up here. Let's try this DFM mode. Speaking of which, with the drive, this is"
+  },
+  {
+    "start": 109.36,
+    "text": " really cool. You can just get some wild distortion tones."
+  },
+  {
+    "start": 123.76,
+    "text": " So clip is awesome. Essentially it adds a soft clipper to the output stage preventing"
+  },
+  {
+    "start": 128.16,
+    "text": " the, you know, just the signal from taking off and blowing your head off, right? And this is"
+  },
+  {
+    "start": 131.6,
+    "text": " a really useful feature. And then of course the other feature, I don't know if you noticed,"
+  },
+  {
+    "start": 134.72,
+    "text": " but I turned this down a little bit, right? So I can volume match my initial signal. So here's"
+  },
+  {
+    "start": 138.8,
+    "text": " how loud my initial signal was. Much quieter, right?"
+  },
+  {
+    "start": 147.20000000000002,
+    "text": " What's so nice about this is that I can compensate for how much drive I'm driving into the filter"
+  },
+  {
+    "start": 151.60000000000002,
+    "text": " right here inside of AutoFilter. Until this point, AutoFilter didn't have this feature."
+  },
+  {
+    "start": 156.08,
+    "text": " So if you were driving the filter really hard, you had to use like a utility or a compressor"
+  },
+  {
+    "start": 160.24,
+    "text": " or something else after it to kind of like compensate for that. So this is just so great"
+  },
+  {
+    "start": 164.32,
+    "text": " now. So these circuit types work for all of the filter modes until you get to DJ. But before we"
+  },
+  {
+    "start": 169.12,
+    "text": " get there, I want to show you something. Let's go to morph real quick. Let's isolate one of"
+  },
+  {
+    "start": 173.68,
+    "text": " these harmonics down low. Okay. Something that could be really fun here with this beautiful"
+  },
+  {
+    "start": 184.88,
+    "text": " resonant sound that we've got here is to follow it with key follow. So I'm going to grab an"
+  },
+  {
+    "start": 189.36,
+    "text": " expression control. And so in case you didn't know, you can use expression control to key map."
+  },
+  {
+    "start": 195.36,
+    "text": " So I'm going to key track the filter frequency, right? Let's go ahead and turn it up all the way."
+  },
+  {
+    "start": 205.28,
+    "text": " And so now expression control is taking control of this resonant frequency. So what I can do is"
+  },
+  {
+    "start": 211.68,
+    "text": " turn it all the way up, switch it over to remote, and now I can control which one of these harmonics"
+  },
+  {
+    "start": 216.32,
+    "text": " I want."
+  },
+  {
+    "start": 230.48,
+    "text": " That sounds so good. Okay, let's get out of there. So real quick, if you're enjoying this video and"
+  },
+  {
+    "start": 239.12,
+    "text": " my teaching style, I want you to know that I'm presently running a spring sale on my Ableton"
+  },
+  {
+    "start": 244.0,
+    "text": " courses. Between the 12.2 update and Arturia's release of pigment six, this is a great time to"
+  },
+  {
+    "start": 249.92,
+    "text": " enroll and get into seed to stage courses at a discounted price. My Ableton live courses feature"
+  },
+  {
+    "start": 254.72,
+    "text": " over 120 hours of content, just like this video. And this week you can get them at a nice discount."
+  },
+  {
+    "start": 260.71999999999997,
+    "text": " And if you grab one or all of them, I'll throw in my newly updated Arturia pigments six course for"
+  },
+  {
+    "start": 266.47999999999996,
+    "text": " free. My courses are super high rated because they work and they actually give people real results."
+  },
+  {
+    "start": 272.24,
+    "text": " I'm sure you'll be stoked, but in case you aren't, there's a full 30-day money back refund period"
+  },
+  {
+    "start": 277.12,
+    "text": " in case the courses aren't for you. Now, of course, I'm always going to be making free"
+  },
+  {
+    "start": 280.72,
+    "text": " content here on YouTube, but if you're serious about your music and you want to progress rapidly"
+  },
+  {
+    "start": 286.08,
+    "text": " and you want to support the channel, we'd love to see you in the course community."
+  },
+  {
+    "start": 289.6,
+    "text": " Okay, let's get back to it. All right, I'm sure you're done listening to resonant frequencies."
+  },
+  {
+    "start": 293.28000000000003,
+    "text": " Let's go ahead and move on to the DJ filter. So what this is"
+  },
+  {
+    "start": 296.4,
+    "text": " is essentially a way to put an auto filter on like a master or something and listen to a track"
+  },
+  {
+    "start": 306.96,
+    "text": " and be able to pull the cutoff frequency one way and you will get a low pass. And if you pull it"
+  },
+  {
+    "start": 312.4,
+    "text": " the other way, you get a high pass, right? This is kind of intended to be on a full mix, but what's"
+  },
+  {
+    "start": 316.64,
+    "text": " nice about it is that you can also, you get this cool pairing between these two"
+  },
+  {
+    "start": 326.32,
+    "text": " and what's nice about this is also if you look at the, let's go ahead and turn the drive all the"
+  },
+  {
+    "start": 329.84,
+    "text": " way down and just the normal volume level, just look at the volume level here with resonance all"
+  },
+  {
+    "start": 334.24,
+    "text": " the way down. It really doesn't change the volume too much. So yeah, this is a really useful filter"
+  },
+  {
+    "start": 345.2,
+    "text": " type if you want to put it on the master track and you want to use it like a classic DJ filter"
+  },
+  {
+    "start": 350.24,
+    "text": " on a DJ mixer. All right, moving on to comb. Of course, the comb filter, so much fun."
+  },
+  {
+    "start": 357.84000000000003,
+    "text": " Let's go ahead and make this guy crazy. So the morph control increases the degree of the comb filtering."
+  },
+  {
+    "start": 369.2,
+    "text": " Let's go ahead and drive this a bit to hear it."
+  },
+  {
+    "start": 374.64,
+    "text": " And what's cool about the morph control is that if you go down from 50%, you can invert it. So you"
+  },
+  {
+    "start": 379.52,
+    "text": " can get these kind of, in this case, kind of sounds like it's emphasizing the odd and even"
+  },
+  {
+    "start": 387.44,
+    "text": " harmonics, right? Or something like that, right? So I think this could be a good time to get into"
+  },
+  {
+    "start": 397.44,
+    "text": " the LFO. So when you turn the LFO up, you might be like, wait, I hear stereo. There's some stereo"
+  },
+  {
+    "start": 406.4,
+    "text": " information in there, right? Well, essentially what you need to look at is the fact that the"
+  },
+  {
+    "start": 412.56,
+    "text": " LFO phase is defaulted at this point. I don't know if this was on purpose, but it's defaulted"
+  },
+  {
+    "start": 417.67999999999995,
+    "text": " to four degrees. If I increase this number, what's going to happen is that the left and the right"
+  },
+  {
+    "start": 432.16,
+    "text": " speaker or the left and the right channel are going to be more and more decoupled from each"
+  },
+  {
+    "start": 436.56,
+    "text": " other, thus creating stereo, right? And then of course, if it's at zero,"
+  },
+  {
+    "start": 442.96000000000004,
+    "text": " it's totally mono, right? So that's fun. And just like with the old LFO, you have the spin mode."
+  },
+  {
+    "start": 447.28000000000003,
+    "text": " And you know, a lot of people don't know what this does. What this actually does is it changes the"
+  },
+  {
+    "start": 451.52000000000004,
+    "text": " speed of the left and the right LFO to be slightly, you could think of it, if it was an oscillator,"
+  },
+  {
+    "start": 456.08000000000004,
+    "text": " it's as if you were detuning them. So they're slightly off from each other at low settings."
+  },
+  {
+    "start": 462.16,
+    "text": " If you turn it up high, you've got one that's very slow and one that's very fast. And so you"
+  },
+  {
+    "start": 465.92,
+    "text": " can see how useful these animations are, right? We can see those LFOs, one of them is much faster,"
+  },
+  {
+    "start": 472.08000000000004,
+    "text": " one of them is much slower, right? Just so massive. And so of course, we've got all of our"
+  },
+  {
+    "start": 485.2,
+    "text": " wave shapes here. We could do saw, for example. And so what Morph does is it's kind of taking the"
+  },
+  {
+    "start": 502.71999999999997,
+    "text": " shape of the LFO and it's kind of skewing it, right? So something we can do is we could take"
+  },
+  {
+    "start": 507.44,
+    "text": " a square, for example, and you can hear that it's kind of just going back and forth. Let's go ahead"
+  },
+  {
+    "start": 513.2,
+    "text": " and couple the LFO together into one. And so this is sort of like making the pulse width very short"
+  },
+  {
+    "start": 524.4000000000001,
+    "text": " and then the pulse width very wide. And then of course, we have a sample and hold. Let's go ahead"
+  },
+  {
+    "start": 533.28,
+    "text": " and maybe move over to the notch plus low pass filter to listen to the sample and hold."
+  },
+  {
+    "start": 551.36,
+    "text": " So"
+  },
+  {
+    "start": 560.64,
+    "text": " something you can do now is you can smooth this and you can see that we're now starting"
+  },
+  {
+    "start": 563.84,
+    "text": " to interpolate between those points. This is also, by the way, this is also a really nice"
+  },
+  {
+    "start": 577.28,
+    "text": " filter shape. I've always really enjoyed this kind of like notch and then low pass above it."
+  },
+  {
+    "start": 584.48,
+    "text": " It commonly comes up with tones that I really like. Okay, so let's move maybe over to resampling. In"
+  },
+  {
+    "start": 588.88,
+    "text": " fact, in this situation, I think it's really fun to add a second auto filter and put it after the"
+  },
+  {
+    "start": 594.9599999999999,
+    "text": " first one. So let's go ahead and do that. And this time I'll go over to resampling. Essentially,"
+  },
+  {
+    "start": 599.52,
+    "text": " this is just a sample rate reducer. Let's go ahead and switch the LFO back to maybe something"
+  },
+  {
+    "start": 612.24,
+    "text": " like just a classic triangle."
+  },
+  {
+    "start": 628.0,
+    "text": " So now you can really hear that vowel sound kind of situation coming on. Whenever you combine a"
+  },
+  {
+    "start": 632.88,
+    "text": " resonant filter before a sample rate reducer, you can get these really interesting vowel sounds,"
+  },
+  {
+    "start": 637.2,
+    "text": " right?"
+  },
+  {
+    "start": 649.76,
+    "text": " Now this is a good time to show you the high quality mode. So if you right click on the auto"
+  },
+  {
+    "start": 654.4000000000001,
+    "text": " filter, you've got this oversampling mode that's just so useful, especially in this specific"
+  },
+  {
+    "start": 659.12,
+    "text": " situation. Because when you're doing this kind of sample reducing, you can get a lot of aliasing"
+  },
+  {
+    "start": 663.2,
+    "text": " that you may want and then that you might not want. So take a listen to the difference with"
+  },
+  {
+    "start": 667.76,
+    "text": " this without the high quality mode. That's with high quality mode on. So it's really what are you"
+  },
+  {
+    "start": 680.8000000000001,
+    "text": " going for? You know what I mean? In this specific situation, this is a great way to show what high"
+  },
+  {
+    "start": 685.2,
+    "text": " quality does. But essentially what this does is this oversamples and thus lowers the amount of"
+  },
+  {
+    "start": 690.64,
+    "text": " aliasing distortion that you're going to get. Now go ahead and remove this filter."
+  },
+  {
+    "start": 694.3199999999999,
+    "text": " And while we're on the subject of vowel, let's go ahead and look at the last filter type,"
+  },
+  {
+    "start": 697.12,
+    "text": " which of course is a vowel filter."
+  },
+  {
+    "start": 711.76,
+    "text": " Now this is a really good vowel filter for multiple reasons, but one of the main ones is right here."
+  },
+  {
+    "start": 716.96,
+    "text": " You can do what they call normalizing the gain of the formants. Essentially,"
+  },
+  {
+    "start": 721.2,
+    "text": " you flatline the peaks of the formants and this just really emphasizes the effect."
+  },
+  {
+    "start": 741.12,
+    "text": " Of course, we got to throw that LFO out of phase."
+  },
+  {
+    "start": 746.88,
+    "text": " That just sounds so great. Okay, so let's go ahead and move this back maybe to a classic low pass."
+  },
+  {
+    "start": 757.68,
+    "text": " I want to show you some of the features inside of the side chain that are really useful. Let's go"
+  },
+  {
+    "start": 762.32,
+    "text": " ahead and turn the LFO down. So what I want to show you is that Ableton's new side chain input"
+  },
+  {
+    "start": 769.68,
+    "text": " feature that is all across the 12.2 update allows for a little bit more control over your side chain"
+  },
+  {
+    "start": 776.32,
+    "text": " input. So something I can always do is use the signal that's already going into the auto filter"
+  },
+  {
+    "start": 782.0,
+    "text": " for the envelope. So if I turn this up, it will filter based on that input, right?"
+  },
+  {
+    "start": 795.84,
+    "text": " But if I want to hold a note down, notice that the envelope can't travel back to"
+  },
+  {
+    "start": 800.24,
+    "text": " the initial filter frequency, right? It can if I let go of my note, but if I hold it down,"
+  },
+  {
+    "start": 810.16,
+    "text": " it won't. So something that I could do is I could open my wavetable and I could group it."
+  },
+  {
+    "start": 815.36,
+    "text": " And then I could look at my device chain and I could simply just put a drum hit in here"
+  },
+  {
+    "start": 819.84,
+    "text": " and use that as my envelope input. So let me show you what I mean."
+  },
+  {
+    "start": 823.52,
+    "text": " I'll just use a snare drum, for example. So this snare drum,"
+  },
+  {
+    "start": 830.4,
+    "text": " I'm not going to use in the signal path. I'm going to mute it. But what I can use this snare drum for"
+  },
+  {
+    "start": 834.96,
+    "text": " is a trigger for my auto filter. So what I can do is I can click external and then I can choose"
+  },
+  {
+    "start": 840.4,
+    "text": " the same track that I'm working with. And then I will choose the snare as the input. So now"
+  },
+  {
+    "start": 848.3199999999999,
+    "text": " I'm holding my note down."
+  },
+  {
+    "start": 849.6800000000001,
+    "text": " And as you can see, it's really, really doing the job. But notice that it's not doing a full"
+  },
+  {
+    "start": 854.48,
+    "text": " filter sweep. If I wanted this to go all the way down here and I want a full filter sweep,"
+  },
+  {
+    "start": 859.6,
+    "text": " another thing that they've added is the ability to change the input gain of the side chain."
+  },
+  {
+    "start": 874.32,
+    "text": " Man, that filter just sounds so good. Just like a real filter."
+  },
+  {
+    "start": 880.24,
+    "text": " This DFM mode with the drive is just something else."
+  },
+  {
+    "start": 884.8000000000001,
+    "text": " So that's really useful. Another thing that I can do is I can actually filter that sound too."
+  },
+  {
+    "start": 889.2,
+    "text": " I can filter down the maybe the aspects of the side chain that I want. So maybe in this case,"
+  },
+  {
+    "start": 894.32,
+    "text": " I'll filter out the lows. So I can, you know, I can fine tune this side chain filter to really"
+  },
+  {
+    "start": 901.2,
+    "text": " do what I'm trying to do. And one more thing that's kind of interesting is they've decided"
+  },
+  {
+    "start": 904.88,
+    "text": " to add this way to quantize the envelope sweep. And this is kind of fun. So right now it's on"
+  },
+  {
+    "start": 910.88,
+    "text": " 16th. Check this out. So when you switch the switch on, you can choose the timing divisions"
+  },
+  {
+    "start": 920.88,
+    "text": " of these quantizations. Make it go real fast."
+  },
+  {
+    "start": 934.88,
+    "text": " So"
+  },
+  {
+    "start": 948.32,
+    "text": " for robot baselines for days, right?"
+  },
+  {
+    "start": 954.96,
+    "text": " That's kind of an interesting feature. So you can see how powerful it is to use a secondary"
+  },
+  {
+    "start": 958.4,
+    "text": " signal to control the side chain input. It's just really awesome. And it makes the filter"
+  },
+  {
+    "start": 962.0,
+    "text": " maybe kind of behave in the same way as it would like on a synthesizer inside of the actual"
+  },
+  {
+    "start": 967.44,
+    "text": " synthesizer itself. Let me go ahead and cook up a polyphonic patch because I have an idea I want"
+  },
+  {
+    "start": 971.6,
+    "text": " to show you. Okay, so the last thing I want to show you is that here's just a just a chord progression."
+  },
+  {
+    "start": 981.84,
+    "text": " This is just going to be one instance of auto filter with its modulation features fully utilized."
+  },
+  {
+    "start": 988.0,
+    "text": " So first of all, we're using just a side chain input to affect the envelope. And it sounds like"
+  },
+  {
+    "start": 993.8399999999999,
+    "text": " this. And then if I go over to my LFO, okay, and I add a little bit of amount here, and then if I"
+  },
+  {
+    "start": 1003.8399999999999,
+    "text": " go over to my LFO and I go ahead and sync it, but I throw my LFO out of phase,"
+  },
+  {
+    "start": 1018.88,
+    "text": " just listen to the tones you can get here."
+  },
+  {
+    "start": 1032.96,
+    "text": " Cool. So I hope you're as excited about the 12.2 update as I am. If you like this kind of thing,"
+  },
+  {
+    "start": 1037.6,
+    "text": " like, comment, subscribe. Thanks so much for watching everybody. Much love. I'll see you next time."
+  }
+]

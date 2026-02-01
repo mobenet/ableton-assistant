@@ -1,0 +1,770 @@
+[
+  {
+    "start": 0.0,
+    "text": " Ableton Simpler device, well in my opinion it's the most useful device in Ableton."
+  },
+  {
+    "start": 4.8,
+    "text": " I know that's a big call to make so today we're going to be diving into the world of"
+  },
+  {
+    "start": 7.78,
+    "text": " Simpler but before we do, if you want any free music production resources, you know"
+  },
+  {
+    "start": 11.92,
+    "text": " where to go, go check out the free download link in the description."
+  },
+  {
+    "start": 16.36,
+    "text": " So I thought today would be fun if instead of just pointing out all the functions of"
+  },
+  {
+    "start": 21.0,
+    "text": " Simpler, actually going through and making a track live with Simpler and the different"
+  },
+  {
+    "start": 25.78,
+    "text": " uses of Simpler and explaining the process as I go."
+  },
+  {
+    "start": 29.3,
+    "text": " This track is kind of like half pre-prepared for the sake of time."
+  },
+  {
+    "start": 32.58,
+    "text": " We're going to be diving into a whole bunch of different things, chopping up vocals and"
+  },
+  {
+    "start": 36.42,
+    "text": " what not so stick around, it's going to be a lot of fun."
+  },
+  {
+    "start": 39.1,
+    "text": " So first of all as you can see over here, the Simpler is found in the instrument section"
+  },
+  {
+    "start": 43.54,
+    "text": " of Ableton."
+  },
+  {
+    "start": 44.54,
+    "text": " You can also hit this drop down arrow and there's a whole bunch of presets which have"
+  },
+  {
+    "start": 48.3,
+    "text": " pre-loaded samples in them and this is a great way of experimenting with Simpler yourself."
+  },
+  {
+    "start": 53.14,
+    "text": " So start off here if you haven't already."
+  },
+  {
+    "start": 55.06,
+    "text": " The first thing is loading in a sample."
+  },
+  {
+    "start": 57.18000000000001,
+    "text": " In fact, I don't even have to load up a Simpler device."
+  },
+  {
+    "start": 60.42,
+    "text": " I can just go grab a sample that I want."
+  },
+  {
+    "start": 62.580000000000005,
+    "text": " Let's say I've got this kick drum here."
+  },
+  {
+    "start": 65.62,
+    "text": " I'm just going to drag it onto the MIDI track and it just automatically makes it simpler"
+  },
+  {
+    "start": 69.46000000000001,
+    "text": " for me."
+  },
+  {
+    "start": 70.46000000000001,
+    "text": " How good is that?"
+  },
+  {
+    "start": 71.46000000000001,
+    "text": " I'm just going to quickly move through the drums because I want to get onto some other"
+  },
+  {
+    "start": 74.58,
+    "text": " things."
+  },
+  {
+    "start": 75.58,
+    "text": " So we have this clap here."
+  },
+  {
+    "start": 76.7,
+    "text": " I've just selected into one shot mode and I'm actually just going to drag this flag"
+  },
+  {
+    "start": 81.78,
+    "text": " from the right hand side."
+  },
+  {
+    "start": 82.9,
+    "text": " This is the end point and you'll see that over here when you select from classic to"
+  },
+  {
+    "start": 88.46000000000001,
+    "text": " one shot mode, you'll see that there's an ADSR envelope here."
+  },
+  {
+    "start": 91.86000000000001,
+    "text": " We're going to talk about that later on and when you're in one shot mode, we have these"
+  },
+  {
+    "start": 95.46000000000001,
+    "text": " really handy controls for drums."
+  },
+  {
+    "start": 97.26,
+    "text": " So like fade in, fade out, transposition and some velocity stuff."
+  },
+  {
+    "start": 101.34,
+    "text": " I'm just going to drag up the fade out time and then listen around and see how much I"
+  },
+  {
+    "start": 106.5,
+    "text": " want to shorten this clap because this clap is a little bit long for me."
+  },
+  {
+    "start": 113.9,
+    "text": " And the next one is this hi-hat and this is a great example of one of my most useful things"
+  },
+  {
+    "start": 118.58000000000001,
+    "text": " with Simpler and it's simply just dragging this sustain down."
+  },
+  {
+    "start": 122.06,
+    "text": " So they've really intelligently set the decay to 600 milliseconds which is very, very handy"
+  },
+  {
+    "start": 127.54,
+    "text": " for drums, especially hi-hats."
+  },
+  {
+    "start": 130.26,
+    "text": " And so I've got this hi-hat and it's quite open."
+  },
+  {
+    "start": 134.66,
+    "text": " And I want to just shorten it a bit."
+  },
+  {
+    "start": 136.1,
+    "text": " So I'm just going to go in here and just drag the sustain down."
+  },
+  {
+    "start": 143.14,
+    "text": " And you can see how that really nicely shortens it."
+  },
+  {
+    "start": 148.98,
+    "text": " Great."
+  },
+  {
+    "start": 149.5,
+    "text": " So if you want it to be more technical, you can go into the controls and actually look"
+  },
+  {
+    "start": 153.57999999999998,
+    "text": " at the amplitude envelope."
+  },
+  {
+    "start": 157.42,
+    "text": " And then you can play around with the decay as well to get it exactly where you want."
+  },
+  {
+    "start": 160.7,
+    "text": " But I'm just going to keep it on 600 milliseconds and actually just drag the sustain down just"
+  },
+  {
+    "start": 164.9,
+    "text": " a little bit."
+  },
+  {
+    "start": 165.9,
+    "text": " So next we're moving into slicing and I have this 16th hi-hat loop."
+  },
+  {
+    "start": 169.9,
+    "text": " It's at 80 BPM so it's quite slow but have a listen."
+  },
+  {
+    "start": 175.78,
+    "text": " And so I'm just going to drag it onto this MIDI track again and hit the slicing mode"
+  },
+  {
+    "start": 181.18,
+    "text": " and zoom in a bit."
+  },
+  {
+    "start": 182.5,
+    "text": " So now you can see that each transient has been sliced up into different sections and"
+  },
+  {
+    "start": 187.62,
+    "text": " we can trigger each one of these sections completely separately from each other."
+  },
+  {
+    "start": 191.78,
+    "text": " So how you're going to do that is you're going to have to hit a MIDI note but it starts"
+  },
+  {
+    "start": 196.18,
+    "text": " from C1, not C3."
+  },
+  {
+    "start": 199.18,
+    "text": " So when we're hitting the C1 key, that's hitting this first one and you can see that now I"
+  },
+  {
+    "start": 205.22,
+    "text": " can trigger all of these tracks in here."
+  },
+  {
+    "start": 208.02,
+    "text": " So I'm just going to go through here and actually just chromatically make some notes like this"
+  },
+  {
+    "start": 213.18,
+    "text": " and then duplicate them over."
+  },
+  {
+    "start": 214.98,
+    "text": " And this will trigger this hat loop which was 80 BPM now in the tempo of the track that"
+  },
+  {
+    "start": 220.42,
+    "text": " we have here which is 128 BPM so it's much quicker."
+  },
+  {
+    "start": 227.78,
+    "text": " And I'm actually just going to increase this fade out amount and you can see that it will"
+  },
+  {
+    "start": 231.1,
+    "text": " make it a little bit more choppy as well."
+  },
+  {
+    "start": 236.57999999999998,
+    "text": " So so far it sounds like this."
+  },
+  {
+    "start": 241.78,
+    "text": " So next up we're going to be using a bongo loop and I'm going to be warping it into time"
+  },
+  {
+    "start": 245.46,
+    "text": " into this track."
+  },
+  {
+    "start": 246.58,
+    "text": " So I've got this loop and I'm just going to play it and it sounds like this."
+  },
+  {
+    "start": 252.58,
+    "text": " So firstly I'm just going to shorten the length of this as well so I just want this little"
+  },
+  {
+    "start": 257.46000000000004,
+    "text": " section and I think I know where I'm going to trigger it."
+  },
+  {
+    "start": 260.66,
+    "text": " And secondly we can see that this is actually in 125 BPM and our track is in 128 so it's"
+  },
+  {
+    "start": 266.78000000000003,
+    "text": " going to drift a little bit and I want it to be sort of warping in time."
+  },
+  {
+    "start": 271.36,
+    "text": " So the great thing about Simpler is it has a warp function with it."
+  },
+  {
+    "start": 275.74,
+    "text": " And Ableton's warping is so powerful and it's great that we can use Ableton's warping"
+  },
+  {
+    "start": 280.5,
+    "text": " feature within this Sampler."
+  },
+  {
+    "start": 282.38,
+    "text": " So it's really simple and as soon as I hit warp it's going to put it into time with my"
+  },
+  {
+    "start": 286.3,
+    "text": " track."
+  },
+  {
+    "start": 288.58,
+    "text": " So the next thing I'm going to do is just input a note and I think I want to trigger"
+  },
+  {
+    "start": 293.24,
+    "text": " it maybe here."
+  },
+  {
+    "start": 295.34000000000003,
+    "text": " And then next I'm going to put it into one shot mode and this will make it so that this"
+  },
+  {
+    "start": 300.12,
+    "text": " MIDI note is going to trigger this whole section of audio and this section of audio is now"
+  },
+  {
+    "start": 305.18,
+    "text": " warped into my track so it's going to be in time as well."
+  },
+  {
+    "start": 308.7,
+    "text": " So have a listen to this."
+  },
+  {
+    "start": 317.54,
+    "text": " Next thing I'm going to do is actually take advantage of these warping modes and I'm going"
+  },
+  {
+    "start": 320.82,
+    "text": " to go over to the Beats warping mode and I'm going to change this mode to the forward directional"
+  },
+  {
+    "start": 326.46000000000004,
+    "text": " arrow and then pull down this envelope amount."
+  },
+  {
+    "start": 329.1,
+    "text": " So next I'm just going to make a slight variation in the second bar and hit duplicate and I'm"
+  },
+  {
+    "start": 339.1,
+    "text": " going to delete this MIDI clip and make another one in this second bar here and then go back"
+  },
+  {
+    "start": 344.90000000000003,
+    "text": " into here and I'm actually going to just isolate this one hit here and unwarp this and so I'm"
+  },
+  {
+    "start": 352.7,
+    "text": " actually going to also maybe sort of pitch it down a bit but I've got to try and figure"
+  },
+  {
+    "start": 360.09999999999997,
+    "text": " out where I want it."
+  },
+  {
+    "start": 362.62,
+    "text": " So I think it might sound good here."
+  },
+  {
+    "start": 369.34,
+    "text": " Let's just make it a little bit shorter as well."
+  },
+  {
+    "start": 376.34,
+    "text": " Great so now we've learnt a little bit about how we can use the one shot mode and the warping"
+  },
+  {
+    "start": 380.82,
+    "text": " mode to just warp loops into time, into groove, into your tracks."
+  },
+  {
+    "start": 386.34,
+    "text": " So next I've got this sample here and it's great because it's a singular string note"
+  },
+  {
+    "start": 392.53999999999996,
+    "text": " and this allows us to play stuff like chords in the actual sampler itself."
+  },
+  {
+    "start": 401.09999999999997,
+    "text": " So I've actually pre-prepared some MIDI notes here earlier and it's just a basic chord progression."
+  },
+  {
+    "start": 405.94,
+    "text": " It sounds like this."
+  },
+  {
+    "start": 413.38,
+    "text": " And we're going to use this as a building block and start to do some stuff in the sampler."
+  },
+  {
+    "start": 417.21999999999997,
+    "text": " So the first thing I want to address is there's a note here that is actually really long and"
+  },
+  {
+    "start": 423.3,
+    "text": " if I was to play this out it would get to the end of this sample and stop."
+  },
+  {
+    "start": 427.78,
+    "text": " So what I actually want to do is loop this sample and loop just a section of the sample"
+  },
+  {
+    "start": 433.58,
+    "text": " that sounds nice."
+  },
+  {
+    "start": 434.54,
+    "text": " So once I hit loop now I can actually decrease this loop time and this loop length and just"
+  },
+  {
+    "start": 441.66,
+    "text": " find a little section in here that I think is going to loop nicely."
+  },
+  {
+    "start": 450.82000000000005,
+    "text": " So that is perfect."
+  },
+  {
+    "start": 451.86,
+    "text": " It's really hard to discern that it's actually looping."
+  },
+  {
+    "start": 454.1,
+    "text": " It just sounds like it's being sustained."
+  },
+  {
+    "start": 458.58000000000004,
+    "text": " So in this case it's actually a really good loop but you can also add fade here as well"
+  },
+  {
+    "start": 462.86,
+    "text": " if needed be."
+  },
+  {
+    "start": 463.9,
+    "text": " So this is where the ADSR envelope comes into play."
+  },
+  {
+    "start": 466.58,
+    "text": " I can add some attack here and it becomes more like a really slow pad."
+  },
+  {
+    "start": 473.02,
+    "text": " I could pull back the sustain and make it more like a stab."
+  },
+  {
+    "start": 478.73999999999995,
+    "text": " I could actually add some release if I wanted as well."
+  },
+  {
+    "start": 483.26,
+    "text": " We can also go into the control section and warp it around, transpose it up if need be"
+  },
+  {
+    "start": 489.78,
+    "text": " or detune it up and down if it's slightly out."
+  },
+  {
+    "start": 492.98,
+    "text": " I actually want to use this LFO and filter here as well."
+  },
+  {
+    "start": 495.82,
+    "text": " So we have this filter here."
+  },
+  {
+    "start": 497.34,
+    "text": " We've got a few different modes that we can use."
+  },
+  {
+    "start": 500.46,
+    "text": " We also have some resonance that we can boost."
+  },
+  {
+    "start": 502.38,
+    "text": " We even have an envelope here as well."
+  },
+  {
+    "start": 504.46,
+    "text": " I just want to talk a little bit about this LFO because this LFO is so so good."
+  },
+  {
+    "start": 508.86,
+    "text": " I love the way it's set up because we have these four simple functions here and these"
+  },
+  {
+    "start": 513.86,
+    "text": " four simple functions can make a huge difference."
+  },
+  {
+    "start": 517.14,
+    "text": " In this case our strings, they sound a little bit stale."
+  },
+  {
+    "start": 519.82,
+    "text": " I want a little bit more movement in there."
+  },
+  {
+    "start": 521.78,
+    "text": " So what I'm going to do is actually just assign this to the volume and you'll hear it start"
+  },
+  {
+    "start": 526.3399999999999,
+    "text": " to modulate."
+  },
+  {
+    "start": 532.3399999999999,
+    "text": " So I'm just going to pull that back."
+  },
+  {
+    "start": 533.3399999999999,
+    "text": " I actually want to assign a bit to the pitch as well so it sort of wobbles around."
+  },
+  {
+    "start": 540.78,
+    "text": " I can even assign it a little bit to the filter, maybe even a little bit to the pan."
+  },
+  {
+    "start": 545.18,
+    "text": " Let's see how that goes."
+  },
+  {
+    "start": 552.18,
+    "text": " Super easy to do, very very simple, hence the name and super effective as well."
+  },
+  {
+    "start": 561.18,
+    "text": " Alright, so I've just duplicated these chords and I want to show you how you can use Simpler"
+  },
+  {
+    "start": 565.3399999999999,
+    "text": " to change and mangle audio into something completely different."
+  },
+  {
+    "start": 569.5,
+    "text": " So I want to attempt at least to make a bassline out of this synth."
+  },
+  {
+    "start": 574.18,
+    "text": " This is a fun sort of experimental thing to do."
+  },
+  {
+    "start": 576.54,
+    "text": " It doesn't always work but I tried this out before and it did seem to work well."
+  },
+  {
+    "start": 580.86,
+    "text": " So let's have a look and see if I can replicate what I did at least."
+  },
+  {
+    "start": 585.1400000000001,
+    "text": " I'm going to actually pull it into this bass group which just has a LFO tool on it which"
+  },
+  {
+    "start": 589.7800000000001,
+    "text": " is going to make it sidechain to the kick."
+  },
+  {
+    "start": 592.46,
+    "text": " First things first, I'm going to pull down and try and get the right register for this"
+  },
+  {
+    "start": 596.74,
+    "text": " note."
+  },
+  {
+    "start": 597.74,
+    "text": " So let's put it down a few octaves."
+  },
+  {
+    "start": 603.4200000000001,
+    "text": " And I need to turn this LFO off, I need to turn this chorus off."
+  },
+  {
+    "start": 607.4200000000001,
+    "text": " That sounds a bit better."
+  },
+  {
+    "start": 609.9,
+    "text": " I'm actually going to put this start marker just in the middle of this waveform here so"
+  },
+  {
+    "start": 614.22,
+    "text": " it doesn't have a fade in."
+  },
+  {
+    "start": 617.62,
+    "text": " And then I'm actually going to change the filter mode to something a little bit different"
+  },
+  {
+    "start": 623.62,
+    "text": " and boost the drive a bit."
+  },
+  {
+    "start": 631.94,
+    "text": " That sounds nice and thick to me."
+  },
+  {
+    "start": 633.7,
+    "text": " So let's just make a quick rhythm here and I'm just going to solo it with the kick as"
+  },
+  {
+    "start": 639.82,
+    "text": " well."
+  },
+  {
+    "start": 640.82,
+    "text": " Maybe something like this."
+  },
+  {
+    "start": 644.82,
+    "text": " Maybe like this."
+  },
+  {
+    "start": 663.82,
+    "text": " And I've just coloured it to be orange as well and so now it's as simple as that we've"
+  },
+  {
+    "start": 675.5,
+    "text": " turned this string into a bassline."
+  },
+  {
+    "start": 685.5,
+    "text": " And so lastly here we're going to do a little bit of vocal manipulation."
+  },
+  {
+    "start": 688.5,
+    "text": " I've just dragged in this sample here."
+  },
+  {
+    "start": 694.5,
+    "text": " So the trick to vocal manipulation is you want to find a word or a sound that has a"
+  },
+  {
+    "start": 700.9000000000001,
+    "text": " nice pitch to it."
+  },
+  {
+    "start": 702.46,
+    "text": " So I think this one has a pretty constant pitch which is nice."
+  },
+  {
+    "start": 707.9000000000001,
+    "text": " And let's use this and try and make something out of it."
+  },
+  {
+    "start": 710.6600000000001,
+    "text": " So I'm just going to trigger my loop to turn on here and sort of just play around to try"
+  },
+  {
+    "start": 714.98,
+    "text": " and find a nice looping section of this vocal."
+  },
+  {
+    "start": 724.5,
+    "text": " So remember this thing is polyphonic and this voices is how many notes you can play at once."
+  },
+  {
+    "start": 730.5,
+    "text": " So if I'm set to six I can play six notes at once."
+  },
+  {
+    "start": 736.0200000000001,
+    "text": " And again this is where the ADSR envelope comes in so I can put a bit of attack on this"
+  },
+  {
+    "start": 740.3000000000001,
+    "text": " if I wanted or I could even put some release on it."
+  },
+  {
+    "start": 748.58,
+    "text": " And so what I'm going to do is hit the warp function and actually warp this into Complex"
+  },
+  {
+    "start": 752.94,
+    "text": " Pro and what this will do is it'll just make it a little bit smoother when I play up so"
+  },
+  {
+    "start": 758.0600000000001,
+    "text": " it's a little bit less chipmunk like."
+  },
+  {
+    "start": 762.74,
+    "text": " And let's just play in a little melody into this track that we have going so far."
+  },
+  {
+    "start": 783.82,
+    "text": " So it's actually a little bit delayed and that's because the start marker here."
+  },
+  {
+    "start": 788.22,
+    "text": " But if I bring it forward it has a sort of weird sound to it."
+  },
+  {
+    "start": 794.0200000000001,
+    "text": " So I'm just going to leave it there and what I'm actually going to do in this case is put"
+  },
+  {
+    "start": 797.7800000000001,
+    "text": " the track delay I think maybe around about minus 40 might be good."
+  },
+  {
+    "start": 802.86,
+    "text": " So maybe if we just quantize to this and I think this last one wasn't too bad."
+  },
+  {
+    "start": 813.82,
+    "text": " Maybe I could take this note out here just for a little bit of variation, bit of reverb as well."
+  },
+  {
+    "start": 820.82,
+    "text": " So I've turned what was a vocal into what is now a really ethereal sort of mallet pluck"
+  },
+  {
+    "start": 846.1,
+    "text": " sound which is providing a really nice ambience."
+  },
+  {
+    "start": 851.82,
+    "text": " So I really like this device it's super handy."
+  },
+  {
+    "start": 854.62,
+    "text": " I love the interface it's very easily understandable and well set out."
+  },
+  {
+    "start": 859.5,
+    "text": " But if we want more controls we can right click and turn this into a sampler device"
+  },
+  {
+    "start": 864.22,
+    "text": " and here we have a whole bunch more options that we can dive into."
+  },
+  {
+    "start": 867.82,
+    "text": " If you want to learn more about the extra controls and sampler we have another video"
+  },
+  {
+    "start": 871.46,
+    "text": " in our YouTube channel that dives into that so check that one out."
+  },
+  {
+    "start": 874.1400000000001,
+    "text": " So that's it for today thanks for sticking to the end."
+  },
+  {
+    "start": 876.5400000000001,
+    "text": " Hopefully you've learned something about the power of Simpler."
+  },
+  {
+    "start": 879.06,
+    "text": " If you have enjoyed the video today remember to like and subscribe to the channel."
+  },
+  {
+    "start": 882.54,
+    "text": " Otherwise thanks for hanging out, stay safe and I'll see you in the next one."
+  }
+]

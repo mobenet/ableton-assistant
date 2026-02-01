@@ -1,0 +1,674 @@
+[
+  {
+    "start": 0.0,
+    "text": " Ableton Live comes with two main sample based instruments, Simpler and Sampler."
+  },
+  {
+    "start": 3.84,
+    "text": " But what's the difference between them and which one should you be using?"
+  },
+  {
+    "start": 6.640000000000001,
+    "text": " Well, let's find out."
+  },
+  {
+    "start": 7.6000000000000005,
+    "text": " Hey friends, Matt aka Martyn here and welcome back to another video."
+  },
+  {
+    "start": 10.64,
+    "text": " Today we're going to be taking a look at the differences between Ableton Live's"
+  },
+  {
+    "start": 13.280000000000001,
+    "text": " Simpler and Sampler devices, what they're each designed for, how they work and how you can use them."
+  },
+  {
+    "start": 18.16,
+    "text": " Before we get started, make sure to leave a like and a comment down below, subscribe if you're new"
+  },
+  {
+    "start": 21.6,
+    "text": " and if you really enjoy my content, consider supporting me by buying me a coffee."
+  },
+  {
+    "start": 25.28,
+    "text": " I'll leave a link in the description where you can do that."
+  },
+  {
+    "start": 27.04,
+    "text": " Okay, so let's jump into Ableton Live and take a look at the differences between Simpler and Sampler."
+  },
+  {
+    "start": 32.4,
+    "text": " Okay, so the biggest difference between Simpler and Sampler is that Simpler is designed to work"
+  },
+  {
+    "start": 36.96,
+    "text": " with a single audio file as a sample, whereas Sampler is designed to work with multiple audio"
+  },
+  {
+    "start": 42.56,
+    "text": " files or samples and turn them into a single cohesive instrument."
+  },
+  {
+    "start": 45.76,
+    "text": " In this sense, Simpler is used to turn a single sample into a whole instrument like this."
+  },
+  {
+    "start": 57.76,
+    "text": " Whereas Sampler is used to turn multiple audio files into a single instrument."
+  },
+  {
+    "start": 70.56,
+    "text": " But this isn't really the whole story."
+  },
+  {
+    "start": 73.03999999999999,
+    "text": " So let's take a look at the core features of Simpler and how we can use it to turn a single sample"
+  },
+  {
+    "start": 77.36,
+    "text": " into an instrument."
+  },
+  {
+    "start": 78.64,
+    "text": " So here I have a blank Simpler instrument loaded up and I'm just going to use the same sample that"
+  },
+  {
+    "start": 82.24,
+    "text": " I used to create that instrument in the example, which sounds like this."
+  },
+  {
+    "start": 87.04,
+    "text": " I'm going to click and drag this sample into our Simpler and now we have that sample mapped"
+  },
+  {
+    "start": 96.32000000000001,
+    "text": " across the entirety of our MIDI keyboard."
+  },
+  {
+    "start": 98.56,
+    "text": " If I play different notes, it's going to repitch this sample up or down based on how far away it"
+  },
+  {
+    "start": 103.36000000000001,
+    "text": " is from middle C or C3."
+  },
+  {
+    "start": 110.48,
+    "text": " And in this sense, it works basically like a synthesizer, except the oscillator is our sample."
+  },
+  {
+    "start": 115.52,
+    "text": " In and of itself, this isn't super exciting."
+  },
+  {
+    "start": 116.96,
+    "text": " So what I'm going to do is now turn this into an instrument."
+  },
+  {
+    "start": 119.52,
+    "text": " I'm going to leave this on classic mode for this example, but we do have two other modes here to"
+  },
+  {
+    "start": 123.52,
+    "text": " play around with."
+  },
+  {
+    "start": 124.08,
+    "text": " Classic mode effectively puts a standard ADSR or a Tact K sustain release envelope onto the sample"
+  },
+  {
+    "start": 129.35999999999999,
+    "text": " so that whenever we play a key or send this Simpler a MIDI note, the amplitude of the sample"
+  },
+  {
+    "start": 133.92,
+    "text": " changes based on how long we hold down the note for."
+  },
+  {
+    "start": 137.2,
+    "text": " If I change this to one shot, this means that when I press the note, it's just going to play"
+  },
+  {
+    "start": 140.4,
+    "text": " back the entirety of the sample."
+  },
+  {
+    "start": 141.84,
+    "text": " And if I change this to slice mode, now it's not going to repitch the sample."
+  },
+  {
+    "start": 145.20000000000002,
+    "text": " Instead, it's going to slice up this sample into multiple little slices that are each triggered"
+  },
+  {
+    "start": 149.04,
+    "text": " by different MIDI notes."
+  },
+  {
+    "start": 150.08,
+    "text": " But I'm getting ahead of myself."
+  },
+  {
+    "start": 151.36,
+    "text": " So let's go to classic mode here, and I'm going to change the start position of the sample to a"
+  },
+  {
+    "start": 156.16,
+    "text": " point with a single note."
+  },
+  {
+    "start": 163.36,
+    "text": " Now I'm going to change the end position of the sample so that I keep that single note."
+  },
+  {
+    "start": 166.72,
+    "text": " So you'll see that when I press a key, it's playing from this start position here."
+  },
+  {
+    "start": 170.96,
+    "text": " And whilst I hold down the key, it's playing through the sample until it reaches this end"
+  },
+  {
+    "start": 173.52,
+    "text": " position, at which point the sample stops playing."
+  },
+  {
+    "start": 179.12,
+    "text": " And I can now use this to my advantage to effectively play an instrument."
+  },
+  {
+    "start": 185.84,
+    "text": " So now we've mapped this sample across our keyboard to create some kind of repitching"
+  },
+  {
+    "start": 192.0,
+    "text": " vocal instrument."
+  },
+  {
+    "start": 192.64000000000001,
+    "text": " I could turn this on to loop mode so that I can hold it out indefinitely."
+  },
+  {
+    "start": 195.92000000000002,
+    "text": " I could decrease the length of the loop and increase the fade right here so that it cross"
+  },
+  {
+    "start": 199.52,
+    "text": " fades between the start and the end of the loop."
+  },
+  {
+    "start": 204.96,
+    "text": " And if I want to make sure I'm playing in key, I could use something like Ableton Live's"
+  },
+  {
+    "start": 208.32,
+    "text": " tuner device."
+  },
+  {
+    "start": 208.96,
+    "text": " And when I hold down a C, I can see that I'm playing an A sharp here."
+  },
+  {
+    "start": 213.76,
+    "text": " So I can go to my control section and transpose this up to semitone."
+  },
+  {
+    "start": 217.44,
+    "text": " And I can also use the same thing to play the same thing."
+  },
+  {
+    "start": 220.08,
+    "text": " And transpose this up to semitones so that when I play a C on my MIDI keyboard, it's"
+  },
+  {
+    "start": 224.08,
+    "text": " playing a C back as the sample."
+  },
+  {
+    "start": 228.24,
+    "text": " And now if I play around with my ADSR controls, I could increase the attack,"
+  },
+  {
+    "start": 231.6,
+    "text": " increase the release, maybe decrease the sustain a little bit, and increase the output volume."
+  },
+  {
+    "start": 235.68,
+    "text": " And now we've got some kind of vocal pad sound."
+  },
+  {
+    "start": 245.76,
+    "text": " As I mentioned, Simpler also offers us a few different modes, which are designed primarily"
+  },
+  {
+    "start": 249.92,
+    "text": " for working with different types of samples."
+  },
+  {
+    "start": 251.92,
+    "text": " One shot mode is really useful for working with percussive samples, such as kick drums"
+  },
+  {
+    "start": 255.44,
+    "text": " or snares."
+  },
+  {
+    "start": 257.03999999999996,
+    "text": " And slice mode is really useful for working with longer samples, say entire vocal phrases."
+  },
+  {
+    "start": 267.84,
+    "text": " I might do another video in the future going through all the different functionality in"
+  },
+  {
+    "start": 271.28,
+    "text": " Simpler, but for now, it's a little bit beyond the scope of this video."
+  },
+  {
+    "start": 274.56,
+    "text": " We just need to know exactly what Simpler does, and that is that it works with single samples."
+  },
+  {
+    "start": 279.04,
+    "text": " Now, as I mentioned, Sampler is actually designed to work with multiple samples and turn them"
+  },
+  {
+    "start": 284.16,
+    "text": " into a single cohesive instrument."
+  },
+  {
+    "start": 286.0,
+    "text": " That's not to say you can't work with a single sample inside of Sampler, but it's not the"
+  },
+  {
+    "start": 289.44,
+    "text": " workflow that it's geared towards."
+  },
+  {
+    "start": 290.88,
+    "text": " For example, we could create a realistic sounding piano instrument using Sampler by recording"
+  },
+  {
+    "start": 295.12,
+    "text": " each of the individual notes of a piano, importing those recordings into Sampler and mapping it so"
+  },
+  {
+    "start": 301.36,
+    "text": " that when I played a note on my MIDI keyboard, it played back the recording of the corresponding"
+  },
+  {
+    "start": 306.0,
+    "text": " note of the piano."
+  },
+  {
+    "start": 307.36,
+    "text": " In fact, let's do this now."
+  },
+  {
+    "start": 308.96000000000004,
+    "text": " I've just gone ahead and actually recorded some sounds coming out of my Nord keyboard,"
+  },
+  {
+    "start": 312.16,
+    "text": " and here we have a few different notes from the piano sounds of this Nord keyboard."
+  },
+  {
+    "start": 316.8,
+    "text": " We have a C1, D sharp one, an F sharp one, an A1, and a C2."
+  },
+  {
+    "start": 327.84000000000003,
+    "text": " I'm going to go to my Sampler here, and I'm actually going to go to the Zone tab here."
+  },
+  {
+    "start": 331.36,
+    "text": " I'm going to unfold this, and now we get to see our zones here of our Sampler, which allows"
+  },
+  {
+    "start": 336.08,
+    "text": " us to see all of our different samples that we've loaded up into our Sampler instrument"
+  },
+  {
+    "start": 339.91999999999996,
+    "text": " so that we can then map them across our keyboard accordingly."
+  },
+  {
+    "start": 343.03999999999996,
+    "text": " I'm going to import all these samples."
+  },
+  {
+    "start": 344.64,
+    "text": " Now if I play a note, it's actually going to play back all these samples at once."
+  },
+  {
+    "start": 348.88,
+    "text": " It's actually playing a diminished chord."
+  },
+  {
+    "start": 350.15999999999997,
+    "text": " But now what we can do is make it so that when I press C1, we only play this C1 sample"
+  },
+  {
+    "start": 356.4,
+    "text": " right here."
+  },
+  {
+    "start": 356.88,
+    "text": " So in my key section in my Zone selector, I can just click and drag these little bars"
+  },
+  {
+    "start": 360.79999999999995,
+    "text": " so that C1 is mapped to C1, D sharp one is mapped to D sharp one,"
+  },
+  {
+    "start": 365.84,
+    "text": " F sharp one is mapped to F sharp one, A1 to A1, and C2 to C2."
+  },
+  {
+    "start": 371.91999999999996,
+    "text": " Now I'll only hear these samples when I press the corresponding notes on my MIDI keyboard."
+  },
+  {
+    "start": 380.0,
+    "text": " However, they're not currently playing back at the right pitch, and that's because we"
+  },
+  {
+    "start": 383.03999999999996,
+    "text": " need to tell Sampler what pitch these notes were recorded at."
+  },
+  {
+    "start": 386.32,
+    "text": " And so to do this, we need to give Sampler the root note of the recorded samples."
+  },
+  {
+    "start": 390.08,
+    "text": " So I can go to my C1 sample and come down to the root note section here,"
+  },
+  {
+    "start": 394.32,
+    "text": " change this to C1."
+  },
+  {
+    "start": 397.36,
+    "text": " Likewise with the D sharp one, F sharp one, A1, and C2."
+  },
+  {
+    "start": 401.44,
+    "text": " So now when I play those notes, it should play back those samples at their original"
+  },
+  {
+    "start": 404.96,
+    "text": " recorded pitches."
+  },
+  {
+    "start": 409.68,
+    "text": " But we don't have any samples mapped to the notes in between these samples."
+  },
+  {
+    "start": 413.03999999999996,
+    "text": " If I press those, we get nothing."
+  },
+  {
+    "start": 414.56,
+    "text": " So what we can do is actually map these samples to more than one note, maybe one note either"
+  },
+  {
+    "start": 418.88,
+    "text": " side, so that we get a full octave of piano samples able to be played back via our MIDI"
+  },
+  {
+    "start": 423.68,
+    "text": " keyboard."
+  },
+  {
+    "start": 424.08,
+    "text": " So I can map C1 to play C1 and C sharp, D sharp to be D to E, F sharp to be F to G,"
+  },
+  {
+    "start": 431.84,
+    "text": " A to be G sharp to A sharp, and C to be B to C."
+  },
+  {
+    "start": 436.24,
+    "text": " Now I have a whole octave of piano recordings."
+  },
+  {
+    "start": 444.0,
+    "text": " And this allows us to create a more realistic representation of that recorded instrument,"
+  },
+  {
+    "start": 449.28,
+    "text": " rather than having to quite drastically alter the speed or stretch the sample in order"
+  },
+  {
+    "start": 454.0,
+    "text": " just to repitch it across our MIDI keyboard."
+  },
+  {
+    "start": 456.56,
+    "text": " We can now go and we can go to potentially our Filter Global section and change the overall"
+  },
+  {
+    "start": 461.2,
+    "text": " ADSR envelope for all of our samples."
+  },
+  {
+    "start": 463.28,
+    "text": " Maybe add a little bit more release here, maybe even increase the volume to velocity"
+  },
+  {
+    "start": 467.2,
+    "text": " so that we have some velocity sensitivity."
+  },
+  {
+    "start": 469.28,
+    "text": " And now we have a somewhat nice sounding piano over an octave."
+  },
+  {
+    "start": 479.36,
+    "text": " Sample also offers a whole lot more features than this via way of velocity,"
+  },
+  {
+    "start": 483.84,
+    "text": " layering and chain selecting and some other cool stuff."
+  },
+  {
+    "start": 486.96,
+    "text": " But this is just the bare bones of how it's designed to work."
+  },
+  {
+    "start": 490.56,
+    "text": " As I mentioned though, just because Sampler is designed to work with more than one sample"
+  },
+  {
+    "start": 493.68,
+    "text": " at once, doesn't mean it can't work with just a single sample."
+  },
+  {
+    "start": 496.48,
+    "text": " And in fact, I did a whole video on some really cool sound design techniques using Sampler,"
+  },
+  {
+    "start": 500.71999999999997,
+    "text": " which you can check out with the card above or I'll link down in the description below."
+  },
+  {
+    "start": 504.0,
+    "text": " And hopefully that video shows you just how versatile Sampler actually is."
+  },
+  {
+    "start": 507.76,
+    "text": " So aside from the intended functionality of each, what are the actual core differences"
+  },
+  {
+    "start": 512.56,
+    "text": " between simpler and Sampler?"
+  },
+  {
+    "start": 514.2399999999999,
+    "text": " Well, the main things that set simpler apart from sampler are the one shot and slice modes."
+  },
+  {
+    "start": 518.8,
+    "text": " Sampler does not offer us the ability to automatically slice up a sample in the same way that simpler does,"
+  },
+  {
+    "start": 523.68,
+    "text": " nor does it allow us the ability to playback and sample in its entirety based on the triggering"
+  },
+  {
+    "start": 528.56,
+    "text": " of a MIDI note."
+  },
+  {
+    "start": 529.1999999999999,
+    "text": " Simpler also gives us the ability to warp a sample inside of the device, which is really useful for,"
+  },
+  {
+    "start": 534.3199999999999,
+    "text": " say, if you import a loop and you want to keep it in time with your session's tempo,"
+  },
+  {
+    "start": 538.7199999999999,
+    "text": " even if you're changing the tempo wildly throughout."
+  },
+  {
+    "start": 540.9599999999999,
+    "text": " But what about Sampler?"
+  },
+  {
+    "start": 542.08,
+    "text": " Well, of course, the biggest difference between Sampler and simpler is that sampler allows us to"
+  },
+  {
+    "start": 546.0,
+    "text": " load multiple samples inside of a single instance of the device."
+  },
+  {
+    "start": 549.9200000000001,
+    "text": " This allows for the realistic emulation of acoustic instruments through recorded samples,"
+  },
+  {
+    "start": 554.0,
+    "text": " as well as opens up some interesting creative possibilities."
+  },
+  {
+    "start": 556.96,
+    "text": " Sampler also offers us way more in the way of modulation than simpler does by giving us a"
+  },
+  {
+    "start": 561.0400000000001,
+    "text": " auxiliary modulation envelope and three different LFOs that we can map to a variety of destinations"
+  },
+  {
+    "start": 566.08,
+    "text": " inside of the device."
+  },
+  {
+    "start": 566.88,
+    "text": " We also have a whole host of MIDI functionality built into Sampler,"
+  },
+  {
+    "start": 570.56,
+    "text": " which is super useful as well for performative instruments."
+  },
+  {
+    "start": 573.68,
+    "text": " Sampler also offers us a really interesting and unique modulation oscillator, which can be used"
+  },
+  {
+    "start": 577.76,
+    "text": " for either amplitude modulation or frequency modulation and opens up a whole variety of"
+  },
+  {
+    "start": 583.1199999999999,
+    "text": " awesome creative sound design possibilities."
+  },
+  {
+    "start": 585.52,
+    "text": " One thing to note is that you can actually convert any instance of simpler into an instance"
+  },
+  {
+    "start": 589.5999999999999,
+    "text": " of sampler by simply right clicking on the device title bar and going simpler to sampler."
+  },
+  {
+    "start": 593.8399999999999,
+    "text": " This will carry over any of the available settings between simpler and sampler,"
+  },
+  {
+    "start": 599.2,
+    "text": " but obviously you can't carry over things like one shot and slicing."
+  },
+  {
+    "start": 601.6800000000001,
+    "text": " You can also reverse this and convert the sampler into a simpler device by also right"
+  },
+  {
+    "start": 605.6,
+    "text": " clicking on the device title bar and going sampler to simpler."
+  },
+  {
+    "start": 608.32,
+    "text": " However, this takes away the ability for you to actually manipulate the sample using the"
+  },
+  {
+    "start": 613.36,
+    "text": " sample editor inside of simpler, regardless of whether or not you had more than one sample"
+  },
+  {
+    "start": 617.6800000000001,
+    "text": " loaded up in the sampler."
+  },
+  {
+    "start": 618.88,
+    "text": " Beyond that, there are plenty of other little differences between simpler and sampler."
+  },
+  {
+    "start": 622.8000000000001,
+    "text": " The idea behind this video is just to give you an overview of the functionality of both"
+  },
+  {
+    "start": 626.64,
+    "text": " so that you can get an idea of why you might choose one over the other."
+  },
+  {
+    "start": 630.08,
+    "text": " So hopefully this video has cleared up any confusion you might have about the differences"
+  },
+  {
+    "start": 633.12,
+    "text": " between simpler and sampler."
+  },
+  {
+    "start": 634.3199999999999,
+    "text": " Let me know in the comments if this video helped you out, leave a like and make sure"
+  },
+  {
+    "start": 637.28,
+    "text": " to subscribe if you're new and if you really enjoyed this video, consider heading over"
+  },
+  {
+    "start": 640.56,
+    "text": " to my buy me a coffee page where you can support me by buying me a coffee, becoming a member"
+  },
+  {
+    "start": 644.3199999999999,
+    "text": " and getting some really cool stuff in the process."
+  },
+  {
+    "start": 646.72,
+    "text": " Check out this video here to learn some more about some cool sound design techniques using"
+  },
+  {
+    "start": 650.88,
+    "text": " sampler and until next time, have a fantastic day."
+  },
+  {
+    "start": 653.36,
+    "text": " I'll see you in the next video."
+  }
+]

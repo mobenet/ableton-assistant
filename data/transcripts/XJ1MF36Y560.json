@@ -1,0 +1,1342 @@
+[
+  {
+    "start": 0.0,
+    "text": " So now when you press the key..."
+  },
+  {
+    "start": 6.16,
+    "text": " Very simple as you see, everything I do is actually very basic and simple and you can do that too."
+  },
+  {
+    "start": 10.88,
+    "text": " So easy."
+  },
+  {
+    "start": 12.88,
+    "text": " What's up everyone, Busyless here and in today's video I'm gonna show you everything you need to know about Ableton's live wavetable synthesizer."
+  },
+  {
+    "start": 19.68,
+    "text": " It is very simple to use once you know all the bits and pieces and that's why we're here today."
+  },
+  {
+    "start": 23.6,
+    "text": " Let's cover some basics."
+  },
+  {
+    "start": 24.8,
+    "text": " What is a wavetable synthesis?"
+  },
+  {
+    "start": 26.56,
+    "text": " Well it's a form of synthesis very similar to subtractive but the main difference, you're not only limited to the basic set of waveforms like a sine wave, square wave, triangle wave and softed wave."
+  },
+  {
+    "start": 36.56,
+    "text": " You can create basically any shape of the waveform you want, you can use samples to create a waveform."
+  },
+  {
+    "start": 41.04,
+    "text": " And the other very important difference is that instead of having only one, you can have multiple waveforms and they stack on one another and then you can morph between them."
+  },
+  {
+    "start": 49.92,
+    "text": " Okay, so this is how the wavetable looks like when we turn it on."
+  },
+  {
+    "start": 54.64,
+    "text": " So first we have this part, this part will generate our sounds."
+  },
+  {
+    "start": 58.08,
+    "text": " So we have all the waveforms and then our two oscillators and then sub oscillator generator."
+  },
+  {
+    "start": 64.48,
+    "text": " And then the sound goes to the filter section."
+  },
+  {
+    "start": 66.88,
+    "text": " So we have two filters, we can use them together or just use one of them."
+  },
+  {
+    "start": 70.72,
+    "text": " Then after that we go to modifiers and these are our usual envelopes, LFOs and we can assign these modifiers to the target parameters in the filters or wavetable generator."
+  },
+  {
+    "start": 83.68,
+    "text": " Or even to itself, which I'm going to cover a bit later."
+  },
+  {
+    "start": 87.04,
+    "text": " Very interesting stuff."
+  },
+  {
+    "start": 88.4,
+    "text": " And at the end we have the amp part, we will just basically amplify a sound."
+  },
+  {
+    "start": 92.64000000000001,
+    "text": " We can change from polyphonic to monophonic, add a glide or unison, just the basic stuff as every other synthesizer has."
+  },
+  {
+    "start": 99.68,
+    "text": " Okay, so let's go a little bit more into the details of how everything works."
+  },
+  {
+    "start": 104.24000000000001,
+    "text": " So first part, which is one of the most important and what distinguishes wavetable from any other synthesizer."
+  },
+  {
+    "start": 111.12,
+    "text": " What we have here, we have this on off buttons for the oscillator one, oscillator two, we can turn them on and off however we like."
+  },
+  {
+    "start": 117.84,
+    "text": " And this is the main heart of the wavetable synth."
+  },
+  {
+    "start": 121.36000000000001,
+    "text": " So we have these basic shapes."
+  },
+  {
+    "start": 123.68,
+    "text": " So we have our sine wave, we have a sorted wave and square wave and we can morph between them."
+  },
+  {
+    "start": 130.0,
+    "text": " As you see, we can use this slider here and we can automate that slider as well."
+  },
+  {
+    "start": 134.0,
+    "text": " So we can freely move between the sounds that's here, like a single note."
+  },
+  {
+    "start": 141.6,
+    "text": " So now you get the idea how fluent it can be to change the sound from one to another."
+  },
+  {
+    "start": 146.16,
+    "text": " Then we can also add a sub oscillator here."
+  },
+  {
+    "start": 149.12,
+    "text": " We have a very basic controls like octave zero, minus one, minus two."
+  },
+  {
+    "start": 154.48,
+    "text": " And we can transpose the sound of course, even more."
+  },
+  {
+    "start": 160.16,
+    "text": " But let's leave it as it is, we can switch it off."
+  },
+  {
+    "start": 162.79999999999998,
+    "text": " Then we have our basic parameters to choose from."
+  },
+  {
+    "start": 165.35999999999999,
+    "text": " So the volume of the oscillator, we can have two oscillators and we can"
+  },
+  {
+    "start": 170.88,
+    "text": " change the level of different ones."
+  },
+  {
+    "start": 173.04,
+    "text": " So let's have a sine wave here and let's have a triangle wave or the sorted wave."
+  },
+  {
+    "start": 177.35999999999999,
+    "text": " And this can be more quiet or louder."
+  },
+  {
+    "start": 183.04,
+    "text": " And this also can be louder or more quiet."
+  },
+  {
+    "start": 186.96,
+    "text": " And we have our panning."
+  },
+  {
+    "start": 188.07999999999998,
+    "text": " So left, right, we can put one to the left and one to the right."
+  },
+  {
+    "start": 193.6,
+    "text": " Let's leave one for just a moment."
+  },
+  {
+    "start": 196.4,
+    "text": " We have our different set of wavetables."
+  },
+  {
+    "start": 198.96,
+    "text": " So we have our basics."
+  },
+  {
+    "start": 200.8,
+    "text": " We have some collection from Ableton."
+  },
+  {
+    "start": 204.72,
+    "text": " We have some vintage retro instrument harmonics from and everything."
+  },
+  {
+    "start": 209.04000000000002,
+    "text": " So let's go to let's say a vintage one and let's change."
+  },
+  {
+    "start": 213.28,
+    "text": " These are the actual wavetables."
+  },
+  {
+    "start": 216.48000000000002,
+    "text": " We can change that many ways, let's say."
+  },
+  {
+    "start": 222.0,
+    "text": " This will give us kind of clear representation of how everything works."
+  },
+  {
+    "start": 225.84,
+    "text": " So now we have our basic stuff that we can do with our wavetables."
+  },
+  {
+    "start": 229.92000000000002,
+    "text": " So we can tune it up and down so we can go up an octave."
+  },
+  {
+    "start": 234.88,
+    "text": " We're going to go up two octaves and down to octaves as well."
+  },
+  {
+    "start": 238.08,
+    "text": " Let's go."
+  },
+  {
+    "start": 239.28,
+    "text": " Let's say here that we have our detune by sense."
+  },
+  {
+    "start": 243.44,
+    "text": " So just we can detune it a tiny bit."
+  },
+  {
+    "start": 247.6,
+    "text": " And then we have some modification to the way to but not only we can use one of these,"
+  },
+  {
+    "start": 252.96,
+    "text": " but we can then modify it so we can warp it."
+  },
+  {
+    "start": 256.8,
+    "text": " We can fold it."
+  },
+  {
+    "start": 259.68,
+    "text": " Which gets very interesting sounds."
+  },
+  {
+    "start": 261.2,
+    "text": " And we also have different types of modification or like effects that we can do with our wavetables."
+  },
+  {
+    "start": 267.04,
+    "text": " So we have FM."
+  },
+  {
+    "start": 268.72,
+    "text": " We can tune that, but we need to add an amount."
+  },
+  {
+    "start": 275.6,
+    "text": " Now we'll see how crazy stuff we can do with it."
+  },
+  {
+    "start": 278.0,
+    "text": " Very interesting."
+  },
+  {
+    "start": 278.72,
+    "text": " We also have a classic."
+  },
+  {
+    "start": 280.08,
+    "text": " So pulse width and sync."
+  },
+  {
+    "start": 285.84,
+    "text": " So let's reset that and leave everything to zero and go to the modern."
+  },
+  {
+    "start": 293.11999999999995,
+    "text": " I like to use this fold parameter for a little bit."
+  },
+  {
+    "start": 298.4,
+    "text": " Okay, then we can leave it as it is now."
+  },
+  {
+    "start": 301.67999999999995,
+    "text": " We can add a second oscillator with just a regular sorted wave."
+  },
+  {
+    "start": 306.4,
+    "text": " Let's see if it like that."
+  },
+  {
+    "start": 307.28,
+    "text": " We can detune that a little bit."
+  },
+  {
+    "start": 314.47999999999996,
+    "text": " Okay, that's fine."
+  },
+  {
+    "start": 315.36,
+    "text": " I like it."
+  },
+  {
+    "start": 316.64,
+    "text": " Very simple."
+  },
+  {
+    "start": 317.2,
+    "text": " We can do the same things here."
+  },
+  {
+    "start": 318.32,
+    "text": " We can choose modern and then we can as a classic and we can sync it a little bit."
+  },
+  {
+    "start": 324.40000000000003,
+    "text": " Okay, then from here, we can also, if you want to see it slightly different than we see here,"
+  },
+  {
+    "start": 330.32,
+    "text": " we can change the display mode to like a circular mode."
+  },
+  {
+    "start": 333.84000000000003,
+    "text": " It doesn't change the sound in any way."
+  },
+  {
+    "start": 335.68,
+    "text": " Just looks a bit different."
+  },
+  {
+    "start": 339.04,
+    "text": " Like the wave is going clockwise, not linear here, like from left to right."
+  },
+  {
+    "start": 344.08000000000004,
+    "text": " But it's just basically up to your preference."
+  },
+  {
+    "start": 347.44,
+    "text": " Then we have filters."
+  },
+  {
+    "start": 348.72,
+    "text": " We have two different filters."
+  },
+  {
+    "start": 350.24,
+    "text": " We can apply both of them at the same time."
+  },
+  {
+    "start": 352.40000000000003,
+    "text": " We can use only one if you want."
+  },
+  {
+    "start": 354.08000000000004,
+    "text": " And also if you have to do filters on, we can choose what type of the filters they are."
+  },
+  {
+    "start": 358.48,
+    "text": " So we have a regular low pass, high pass, bandpass notch and morph,"
+  },
+  {
+    "start": 362.40000000000003,
+    "text": " morph, which is a part like a morph between low pass and high pass."
+  },
+  {
+    "start": 366.48,
+    "text": " We can morph it here."
+  },
+  {
+    "start": 368.24,
+    "text": " Okay, well, let's leave it on the low pass and turn this on as a high pass."
+  },
+  {
+    "start": 372.96,
+    "text": " We of course have a 12 decibels per octave or 24 decibels per octave slope."
+  },
+  {
+    "start": 377.84,
+    "text": " We can change that."
+  },
+  {
+    "start": 379.03999999999996,
+    "text": " And what is also very important is that type of the filter we have."
+  },
+  {
+    "start": 382.88,
+    "text": " We can use the different models of an amp."
+  },
+  {
+    "start": 386.79999999999995,
+    "text": " So that would be OSR."
+  },
+  {
+    "start": 388.64,
+    "text": " I think it's from Oscar."
+  },
+  {
+    "start": 389.84,
+    "text": " So then we can drive it a little bit here as well."
+  },
+  {
+    "start": 393.67999999999995,
+    "text": " Although it can sound maybe a bit more louder."
+  },
+  {
+    "start": 395.84,
+    "text": " So we have to be careful and use our limiter at the end."
+  },
+  {
+    "start": 399.91999999999996,
+    "text": " And then another filter we can do basically the same."
+  },
+  {
+    "start": 402.56,
+    "text": " So we can change the type and drive it a little bit."
+  },
+  {
+    "start": 405.76,
+    "text": " And then we have our regular controls."
+  },
+  {
+    "start": 407.12,
+    "text": " You can use either here by frequency, resonance,"
+  },
+  {
+    "start": 412.96,
+    "text": " or we can just drag and drop this dot on the display."
+  },
+  {
+    "start": 418.4,
+    "text": " We can try to do a modification, then apply some other filters to it."
+  },
+  {
+    "start": 421.6,
+    "text": " And the second filter here as well."
+  },
+  {
+    "start": 427.84000000000003,
+    "text": " You can use like that."
+  },
+  {
+    "start": 428.8,
+    "text": " No problem at all."
+  },
+  {
+    "start": 429.52,
+    "text": " But this is very important here."
+  },
+  {
+    "start": 430.8,
+    "text": " We can change how the filters are linked with each other."
+  },
+  {
+    "start": 435.2,
+    "text": " So we can use a serial."
+  },
+  {
+    "start": 436.40000000000003,
+    "text": " So first the sound goes through the filter number one."
+  },
+  {
+    "start": 439.84000000000003,
+    "text": " Then it hits the filter number two, goes through it as well."
+  },
+  {
+    "start": 442.48,
+    "text": " So we can cut the high frequencies first and the low frequencies."
+  },
+  {
+    "start": 446.0,
+    "text": " But we also can do a parallel."
+  },
+  {
+    "start": 447.68,
+    "text": " So the sound is divided into two different parts"
+  },
+  {
+    "start": 450.8,
+    "text": " and goes through each filter separately."
+  },
+  {
+    "start": 454.40000000000003,
+    "text": " And then there's also a split."
+  },
+  {
+    "start": 456.64,
+    "text": " So split works like the oscillator one goes through filter number one"
+  },
+  {
+    "start": 461.03999999999996,
+    "text": " and oscillator two goes through filter number two."
+  },
+  {
+    "start": 465.44,
+    "text": " Very simple stuff."
+  },
+  {
+    "start": 466.71999999999997,
+    "text": " Now when we have that covered, let's check what modification sources we have."
+  },
+  {
+    "start": 471.76,
+    "text": " So we have our regular envelopes one, two, three."
+  },
+  {
+    "start": 474.24,
+    "text": " The first envelope is the amp envelope."
+  },
+  {
+    "start": 476.24,
+    "text": " So we can't change the peak volume."
+  },
+  {
+    "start": 478.96,
+    "text": " We can change the attack."
+  },
+  {
+    "start": 480.47999999999996,
+    "text": " We can change the slope here."
+  },
+  {
+    "start": 482.15999999999997,
+    "text": " We can never, of course, is here."
+  },
+  {
+    "start": 484.4,
+    "text": " Then we can change our decay."
+  },
+  {
+    "start": 486.71999999999997,
+    "text": " And we can change sustain, release everything as in any other synth."
+  },
+  {
+    "start": 490.88,
+    "text": " If you want to know about synthesis and how all the envelope works,"
+  },
+  {
+    "start": 494.15999999999997,
+    "text": " I made a video already about it, which actually guides you to"
+  },
+  {
+    "start": 498.24,
+    "text": " an Ableton synth school that they made already."
+  },
+  {
+    "start": 500.71999999999997,
+    "text": " It's really simple, really intuitive."
+  },
+  {
+    "start": 502.15999999999997,
+    "text": " Watch my video here."
+  },
+  {
+    "start": 503.36,
+    "text": " I'll post the link in the cards."
+  },
+  {
+    "start": 505.36,
+    "text": " Then we have two other envelopes which you can assign to any parameters that we want."
+  },
+  {
+    "start": 509.52,
+    "text": " And two LFOs, which we can, of course, change the rate of LFO, the amount."
+  },
+  {
+    "start": 516.0,
+    "text": " We can change the type of the LFO wave."
+  },
+  {
+    "start": 519.9200000000001,
+    "text": " This is a random square solitude triangle and sine wave, obviously."
+  },
+  {
+    "start": 528.6400000000001,
+    "text": " And then we can also change the shape a little bit."
+  },
+  {
+    "start": 531.12,
+    "text": " We can offset it if you want to have two LFOs,"
+  },
+  {
+    "start": 534.32,
+    "text": " which are basically the same, but offset a little bit."
+  },
+  {
+    "start": 536.48,
+    "text": " So we can sync it to either Hertz."
+  },
+  {
+    "start": 538.4000000000001,
+    "text": " So we can choose the Hertz values or we can sync it to the notes."
+  },
+  {
+    "start": 541.5200000000001,
+    "text": " So we have the one eighth note, one fourth, one third, whatever you want."
+  },
+  {
+    "start": 545.5200000000001,
+    "text": " We can just sync it here and then that's the retrigger."
+  },
+  {
+    "start": 548.48,
+    "text": " So retrigger works like that."
+  },
+  {
+    "start": 549.84,
+    "text": " Each time you press a key, it will retrigger and start the LFO from the beginning."
+  },
+  {
+    "start": 554.1600000000001,
+    "text": " But if you turn it off, it will continue flowing freely."
+  },
+  {
+    "start": 556.8800000000001,
+    "text": " So it will start on a different value."
+  },
+  {
+    "start": 558.96,
+    "text": " Sometimes it's even better for depends on what you do."
+  },
+  {
+    "start": 561.7600000000001,
+    "text": " The same with LFO to exactly the same."
+  },
+  {
+    "start": 563.6800000000001,
+    "text": " One more important thing that we see here is the attenuation."
+  },
+  {
+    "start": 566.5600000000001,
+    "text": " So when we go a little bit up with that, it just basically"
+  },
+  {
+    "start": 570.6400000000001,
+    "text": " opens the LFO slowly up to the maximum level."
+  },
+  {
+    "start": 573.92,
+    "text": " And we can always do that for some effects."
+  },
+  {
+    "start": 576.4,
+    "text": " Okay. And then we have really important tab, which is the matrix and media and MP basically."
+  },
+  {
+    "start": 582.8,
+    "text": " But let's start with the matrix."
+  },
+  {
+    "start": 585.12,
+    "text": " Matrix. That's the tab when we can apply all the modifications and link them to the target"
+  },
+  {
+    "start": 590.64,
+    "text": " that we want to modify."
+  },
+  {
+    "start": 591.76,
+    "text": " So the parameter like let's say the volume or frequency or resonance or whatever."
+  },
+  {
+    "start": 596.8,
+    "text": " And this works really clever and really simple."
+  },
+  {
+    "start": 599.52,
+    "text": " We have all our modification sources on the top."
+  },
+  {
+    "start": 602.64,
+    "text": " And here on the side, we have all the parameters that we can modify."
+  },
+  {
+    "start": 606.48,
+    "text": " And when we click on one parameter, it's going to pop up here temporarily for the moment."
+  },
+  {
+    "start": 611.68,
+    "text": " If we're not going to change it, it can be switched to a different one like this."
+  },
+  {
+    "start": 615.44,
+    "text": " But once we use, we will keep it here forever."
+  },
+  {
+    "start": 618.88,
+    "text": " If we apply this to oscillator one position, it's going to move our oscillator."
+  },
+  {
+    "start": 626.08,
+    "text": " Also, when we add a frequency to the filter, we can assign envelope number two to the filter."
+  },
+  {
+    "start": 632.48,
+    "text": " Also, we can, of course, assign any mod, mod source, modification source to any parameter."
+  },
+  {
+    "start": 638.64,
+    "text": " What else we have our midi tap."
+  },
+  {
+    "start": 641.04,
+    "text": " So the midi tap will basically do the same so you can modify our filters or oscillators"
+  },
+  {
+    "start": 646.88,
+    "text": " with the media information."
+  },
+  {
+    "start": 648.64,
+    "text": " So we have the velocity."
+  },
+  {
+    "start": 650.72,
+    "text": " So how hard we hit the keys, we have our notes."
+  },
+  {
+    "start": 652.96,
+    "text": " So if we have low notes, we're going to get low value."
+  },
+  {
+    "start": 655.12,
+    "text": " If we had high notes, we have higher value than pitch bends will."
+  },
+  {
+    "start": 659.52,
+    "text": " Then we have pressure."
+  },
+  {
+    "start": 660.64,
+    "text": " So that's after touch."
+  },
+  {
+    "start": 662.56,
+    "text": " Then we have module and then we have a random parameter."
+  },
+  {
+    "start": 665.12,
+    "text": " Also, MPE, velocity, note, pitch bend and slide and pressure."
+  },
+  {
+    "start": 670.0,
+    "text": " If you have an MPE enabled keyboard like Roli."
+  },
+  {
+    "start": 673.36,
+    "text": " So let's design our sound and I will walk you step by step."
+  },
+  {
+    "start": 676.16,
+    "text": " So first, let's maybe grab a clean a new instance of wavetable."
+  },
+  {
+    "start": 681.12,
+    "text": " So from the basics, let's choose the galactica waveform."
+  },
+  {
+    "start": 686.64,
+    "text": " For the oscillator 2, we're going to pick something from vintage and we can choose midi filter."
+  },
+  {
+    "start": 694.96,
+    "text": " Okay, we will add a sub oscillator on the minus one octave."
+  },
+  {
+    "start": 698.88,
+    "text": " We're going to detune that oscillator to by an octave as well."
+  },
+  {
+    "start": 704.4,
+    "text": " And then detune it all a little bit."
+  },
+  {
+    "start": 707.28,
+    "text": " Let's design our amp envelope."
+  },
+  {
+    "start": 709.52,
+    "text": " So we're going to make a pad sound."
+  },
+  {
+    "start": 710.9599999999999,
+    "text": " So let's bring the attack a little bit up."
+  },
+  {
+    "start": 713.8399999999999,
+    "text": " So like one and a half second will be fine."
+  },
+  {
+    "start": 716.0799999999999,
+    "text": " We have the attack values here."
+  },
+  {
+    "start": 717.76,
+    "text": " You can see."
+  },
+  {
+    "start": 721.68,
+    "text": " Release on like two and more to more than two seconds."
+  },
+  {
+    "start": 724.8,
+    "text": " And we want to have quite high sustain as well."
+  },
+  {
+    "start": 728.32,
+    "text": " Okay, but this is kind of very harsh."
+  },
+  {
+    "start": 730.16,
+    "text": " So you want to use our filter already."
+  },
+  {
+    "start": 732.32,
+    "text": " So let's change the filter type to let's say this one, drive it a little bit and bring"
+  },
+  {
+    "start": 738.32,
+    "text": " the frequency down a bit."
+  },
+  {
+    "start": 744.88,
+    "text": " Okay, we might also have a little bit of a delay."
+  },
+  {
+    "start": 748.0,
+    "text": " So let's change the filter type to let's say this one, drive it a little bit and bring"
+  },
+  {
+    "start": 752.48,
+    "text": " the frequency down a bit."
+  },
+  {
+    "start": 757.36,
+    "text": " We might have a little bit too much of the low end."
+  },
+  {
+    "start": 759.44,
+    "text": " So let's introduce a second filter."
+  },
+  {
+    "start": 767.84,
+    "text": " Like that's okay."
+  },
+  {
+    "start": 768.5600000000001,
+    "text": " And then we also want to design our aliphose a little bit."
+  },
+  {
+    "start": 773.36,
+    "text": " So we go here."
+  },
+  {
+    "start": 774.32,
+    "text": " We want a very slow aliphose like 0.0 hertz and second one with a different value."
+  },
+  {
+    "start": 781.04,
+    "text": " Let's say like that will be fine."
+  },
+  {
+    "start": 782.72,
+    "text": " And then we can assign them in the matrix to first."
+  },
+  {
+    "start": 786.48,
+    "text": " I'll say to one position, you're going to use another phone number one and for the"
+  },
+  {
+    "start": 791.28,
+    "text": " estate to two can use other phone number two."
+  },
+  {
+    "start": 800.64,
+    "text": " Now we have a nice moving sound that moves around a little bit and then we can add a"
+  },
+  {
+    "start": 805.2,
+    "text": " unison so we have a really, really intensive pad sound."
+  },
+  {
+    "start": 808.5600000000001,
+    "text": " So let's go to the shimmer."
+  },
+  {
+    "start": 810.24,
+    "text": " Wait, let's turn down the amount a little bit."
+  },
+  {
+    "start": 820.16,
+    "text": " That's about what let's introduce an envelopes as well to a filter frequency."
+  },
+  {
+    "start": 824.72,
+    "text": " So we didn't modify food frequency yet at all."
+  },
+  {
+    "start": 828.32,
+    "text": " So we can do that with the envelope number two and a quick way to go back to the envelope"
+  },
+  {
+    "start": 832.0,
+    "text": " instead of looking for it."
+  },
+  {
+    "start": 833.28,
+    "text": " Just click this name here and we have the envelope number two."
+  },
+  {
+    "start": 836.48,
+    "text": " We can design a little bit still like that and this."
+  },
+  {
+    "start": 847.04,
+    "text": " Let's slow down everything."
+  },
+  {
+    "start": 848.24,
+    "text": " So"
+  },
+  {
+    "start": 862.0,
+    "text": " and also let's add a little bit of the LFO to the filter one frequency."
+  },
+  {
+    "start": 866.72,
+    "text": " And let's say this one minus."
+  },
+  {
+    "start": 873.92,
+    "text": " Maybe that's too much."
+  },
+  {
+    "start": 875.04,
+    "text": " Let's go like that."
+  },
+  {
+    "start": 878.24,
+    "text": " And let's move that filter number two as well."
+  },
+  {
+    "start": 886.0,
+    "text": " So filter two frequency."
+  },
+  {
+    "start": 887.36,
+    "text": " Let's move that with this DRLFO on minus and the same envelope, but on minus."
+  },
+  {
+    "start": 896.8,
+    "text": " So they'll never like stick the same."
+  },
+  {
+    "start": 898.4,
+    "text": " They will be always a little bit different."
+  },
+  {
+    "start": 901.28,
+    "text": " Flying and chasing."
+  },
+  {
+    "start": 902.4,
+    "text": " And also change the filter to type to the RSR and drive it a little bit."
+  },
+  {
+    "start": 912.88,
+    "text": " Bring down the volume tiny bit."
+  },
+  {
+    "start": 921.92,
+    "text": " Okay."
+  },
+  {
+    "start": 922.4,
+    "text": " Interesting sounds so far."
+  },
+  {
+    "start": 923.92,
+    "text": " Now let's play a little bit with the position."
+  },
+  {
+    "start": 926.3199999999999,
+    "text": " So let's go left here on the other side."
+  },
+  {
+    "start": 930.24,
+    "text": " And to the right here on us later, too, we're kind of the same value."
+  },
+  {
+    "start": 933.2,
+    "text": " We will not be modifying this."
+  },
+  {
+    "start": 940.4,
+    "text": " This sound is too boomy."
+  },
+  {
+    "start": 941.44,
+    "text": " Let's bring the slider to up a bit."
+  },
+  {
+    "start": 946.88,
+    "text": " Or just switch off the sub oscillator."
+  },
+  {
+    "start": 950.5600000000001,
+    "text": " What else we can change?"
+  },
+  {
+    "start": 952.08,
+    "text": " We can fold this way table a little bit."
+  },
+  {
+    "start": 954.56,
+    "text": " And we can keep folding it with, let's say, velocity."
+  },
+  {
+    "start": 958.4799999999999,
+    "text": " So if you have like a little velocity, the harder we press the key, it's going to fold"
+  },
+  {
+    "start": 965.76,
+    "text": " it a little bit more."
+  },
+  {
+    "start": 971.3599999999999,
+    "text": " And then which is very important thing, and I like to do that sometimes is to even create"
+  },
+  {
+    "start": 976.0,
+    "text": " these LFOs weirder so they're not always the same."
+  },
+  {
+    "start": 980.16,
+    "text": " So they will change their rates."
+  },
+  {
+    "start": 982.0,
+    "text": " So how to change the rate?"
+  },
+  {
+    "start": 983.1999999999999,
+    "text": " Let's click on that."
+  },
+  {
+    "start": 984.24,
+    "text": " And it should pop up here for rate also in the media."
+  },
+  {
+    "start": 987.1999999999999,
+    "text": " And let's apply a random to that a little bit."
+  },
+  {
+    "start": 989.68,
+    "text": " So each time we press the alpha rate will be slightly different."
+  },
+  {
+    "start": 997.36,
+    "text": " But as we can turn that a little bit down, if the LFO is too crazy, let's get the amount"
+  },
+  {
+    "start": 1002.0,
+    "text": " a little bit low."
+  },
+  {
+    "start": 1003.04,
+    "text": " Same with LFO 2."
+  },
+  {
+    "start": 1004.3199999999999,
+    "text": " And then we can turn it down."
+  },
+  {
+    "start": 1006.4000000000001,
+    "text": " Get the amount a little bit low."
+  },
+  {
+    "start": 1008.0,
+    "text": " Same with LFO 2."
+  },
+  {
+    "start": 1009.2800000000001,
+    "text": " And then we can click that."
+  },
+  {
+    "start": 1011.44,
+    "text": " And also apply a little bit random number here, but in the other way, not exactly the"
+  },
+  {
+    "start": 1015.6,
+    "text": " same."
+  },
+  {
+    "start": 1021.44,
+    "text": " Let's assign what our modification wheel mod wheel will do."
+  },
+  {
+    "start": 1025.04,
+    "text": " So we have it in the media here."
+  },
+  {
+    "start": 1026.88,
+    "text": " That's the mod."
+  },
+  {
+    "start": 1027.52,
+    "text": " So let's open the frequency one a little bit."
+  },
+  {
+    "start": 1030.64,
+    "text": " Let's bring the frequency two up as well."
+  },
+  {
+    "start": 1033.5200000000002,
+    "text": " And then we can change oscillator number two position as well with it, but on minus."
+  },
+  {
+    "start": 1043.1200000000001,
+    "text": " So now when you press the key,"
+  },
+  {
+    "start": 1048.8000000000002,
+    "text": " we can change that too."
+  },
+  {
+    "start": 1049.92,
+    "text": " Very simple as you see."
+  },
+  {
+    "start": 1050.88,
+    "text": " Everything I do is actually very basic and simple."
+  },
+  {
+    "start": 1053.0400000000002,
+    "text": " And you can do that too."
+  },
+  {
+    "start": 1054.64,
+    "text": " So easy."
+  },
+  {
+    "start": 1056.0800000000002,
+    "text": " If we want to create a bass sound, we will just probably go and switch that to mono."
+  },
+  {
+    "start": 1059.92,
+    "text": " And we can add some glide between."
+  },
+  {
+    "start": 1066.4,
+    "text": " Well, let's keep polyphonic."
+  },
+  {
+    "start": 1067.92,
+    "text": " That's how you basically create sounds and your sound design."
+  },
+  {
+    "start": 1071.68,
+    "text": " There's one also very nice and important thing that I haven't showed you about."
+  },
+  {
+    "start": 1075.68,
+    "text": " And that makes all your life easier with the wavetable."
+  },
+  {
+    "start": 1078.8000000000002,
+    "text": " If you want to see all the parameters on the screen, just press that little"
+  },
+  {
+    "start": 1082.48,
+    "text": " trailer button and that's going to open our envelopes and LFOs."
+  },
+  {
+    "start": 1087.52,
+    "text": " And we have our oscillator here down on the bottom."
+  },
+  {
+    "start": 1090.8,
+    "text": " But if you want to go even more extreme and have like your sound design session"
+  },
+  {
+    "start": 1095.04,
+    "text": " and just work on the sound without needing to take care of your music for the moment,"
+  },
+  {
+    "start": 1099.6,
+    "text": " you can bring that up and that's going to open your waveforms here on left and right side."
+  },
+  {
+    "start": 1104.48,
+    "text": " As I say, the one I say to stop."
+  },
+  {
+    "start": 1107.04,
+    "text": " And then you have everything on one screen, like really huge synthesizer screen."
+  },
+  {
+    "start": 1111.36,
+    "text": " And we also don't have the taps with the matrix media and MP."
+  },
+  {
+    "start": 1115.04,
+    "text": " They all here on one screen."
+  },
+  {
+    "start": 1116.32,
+    "text": " So you have all your parameters on one screen."
+  },
+  {
+    "start": 1118.8,
+    "text": " You don't need to click anywhere that makes life even much easier."
+  },
+  {
+    "start": 1121.76,
+    "text": " But then if we have our beautiful sound and we want to do something with it,"
+  },
+  {
+    "start": 1124.72,
+    "text": " we can just put any other like effects that you want to add."
+  },
+  {
+    "start": 1127.44,
+    "text": " So let's go to the audio effects."
+  },
+  {
+    "start": 1129.52,
+    "text": " Let's add a little bit of reverb."
+  },
+  {
+    "start": 1133.12,
+    "text": " Just a regular reverb will do."
+  },
+  {
+    "start": 1135.28,
+    "text": " Let's bring the size up a little bit."
+  },
+  {
+    "start": 1141.36,
+    "text": " We can drive it a little bit."
+  },
+  {
+    "start": 1142.64,
+    "text": " Let's take the amp, but before the reverb."
+  },
+  {
+    "start": 1154.88,
+    "text": " And we can of course,"
+  },
+  {
+    "start": 1155.76,
+    "text": " EQ it so we can get rid of the frequencies we don't actually really need."
+  },
+  {
+    "start": 1159.6000000000001,
+    "text": " So the low and we can cut it off."
+  },
+  {
+    "start": 1163.5200000000002,
+    "text": " We can add character to it."
+  },
+  {
+    "start": 1164.96,
+    "text": " But we play with the gate."
+  },
+  {
+    "start": 1166.8000000000002,
+    "text": " We can of course, destroy the sound a little bit more."
+  },
+  {
+    "start": 1170.0,
+    "text": " Saturator, but let's don't go crazy about it."
+  },
+  {
+    "start": 1172.8000000000002,
+    "text": " Let's turn the output down minus six, put that up, plus six."
+  },
+  {
+    "start": 1183.1200000000001,
+    "text": " A little bit of a delay."
+  },
+  {
+    "start": 1185.1200000000001,
+    "text": " Let's go with the echo."
+  },
+  {
+    "start": 1189.8400000000001,
+    "text": " We're getting some crazy stuff now, but yeah, that's a tiny bit of it."
+  },
+  {
+    "start": 1194.3200000000002,
+    "text": " We can of course, these sends and returns for that as well."
+  },
+  {
+    "start": 1198.0800000000002,
+    "text": " So basically, that's what we can achieve."
+  },
+  {
+    "start": 1203.2800000000002,
+    "text": " With the wavetable synthesizer and not only that many other things,"
+  },
+  {
+    "start": 1207.0400000000002,
+    "text": " so the bass sounds and everything."
+  },
+  {
+    "start": 1208.8000000000002,
+    "text": " The possibilities are endless."
+  },
+  {
+    "start": 1210.16,
+    "text": " Basically, I love the scent."
+  },
+  {
+    "start": 1211.2800000000002,
+    "text": " It's in my favorites, as you can see here."
+  },
+  {
+    "start": 1214.4,
+    "text": " And it will always be here, I guess."
+  },
+  {
+    "start": 1217.1200000000001,
+    "text": " And also I made a video if you want to learn more about creating some nice sound design"
+  },
+  {
+    "start": 1221.2800000000002,
+    "text": " with wavetable, it will be linked here with a nice dark drony resonant pad."
+  },
+  {
+    "start": 1226.72,
+    "text": " All right, that's it from me for today."
+  },
+  {
+    "start": 1228.3200000000002,
+    "text": " Thanks so much for watching and see you guys in the next video."
+  },
+  {
+    "start": 1230.48,
+    "text": " Cheers."
+  }
+]

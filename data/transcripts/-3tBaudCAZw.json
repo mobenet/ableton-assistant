@@ -1,0 +1,1010 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends, Matt aka Matt Tullen here, and in this video, I'm going to be giving you a detailed breakdown of Ableton Live's Reverb device and how you can use it to its full potential."
+  },
+  {
+    "start": 8.2,
+    "text": " So any reverb audio effect is basically an audio effect that allows us to simulate a real world physical environment,"
+  },
+  {
+    "start": 14.5,
+    "text": " allowing us to give sounds in our mix a sense of space, width, depth, dimension, and sound as though it's actually in that physical environment."
+  },
+  {
+    "start": 23.7,
+    "text": " And Ableton Live's Reverb device is no exception to this."
+  },
+  {
+    "start": 27.0,
+    "text": " So sound is effectively vibration in space."
+  },
+  {
+    "start": 30.299999999999997,
+    "text": " And if we think about making sound in a space such as when I clap my hands, that sound being made then sends out waves of vibration in every single direction in this space."
+  },
+  {
+    "start": 39.8,
+    "text": " And when those vibrations come into contact with a hard surface, such as a wall, a ceiling, a floor, a desk, or something like that, they bounce back off of it or reflect back off of that surface."
+  },
+  {
+    "start": 51.4,
+    "text": " So this sound will continue to bounce off of all of these different surfaces in all different directions until it completely dissolves or dies out and gets absorbed."
+  },
+  {
+    "start": 59.5,
+    "text": " And in a physical environment such as a room, all of these reflections will come together and create the sound of that room or space."
+  },
+  {
+    "start": 66.7,
+    "text": " And it's that sound that we're trying to emulate or simulate with a reverb."
+  },
+  {
+    "start": 71.6,
+    "text": " So before we get into the actual controls of the Reverb device, there are two main components that we need to understand when it comes to the signal or the sound of a reverb, the reflections and the diffusion."
+  },
+  {
+    "start": 84.3,
+    "text": " Now, if we think about the actual reverb of a physical space, the reflections are the initial part of the reverb, the initial reflections that reach the listening position, say where we are or where we're making the sound from, after having only been reflected off of a few different surfaces."
+  },
+  {
+    "start": 101.0,
+    "text": " Because this sound has only been reflected maybe once or twice, it's actually quite close to the original signal in terms of its timbre and its tonal qualities."
+  },
+  {
+    "start": 110.5,
+    "text": " Whereas the diffusion is the sound that reaches the listening position after having been reflected multiple times."
+  },
+  {
+    "start": 117.0,
+    "text": " And it's this sound that is the sound of the space or the timbre of the space."
+  },
+  {
+    "start": 122.2,
+    "text": " And because the sound has been reflected so much, this is less discernible as the original sound and it's more of that room sound."
+  },
+  {
+    "start": 130.7,
+    "text": " Now, the reason that it's important to understand this distinction between reflection and diffusion is because Ableton Live's Reverb device is very clearly broken up into being able to control these two different parts of the reverb, the reflection and the diffusion."
+  },
+  {
+    "start": 145.2,
+    "text": " So when we first take a look at Ableton Live's Reverb device, it can be quite confusing to understand because there are quite a lot of controls going on."
+  },
+  {
+    "start": 152.5,
+    "text": " And we'll get into all of those controls in a little bit."
+  },
+  {
+    "start": 155.29999999999998,
+    "text": " But first off, there are kind of four core controls that we need to understand."
+  },
+  {
+    "start": 159.7,
+    "text": " And these will actually be translatable across the vast majority of different reverb effects, whether that's Ableton Live's Reverb effects or any other reverb effects you use in any digital audio workstation or even physical reverb units."
+  },
+  {
+    "start": 172.29999999999998,
+    "text": " The first and probably most important control is the dry wet control."
+  },
+  {
+    "start": 176.89999999999998,
+    "text": " Now this in Ableton Live's Reverb is a dry and wet knob."
+  },
+  {
+    "start": 181.1,
+    "text": " And what this does is allows us to control the balance of the dry or the unreverbed or unprocessed signal to the wet or the reverb or processed signal."
+  },
+  {
+    "start": 190.7,
+    "text": " So in the case of this, I have a snare here, which this reverb is loaded up on the track of."
+  },
+  {
+    "start": 195.6,
+    "text": " And if I make this all the way to zero percent, we hear just the sound of the snare."
+  },
+  {
+    "start": 201.5,
+    "text": " But as I increase this dry wet control, we hear more and more of the reverb and less and less of the dry sound of the snare."
+  },
+  {
+    "start": 211.1,
+    "text": " And at 100 percent, we just hear the sound of the reverb or the room and not the sound of the original snare at all."
+  },
+  {
+    "start": 224.1,
+    "text": " Now, depending on whether you're working with reverb as an insert or on a return track, you might want to have this set to a different level."
+  },
+  {
+    "start": 230.29999999999998,
+    "text": " For the sake of this, I'm going to set this to 50 percent."
+  },
+  {
+    "start": 233.1,
+    "text": " So we hear exactly the same amount of the dry signal as we do of the wet signal."
+  },
+  {
+    "start": 237.7,
+    "text": " So we get a better understanding of how this reverb will work in the context of an actual track."
+  },
+  {
+    "start": 242.79999999999998,
+    "text": " The next main control is the decay control."
+  },
+  {
+    "start": 245.79999999999998,
+    "text": " And what this controls is the length of the diffusion part of the reverb."
+  },
+  {
+    "start": 251.6,
+    "text": " Doesn't affect the reflection of the reverb at all, just the diffusion part."
+  },
+  {
+    "start": 254.89999999999998,
+    "text": " So in Ableton Live's reverb, this decay control goes all the way from 200 milliseconds up to 60 seconds, allowing us to get a really, really long reverb."
+  },
+  {
+    "start": 264.6,
+    "text": " If we leave it at the default value of 1.2 seconds, this is what it sounds like."
+  },
+  {
+    "start": 269.8,
+    "text": " And if I increase this to, say, 20 seconds or so."
+  },
+  {
+    "start": 276.40000000000003,
+    "text": " Lasts for a really long amount of time."
+  },
+  {
+    "start": 278.3,
+    "text": " And if I decrease this, we get a really, really, really short diffusion."
+  },
+  {
+    "start": 282.6,
+    "text": " In fact, barely audible, right?"
+  },
+  {
+    "start": 284.5,
+    "text": " Let's set this to about two seconds."
+  },
+  {
+    "start": 287.20000000000005,
+    "text": " And that's a good value for us to work with whilst we're demonstrating the effects of this reverb."
+  },
+  {
+    "start": 290.9,
+    "text": " The next core component of pretty much any reverb is the size parameter."
+  },
+  {
+    "start": 294.79999999999995,
+    "text": " Now, sometimes the size parameter is confused with the decay control, but they actually work slightly differently because most of the time the size control doesn't really affect the length of the diffusion."
+  },
+  {
+    "start": 305.09999999999997,
+    "text": " What it does affect is the timbre or the tone of the diffusion."
+  },
+  {
+    "start": 309.2,
+    "text": " At a higher value, the diffused sound will be a little bit more dark and open sounding."
+  },
+  {
+    "start": 315.3,
+    "text": " Whereas at a lower value, we get more of a metallic, sharp, piercing, diffused sound."
+  },
+  {
+    "start": 321.3,
+    "text": " What I'm going to do is actually turn off this input filter here so we get a good sense of what the size is doing."
+  },
+  {
+    "start": 326.3,
+    "text": " And as I decrease this size, have a real listen to how metallic this now sounds."
+  },
+  {
+    "start": 333.3,
+    "text": " If I decrease it even more."
+  },
+  {
+    "start": 338.1,
+    "text": " It sounds tiled and metallic like we're in a much smaller space versus if I make this much larger, we get a much more open and even sounding reverb."
+  },
+  {
+    "start": 353.1,
+    "text": " In Ableton Live 11, we also have this smoothing control here."
+  },
+  {
+    "start": 356.70000000000005,
+    "text": " So as we adjust the size parameter whilst the reverb is playing, you'll hear the effects of this changing of size."
+  },
+  {
+    "start": 363.0,
+    "text": " As I move this size really drastically."
+  },
+  {
+    "start": 370.4,
+    "text": " You'll hear an almost re-pitching effect of this reverb."
+  },
+  {
+    "start": 374.1,
+    "text": " And it's the smoothing that controls how this re-pitching occurs."
+  },
+  {
+    "start": 378.3,
+    "text": " If I change this to none, you'll hear a lot of artifacts as we adjust the size parameter whilst the reverb is playing."
+  },
+  {
+    "start": 389.4,
+    "text": " You'll hear that as I increase the size, it gets a little bit crackly."
+  },
+  {
+    "start": 392.6,
+    "text": " But if I change this to slow, this will slow down the movement of this size parameter as I adjust it."
+  },
+  {
+    "start": 404.4,
+    "text": " And when set to slow or fast, it allows us to smooth out the movement of that size parameter for some really great creative effects."
+  },
+  {
+    "start": 412.3,
+    "text": " If we want to apply, say, some automation to the size parameter."
+  },
+  {
+    "start": 415.6,
+    "text": " Let's keep this set to fast and let's set our size to 80."
+  },
+  {
+    "start": 418.90000000000003,
+    "text": " We're not going to worry about adjusting the size control in any kind of automated sense."
+  },
+  {
+    "start": 422.5,
+    "text": " So we're just going to leave it set to there."
+  },
+  {
+    "start": 424.3,
+    "text": " The last core parameter of any reverb is the pre-delay."
+  },
+  {
+    "start": 428.1,
+    "text": " And what this allows us to control is the time difference between when we hear the direct signal and then when the reflection portion of the reverb begins."
+  },
+  {
+    "start": 438.5,
+    "text": " So currently with a pre-delay of 2.5 milliseconds, the reflection portion of the reverb begins pretty much instantaneously after we hear the direct signal."
+  },
+  {
+    "start": 447.4,
+    "text": " However, if I increase this quite substantially, say up to 100 and something milliseconds,"
+  },
+  {
+    "start": 452.7,
+    "text": " we now hear a distinct delay between when we hear that direct snare hit and then the reverbed portion of the signal."
+  },
+  {
+    "start": 462.4,
+    "text": " Which is even more obvious at the maximum value of 250 milliseconds."
+  },
+  {
+    "start": 467.2,
+    "text": " Now the pre-delay allows us to get a bit of a sense of how far away the listening position is from the closest reflective surface."
+  },
+  {
+    "start": 476.2,
+    "text": " If we have this nice and low, say around kind of eight or so milliseconds, this is a pretty typical smaller space."
+  },
+  {
+    "start": 483.2,
+    "text": " And as we get larger, say into the 80 to 100 millisecond range,"
+  },
+  {
+    "start": 487.2,
+    "text": " this gives us a bit more of a sense that we're in a really large space, far away from surfaces, such as maybe in a cathedral or a church."
+  },
+  {
+    "start": 496.2,
+    "text": " And this again is disregarding the size and decay controls as well."
+  },
+  {
+    "start": 506.2,
+    "text": " So just by playing around with the decay size and pre-delay controls, we can change the characteristics of the space quite substantially."
+  },
+  {
+    "start": 515.2,
+    "text": " And you really don't need to worry about all of the other parameters if you just play around with these."
+  },
+  {
+    "start": 520.2,
+    "text": " The other ones are just kind of icing on the cake."
+  },
+  {
+    "start": 522.2,
+    "text": " With that said, after setting our decay size and pre-delay parameters, we can now look at the other elements of Ableton Live's reverb device"
+  },
+  {
+    "start": 529.2,
+    "text": " in order to allow us to shape the sound of the reflections part of the reverb and the diffusions part of the reverb."
+  },
+  {
+    "start": 536.2,
+    "text": " So starting on the left here, we have an input filter, which I turned off before so we could hear the sound of the size parameter adjusting."
+  },
+  {
+    "start": 544.2,
+    "text": " But just so we can hear the effects of everything, I'm going to turn off all of these other sections as well."
+  },
+  {
+    "start": 551.2,
+    "text": " So we're going to start with the input filter."
+  },
+  {
+    "start": 553.2,
+    "text": " Now this input filter allows us to apply a low cut or a high cut filter to the input source of the reverb."
+  },
+  {
+    "start": 560.2,
+    "text": " In this case, it's the snare."
+  },
+  {
+    "start": 562.2,
+    "text": " And what this allows us to do is kind of either darken or brighten the reverb in a really quick and easy way."
+  },
+  {
+    "start": 569.2,
+    "text": " This is without the input filter turned on at all."
+  },
+  {
+    "start": 574.2,
+    "text": " We get the full frequency spectrum of the snare being reverberated throughout whatever space we're creating."
+  },
+  {
+    "start": 580.2,
+    "text": " If I engage the high cut filter, we're now removing some of those high frequencies from the input signal,"
+  },
+  {
+    "start": 586.2,
+    "text": " therefore removing some of those high frequencies from the reverb as well."
+  },
+  {
+    "start": 591.2,
+    "text": " And if I reduce the cutoff frequency of this high cut filter, you'll hear it get even darker."
+  },
+  {
+    "start": 598.2,
+    "text": " Much more muffled in the space."
+  },
+  {
+    "start": 600.2,
+    "text": " We can turn off the high cut filter and engage the low cut filter."
+  },
+  {
+    "start": 603.2,
+    "text": " And now we get the opposite effect where we're removing those low frequencies and just passing those high frequencies through the reverb."
+  },
+  {
+    "start": 611.2,
+    "text": " Or we can engage both the low cut and the high cut filters and adjust this to our liking to carve out both high and low frequencies"
+  },
+  {
+    "start": 622.2,
+    "text": " and really focus in on a narrow frequency band to apply our reverberation to."
+  },
+  {
+    "start": 634.2,
+    "text": " And this can be a really fantastic way to easily adjust the sound of the reverb."
+  },
+  {
+    "start": 638.2,
+    "text": " Now it's worth noting here though that this input filter affects the sound of the signal before being processed by the reverb."
+  },
+  {
+    "start": 645.2,
+    "text": " So depending on your reverb settings, you might still get some low and high frequencies introduced."
+  },
+  {
+    "start": 650.2,
+    "text": " You're not applying the effects of an EQ after the reverb."
+  },
+  {
+    "start": 653.2,
+    "text": " And if you want to do that, you should be applying a reverb on, say, a return channel or in a parallel sense and then applying an EQ after the reverb."
+  },
+  {
+    "start": 661.2,
+    "text": " But for the most part, this input filter does a fantastic job at allowing us to shape the tone of the reverb."
+  },
+  {
+    "start": 666.2,
+    "text": " Let's turn off this input filter."
+  },
+  {
+    "start": 668.2,
+    "text": " So we're just passing the entirety of our snare and move on to our next section, which is the early reflection section here."
+  },
+  {
+    "start": 675.2,
+    "text": " Now, what this section allows us to do is shape the tonal characteristics of the reflections portion of the reverb."
+  },
+  {
+    "start": 683.2,
+    "text": " We have a few controls here that allow us to apply some modulation to the reflections component of the reverb with this spin parameter."
+  },
+  {
+    "start": 691.2,
+    "text": " But this is a little bit hard to hear."
+  },
+  {
+    "start": 693.2,
+    "text": " So what I'm actually going to do is move on over to the right hand side of this reverb device and go to the reflect and diffuse controls,"
+  },
+  {
+    "start": 699.2,
+    "text": " which allow us to control the relative levels of the reflection and the diffusion."
+  },
+  {
+    "start": 703.2,
+    "text": " And in order to hear the effects of this early reflection spin modulation a little bit clearer, I'm going to turn the diffusion of this reverb all the way down."
+  },
+  {
+    "start": 712.2,
+    "text": " So we're just effectively hearing the reflection component of this reverb."
+  },
+  {
+    "start": 717.2,
+    "text": " And just so we're not hearing the sound of the direct signal as well, I'm going to bump up the dry wet all the way to 100 percent."
+  },
+  {
+    "start": 724.2,
+    "text": " And now we're effectively just hearing the reflection component of the reverb."
+  },
+  {
+    "start": 729.2,
+    "text": " So let's engage the spin now."
+  },
+  {
+    "start": 731.2,
+    "text": " And as I adjust some of these parameters, you'll hear some movement being applied to these reflections."
+  },
+  {
+    "start": 737.2,
+    "text": " The amount control here adjusts the amount or depth of this modulation, and the rate control affects the speed of this modulation."
+  },
+  {
+    "start": 745.2,
+    "text": " So we can hear the full effects of this."
+  },
+  {
+    "start": 747.2,
+    "text": " I'm going to put the rate all the way up."
+  },
+  {
+    "start": 749.2,
+    "text": " So one point three hertz."
+  },
+  {
+    "start": 751.2,
+    "text": " And with the amount all the way up, have a listen to what this sounds like."
+  },
+  {
+    "start": 758.2,
+    "text": " You can hear that every time I play it, it sounds slightly different."
+  },
+  {
+    "start": 767.2,
+    "text": " We're adjusting some of the tonal characteristics of the reflections of this reverb over time."
+  },
+  {
+    "start": 772.2,
+    "text": " Let's reduce this a little bit."
+  },
+  {
+    "start": 776.2,
+    "text": " And this allows us to add in some kind of variation to the reflections of our reverb so that it's not always the same."
+  },
+  {
+    "start": 784.2,
+    "text": " There's also one more parameter in this section, which is this shape parameter, which allows us to kind of affect the envelope of the reflections and how they die out and crossover into the diffusion."
+  },
+  {
+    "start": 796.2,
+    "text": " If I turn off the spin, we can hear that as I increase this shape control, we have much more of a steep cut off of the amplitude of the reflections."
+  },
+  {
+    "start": 806.2,
+    "text": " But as it's decreased, we get a much more gradual decay of these reflections."
+  },
+  {
+    "start": 812.2,
+    "text": " If I set this to one, have a listen to what it sounds like."
+  },
+  {
+    "start": 817.2,
+    "text": " Really sharp decay versus zero."
+  },
+  {
+    "start": 820.2,
+    "text": " It's a really, really, really subtle effect, but it does allow us to affect how the reflections crossover with the diffusion of the reverb."
+  },
+  {
+    "start": 830.2,
+    "text": " For the moment, I'm going to set this to point five."
+  },
+  {
+    "start": 833.2,
+    "text": " This is a fairly good value to have this set to."
+  },
+  {
+    "start": 836.2,
+    "text": " Now let's go back to the right hand section over here and turn down our reflections and turn up our diffusion so that we just now hear the diffusion component of the reverb,"
+  },
+  {
+    "start": 847.2,
+    "text": " because we're going to move on to the diffusion network now."
+  },
+  {
+    "start": 850.2,
+    "text": " So just to get a bit of a sense of what this sounds like with just the diffusion, let me play this and so you can have a listen."
+  },
+  {
+    "start": 859.2,
+    "text": " You can hear it's lacking that reflection part of the reverb and that diffusion is kind of fading in after we would potentially have that reflection component."
+  },
+  {
+    "start": 867.2,
+    "text": " So what the diffusion network allows us to do is affect some of the tonal, timbral characteristics of this diffusion component of the reverb."
+  },
+  {
+    "start": 875.2,
+    "text": " And it does this in a few different ways."
+  },
+  {
+    "start": 878.2,
+    "text": " First off, the main aspect of any kind of diffusion network is the ability to taper off certain frequencies over the period of that diffusion network."
+  },
+  {
+    "start": 888.2,
+    "text": " So as an example, we have here the ability to apply a high shelf, which what this will do is taper off those higher frequencies, not immediately, but over a period of time."
+  },
+  {
+    "start": 902.2,
+    "text": " So with this just engaged immediately, you'll already hear that the diffusion is kind of darker."
+  },
+  {
+    "start": 910.2,
+    "text": " As I reduce this, you'll hear it get even darker."
+  },
+  {
+    "start": 916.2,
+    "text": " But you'll hear it doesn't happen immediately."
+  },
+  {
+    "start": 918.2,
+    "text": " It's almost as if there's a frequency sweep going on on the diffusion."
+  },
+  {
+    "start": 923.2,
+    "text": " As I reduce this amount, you'll hear it even more."
+  },
+  {
+    "start": 927.2,
+    "text": " We start with those higher frequencies and they slowly get filtered out over time."
+  },
+  {
+    "start": 932.2,
+    "text": " Now with Ableton Live's diffusion network, we also get the ability to change this high shelf into a low pass filter, which does affect the characteristics of the sound even more."
+  },
+  {
+    "start": 944.2,
+    "text": " When this is set quite low, we basically don't get any of those higher frequencies coming through, versus if I change this back to a high shelf."
+  },
+  {
+    "start": 952.2,
+    "text": " You'll hear those higher frequencies right at the beginning of the diffusion network."
+  },
+  {
+    "start": 956.2,
+    "text": " Let's turn off this high shelf and now go to the low shelf."
+  },
+  {
+    "start": 959.2,
+    "text": " And this is effectively the exact same thing, except it's a sweep from the bottom up rather than a sweep from the top down."
+  },
+  {
+    "start": 967.2,
+    "text": " Let's move this really high so we get a sense of what it sounds like."
+  },
+  {
+    "start": 972.2,
+    "text": " And you can hear how it kind of sweeps up across the frequency spectrum."
+  },
+  {
+    "start": 977.2,
+    "text": " These two parameters already allow us to really control and shape the sound of the diffusion of the space."
+  },
+  {
+    "start": 984.2,
+    "text": " You can use this to create really realistic sounding spaces or really unrealistic sounding spaces if you combine both of them together."
+  },
+  {
+    "start": 992.2,
+    "text": " You can have it just focused in on a very specific portion of the frequency spectrum."
+  },
+  {
+    "start": 998.2,
+    "text": " And you can get an almost whipping kind of sound, maybe something like a plate reverb or a spring reverb by adjusting these diffusion network parameters."
+  },
+  {
+    "start": 1007.2,
+    "text": " Now, we also have two more parameters in this diffusion network, which is the diffusion and the scale control, which is kind of hard to describe what they do."
+  },
+  {
+    "start": 1017.2,
+    "text": " But let's turn off these filters here and try to do it anyway."
+  },
+  {
+    "start": 1021.2,
+    "text": " The diffusion parameter here allows us to adjust the density of the diffusion at a higher value."
+  },
+  {
+    "start": 1029.2,
+    "text": " We basically have more dense echoes, effectively more dense reflections, adding to the diffusion of the sound or the reflection and reverberation of the sound in the space at a higher value."
+  },
+  {
+    "start": 1042.2,
+    "text": " This is what it sounds like."
+  },
+  {
+    "start": 1046.2,
+    "text": " And at a lower value."
+  },
+  {
+    "start": 1048.2,
+    "text": " But this control also works in tandem with the scale control, which adjusts kind of the space or what it says here is the coarseness of the diffusion."
+  },
+  {
+    "start": 1060.2,
+    "text": " So you can kind of think of it as how long these reflections last for at a lower value in the scale parameter."
+  },
+  {
+    "start": 1066.2,
+    "text": " These kind of chunks of the diffusion are much less coarse, much more fine."
+  },
+  {
+    "start": 1070.2,
+    "text": " So we get a much smoother sounding diffusion."
+  },
+  {
+    "start": 1075.2,
+    "text": " However, as I increase the scale control, you'll start to hear some kind of jittering going on in the diffusion as we get much thicker and less dense kind of diffusions or reflections in the diffusion."
+  },
+  {
+    "start": 1088.2,
+    "text": " It's kind of hard to explain, but you'll hear a kind of flutter as I increase the scale control."
+  },
+  {
+    "start": 1093.2,
+    "text": " And it's worth noting that this scale control, the diffusion control, are both directly related to the size control as well."
+  },
+  {
+    "start": 1101.2,
+    "text": " So as I increase the size control, you'll hear is kind of jittering get much more intense and obvious."
+  },
+  {
+    "start": 1109.2,
+    "text": " Versus as I change this."
+  },
+  {
+    "start": 1110.2,
+    "text": " Versus as I change this."
+  },
+  {
+    "start": 1119.2,
+    "text": " We get these walls and these spaces coming closer and closer and closer together."
+  },
+  {
+    "start": 1123.2,
+    "text": " Therefore, the distance between these kind of direct reflections in our space is much shorter and these echoes are much quicker and closer together."
+  },
+  {
+    "start": 1132.2,
+    "text": " And now if I increase the diffusion, we get a much denser sounding diffusion network."
+  },
+  {
+    "start": 1140.2,
+    "text": " So we don't get that kind of stuttery effect that we were getting before."
+  },
+  {
+    "start": 1145.2,
+    "text": " So this diffusion scale and size parameter all kind of work in tandem to adjust the timing and density characteristics of the diffusion network."
+  },
+  {
+    "start": 1157.2,
+    "text": " Lastly, we have a chorus section here on the right, which allows us to apply some chorus style modulation to the diffusion network."
+  },
+  {
+    "start": 1167.2,
+    "text": " As I engage this, you'll hear that we now get a very similar effect to what the spin was doing to the early reflections, except now to the diffusion of this reverb."
+  },
+  {
+    "start": 1179.2,
+    "text": " Let's increase the amount."
+  },
+  {
+    "start": 1183.2,
+    "text": " And if I increase the rate, you'll hear this get much, much quicker."
+  },
+  {
+    "start": 1186.2,
+    "text": " Now it's worth noting here that this chorus is kind of applying, I guess what you'd think of as pitch modulation, or at least that's what the tonal effect of it is."
+  },
+  {
+    "start": 1197.2,
+    "text": " So it does kind of detune the reverb in a little bit of a way."
+  },
+  {
+    "start": 1205.2,
+    "text": " It works pretty much exactly the same as a normal chorus does."
+  },
+  {
+    "start": 1207.2,
+    "text": " It's just applying it to the diffusion network of your reverb."
+  },
+  {
+    "start": 1210.2,
+    "text": " So you might want to turn down the effect of this."
+  },
+  {
+    "start": 1213.2,
+    "text": " If you want a more natural sounding reverb, but it can be nice to again, add some just difference and variation to the sound of your reverb."
+  },
+  {
+    "start": 1220.2,
+    "text": " So there are two more controls here that I want to talk about really briefly."
+  },
+  {
+    "start": 1224.2,
+    "text": " We have the stereo and the density controls."
+  },
+  {
+    "start": 1226.2,
+    "text": " The stereo control allows us to spread this sound out in the stereo spectrum."
+  },
+  {
+    "start": 1231.2,
+    "text": " So if this is set to zero, we have a mono reverb set to 100."
+  },
+  {
+    "start": 1237.2,
+    "text": " It's a stereo reverb and set to 100."
+  },
+  {
+    "start": 1241.2,
+    "text": " And set to 120, each of the left and the right speakers receive an independent reverb signal."
+  },
+  {
+    "start": 1250.2,
+    "text": " And we get a whole spectrum in between this as well."
+  },
+  {
+    "start": 1254.2,
+    "text": " So we can adjust the stereo width of the reverb really easily with the stereo control and the density control here kind of allows us to adjust the quality of the reverb."
+  },
+  {
+    "start": 1264.2,
+    "text": " If you will, we have four different options."
+  },
+  {
+    "start": 1266.2,
+    "text": " We have sparse, low, mid and high."
+  },
+  {
+    "start": 1268.2,
+    "text": " Sparse, as you would think, is more of a sparse kind of diffusion sound."
+  },
+  {
+    "start": 1275.2,
+    "text": " Low, mid and high, then just get increasing kind of values of density and quality to the reverb."
+  },
+  {
+    "start": 1288.2,
+    "text": " And as you would hear that at a high density, we get a much smoother sounding reverb."
+  },
+  {
+    "start": 1293.2,
+    "text": " Now that's not to necessarily say that higher is always better in this particular parameter, but if you want a more natural sounding reverb, it's best to leave this density set to high."
+  },
+  {
+    "start": 1303.2,
+    "text": " Now there's one more section of the reverb here, which is this freeze section, which I've done a whole video on, which you can check out via the card above."
+  },
+  {
+    "start": 1312.2,
+    "text": " But basically what this allows us to do is freeze the diffusion part of the reverb so that it lingers effectively indefinitely."
+  },
+  {
+    "start": 1321.2,
+    "text": " So as I play this and engage the freeze control,"
+  },
+  {
+    "start": 1328.2,
+    "text": " we have an indefinite diffusion of our reverb."
+  },
+  {
+    "start": 1332.2,
+    "text": " By the way, if you're enjoying this video so far and learning from it, make sure to please drop a like below and subscribe if you're new."
+  },
+  {
+    "start": 1338.2,
+    "text": " I post new videos like this basically every week."
+  },
+  {
+    "start": 1341.2,
+    "text": " And if you're really enjoying my content and want to support me further, I'd love to invite you to head on over to my Buy Me A Coffee page where you can support me by buying me a coffee,"
+  },
+  {
+    "start": 1348.2,
+    "text": " downloading any of my cool racks or samples or anything like that, or becoming a member to support me on a monthly basis and get a bunch of cool stuff as well."
+  },
+  {
+    "start": 1356.2,
+    "text": " There's a link down in the description."
+  },
+  {
+    "start": 1358.2,
+    "text": " So now that we understand each and every parameter inside of Ableton Live's reverb device, let's have a quick look at designing some different spaces by adjusting these parameters."
+  },
+  {
+    "start": 1367.2,
+    "text": " So I've loaded up a fresh reverb onto this snare that we've been working with."
+  },
+  {
+    "start": 1372.2,
+    "text": " And let's put this snare into a kind of smaller space."
+  },
+  {
+    "start": 1375.2,
+    "text": " So I'm going to adjust the size parameter here so that we're maybe around 10 to 15 in terms of our size so that we have a more metallic and kind of tiled sound."
+  },
+  {
+    "start": 1384.2,
+    "text": " I'm going to set the pre-delay to maybe around 9 milliseconds, which is what I was saying before is a good kind of starting point for a smaller space."
+  },
+  {
+    "start": 1394.2,
+    "text": " Let's set the decay now to maybe somewhere around 800 milliseconds."
+  },
+  {
+    "start": 1398.2,
+    "text": " And we can adjust our reflection, diffusion and dry-wet controls now to maybe increase the sound or level of the reflection relative to the diffusion, maybe decrease the diffusion slightly, and then make this sound a little bit less wet."
+  },
+  {
+    "start": 1413.2,
+    "text": " With all of that set, before adjusting any of the input filter, early reflection, diffusion, network or chorus settings, let's have a listen to the sound."
+  },
+  {
+    "start": 1420.2,
+    "text": " So now if we want more of that kind of higher frequency sound, we can turn off our high cut and maybe engage our low cut here."
+  },
+  {
+    "start": 1432.2,
+    "text": " Let's increase the shape of these early reflections so they die out a little bit quicker and maybe reduce the amount, but increase the rate of the spin here just to add some variation to the sound of the reflections in this space."
+  },
+  {
+    "start": 1446.2,
+    "text": " Let's maybe engage the low shelf on our diffusion network to again kind of remove some of those lower frequencies from this space."
+  },
+  {
+    "start": 1454.2,
+    "text": " And maybe we want to just pull down the diffusion network high shelf a little bit as well."
+  },
+  {
+    "start": 1459.2,
+    "text": " Let's reduce the density of this diffusion network by pulling down the diffusion control a little bit and maybe increase the kind of jitteriness, I suppose, of this diffusion network by increasing the scale control as well."
+  },
+  {
+    "start": 1475.2,
+    "text": " Now we could maybe adjust some of the settings of the chorus here, maybe increase the rate a little bit and increase the amount to again give some more variation to our reverb."
+  },
+  {
+    "start": 1485.2,
+    "text": " And now we have a nice kind of small sounding room. If I increase the dry wet, so we're just hearing the sound of the reverb."
+  },
+  {
+    "start": 1494.2,
+    "text": " That is our reverb. And if we decrease this, we can mix it in nicely with our dry snare signal."
+  },
+  {
+    "start": 1499.2,
+    "text": " Awesome. Now here I have a vocal, which I've also loaded up a blank reverb on. And let's put this in a little bit of a larger space."
+  },
+  {
+    "start": 1506.2,
+    "text": " So in order to make this a bit more of a larger space, I'm going to set this size parameter here to 200 and let's increase the pre delay now to somewhere maybe around 50 to 60 milliseconds."
+  },
+  {
+    "start": 1517.2,
+    "text": " So we're in a much larger space. I'm going to increase the decay to maybe 2.2 seconds, so to 200."
+  },
+  {
+    "start": 1525.2,
+    "text": " And let's increase the diffusion relative to the reflection. So turn down the reflection a little bit."
+  },
+  {
+    "start": 1530.2,
+    "text": " And now again, without adjusting any of the filter reflection or diffusion network parameters, this is what we have."
+  },
+  {
+    "start": 1541.2,
+    "text": " Let's reduce the dry wet control here a little bit so we get more of the dry signal and that reverbs pushed to the back a little bit."
+  },
+  {
+    "start": 1548.2,
+    "text": " Let's adjust this input filter by maybe increasing the frequency of the high cut, introducing a little bit of a low cut as well, and bringing this up."
+  },
+  {
+    "start": 1556.2,
+    "text": " So we're removing some of those low frequencies and removing some of those high frequencies."
+  },
+  {
+    "start": 1565.2,
+    "text": " Let's have these early reflections gradually move a little bit more into the diffusion."
+  },
+  {
+    "start": 1570.2,
+    "text": " So let's pull down the shape parameter here and let's maybe again had some modulation to these earlier reflections, increase the amount and increase the rate a little bit."
+  },
+  {
+    "start": 1583.2,
+    "text": " And now we play around with the diffusion network. I'm going to pull down this high shelf here and actually going to set this to a high cut filter."
+  },
+  {
+    "start": 1592.2,
+    "text": " Pull this down a little bit, maybe increase the density of the diffusion now and decrease the scale too."
+  },
+  {
+    "start": 1599.2,
+    "text": " So we have a little bit of a kind of brighter and more, I guess, kind of cautious diffusion sound."
+  },
+  {
+    "start": 1613.2,
+    "text": " I might introduce some of these low diffusion as well."
+  },
+  {
+    "start": 1616.2,
+    "text": " Let's pull that down slightly and let's increase the rate and the amount of the chorus applied to that diffusion."
+  },
+  {
+    "start": 1629.2,
+    "text": " And if we increase the dry wet control, so we're just hearing the reverb, this is what our reverb now sounds like."
+  },
+  {
+    "start": 1634.2,
+    "text": " And from here you could, of course, further adjust it."
+  },
+  {
+    "start": 1639.2,
+    "text": " Maybe you could increase the decay a little bit."
+  },
+  {
+    "start": 1641.2,
+    "text": " You could pull down the input filter if you wanted a little bit darker and maybe even bring in some more of the reflections if you wanted more of that early portion of the reverb."
+  },
+  {
+    "start": 1651.2,
+    "text": " And so there is an excruciatingly detailed look at Ableton Live's reverb device and how you can use it to its fullest potential."
+  },
+  {
+    "start": 1659.2,
+    "text": " If you enjoyed this video, I invite you to check out this video right here where you can learn some more stuff about Ableton Live."
+  },
+  {
+    "start": 1664.2,
+    "text": " Otherwise, thank you so much for watching. I hope you enjoyed."
+  },
+  {
+    "start": 1666.2,
+    "text": " I hope you learned something and I'll see you all in the next video."
+  },
+  {
+    "start": 1681.2,
+    "text": " Bye."
+  }
+]

@@ -1,0 +1,286 @@
+[
+  {
+    "start": 0.0,
+    "text": " Let's talk about Moov, Ableton's new portable tool for fast, intuitive music making."
+  },
+  {
+    "start": 5.12,
+    "text": " It's compact and completely standalone, powered by a modern ARM processor."
+  },
+  {
+    "start": 9.92,
+    "text": " It has a built-in battery that gives you up to 4 hours of music making on the go per charge."
+  },
+  {
+    "start": 14.92,
+    "text": " It even has built-in speakers and a microphone for playback and recording."
+  },
+  {
+    "start": 18.62,
+    "text": " You can just pick it up like an instrument and simply create wherever you are in the moment."
+  },
+  {
+    "start": 23.52,
+    "text": " Moov features a stereo audio output designed to connect a pair of headphones, a mixer or"
+  },
+  {
+    "start": 28.32,
+    "text": " powered speakers."
+  },
+  {
+    "start": 29.44,
+    "text": " There are also two USB ports, a USB-C port for charging and connecting to the computer"
+  },
+  {
+    "start": 34.72,
+    "text": " and a USB-A port for connecting MIDI devices."
+  },
+  {
+    "start": 38.08,
+    "text": " Moov is built around four flexible MIDI tracks, which could be a drum kit, sampler or instrument."
+  },
+  {
+    "start": 43.28,
+    "text": " When you load a new set, the tracks already come pre-loaded with a matching collection"
+  },
+  {
+    "start": 47.72,
+    "text": " of presets from the sound library, so you can get started right away."
+  },
+  {
+    "start": 52.120000000000005,
+    "text": " Moov comes with over 1,500 samples, presets and drum kits, including Ableton instruments"
+  },
+  {
+    "start": 57.98,
+    "text": " and effects such as Drift, Wavetable and Live's new drum sampler, not to mention delays,"
+  },
+  {
+    "start": 64.5,
+    "text": " choruses and distortions to craft your sound."
+  },
+  {
+    "start": 67.7,
+    "text": " The Moov core library has been carefully curated by the Ableton sound team and selected sound"
+  },
+  {
+    "start": 73.34,
+    "text": " designers that are all pre-mapped to the 8 encoders for instant tweaking of sound parameters"
+  },
+  {
+    "start": 79.69999999999999,
+    "text": " and to give you a punchy, impactful sound at your fingertips."
+  },
+  {
+    "start": 83.58,
+    "text": " There's also 64GB of internal storage, so there's plenty of space for your own samples."
+  },
+  {
+    "start": 89.42,
+    "text": " Moov comes with Capture that allows you to capture your playing well before you want"
+  },
+  {
+    "start": 94.26,
+    "text": " to record an idea."
+  },
+  {
+    "start": 95.62,
+    "text": " You can even capture the automation of any device parameter you tweak while being in the flow."
+  },
+  {
+    "start": 101.30000000000001,
+    "text": " The 32 pads on Moov allow you to play your drum patterns and melodies easily."
+  },
+  {
+    "start": 105.78,
+    "text": " The pads also feature Aftertouch, which allows you to adjust parameters of an instrument"
+  },
+  {
+    "start": 110.5,
+    "text": " using pressure."
+  },
+  {
+    "start": 111.54,
+    "text": " Whether using the in-key mode or chromatic scale mode for melodies, you can set the key"
+  },
+  {
+    "start": 116.26,
+    "text": " and scale before you get started with a new project."
+  },
+  {
+    "start": 119.38,
+    "text": " You can play any sample melodically using our 16-pitch layout designed for drums in Moov."
+  },
+  {
+    "start": 125.14,
+    "text": " This capability transforms Moov into a powerful instrument, allowing you to play individual"
+  },
+  {
+    "start": 130.18,
+    "text": " samples melodically."
+  },
+  {
+    "start": 131.18,
+    "text": " It is especially effective for creating deep bass lines or pitch melodies fast."
+  },
+  {
+    "start": 135.98,
+    "text": " The step sequencer is a fun and easy way to use the dedicated 16 steps underneath the"
+  },
+  {
+    "start": 140.7,
+    "text": " pads to create patterns and melodies."
+  },
+  {
+    "start": 142.85999999999999,
+    "text": " Add your ideas quickly and specifically into your patterns."
+  },
+  {
+    "start": 146.38,
+    "text": " You can even tweak parameters or velocity per step or nudge them slightly off the grid"
+  },
+  {
+    "start": 151.22,
+    "text": " for a more humanized feel and groove."
+  },
+  {
+    "start": 153.74,
+    "text": " Session mode allows you to play with musical ideas we call clips."
+  },
+  {
+    "start": 157.42,
+    "text": " Each row of the 8 pads corresponds to all of the clip slots within a single track."
+  },
+  {
+    "start": 162.06,
+    "text": " You can manage two effects across an entire set using the 8 encoders."
+  },
+  {
+    "start": 166.46,
+    "text": " Moov allows you to directly record sounds into the sampler, offering flexibility in"
+  },
+  {
+    "start": 170.98000000000002,
+    "text": " how you capture audio."
+  },
+  {
+    "start": 172.46,
+    "text": " You can record using the built-in microphone for on-the-go sampling or connect external"
+  },
+  {
+    "start": 176.98000000000002,
+    "text": " devices via the line input."
+  },
+  {
+    "start": 178.62,
+    "text": " You can even re-sample audio from the main output to create new variations from existing"
+  },
+  {
+    "start": 183.54000000000002,
+    "text": " sounds."
+  },
+  {
+    "start": 184.54000000000002,
+    "text": " Exporting the set as a WAV or MP3 file is just a few clicks away."
+  },
+  {
+    "start": 189.06,
+    "text": " You can export audio using the Moov Manager and you can save your track as a WAV or MP3"
+  },
+  {
+    "start": 194.66,
+    "text": " file ready to share or edit further."
+  },
+  {
+    "start": 197.66,
+    "text": " Moov is designed to be a versatile team player, seamlessly integrating into your audio setup."
+  },
+  {
+    "start": 205.34,
+    "text": " Whether you're using it as a standalone device or as a controller for Ableton Live, Moov"
+  },
+  {
+    "start": 209.98,
+    "text": " adapts easily to your workflow."
+  },
+  {
+    "start": 212.3,
+    "text": " You can bring your set into Ableton Live via Ableton Cloud."
+  },
+  {
+    "start": 216.94,
+    "text": " Once loaded in Live, you gain access to every single detail of your sound, including your"
+  },
+  {
+    "start": 222.06,
+    "text": " MIDI sequences and all instrument and effect parameters."
+  },
+  {
+    "start": 224.98,
+    "text": " When using Live, you can easily switch Moov into Control Live mode, allowing you to play"
+  },
+  {
+    "start": 229.58,
+    "text": " and sequence sounds, launch clips and tweak parameters with ease."
+  },
+  {
+    "start": 233.34,
+    "text": " Link is a powerful feature that helps you stay in sync with other music tools such as"
+  },
+  {
+    "start": 237.06,
+    "text": " mobile apps, digital audio workstations or even some hardware devices."
+  },
+  {
+    "start": 241.18,
+    "text": " You can connect any class-compliant USB MIDI device to Moov, which opens up a range of"
+  },
+  {
+    "start": 245.82,
+    "text": " possibilities for your music making."
+  },
+  {
+    "start": 247.9,
+    "text": " Additionally, you can control your favorite synthesizer with Moov's incredible pads."
+  },
+  {
+    "start": 252.78,
+    "text": " Moov comes with built-in Wi-Fi and a dedicated web interface."
+  },
+  {
+    "start": 256.5,
+    "text": " The Moov Manager provides a convenient way for you to organize and manage your content"
+  },
+  {
+    "start": 260.94,
+    "text": " from a computer or mobile device."
+  },
+  {
+    "start": 263.22,
+    "text": " You can download or rename your sets and even upload your own sample collections, enabling"
+  },
+  {
+    "start": 268.74,
+    "text": " you to customize your Moov experience to suit your creative style."
+  },
+  {
+    "start": 272.82,
+    "text": " In standalone mode, Moov supports audio output to your computer."
+  },
+  {
+    "start": 276.9,
+    "text": " You can select Moov as the audio input, allowing you to record its main audio directly into"
+  },
+  {
+    "start": 281.9,
+    "text": " Ableton Live."
+  },
+  {
+    "start": 283.09999999999997,
+    "text": " And if that's not all, Moov also comes with a free melodics course, offering 50 lessons,"
+  },
+  {
+    "start": 288.29999999999995,
+    "text": " including pad and finger drumming practice designed especially for your Ableton Moov."
+  }
+]

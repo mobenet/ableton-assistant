@@ -1,0 +1,446 @@
+[
+  {
+    "start": 0.0,
+    "text": " You may not need to buy any reverb."
+  },
+  {
+    "start": 1.84,
+    "text": " If you've got Ableton Live Suite and you've got hybrid reverb,"
+  },
+  {
+    "start": 4.68,
+    "text": " this is probably all you need."
+  },
+  {
+    "start": 6.16,
+    "text": " Now, what is hybrid reverb?"
+  },
+  {
+    "start": 7.5600000000000005,
+    "text": " It is, as you can tell, it's a hybrid of two different types of reverb."
+  },
+  {
+    "start": 11.72,
+    "text": " One is the convolution impulse response,"
+  },
+  {
+    "start": 14.48,
+    "text": " which is based on real life samples of audio."
+  },
+  {
+    "start": 17.6,
+    "text": " The other one is algorithmic."
+  },
+  {
+    "start": 19.44,
+    "text": " It's just hear how they sound and see how this thing works."
+  },
+  {
+    "start": 21.96,
+    "text": " So you've got this section here showing where your convolution impulse"
+  },
+  {
+    "start": 25.52,
+    "text": " responses are, and you've got all of these different options."
+  },
+  {
+    "start": 27.84,
+    "text": " And within each option, you have multiple options."
+  },
+  {
+    "start": 30.759999999999998,
+    "text": " And I think overall, you've got over 200 different possibilities"
+  },
+  {
+    "start": 34.2,
+    "text": " with your convolution reverb."
+  },
+  {
+    "start": 35.84,
+    "text": " And within each, you've got samples of actual reverb sounds,"
+  },
+  {
+    "start": 40.56,
+    "text": " like the sound of a room or the sound of things happening in a room."
+  },
+  {
+    "start": 43.92,
+    "text": " And you can see here, there's the sound of egg cups, for example."
+  },
+  {
+    "start": 46.44,
+    "text": " So it's using real life samples."
+  },
+  {
+    "start": 47.92,
+    "text": " Algorithm is more, as you can see, it's algorithmic."
+  },
+  {
+    "start": 51.16,
+    "text": " It's computer generated, but it is based on some really brilliant, brilliant algorithms."
+  },
+  {
+    "start": 56.519999999999996,
+    "text": " So you've got shimmer, you've got quartz, and all of these are really fantastic."
+  },
+  {
+    "start": 59.68,
+    "text": " Very usable, very, very good."
+  },
+  {
+    "start": 61.599999999999994,
+    "text": " And each time you select one, you have different options."
+  },
+  {
+    "start": 64.39999999999999,
+    "text": " Now, the way it works, if you just want to use the convolution reverb,"
+  },
+  {
+    "start": 67.67999999999999,
+    "text": " just select convolution."
+  },
+  {
+    "start": 68.96,
+    "text": " If you just want to use the algorithmic reverb, select algo,"
+  },
+  {
+    "start": 72.52,
+    "text": " or you can use them in serial or parallel."
+  },
+  {
+    "start": 74.44,
+    "text": " So serial means you use the convolution reverb first,"
+  },
+  {
+    "start": 77.56,
+    "text": " and that modulates the algorithm."
+  },
+  {
+    "start": 79.96,
+    "text": " And then parallel is where both convolution and algorithm"
+  },
+  {
+    "start": 83.96,
+    "text": " are working together at the same time."
+  },
+  {
+    "start": 86.08000000000001,
+    "text": " We can get some really crazy results."
+  },
+  {
+    "start": 87.88000000000001,
+    "text": " So let's not waste any more time."
+  },
+  {
+    "start": 89.24000000000001,
+    "text": " Let's take a listen to how it sounds."
+  },
+  {
+    "start": 91.28,
+    "text": " We're just going to start with the basic early reflections."
+  },
+  {
+    "start": 94.56,
+    "text": " And I've got a vocal sample here that we can use it on."
+  },
+  {
+    "start": 99.44000000000001,
+    "text": " And I'm using the egg cups left, right, but we can use all sorts of different ones."
+  },
+  {
+    "start": 103.72,
+    "text": " This is a backwards one."
+  },
+  {
+    "start": 109.08000000000001,
+    "text": " If you increase the pre-delay, you get it goes crazy, basically."
+  },
+  {
+    "start": 117.04,
+    "text": " Let's try this one here."
+  },
+  {
+    "start": 120.04,
+    "text": " Let's try this one."
+  },
+  {
+    "start": 123.04,
+    "text": " Let's try a plate."
+  },
+  {
+    "start": 127.04,
+    "text": " Let's increase the dry wet."
+  },
+  {
+    "start": 131.04000000000002,
+    "text": " It really is powerful, so I don't keep the dry wet very high."
+  },
+  {
+    "start": 143.04000000000002,
+    "text": " So it's got some really useful things."
+  },
+  {
+    "start": 144.04,
+    "text": " So for example, it's got EQs."
+  },
+  {
+    "start": 146.04,
+    "text": " If you click on the EQ button, this is the sort of stuff you do with reverbs all the time,"
+  },
+  {
+    "start": 149.04,
+    "text": " but this basically it's got it all in one place."
+  },
+  {
+    "start": 151.04,
+    "text": " So you might want to EQ the low end."
+  },
+  {
+    "start": 153.04,
+    "text": " So if we just do that."
+  },
+  {
+    "start": 161.04,
+    "text": " We might want to be adventurous there and just reduce the EQ of the high end."
+  },
+  {
+    "start": 169.04,
+    "text": " Just focusing on a certain section of the reverb."
+  },
+  {
+    "start": 175.04,
+    "text": " And then you've got this bass mono button."
+  },
+  {
+    "start": 179.04,
+    "text": " Basically anything below 180 Hz is turned into mono."
+  },
+  {
+    "start": 184.04,
+    "text": " So there's absolutely no stereo signal."
+  },
+  {
+    "start": 187.04,
+    "text": " And I just keep this on all the time, basically."
+  },
+  {
+    "start": 189.04,
+    "text": " And then finally, you've got this vintage sound."
+  },
+  {
+    "start": 196.04,
+    "text": " Vintage gives you a bit of that sort of noise from the 80s."
+  },
+  {
+    "start": 201.04,
+    "text": " So you've got this extreme setting, which is, I think, a little bit too much,"
+  },
+  {
+    "start": 204.04,
+    "text": " but older is pretty good and old is good."
+  },
+  {
+    "start": 210.04,
+    "text": " OK, so we're in parallel now, but let's just go into algorithm only."
+  },
+  {
+    "start": 214.04,
+    "text": " And I really like shimmer quite a bit."
+  },
+  {
+    "start": 217.04,
+    "text": " What do I like about shimmer?"
+  },
+  {
+    "start": 218.04,
+    "text": " Let's just increase this a bit so we can hear it more."
+  },
+  {
+    "start": 222.04,
+    "text": " It's the pitch button."
+  },
+  {
+    "start": 226.04,
+    "text": " So you can actually affect the pitch of the tail within shimmer."
+  },
+  {
+    "start": 231.04,
+    "text": " It might be too much shimmer."
+  },
+  {
+    "start": 236.04,
+    "text": " You can reduce the shimmer amount."
+  },
+  {
+    "start": 237.04,
+    "text": " And each one of these algorithms gives you different options."
+  },
+  {
+    "start": 240.04,
+    "text": " Quartz is really nice, for example."
+  },
+  {
+    "start": 244.04,
+    "text": " It gives you kind of this sort of cold quartz sound."
+  },
+  {
+    "start": 256.03999999999996,
+    "text": " We'll just select a convolution only here."
+  },
+  {
+    "start": 262.04,
+    "text": " And you can get some really cool, interesting sounds."
+  },
+  {
+    "start": 264.04,
+    "text": " Let's listen to my drums presets."
+  },
+  {
+    "start": 283.04,
+    "text": " Let's listen to kick drum."
+  },
+  {
+    "start": 285.04,
+    "text": " OK, so that's a lot of fun, but let's just do something really, really cool."
+  },
+  {
+    "start": 290.04,
+    "text": " I'm going to now create my own audio track."
+  },
+  {
+    "start": 293.04,
+    "text": " I'm going to record myself singing."
+  },
+  {
+    "start": 295.04,
+    "text": " Well, not singing, I'll just be talking basically into this track."
+  },
+  {
+    "start": 300.04,
+    "text": " Hi, it's me again."
+  },
+  {
+    "start": 302.04,
+    "text": " So we're just going to freeze and turn this into another audio track."
+  },
+  {
+    "start": 306.04,
+    "text": " I'm going to flatten that."
+  },
+  {
+    "start": 308.04,
+    "text": " And I'm going to take that audio and drag it into the track."
+  },
+  {
+    "start": 313.04,
+    "text": " So now, as you can see here under convolution IR, you have a user-based one, which is my voice."
+  },
+  {
+    "start": 319.04,
+    "text": " So let's see how it sounds like with my voice."
+  },
+  {
+    "start": 324.04,
+    "text": " It's using my voice as an impulse response."
+  },
+  {
+    "start": 332.04,
+    "text": " So every time there's a transient hitting that beat, it's triggering my voice response."
+  },
+  {
+    "start": 339.04,
+    "text": " And it's all based on pre-delay, but we can set it to beat settings like this."
+  },
+  {
+    "start": 354.04,
+    "text": " And we can change the starting position by increasing the attack."
+  },
+  {
+    "start": 362.04,
+    "text": " That's me talking, by the way."
+  },
+  {
+    "start": 364.04,
+    "text": " Now let's just add a, in serial, add a quart rhythm algorithm, sorry."
+  },
+  {
+    "start": 376.04,
+    "text": " Let's change the setting here."
+  },
+  {
+    "start": 380.04,
+    "text": " Oh, by the way, you can blend, so when you've got serial or parallel on, you can blend between convolution reverb and algorithm."
+  },
+  {
+    "start": 387.04,
+    "text": " So this is 100% here is just playing the 100% of the track."
+  },
+  {
+    "start": 391.04,
+    "text": " So this is 100% here is just playing the 100% quarts."
+  },
+  {
+    "start": 395.04,
+    "text": " And this is just convolution."
+  },
+  {
+    "start": 400.04,
+    "text": " So you have total control."
+  },
+  {
+    "start": 407.04,
+    "text": " So that's the thing I wanted to show you was the freeze button, which is super, super cool."
+  },
+  {
+    "start": 412.04,
+    "text": " We can just basically listen to the vocal."
+  },
+  {
+    "start": 416.04,
+    "text": " What happens is at a point in time, it will freeze the delay like I've just done it there, or I could just do it now."
+  },
+  {
+    "start": 425.04,
+    "text": " So it's just going to hold that reverb."
+  },
+  {
+    "start": 431.04,
+    "text": " Now what we can do is record it into another track."
+  },
+  {
+    "start": 438.04,
+    "text": " You can use it as a backing vocal for the vocals."
+  },
+  {
+    "start": 445.04,
+    "text": " We can bring the pitch all the way down."
+  },
+  {
+    "start": 458.04,
+    "text": " So you almost have like this bass impulse and using that from organic sound material."
+  },
+  {
+    "start": 463.04,
+    "text": " So it's super cool."
+  },
+  {
+    "start": 465.04,
+    "text": " So that's it. Hybrid reverb is a fantastic reverb."
+  },
+  {
+    "start": 468.04,
+    "text": " Do you need to go out and buy another reverb?"
+  },
+  {
+    "start": 470.04,
+    "text": " The quality of this thing is fantastic."
+  },
+  {
+    "start": 473.04,
+    "text": " The CPU usage is low for a reverb of this quality."
+  },
+  {
+    "start": 477.04,
+    "text": " I'd say before you go off and buy any reverb, check this one out."
+  }
+]

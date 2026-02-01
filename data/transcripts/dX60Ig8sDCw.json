@@ -1,0 +1,522 @@
+[
+  {
+    "start": 0.0,
+    "text": " What's up everybody? Ableton has just announced a substantial update to live, bringing it to version 10.1."
+  },
+  {
+    "start": 6.7,
+    "text": " This update includes two new audio effects. As a certified training center, our teams had advanced access to it"
+  },
+  {
+    "start": 12.96,
+    "text": " and we've had a chance to put it through its paces."
+  },
+  {
+    "start": 15.48,
+    "text": " In this video, I'm gonna do an in-depth tutorial on my favorite pick of the new audio effects. It's a sick new delay called..."
+  },
+  {
+    "start": 25.52,
+    "text": " It's at the tip of my tongue here."
+  },
+  {
+    "start": 28.48,
+    "text": " Aaron what's it called again?"
+  },
+  {
+    "start": 30.3,
+    "text": " Delay?"
+  },
+  {
+    "start": 31.46,
+    "text": " Excuse me?"
+  },
+  {
+    "start": 32.38,
+    "text": " Delay, delay, delay, delay, delay, delay, delay, delay, delay, delay, delay, delay, delay."
+  },
+  {
+    "start": 42.64,
+    "text": " Right! Delay."
+  },
+  {
+    "start": 44.64,
+    "text": " I'm going to show you a few examples of how you can use it to amp up your sound design and mixing, doing things like this..."
+  },
+  {
+    "start": 50.74,
+    "text": " And this."
+  },
+  {
+    "start": 67.5,
+    "text": " And this."
+  },
+  {
+    "start": 79.7,
+    "text": " Without further ado, let's check this bad boy out."
+  },
+  {
+    "start": 92.62,
+    "text": " The first example I'm going to show you is how delay can be used to treat a lead vocal."
+  },
+  {
+    "start": 97.9,
+    "text": " Here's what the vocal sounds like raw on solo."
+  },
+  {
+    "start": 104.78,
+    "text": " And in the mix."
+  },
+  {
+    "start": 118.62,
+    "text": " The original sample is totally dry."
+  },
+  {
+    "start": 121.22,
+    "text": " It obviously doesn't have a place in the mix and it stands out."
+  },
+  {
+    "start": 124.22,
+    "text": " I know a lot of producers would reflexively reach for a reverb here, but when mixing vocals,"
+  },
+  {
+    "start": 130.42000000000002,
+    "text": " delay can actually be a really great alternative."
+  },
+  {
+    "start": 133.7,
+    "text": " That said, you need to be treading carefully here and be strategic because if done wrong,"
+  },
+  {
+    "start": 139.14,
+    "text": " it can totally wash out your vocal."
+  },
+  {
+    "start": 153.14,
+    "text": " Unless you're going for that far away, weird sounding kind of spacey vocal treatment, you"
+  },
+  {
+    "start": 157.42,
+    "text": " have to mix it tactfully."
+  },
+  {
+    "start": 159.78,
+    "text": " Let's listen to the treatment I've done with delay here."
+  },
+  {
+    "start": 163.94,
+    "text": " You guys digging this or what?"
+  },
+  {
+    "start": 188.54,
+    "text": " You can hear it's adding a sense of space and helping her to blend in with the mix while"
+  },
+  {
+    "start": 192.78,
+    "text": " still keeping that upfront and intimate sound that lead vocal should have."
+  },
+  {
+    "start": 198.06,
+    "text": " We're getting this result partially by automating the feedback."
+  },
+  {
+    "start": 201.54,
+    "text": " When the vocals in, the feedback is set to zero, meaning it's only going to give you"
+  },
+  {
+    "start": 205.42,
+    "text": " one echo."
+  },
+  {
+    "start": 207.34,
+    "text": " Because the delay time is synced to the beat, this means the echo is two sixteenth notes"
+  },
+  {
+    "start": 211.7,
+    "text": " or an eighth note behind the dry signal."
+  },
+  {
+    "start": 214.62,
+    "text": " This gives us a nice little BPM synced rhythmic single delay."
+  },
+  {
+    "start": 219.22,
+    "text": " Then when the vocal finishes, we can see that the feedback is automated up, giving it a"
+  },
+  {
+    "start": 223.62,
+    "text": " nice long kind of spacey tail."
+  },
+  {
+    "start": 235.74,
+    "text": " The filters also playing a big role here."
+  },
+  {
+    "start": 238.44,
+    "text": " It's removing the lows and highs to give lots of space to the air range of the vocal and"
+  },
+  {
+    "start": 243.54,
+    "text": " the sub range of the 808 beneath it."
+  },
+  {
+    "start": 245.78,
+    "text": " The frequency set pretty low at 475 Hertz because as an engineer, I prefer quite dark"
+  },
+  {
+    "start": 251.22,
+    "text": " sounding ambience."
+  },
+  {
+    "start": 253.42,
+    "text": " As a final touch, it's possible to add some nice stereo width to this vocal with delay."
+  },
+  {
+    "start": 258.78,
+    "text": " The original samples totally mono, so if we wanted a wider sounding treatment, we could"
+  },
+  {
+    "start": 263.46,
+    "text": " simply change the offset parameters of the left and the right delay channels in opposite"
+  },
+  {
+    "start": 267.9,
+    "text": " directions."
+  },
+  {
+    "start": 269.2,
+    "text": " In this case, I've set up a macro to do just that."
+  },
+  {
+    "start": 272.34,
+    "text": " Check it out."
+  },
+  {
+    "start": 296.38,
+    "text": " If you guys are digging this so far, I'll invite you to join the community by subscribing"
+  },
+  {
+    "start": 299.97999999999996,
+    "text": " to our channel."
+  },
+  {
+    "start": 301.1,
+    "text": " Also, smash that notification spell if you want to get the heads up on all the things"
+  },
+  {
+    "start": 305.14000000000004,
+    "text": " right as we post them."
+  },
+  {
+    "start": 308.58000000000004,
+    "text": " In this example, we're going to use delay for sound design rather than mixing duties."
+  },
+  {
+    "start": 313.82,
+    "text": " There are four instances of it working in different ways on these drums to make them"
+  },
+  {
+    "start": 317.46000000000004,
+    "text": " sound metallic and spacey."
+  },
+  {
+    "start": 320.18,
+    "text": " Here's what we've got."
+  },
+  {
+    "start": 331.94,
+    "text": " With the first snare, we're using an unsynced delay time in milliseconds to give fairly"
+  },
+  {
+    "start": 336.38,
+    "text": " quick repeats with feedback turned up."
+  },
+  {
+    "start": 340.94,
+    "text": " Then the bandpass filter is isolating the frequencies we want to be heard ringing out."
+  },
+  {
+    "start": 348.74,
+    "text": " A heavy duty parallel compressor in the group is helping the tail to really stand out here."
+  },
+  {
+    "start": 354.78000000000003,
+    "text": " Looking at the second snare, we've got a similar setup but now with some automation."
+  },
+  {
+    "start": 359.38,
+    "text": " The mode is set to repitch and we're automating the unsynced decay time from pretty short"
+  },
+  {
+    "start": 364.26,
+    "text": " to a little longer."
+  },
+  {
+    "start": 366.06,
+    "text": " This will make the delay's tail lower in pitch."
+  },
+  {
+    "start": 371.62,
+    "text": " The filter frequency is also being automated to accentuate this."
+  },
+  {
+    "start": 375.98,
+    "text": " Finally, we've got a very metallic sounding delay on the drum loop."
+  },
+  {
+    "start": 381.02,
+    "text": " This one's also set to unsynced time and the macro knob is shortening the decay time"
+  },
+  {
+    "start": 386.14,
+    "text": " in repitch mode, giving a sense of increasing pitch while introducing a distinct ringing tone."
+  },
+  {
+    "start": 394.06,
+    "text": " Note how the feedback and wet dry increases while the decay time decreases."
+  },
+  {
+    "start": 402.46,
+    "text": " This is much more pronounced and full range because the filter isn't being used to tame"
+  },
+  {
+    "start": 406.5,
+    "text": " things up."
+  },
+  {
+    "start": 407.5,
+    "text": " It's a really in-your-face sounding effect."
+  },
+  {
+    "start": 409.82,
+    "text": " This audio effect rack, called the Glitch Bitch, is something I built years ago to easily"
+  },
+  {
+    "start": 414.86,
+    "text": " mangled sounds and tracks in DJ sets or in songs that I'm producing."
+  },
+  {
+    "start": 420.54,
+    "text": " With each new version of Live, I revise it a bit and add new features."
+  },
+  {
+    "start": 424.62,
+    "text": " I wanted you guys to have this so I've included it as a free download for you in the link"
+  },
+  {
+    "start": 428.46000000000004,
+    "text": " below the video."
+  },
+  {
+    "start": 430.14,
+    "text": " Mess about with it and have some fun."
+  },
+  {
+    "start": 432.34000000000003,
+    "text": " Altogether, these treatments take normal sounding drums and make them sound like they might"
+  },
+  {
+    "start": 436.74,
+    "text": " be out of a sci-fi action movie or something."
+  },
+  {
+    "start": 439.62,
+    "text": " There's lots of crazy sound design tricks to be learned if you explore automation and"
+  },
+  {
+    "start": 443.78,
+    "text": " delay parameters."
+  },
+  {
+    "start": 444.78,
+    "text": " I hope you guys find a home for this technique in your own music."
+  },
+  {
+    "start": 451.14,
+    "text": " Next up, I'm going to show you how to use the new Freeze function in Delay to make a"
+  },
+  {
+    "start": 454.82,
+    "text": " riser effect perfect for your buildups."
+  },
+  {
+    "start": 457.65999999999997,
+    "text": " Here's what we've got."
+  },
+  {
+    "start": 473.78,
+    "text": " Now, let's listen to that in solo."
+  },
+  {
+    "start": 492.5,
+    "text": " We've made this whole project file a free download for you, so you can reverse engineer"
+  },
+  {
+    "start": 496.34,
+    "text": " what we've done here, and so you can save this rack to your own library."
+  },
+  {
+    "start": 500.29999999999995,
+    "text": " Grab it just below this video."
+  },
+  {
+    "start": 502.3,
+    "text": " Let's take a peek inside the rack and see what's going on."
+  },
+  {
+    "start": 505.7,
+    "text": " We've got a chain of effects in here, all being controlled by Macro 1, but the core"
+  },
+  {
+    "start": 509.94,
+    "text": " of the sound is coming from the first instance of delay."
+  },
+  {
+    "start": 513.34,
+    "text": " The rest of the effects are just for some extra detail."
+  },
+  {
+    "start": 517.22,
+    "text": " So the Freeze function in the new Delay will grab what's currently in the buffer and repeat"
+  },
+  {
+    "start": 521.66,
+    "text": " it indefinitely."
+  },
+  {
+    "start": 523.28,
+    "text": " The trick is to get the right sample into the buffer."
+  },
+  {
+    "start": 532.3,
+    "text": " Big Jer, one of the Ableton certified trainers on our team here at Warp Academy, built this"
+  },
+  {
+    "start": 546.9799999999999,
+    "text": " drop, and I really liked the horns he used in the stack group, so I grabbed the downbeat"
+  },
+  {
+    "start": 552.02,
+    "text": " from them."
+  },
+  {
+    "start": 558.54,
+    "text": " In my own tunes, I really like using pieces of the song itself to make effects like risers,"
+  },
+  {
+    "start": 563.38,
+    "text": " fallers, impacts, and reverse reverbs."
+  },
+  {
+    "start": 565.9,
+    "text": " I find it helps everything to gel together."
+  },
+  {
+    "start": 568.9,
+    "text": " Looking at the automation, I played the horns clip, then triggered the Freeze function,"
+  },
+  {
+    "start": 573.66,
+    "text": " which is mapped using a Macro right after."
+  },
+  {
+    "start": 576.66,
+    "text": " Then I turned the Freeze function off again in the gap just before the drop."
+  },
+  {
+    "start": 581.98,
+    "text": " Then I let the automation targeting Macro 1 do all the work."
+  },
+  {
+    "start": 585.62,
+    "text": " The reason I like using a Macro for this inside of a rack is that it makes it really easy"
+  },
+  {
+    "start": 589.92,
+    "text": " to get finer resolution on the movements you want."
+  },
+  {
+    "start": 593.36,
+    "text": " And you can also easily make edits afterwards without fussing about with the automation"
+  },
+  {
+    "start": 597.22,
+    "text": " envelope itself."
+  },
+  {
+    "start": 599.4,
+    "text": " If you open the Macro mappings browser, you can see all the stuff I have mapped to it."
+  },
+  {
+    "start": 603.66,
+    "text": " The rising pitch sound is really the central thing though, and that's coming from this"
+  },
+  {
+    "start": 607.64,
+    "text": " right here."
+  },
+  {
+    "start": 609.2,
+    "text": " You can see the unsynced time is being reduced from 375 to 10 milliseconds."
+  },
+  {
+    "start": 615.88,
+    "text": " With the delay and repitch mode, that's what's giving it this nice smooth pitch increase."
+  },
+  {
+    "start": 621.2,
+    "text": " One thing to note is that you need to be in a free rate here, versus synced, so the delay"
+  },
+  {
+    "start": 626.1800000000001,
+    "text": " time can move smoothly rather than jumping to the next closest 16th note in sync time."
+  },
+  {
+    "start": 639.2,
+    "text": " Don't forget to grab this free project file so you can save this rack to your library."
+  },
+  {
+    "start": 660.58,
+    "text": " The link's below the video."
+  },
+  {
+    "start": 662.38,
+    "text": " I hope you guys liked seeing some creative examples of the new delay in action."
+  },
+  {
+    "start": 666.86,
+    "text": " I'm looking forward to hearing what you do with it in your own music."
+  },
+  {
+    "start": 670.64,
+    "text": " Don't forget that you can grab Ableton Live from warpacademy.com directly."
+  },
+  {
+    "start": 675.32,
+    "text": " And if you're a customer, you could qualify for that super juicy 40% off educational discount."
+  },
+  {
+    "start": 680.44,
+    "text": " More information on that in the link directly below this video."
+  },
+  {
+    "start": 683.24,
+    "text": " Also, we've got a full playlist of videos on every new feature in the Ableton Live 10.1"
+  },
+  {
+    "start": 689.0,
+    "text": " update, so smash that link below this video and keep learning."
+  },
+  {
+    "start": 692.84,
+    "text": " Thanks so much for tuning in guys."
+  },
+  {
+    "start": 694.36,
+    "text": " I'll catch you real soon."
+  },
+  {
+    "start": 695.36,
+    "text": " Peace."
+  }
+]

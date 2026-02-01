@@ -1,0 +1,486 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey, what's going on, everybody? My name is Teatro here for 343 Labs,"
+  },
+  {
+    "start": 3.2800000000000002,
+    "text": " and I want to talk to you today about looping in Ableton Live."
+  },
+  {
+    "start": 6.32,
+    "text": " Now, using loops is one of the core ways you create music with Ableton Live,"
+  },
+  {
+    "start": 10.88,
+    "text": " and that's one of the reasons it kind of looks different than most other DAWs."
+  },
+  {
+    "start": 15.040000000000001,
+    "text": " So when you first open Ableton Live, you have Session View, which is sort of different than"
+  },
+  {
+    "start": 20.16,
+    "text": " the timeline you're used to seeing on a normal DAW. And what Session View is, is a collection of"
+  },
+  {
+    "start": 26.0,
+    "text": " clips or loops, and you can change the length of these loops, the timing of these loops."
+  },
+  {
+    "start": 31.84,
+    "text": " There can be audio loops and MIDI loops. And this core function of looping and creating"
+  },
+  {
+    "start": 37.2,
+    "text": " musical ideas this way in Ableton Live causes a lot of people to stumble at first, because it's"
+  },
+  {
+    "start": 42.4,
+    "text": " not like you just hit record and start playing. You have to actually be in time with your project."
+  },
+  {
+    "start": 48.480000000000004,
+    "text": " Now, let's say you're a guitar player or a beatboxer and you're used to more of a traditional"
+  },
+  {
+    "start": 52.96,
+    "text": " looper. Ableton Live has that. It's an audio effect called Looper. And essentially what it does is,"
+  },
+  {
+    "start": 59.76,
+    "text": " on your track, whether it's your voice, guitar, or it could even be a MIDI track,"
+  },
+  {
+    "start": 64.24,
+    "text": " you put on this device and you get a nice big record button, and it will record when you press"
+  },
+  {
+    "start": 69.04,
+    "text": " record and loop when you press it again. I'm going to tell you that today, we're not going to be"
+  },
+  {
+    "start": 74.64,
+    "text": " using that at all. Now, there's plenty of advantages in using the actual Looper in Ableton Live,"
+  },
+  {
+    "start": 80.08,
+    "text": " but Ableton Session View with the clips and the loops like we just talked about is in itself"
+  },
+  {
+    "start": 85.28,
+    "text": " one massive Looper. Let me show you what I mean. The first thing I need to know when I'm looping"
+  },
+  {
+    "start": 90.32,
+    "text": " in Ableton Live is my project's tempo, and I need to be actively listening to my project's tempo."
+  },
+  {
+    "start": 97.28,
+    "text": " So if I turn my metronome on right here and I click play,"
+  },
+  {
+    "start": 104.8,
+    "text": " you notice the higher pitched click is my downbeat. Now, this is very important."
+  },
+  {
+    "start": 110.72,
+    "text": " These are cycles of four."
+  },
+  {
+    "start": 116.48,
+    "text": " So now that I can hear my metronome in time, I want to take a look at the global launch quantization,"
+  },
+  {
+    "start": 122.88,
+    "text": " and that's just a big fancy way of saying how many beats is it going to take for our recorded clips"
+  },
+  {
+    "start": 128.64,
+    "text": " or our loops to start playing after we hit the button. So if it's set to one bar like it usually"
+  },
+  {
+    "start": 136.24,
+    "text": " is, that means if the time of the project is running like it is now, and I press play on a clip,"
+  },
+  {
+    "start": 144.24,
+    "text": " it will not come in until the next downbeat, the next one bar, two, three, four, one."
+  },
+  {
+    "start": 153.52,
+    "text": " Notice how I clicked play, but the clip did not come in right away. It waited until the downbeat"
+  },
+  {
+    "start": 158.08,
+    "text": " of the next bar. You can change the global launch quantization and let's say set it to two bars."
+  },
+  {
+    "start": 164.64,
+    "text": " So I'm going to stop that clip, but run the time listening to my metronome, press play, three, four,"
+  },
+  {
+    "start": 172.23999999999998,
+    "text": " two, two, here it comes. So that time around, it waited two bars to come in and you can play with"
+  },
+  {
+    "start": 182.07999999999998,
+    "text": " different global launch quantizations, whatever fits you best. I usually keep mine at one bar"
+  },
+  {
+    "start": 188.0,
+    "text": " because I know at the next downbeat, it'll start playing. Now, let's try recording a drum loop,"
+  },
+  {
+    "start": 193.92,
+    "text": " and I'll show you how that works. We have to do some kind of fancy button pressing and I'll explain"
+  },
+  {
+    "start": 198.88,
+    "text": " it after. Now, let me show you how I normally record a drum loop. Now, there's a little bit"
+  },
+  {
+    "start": 204.07999999999998,
+    "text": " of a process here and I have to push the buttons at the exact right time, but I'm going to explain"
+  },
+  {
+    "start": 207.92,
+    "text": " it when I'm done. But essentially, I'm going to run the time. And once I press the record button"
+  },
+  {
+    "start": 213.76,
+    "text": " on my launch key here, I know that I'm going to start recording on the next downbeat. One, two,"
+  },
+  {
+    "start": 220.96,
+    "text": " ready, go."
+  },
+  {
+    "start": 231.2,
+    "text": " Now, notice that I pressed record again. This is to get it to loop because if I didn't press record"
+  },
+  {
+    "start": 237.35999999999999,
+    "text": " again, it would just keep recording that clip. When I press record a second time, it stops recording"
+  },
+  {
+    "start": 244.4,
+    "text": " on the next downbeat. So that means we get a nice even one, two, three, four bar loop,"
+  },
+  {
+    "start": 250.8,
+    "text": " depending on what you're going for. Let me try that one more time so you can watch. Play the"
+  },
+  {
+    "start": 256.4,
+    "text": " project, listen to the downbeat. One, two, three, four, hit record, comes in on the next downbeat."
+  },
+  {
+    "start": 263.92,
+    "text": " Let's loop. I hit it right before."
+  },
+  {
+    "start": 276.8,
+    "text": " So essentially, in the one bar record quantization, if you hit that record button"
+  },
+  {
+    "start": 282.96000000000004,
+    "text": " any time after a downbeat, it will not stop recording until the next downbeat. You could"
+  },
+  {
+    "start": 288.88,
+    "text": " turn this record launch quantization completely off and what would happen is the moment you touch"
+  },
+  {
+    "start": 293.84,
+    "text": " that button, it would start recording and then if you pressed it again, it would stop the loop."
+  },
+  {
+    "start": 298.71999999999997,
+    "text": " But your loop likely isn't going to be in time with the rest of your project. I'll demonstrate."
+  },
+  {
+    "start": 315.03999999999996,
+    "text": " See, it's weird and kind of off. Now, I could have been more precise. That's how an actual"
+  },
+  {
+    "start": 320.0,
+    "text": " looper works. It's up to the player to decide what is in time. But in Ableton Live, when you're"
+  },
+  {
+    "start": 325.2,
+    "text": " working with some set loops and some loops that you're creating, you want everything to be very,"
+  },
+  {
+    "start": 330.0,
+    "text": " you know, linked up together in time. It's not like a looper, which is basically one, two, three,"
+  },
+  {
+    "start": 335.68,
+    "text": " four tracks that you're deciding where the time is and where the downbeat is. Ableton has its own"
+  },
+  {
+    "start": 341.76,
+    "text": " downbeat. It's got its metronome, it's got its clock. So if you want to take this a step further,"
+  },
+  {
+    "start": 346.08,
+    "text": " you can actually apply a different launch quantization to each individual clip. So I'm"
+  },
+  {
+    "start": 352.32,
+    "text": " going to set my global launch quantization back to one bar. And just to demonstrate the whole looping"
+  },
+  {
+    "start": 357.91999999999996,
+    "text": " thing one more time, I'm going to record a loop with these vocal samples. Another interesting thing"
+  },
+  {
+    "start": 362.47999999999996,
+    "text": " is the count in. So if I press record and the project is not playing, it will count me in four"
+  },
+  {
+    "start": 367.12,
+    "text": " beats and then I'll start recording."
+  },
+  {
+    "start": 376.08,
+    "text": " Four, one. There we go. Nice solid two bar loop that's linked up in time."
+  },
+  {
+    "start": 384.24,
+    "text": " I'm going to go over to the drums now, arm the drum track."
+  },
+  {
+    "start": 396.0,
+    "text": " Quantize that."
+  },
+  {
+    "start": 406.71999999999997,
+    "text": " Now let's say I want to add a cool effect, like a drum roll like that into my project."
+  },
+  {
+    "start": 414.64,
+    "text": " And I've got it here and I don't want this to exist as a loop. I want to be able to just press"
+  },
+  {
+    "start": 418.71999999999997,
+    "text": " the button and make it happen. So I'm going to turn loop off on this clip and then I'm going to"
+  },
+  {
+    "start": 424.0,
+    "text": " dive into the settings here a bit. And I'm going to go to launch this little L right here. And if"
+  },
+  {
+    "start": 430.4,
+    "text": " I bring this down, it has its own quantization. And right now all of the clips are set to be with"
+  },
+  {
+    "start": 436.79999999999995,
+    "text": " the global quantization, the one we talked about earlier. But if I do this drop down right here,"
+  },
+  {
+    "start": 443.12,
+    "text": " you see that each individual clip can have its own timing. And I'm just going to set that to none."
+  },
+  {
+    "start": 448.96,
+    "text": " So if you have a controller like the LaunchKey or a LaunchPad, a controller that's made"
+  },
+  {
+    "start": 456.0,
+    "text": " specifically for Ableton, it's got clip launching capabilities. So if you compare the lights on my"
+  },
+  {
+    "start": 462.16,
+    "text": " LaunchKey right now to the project, you'll see that they're identical. That's because those are"
+  },
+  {
+    "start": 467.2,
+    "text": " all the clips. So if I press this button, the vocal sample will start to play. Then I can cue the drums,"
+  },
+  {
+    "start": 476.08,
+    "text": " all working off of that one bar record quantization. Now I'll cue the shaker."
+  },
+  {
+    "start": 481.59999999999997,
+    "text": " I'm going to change the shaker. It's going to change on one."
+  },
+  {
+    "start": 489.68,
+    "text": " But this drum roll has no quantization. So when I push that button, it's just going to play"
+  },
+  {
+    "start": 496.15999999999997,
+    "text": " regardless of what beat I'm on. Notice how that came in before. I'm going to press the button on"
+  },
+  {
+    "start": 503.44,
+    "text": " three, four. It doesn't wait till one to come in because I turned that quantization off."
+  },
+  {
+    "start": 510.88,
+    "text": " And there's lots of ways you can get creative with it. You can have different clips on different"
+  },
+  {
+    "start": 514.96,
+    "text": " quantization so that when you launch them, they're coming in at different times than all the other"
+  },
+  {
+    "start": 518.72,
+    "text": " clips. It's also super useful if you need a little more time to loop or press a button. You notice"
+  },
+  {
+    "start": 523.28,
+    "text": " that when I was playing in my loops before, I had to be very quick because it was on the next down"
+  },
+  {
+    "start": 527.52,
+    "text": " beat that I would start looping. And then there's one other way that I want to show you that you can"
+  },
+  {
+    "start": 532.0,
+    "text": " loop if you don't want to have to mess with that record button and being directly in time."
+  },
+  {
+    "start": 536.56,
+    "text": " What you can do is, and I'll do this with the vocal sample that I was using,"
+  },
+  {
+    "start": 540.96,
+    "text": " you can create an empty clip. So I'm going to double click in this empty clip slot"
+  },
+  {
+    "start": 547.2,
+    "text": " and that automatically gives me a one bar loop. But what I want to do is make it a two bar loop."
+  },
+  {
+    "start": 552.16,
+    "text": " So I'm going to press this times two here. Boom. And now we have times two. Now I'm going to arm"
+  },
+  {
+    "start": 559.28,
+    "text": " this track right here so that I can play it. I'm going to play the same musical idea, but I'm not"
+  },
+  {
+    "start": 566.88,
+    "text": " going to have to worry about pressing record to loop. Instead, what I'm going to do,"
+  },
+  {
+    "start": 573.12,
+    "text": " let the project run, listening to the time, and I'm going to press record."
+  },
+  {
+    "start": 578.0799999999999,
+    "text": " And technically it is recording right now."
+  },
+  {
+    "start": 589.92,
+    "text": " Now I still had to play in time with my project. That's why I'm playing along with something. I'm"
+  },
+  {
+    "start": 594.64,
+    "text": " not just playing with nothing. I'm at least listening to the metronome. And in this case,"
+  },
+  {
+    "start": 598.88,
+    "text": " I'm listening to the shaker and the kick drum to keep me in time and know where my one is."
+  },
+  {
+    "start": 603.28,
+    "text": " But notice that I didn't have to punch in and punch out really quickly with the record button"
+  },
+  {
+    "start": 607.6,
+    "text": " because this blank clip already existed. And in Ableton Live, I'll delete these notes for now."
+  },
+  {
+    "start": 613.84,
+    "text": " When you press the session record button,"
+  },
+  {
+    "start": 618.88,
+    "text": " you will record either a brand new clip into an empty slot or over an existing slot."
+  },
+  {
+    "start": 631.76,
+    "text": " This is extremely useful for live performances where you might say no that you're going to play"
+  },
+  {
+    "start": 637.2,
+    "text": " a one, two, three, four bar loop, but you can also play a single note."
+  },
+  {
+    "start": 641.9200000000001,
+    "text": " One, two, three, four bar loop so you can set it up automatically to be there. That way when"
+  },
+  {
+    "start": 647.6800000000001,
+    "text": " you're playing live or doing any kind of performance, you can just play and not have to actually"
+  },
+  {
+    "start": 654.4,
+    "text": " worry about punch in punch out, which can get really tricky, especially if you're using two"
+  },
+  {
+    "start": 658.24,
+    "text": " hands on a keyboard or two hands to finger drum. You can just, you know, have your project going."
+  },
+  {
+    "start": 665.44,
+    "text": " And then when you feel like it, record."
+  },
+  {
+    "start": 671.84,
+    "text": " And then while that's still there, I can record on top of that."
+  },
+  {
+    "start": 701.84,
+    "text": " And it won't stop being armed for recording until you turn that off."
+  },
+  {
+    "start": 721.2800000000001,
+    "text": " Now it's not recording anymore. I think a lot of people get confused when they open up Ableton"
+  },
+  {
+    "start": 728.48,
+    "text": " Live, especially if they have experience with a more traditional looper where you're stomping on"
+  },
+  {
+    "start": 733.04,
+    "text": " a pedal to set that downbeat, that in and out looping. But just think of Ableton Live as having"
+  },
+  {
+    "start": 739.12,
+    "text": " its own clock in its own time. And we have to adapt to that. So you want to make sure that you set"
+  },
+  {
+    "start": 744.72,
+    "text": " the tempo where you want it to be from the start of your project so that you can create loops on"
+  },
+  {
+    "start": 749.76,
+    "text": " the fly that will all sync up together and won't sound like a big mess when they start to not align."
+  },
+  {
+    "start": 755.68,
+    "text": " Thanks so much for watching this video. I hope it was helpful. If it was, let us know in a comment"
+  },
+  {
+    "start": 759.52,
+    "text": " down below. And if you're interested in learning electronic music production either in New York"
+  },
+  {
+    "start": 763.36,
+    "text": " City or online, you should check out 343labs.com. I've got my own channel, youtube.com slash"
+  },
+  {
+    "start": 768.64,
+    "text": " Tejo, which I will leave linked in the description. Thank you so much for watching. This has been Tejo"
+  },
+  {
+    "start": 773.28,
+    "text": " for 343labs. Have a good one."
+  }
+]

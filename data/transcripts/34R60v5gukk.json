@@ -1,0 +1,214 @@
+[
+  {
+    "start": 0.0,
+    "text": " So let's be real, life's crash reporting fucking sucks!"
+  },
+  {
+    "start": 3.68,
+    "text": " I know that, whenever you crash, most of you just open the project again and hope it doesn't-"
+  },
+  {
+    "start": 7.68,
+    "text": " FUCK!"
+  },
+  {
+    "start": 8.18,
+    "text": " It doesn't tell you anything other than,"
+  },
+  {
+    "start": 10.28,
+    "text": " whoops, I did a fucky wocky!"
+  },
+  {
+    "start": 12.64,
+    "text": " So, a hypothetical."
+  },
+  {
+    "start": 14.24,
+    "text": " You crash."
+  },
+  {
+    "start": 15.6,
+    "text": " Hard to believe, I know, but it happens."
+  },
+  {
+    "start": 17.92,
+    "text": " You get a zip that you can unzip and then you get these files."
+  },
+  {
+    "start": 21.16,
+    "text": " Starting simple, we're gonna go to the preferences folder,"
+  },
+  {
+    "start": 24.2,
+    "text": " because it contains pre-"
+  },
+  {
+    "start": 25.36,
+    "text": " LOGS!"
+  },
+  {
+    "start": 26.52,
+    "text": " GREAT!"
+  },
+  {
+    "start": 27.12,
+    "text": " The good news is that Ableton has spent years refining their craft,"
+  },
+  {
+    "start": 30.64,
+    "text": " German engineering their logging algorithm in such a way that it tells you absolutely fucking nothing."
+  },
+  {
+    "start": 35.44,
+    "text": " So inside log.txt, scroll down from the bottom until you pass this big header thing."
+  },
+  {
+    "start": 39.84,
+    "text": " The last thing that happened before that,"
+  },
+  {
+    "start": 41.52,
+    "text": " was the last thing that the live logger logged before the program crashed."
+  },
+  {
+    "start": 44.96,
+    "text": " It will also never tell you any details about the crash."
+  },
+  {
+    "start": 47.32,
+    "text": " NO BALLS!"
+  },
+  {
+    "start": 47.92,
+    "text": " You can see that Leo was opening a project and life crashed right after."
+  },
+  {
+    "start": 51.68000000000001,
+    "text": " Shoutout to Leo for the crash-"
+  },
+  {
+    "start": 52.56,
+    "text": " But what if you crashed while working and it wasn't while something was loading?"
+  },
+  {
+    "start": 55.56,
+    "text": " Perhaps you would like to know why you crashed?"
+  },
+  {
+    "start": 58.28,
+    "text": " Okay, so because this process is extremely user-friendly,"
+  },
+  {
+    "start": 61.32,
+    "text": " we now need to install a debugging tool for Microsoft."
+  },
+  {
+    "start": 63.88,
+    "text": " Okay, so once you're in the crash folder from earlier,"
+  },
+  {
+    "start": 66.04,
+    "text": " you basically just drag all of the files into the debug.diag thing and choose crash hang analysis like this."
+  },
+  {
+    "start": 71.64,
+    "text": " It's important to know that life doesn't always generate one of these memory dumps when it crashes."
+  },
+  {
+    "start": 75.64,
+    "text": " The crash report always contains the last 10 memory dumps that the program shed out."
+  },
+  {
+    "start": 79.72,
+    "text": " So now we have this .mhd file,"
+  },
+  {
+    "start": 81.88,
+    "text": " which contains a summary of the info inside the dumps in a quote-unquote readable format."
+  },
+  {
+    "start": 85.8,
+    "text": " From my experience, these files are best viewed inside Internet Explorer."
+  },
+  {
+    "start": 90.2,
+    "text": " What?"
+  },
+  {
+    "start": 90.76,
+    "text": " What you're interested in is these timestamps."
+  },
+  {
+    "start": 92.76,
+    "text": " Try to find one that roughly corresponds to the time from the log file from earlier."
+  },
+  {
+    "start": 96.76,
+    "text": " And from deductive reasoning,"
+  },
+  {
+    "start": 97.96000000000001,
+    "text": " it tells me that something went wrong inside of a Killer Hearts plugin,"
+  },
+  {
+    "start": 100.68,
+    "text": " when it's communicating to whatever hardcore is."
+  },
+  {
+    "start": 103.24,
+    "text": " Okay, Midas, so that's great."
+  },
+  {
+    "start": 104.68,
+    "text": " So can you help me fix my crash?"
+  },
+  {
+    "start": 107.64,
+    "text": " No?"
+  },
+  {
+    "start": 108.28,
+    "text": " This raises the question, why is this so difficult?"
+  },
+  {
+    "start": 110.6,
+    "text": " Why not give people easily digestible info about crashes?"
+  },
+  {
+    "start": 114.11999999999999,
+    "text": " Why fart this out in dumps?"
+  },
+  {
+    "start": 115.72,
+    "text": " Why hire full-time customer support staff?"
+  },
+  {
+    "start": 118.52,
+    "text": " What's the point of all of this?"
+  },
+  {
+    "start": 120.44,
+    "text": " If I wanted to get my ass fucked, I would have used Pro Tools."
+  },
+  {
+    "start": 123.39999999999999,
+    "text": " Ring the subscribe icon and like the bell button,"
+  },
+  {
+    "start": 125.88,
+    "text": " because at least now you can continue to work without having to wait for an email."
+  },
+  {
+    "start": 129.56,
+    "text": " In the next video, I will show you how to become a real musician"
+  },
+  {
+    "start": 132.44,
+    "text": " by not grinding out 500 track projects for the Disciple release,"
+  },
+  {
+    "start": 135.95999999999998,
+    "text": " as it turns out that you can just make funny dubstep instead."
+  }
+]

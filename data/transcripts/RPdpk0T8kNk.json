@@ -1,0 +1,1202 @@
+[
+  {
+    "start": 0.0,
+    "text": " Welcome back to a new one, and this occasion is the Ableton Saturator."
+  },
+  {
+    "start": 4.2,
+    "text": " Okay, so this one can be a very simple device or more complex."
+  },
+  {
+    "start": 8.92,
+    "text": " You have a color option and then you have a wave shaper."
+  },
+  {
+    "start": 12.24,
+    "text": " If I go to the arrow that you have right here, it will expand this and show you more options."
+  },
+  {
+    "start": 18.6,
+    "text": " But if you click on the color, all the knobs that you have right here are just not usable."
+  },
+  {
+    "start": 23.8,
+    "text": " And then if you choose the other thing that it's not the wave shaper, all of these options"
+  },
+  {
+    "start": 28.72,
+    "text": " are just, you know, disabled. So if we don't use the color and the wave shaper,"
+  },
+  {
+    "start": 33.76,
+    "text": " this device is just a four knob simple device."
+  },
+  {
+    "start": 37.44,
+    "text": " Alright, so let's go through the basics first."
+  },
+  {
+    "start": 39.64,
+    "text": " I have a test tone, a pure tone at almost 300 Hz, and I know that this is going to be a little bit boring,"
+  },
+  {
+    "start": 46.28,
+    "text": " but all of this just, you know, to learn how to control this plugin."
+  },
+  {
+    "start": 50.519999999999996,
+    "text": " And then in a minute we will use it on some sounds."
+  },
+  {
+    "start": 53.44,
+    "text": " So drive will drive the input."
+  },
+  {
+    "start": 55.68,
+    "text": " So if you drive more, it will give you more and more distortion."
+  },
+  {
+    "start": 59.4,
+    "text": " So it will distort more."
+  },
+  {
+    "start": 60.88,
+    "text": " If you go all the way up, you're going to be, you know, distorting pretty much everything."
+  },
+  {
+    "start": 64.72,
+    "text": " So the styles are really important because this will define or let you see the nature of whatever is that you're doing."
+  },
+  {
+    "start": 71.36,
+    "text": " So if I go to a different one, notice that the drawing or the curve, let's say on the display,"
+  },
+  {
+    "start": 76.6,
+    "text": " it's a little bit different right here."
+  },
+  {
+    "start": 78.08,
+    "text": " And this is show you, shows you what you what you're doing when you drive the input."
+  },
+  {
+    "start": 82.52000000000001,
+    "text": " So if I go to the first one, the first one, it's going to be analog clip."
+  },
+  {
+    "start": 87.04,
+    "text": " So this one is a softer type of clipping."
+  },
+  {
+    "start": 89.32000000000001,
+    "text": " Notice that we have a tiny curve right here."
+  },
+  {
+    "start": 91.48,
+    "text": " And when we drive it, we can see the same curve."
+  },
+  {
+    "start": 95.08,
+    "text": " This is why the display is important."
+  },
+  {
+    "start": 96.76,
+    "text": " It's letting you know what you're doing."
+  },
+  {
+    "start": 98.80000000000001,
+    "text": " If I go to soft sign, notice it's a little bit different."
+  },
+  {
+    "start": 101.68,
+    "text": " It's just, you know, harder."
+  },
+  {
+    "start": 103.32000000000001,
+    "text": " So it's a bit more aggressive than the analog clip."
+  },
+  {
+    "start": 107.08000000000001,
+    "text": " Then if I keep moving forward, I go to the medium curve."
+  },
+  {
+    "start": 110.44,
+    "text": " The curve right here is going to be harder."
+  },
+  {
+    "start": 112.96,
+    "text": " So again, as you drive it more, the clipping is going to be hard."
+  },
+  {
+    "start": 117.28,
+    "text": " So it's more aggressive, aggressive than the soft sign."
+  },
+  {
+    "start": 120.52,
+    "text": " If I go to hard curve, you know, it's a pretty hard curve."
+  },
+  {
+    "start": 124.44,
+    "text": " So you drive more, it's going to, you know, do it more aggressively."
+  },
+  {
+    "start": 128.12,
+    "text": " So as you can see, maybe hopefully you can see the pattern right here."
+  },
+  {
+    "start": 132.28,
+    "text": " You go from soft all the way to hard."
+  },
+  {
+    "start": 134.84,
+    "text": " Now, then you start getting into the sine of it fold digital clip and the wave shaper."
+  },
+  {
+    "start": 140.08,
+    "text": " So these ones are just more digital, the last three."
+  },
+  {
+    "start": 143.0,
+    "text": " And they're not just analog classic types of clipping like the first four."
+  },
+  {
+    "start": 147.92000000000002,
+    "text": " They are just more wave shapers than anything."
+  },
+  {
+    "start": 150.64000000000001,
+    "text": " When the sine of it fold, as soon as you close it, as soon as you drive it, sorry,"
+  },
+  {
+    "start": 154.88000000000002,
+    "text": " it's going to start to fold."
+  },
+  {
+    "start": 156.16000000000003,
+    "text": " And this is the main point of this one."
+  },
+  {
+    "start": 158.12,
+    "text": " Every time you reach the peak, instead of just clipping it,"
+  },
+  {
+    "start": 161.20000000000002,
+    "text": " it's going to start folding it, it's going to start folding the waveform on itself."
+  },
+  {
+    "start": 165.64000000000001,
+    "text": " If I keep going forward, it's going to clip it, sorry, it's going to fold it."
+  },
+  {
+    "start": 169.32,
+    "text": " And if you keep going, it's going to fold and fold and keep folding and folding and folding."
+  },
+  {
+    "start": 174.04,
+    "text": " This is how this one works."
+  },
+  {
+    "start": 175.6,
+    "text": " And of course, this will give you a very specific type of distortion."
+  },
+  {
+    "start": 179.56,
+    "text": " Then you have the other one."
+  },
+  {
+    "start": 180.76,
+    "text": " You have the digital clip."
+  },
+  {
+    "start": 182.44,
+    "text": " And as you can see, this one is linear."
+  },
+  {
+    "start": 184.35999999999999,
+    "text": " It's completely different than the other ones."
+  },
+  {
+    "start": 186.24,
+    "text": " On the other ones, you do have a curve, but this one is super linear."
+  },
+  {
+    "start": 190.07999999999998,
+    "text": " And it will, you know, give you a different type of distortion."
+  },
+  {
+    "start": 193.35999999999999,
+    "text": " If I keep moving forward, then you have the wave shaper."
+  },
+  {
+    "start": 196.84,
+    "text": " The wave shaper is like a custom mode."
+  },
+  {
+    "start": 199.16,
+    "text": " And as soon as you choose this one, the controls at the bottom, they go live, right?"
+  },
+  {
+    "start": 203.68,
+    "text": " So they are enabled."
+  },
+  {
+    "start": 204.88,
+    "text": " So right here, it does nothing."
+  },
+  {
+    "start": 206.68,
+    "text": " It's because you need to go to this section and edit this section"
+  },
+  {
+    "start": 210.56,
+    "text": " so you can create your own custom wave folder."
+  },
+  {
+    "start": 214.0,
+    "text": " That's, you know, the main point of the wave shaper."
+  },
+  {
+    "start": 216.84,
+    "text": " If you want saturation, you need to go to the first four."
+  },
+  {
+    "start": 221.07999999999998,
+    "text": " You know, if you want a more traditional type of saturation."
+  },
+  {
+    "start": 223.76,
+    "text": " If you want to go to extremes, the sineoid fold and the wave shaper are, you know, for you."
+  },
+  {
+    "start": 229.36,
+    "text": " I'm going to go to the analog clip."
+  },
+  {
+    "start": 231.48000000000002,
+    "text": " So since we can drive this control, you know, and we can go down if you want to,"
+  },
+  {
+    "start": 236.28,
+    "text": " and maybe you're wondering why can we go down?"
+  },
+  {
+    "start": 238.6,
+    "text": " Well, it depends on your input."
+  },
+  {
+    "start": 240.08,
+    "text": " If you're using this on some source that it's just pretty loud,"
+  },
+  {
+    "start": 243.88,
+    "text": " this will start clipping because it's super loud."
+  },
+  {
+    "start": 246.24,
+    "text": " So you can lower the input before you can start clipping."
+  },
+  {
+    "start": 250.76,
+    "text": " But then again, if you go up and keep going up at some point,"
+  },
+  {
+    "start": 254.0,
+    "text": " it's going to go really, really, really loud."
+  },
+  {
+    "start": 257.44,
+    "text": " So you have a second stage that says soft clip right here."
+  },
+  {
+    "start": 261.44,
+    "text": " If I turn it on, the volume goes down right here."
+  },
+  {
+    "start": 265.56,
+    "text": " If I go up, it's just super loud, but then it's going to take it down a notch."
+  },
+  {
+    "start": 269.84,
+    "text": " So this one is a second clipping stage before the output,"
+  },
+  {
+    "start": 274.28,
+    "text": " and it uses an instance of an analog clip,"
+  },
+  {
+    "start": 276.79999999999995,
+    "text": " which is the same thing that we are using right now."
+  },
+  {
+    "start": 279.59999999999997,
+    "text": " So think of this like, you know, using two saturators in series."
+  },
+  {
+    "start": 283.91999999999996,
+    "text": " First, you go to whatever is that you want to do,"
+  },
+  {
+    "start": 286.68,
+    "text": " and then at the end when you drive it, then at the end,"
+  },
+  {
+    "start": 289.12,
+    "text": " the soft clipping is going to use an instance of the analog clip,"
+  },
+  {
+    "start": 292.56,
+    "text": " and it's going to clip whatever is that you're doing before going to the output."
+  },
+  {
+    "start": 296.76,
+    "text": " And you need to remember this because maybe you want to do something very specific right here, right?"
+  },
+  {
+    "start": 302.36,
+    "text": " And then you use the soft clip, and this one, it's clipping, right?"
+  },
+  {
+    "start": 305.36,
+    "text": " So again, you're just using a second stage."
+  },
+  {
+    "start": 308.44,
+    "text": " So if you don't want to clip it, you know, to have a second stage of clipping,"
+  },
+  {
+    "start": 312.6,
+    "text": " you just, you know, disable it, and then you go down on the output"
+  },
+  {
+    "start": 315.52,
+    "text": " and you control your levels manually."
+  },
+  {
+    "start": 317.88,
+    "text": " So I'm going to go back to the beginning, and then you have this option, the DC."
+  },
+  {
+    "start": 321.88,
+    "text": " So this one, it will remove the DC offset."
+  },
+  {
+    "start": 325.32,
+    "text": " Now, if I just click it and do something and I just click it back again, we can see nothing."
+  },
+  {
+    "start": 330.68,
+    "text": " So this is going to DC offset or remove the offset before driving it."
+  },
+  {
+    "start": 336.68,
+    "text": " I'm going to go to my tone generator, you know, whatever I'm using to generate this tone,"
+  },
+  {
+    "start": 341.03999999999996,
+    "text": " and I'm going to be, you know, shaping all of this."
+  },
+  {
+    "start": 343.36,
+    "text": " So I'm going to create kind of a weird waveform, going to do it right now."
+  },
+  {
+    "start": 346.76,
+    "text": " I'm just having the DC offset and going back to another clip,"
+  },
+  {
+    "start": 350.76,
+    "text": " and I'm using this waveform, and I'm just maybe not doing anything, even if I go down."
+  },
+  {
+    "start": 355.32,
+    "text": " So right here, notice that we have an offset right here."
+  },
+  {
+    "start": 358.88,
+    "text": " So when I go to DC, what this will do, it will listen to whatever we have right here,"
+  },
+  {
+    "start": 363.8,
+    "text": " and it will just adjust right at the center."
+  },
+  {
+    "start": 366.6,
+    "text": " So I'm going to click it, so notice that it will change how this works."
+  },
+  {
+    "start": 370.6,
+    "text": " This is what the DC offset will do, just will kind of make it more symmetric, let's say."
+  },
+  {
+    "start": 375.64,
+    "text": " Remember, this will do it before applying the distortion or the saturation."
+  },
+  {
+    "start": 380.92,
+    "text": " Let's keep moving forward. I want to show you what the color will do."
+  },
+  {
+    "start": 384.24,
+    "text": " I'm going to enable it and I'm going to go down on all of these controls."
+  },
+  {
+    "start": 387.96,
+    "text": " Everything is just down, the filters, it's going to be on default."
+  },
+  {
+    "start": 392.0,
+    "text": " And I'm going to be giving you, I'm going to be creating like a square with some noise."
+  },
+  {
+    "start": 396.6,
+    "text": " And I'm going to be lowering the frequency, so I'm going to be going around,"
+  },
+  {
+    "start": 400.24,
+    "text": " super lows, almost 50, maybe 100 ish."
+  },
+  {
+    "start": 404.92,
+    "text": " And I'm doing something like this so we can see it right here,"
+  },
+  {
+    "start": 407.88,
+    "text": " but mostly we can see it on the spectrum because the color, how this works,"
+  },
+  {
+    "start": 412.8,
+    "text": " it works like a tilt EQ and these three controls, it works like a filter."
+  },
+  {
+    "start": 418.32,
+    "text": " Basically, we have two filters right here."
+  },
+  {
+    "start": 420.16,
+    "text": " If I go to bass, what it will do, it will go, if I go up,"
+  },
+  {
+    "start": 424.64,
+    "text": " notice how the waveform changes."
+  },
+  {
+    "start": 427.16,
+    "text": " And if I keep going up, it will mess with the frequencies"
+  },
+  {
+    "start": 429.76,
+    "text": " and notice how the harmonics, they change."
+  },
+  {
+    "start": 432.24,
+    "text": " So if I go up, this means that the distortion will focus mostly on the higher frequencies."
+  },
+  {
+    "start": 439.24,
+    "text": " If I go down, the distortion is going to focus mostly on the lower frequencies."
+  },
+  {
+    "start": 445.96,
+    "text": " So let's say that you have some some drums, you have an 808 type of thing."
+  },
+  {
+    "start": 451.2,
+    "text": " So you have a pretty wild bass, super bassy."
+  },
+  {
+    "start": 454.59999999999997,
+    "text": " Well, maybe going down is going to distort the kick way too much."
+  },
+  {
+    "start": 458.16,
+    "text": " So going up, it will apply the distortion mostly on the higher frequencies."
+  },
+  {
+    "start": 464.16,
+    "text": " So this will help you to maybe use the saturator on something that has a lot more low frequencies."
+  },
+  {
+    "start": 470.32,
+    "text": " The same thing goes for the other side."
+  },
+  {
+    "start": 472.16,
+    "text": " If you want to do more on the lows, then you go to the low side on the bass."
+  },
+  {
+    "start": 476.68,
+    "text": " Now I'm going to double click it to go back to the center."
+  },
+  {
+    "start": 479.56,
+    "text": " And then we have the frequency, the width and the depth."
+  },
+  {
+    "start": 482.36,
+    "text": " If I move the frequency, notice that nothing happens on the spectrum."
+  },
+  {
+    "start": 485.88,
+    "text": " Nothing happens."
+  },
+  {
+    "start": 486.96,
+    "text": " So this one works just like a cutoff, like a filter."
+  },
+  {
+    "start": 490.35999999999996,
+    "text": " You need to have some depth and width."
+  },
+  {
+    "start": 492.84,
+    "text": " So the depth is going to be how much of the filter or the cutoff we are going to be using."
+  },
+  {
+    "start": 497.84,
+    "text": " So if I go up, you can see that starts changing."
+  },
+  {
+    "start": 501.15999999999997,
+    "text": " And now I can move the frequency and we can see right here how it's just messing with this."
+  },
+  {
+    "start": 508.4,
+    "text": " Right?"
+  },
+  {
+    "start": 509.35999999999996,
+    "text": " So this is how it works, just a filter."
+  },
+  {
+    "start": 511.2,
+    "text": " And then the width is going to be the width of the filter."
+  },
+  {
+    "start": 514.64,
+    "text": " And now, of course, right now we cannot hear anything because we are just seeing, watching how this affects whatever is that we are doing."
+  },
+  {
+    "start": 522.0,
+    "text": " It's going to be a little bit more easy, easier to hear when we do it on something."
+  },
+  {
+    "start": 526.36,
+    "text": " And we will in a minute."
+  },
+  {
+    "start": 527.6,
+    "text": " I'm going to go back to defaults and I'm going to disable the color."
+  },
+  {
+    "start": 530.72,
+    "text": " And I want to show you what the wave shaper does."
+  },
+  {
+    "start": 533.5600000000001,
+    "text": " I'm going to double click to go back to the original waveforms."
+  },
+  {
+    "start": 537.08,
+    "text": " And I guess I'm going to be using a sine wave."
+  },
+  {
+    "start": 539.92,
+    "text": " Like I said before, the controls right here will shape or create your own wave shaper."
+  },
+  {
+    "start": 545.6,
+    "text": " The drive is how much of the input signal will affect the wave shaper."
+  },
+  {
+    "start": 550.88,
+    "text": " If I'm doing something like that, I'm going to go down to the output and I'm not doing anything."
+  },
+  {
+    "start": 556.72,
+    "text": " You know, we are just not really using the wave shaper."
+  },
+  {
+    "start": 559.36,
+    "text": " So you need to do some drive if you want to use the wave shaper."
+  },
+  {
+    "start": 563.68,
+    "text": " But still, you know, we are not doing much."
+  },
+  {
+    "start": 565.4,
+    "text": " You know, even if I go up, you're not doing much."
+  },
+  {
+    "start": 567.64,
+    "text": " We need to use the other options."
+  },
+  {
+    "start": 569.36,
+    "text": " Curve is going to add a third order harmonics."
+  },
+  {
+    "start": 572.6800000000001,
+    "text": " And if I go up, notice it starts folding."
+  },
+  {
+    "start": 575.5600000000001,
+    "text": " And right here, you know, we get the really crazy shape."
+  },
+  {
+    "start": 578.64,
+    "text": " If I keep going up and up and up, it's going to give us more and more and more."
+  },
+  {
+    "start": 582.6800000000001,
+    "text": " That's, you know, the main point."
+  },
+  {
+    "start": 584.5600000000001,
+    "text": " And you can see all the harmonics that we are getting."
+  },
+  {
+    "start": 587.28,
+    "text": " So this one, it's pretty, pretty wild."
+  },
+  {
+    "start": 590.2,
+    "text": " Right. So you need to use this with care, let's say."
+  },
+  {
+    "start": 593.48,
+    "text": " All right. So this is what the curve will pretty much do."
+  },
+  {
+    "start": 597.24,
+    "text": " So, OK, so I'm going to double kick it."
+  },
+  {
+    "start": 599.88,
+    "text": " And then you have the depth."
+  },
+  {
+    "start": 601.16,
+    "text": " If I go up on depth, does it we get that like a sine wave right here?"
+  },
+  {
+    "start": 605.6,
+    "text": " So this one, the depth is a superimposed sine wave."
+  },
+  {
+    "start": 609.44,
+    "text": " If I go to drive 100 percent and depth 100 percent,"
+  },
+  {
+    "start": 613.32,
+    "text": " or if you're going to go down this one, I'm going to go all the way up in the curve."
+  },
+  {
+    "start": 616.36,
+    "text": " So we get this one."
+  },
+  {
+    "start": 617.76,
+    "text": " We can see that it's pretty much linear right here."
+  },
+  {
+    "start": 621.76,
+    "text": " If I go up on depth, you can see that it starts to curl."
+  },
+  {
+    "start": 625.72,
+    "text": " If I keep going up, notice that we can see the sine wave shape right there."
+  },
+  {
+    "start": 630.48,
+    "text": " So this is what it does is a superimposed sine wave."
+  },
+  {
+    "start": 634.0400000000001,
+    "text": " Now, it's going to be more obvious in a second, but, you know,"
+  },
+  {
+    "start": 635.8000000000001,
+    "text": " we can see that this is going up and down like a sine wave."
+  },
+  {
+    "start": 638.76,
+    "text": " And this will, of course, will affect whatever harmonics that we get right here at the end."
+  },
+  {
+    "start": 643.6800000000001,
+    "text": " Then on the LEN, when you double click it, by default, it's 50 percent,"
+  },
+  {
+    "start": 647.9200000000001,
+    "text": " just like the other shapes. You know, we have something like that."
+  },
+  {
+    "start": 650.28,
+    "text": " But, you know, maybe the linear, the digital clip,"
+  },
+  {
+    "start": 652.92,
+    "text": " we can see how this goes on a more kind of a linear, let's say,"
+  },
+  {
+    "start": 657.4399999999999,
+    "text": " if I go to wave shaper, if I go all the way down, now it's completely horizontal."
+  },
+  {
+    "start": 663.2,
+    "text": " So, of course, we get a very noisy type of sound."
+  },
+  {
+    "start": 666.92,
+    "text": " So with this one, we can just, you know, move it and get a different wave."
+  },
+  {
+    "start": 672.0,
+    "text": " And now we can really see the depth, right?"
+  },
+  {
+    "start": 674.68,
+    "text": " We can see the sine wave right here."
+  },
+  {
+    "start": 677.16,
+    "text": " So the LEN will affect that part."
+  },
+  {
+    "start": 679.76,
+    "text": " And, of course, it will affect the whole effect that we get at the end."
+  },
+  {
+    "start": 683.8000000000001,
+    "text": " So then we have the Damp and we have the Period."
+  },
+  {
+    "start": 686.84,
+    "text": " Since we are going depth all the way up, notice that we don't get the sine wave anymore."
+  },
+  {
+    "start": 691.5600000000001,
+    "text": " If I go up on the depth, the period works with the depth."
+  },
+  {
+    "start": 695.88,
+    "text": " So this is going to be like the frequency, let's say,"
+  },
+  {
+    "start": 699.44,
+    "text": " or the density of the sine wave that we are using for the superimposed within the depth."
+  },
+  {
+    "start": 704.5600000000001,
+    "text": " So if I go up, keep going up, we get more density for that sine wave."
+  },
+  {
+    "start": 708.68,
+    "text": " And, of course, it will affect everything."
+  },
+  {
+    "start": 710.5999999999999,
+    "text": " If I go down, we can really see the sine wave, but as we keep going up,"
+  },
+  {
+    "start": 713.88,
+    "text": " it's like going up on the rate of the sine wave pretty much."
+  },
+  {
+    "start": 718.0799999999999,
+    "text": " And then the Damp, and let me just do something like that."
+  },
+  {
+    "start": 722.4399999999999,
+    "text": " This one is like a gate."
+  },
+  {
+    "start": 724.2399999999999,
+    "text": " It will just affect or flatten the zero crossing point."
+  },
+  {
+    "start": 727.8399999999999,
+    "text": " And I want you to look at right here, the crossing point."
+  },
+  {
+    "start": 731.3599999999999,
+    "text": " If I go up on the Damp, notice that it's flattening everything."
+  },
+  {
+    "start": 735.92,
+    "text": " If I keep going up, it's going to be more flat."
+  },
+  {
+    "start": 739.08,
+    "text": " So this one will sound like using a noise gate pretty much."
+  },
+  {
+    "start": 743.28,
+    "text": " And just like this, using the controls, of course, you need to go wild and just experiment."
+  },
+  {
+    "start": 748.52,
+    "text": " You will be getting some wild type of distortion."
+  },
+  {
+    "start": 752.8,
+    "text": " That's the plan."
+  },
+  {
+    "start": 754.88,
+    "text": " There's all the harmonics that we are getting right here from a very simple sine wave."
+  },
+  {
+    "start": 760.12,
+    "text": " Remember, I'm just using a sine wave."
+  },
+  {
+    "start": 762.04,
+    "text": " If I turn this off, it's just a sine wave."
+  },
+  {
+    "start": 764.76,
+    "text": " So yeah, you can get really wild with this one."
+  },
+  {
+    "start": 767.28,
+    "text": " Alright, so like I said before, this effect has a lot of faces."
+  },
+  {
+    "start": 770.5600000000001,
+    "text": " If you want some mild or normal type of saturation, go to the first one."
+  },
+  {
+    "start": 775.28,
+    "text": " The first ones, if you want something more wild, go to the sine wave,"
+  },
+  {
+    "start": 778.96,
+    "text": " or go to the wave shaper and just have fun."
+  },
+  {
+    "start": 782.76,
+    "text": " I know all this is just a little bit boring and it's a little bit geeky,"
+  },
+  {
+    "start": 786.1600000000001,
+    "text": " but it's nice that now we know how to control it."
+  },
+  {
+    "start": 789.48,
+    "text": " And on top of that, if you go crazy, always, always,"
+  },
+  {
+    "start": 792.92,
+    "text": " and this is something for all the plugins."
+  },
+  {
+    "start": 795.24,
+    "text": " Remember, you have the dry and the wet, so maybe this is just way too much,"
+  },
+  {
+    "start": 798.32,
+    "text": " way too aggressive."
+  },
+  {
+    "start": 799.4399999999999,
+    "text": " Well, then you go to the dry and the wet and you go down and you still get your fundamental tone"
+  },
+  {
+    "start": 805.32,
+    "text": " or fundamental waveform or input."
+  },
+  {
+    "start": 808.12,
+    "text": " And you just do a tiny little bit."
+  },
+  {
+    "start": 811.56,
+    "text": " Okay, so enough of the test tone."
+  },
+  {
+    "start": 813.6,
+    "text": " Let's use it on some sounds."
+  },
+  {
+    "start": 815.68,
+    "text": " Right, so I have a tiny 808 right here."
+  },
+  {
+    "start": 818.84,
+    "text": " Let's start doing it."
+  },
+  {
+    "start": 820.52,
+    "text": " If I keep going up, I'm going to be distorting or saturating more."
+  },
+  {
+    "start": 825.0799999999999,
+    "text": " Remember to manage your output."
+  },
+  {
+    "start": 826.84,
+    "text": " I'm going to be going down to maybe match whatever we said we had for before."
+  },
+  {
+    "start": 832.96,
+    "text": " You can still, you know, use your soft clip if you want to."
+  },
+  {
+    "start": 837.6,
+    "text": " If I keep going up, you get a lot more."
+  },
+  {
+    "start": 840.6,
+    "text": " And you know, we know how this works."
+  },
+  {
+    "start": 844.0,
+    "text": " Now, since this one has a lot of lows, maybe we want to use the color just to, you know,"
+  },
+  {
+    "start": 850.0,
+    "text": " to manage all of this because the kick is just ruining it, ruining everything."
+  },
+  {
+    "start": 855.48,
+    "text": " So I can go up."
+  },
+  {
+    "start": 857.6800000000001,
+    "text": " That doesn't work."
+  },
+  {
+    "start": 858.6800000000001,
+    "text": " I can go to the other side."
+  },
+  {
+    "start": 859.6800000000001,
+    "text": " And now, you know, we are getting mostly on the upper part and not so much lows."
+  },
+  {
+    "start": 866.4000000000001,
+    "text": " So this really helps."
+  },
+  {
+    "start": 868.64,
+    "text": " And you can, you know, modulate this and use it, get it as an effects."
+  },
+  {
+    "start": 878.52,
+    "text": " When you get these controls, maybe they're not so noticeable on this, on the analog clip."
+  },
+  {
+    "start": 883.6,
+    "text": " I'm going to go to the sine-out fold."
+  },
+  {
+    "start": 885.6,
+    "text": " And you get, of course, a completely different type of effect."
+  },
+  {
+    "start": 890.1999999999999,
+    "text": " I'm going to keep it there."
+  },
+  {
+    "start": 892.24,
+    "text": " Remember, we need to do some depth."
+  },
+  {
+    "start": 897.56,
+    "text": " Now we can use it as a type of effects."
+  },
+  {
+    "start": 902.0,
+    "text": " Still, remember, all this can be adjusted or we can use it with a tiny little bit of"
+  },
+  {
+    "start": 913.0,
+    "text": " dry and the wet because this is just maybe not so useful."
+  },
+  {
+    "start": 915.84,
+    "text": " But if I go down with the dry and the wet, now we get something a little bit better."
+  },
+  {
+    "start": 921.72,
+    "text": " We can still, you know, modulate it."
+  },
+  {
+    "start": 926.6,
+    "text": " I'm just giving you, again, different examples."
+  },
+  {
+    "start": 944.6,
+    "text": " That was cool."
+  },
+  {
+    "start": 948.6,
+    "text": " Alright, so it always depends on what you want to do."
+  },
+  {
+    "start": 953.6,
+    "text": " If you want to do just a tiny little bit, just do a tiny little bit."
+  },
+  {
+    "start": 957.24,
+    "text": " Don't go crazy on this one."
+  },
+  {
+    "start": 958.6,
+    "text": " Alright, so let's try it on a synth."
+  },
+  {
+    "start": 961.6,
+    "text": " If you want to do a tiny little bit, maybe go down on the output and then just drive"
+  },
+  {
+    "start": 967.8000000000001,
+    "text": " it and see what happens."
+  },
+  {
+    "start": 977.6,
+    "text": " Maybe we can go too hard."
+  },
+  {
+    "start": 980.6,
+    "text": " Just crush it."
+  },
+  {
+    "start": 982.6,
+    "text": " But then go down with the dry and the wet."
+  },
+  {
+    "start": 1000.6,
+    "text": " Now what?"
+  },
+  {
+    "start": 1001.6,
+    "text": " I'm going to be going to the Waveshaper."
+  },
+  {
+    "start": 1003.6,
+    "text": " Or we can even go to the Sinoid."
+  },
+  {
+    "start": 1006.6,
+    "text": " Why not?"
+  },
+  {
+    "start": 1012.6,
+    "text": " If I go to the dry and the wet, this is too much."
+  },
+  {
+    "start": 1016.6,
+    "text": " Go down, maybe adjust it."
+  },
+  {
+    "start": 1019.6,
+    "text": " Or we can even, again, use this just to get something else out of the synthesizer."
+  },
+  {
+    "start": 1033.6,
+    "text": " Use it as an FX."
+  },
+  {
+    "start": 1035.6,
+    "text": " That's the point."
+  },
+  {
+    "start": 1036.6,
+    "text": " What if we go to the Waveshaper?"
+  },
+  {
+    "start": 1039.6,
+    "text": " If we don't do anything, of course we will get nothing, so we need to do something."
+  },
+  {
+    "start": 1047.6,
+    "text": " If I go all the way up, it's way too much."
+  },
+  {
+    "start": 1050.6,
+    "text": " I want a little bit just to get that, you know, just that FX."
+  },
+  {
+    "start": 1069.6,
+    "text": " I kind of like that."
+  },
+  {
+    "start": 1079.6,
+    "text": " Just to get something else from a simple synthesizer."
+  },
+  {
+    "start": 1086.6,
+    "text": " All right, so that's fine."
+  },
+  {
+    "start": 1091.6,
+    "text": " It's a pretty simple device, but again, it depends on how you use it."
+  },
+  {
+    "start": 1095.6,
+    "text": " If you want to do it just a tiny little bit, use the first one."
+  },
+  {
+    "start": 1098.6,
+    "text": " If you want to use it more as a sound FX, or just crush it on a different way, of course,"
+  },
+  {
+    "start": 1103.6,
+    "text": " use the other ones."
+  },
+  {
+    "start": 1104.6,
+    "text": " Use the last three options, the last three styles that you get here."
+  },
+  {
+    "start": 1108.6,
+    "text": " So that's just pretty much it."
+  },
+  {
+    "start": 1111.6,
+    "text": " Again, just a great device."
+  },
+  {
+    "start": 1113.6,
+    "text": " If you want a tiny little bit, you can get it."
+  },
+  {
+    "start": 1116.6,
+    "text": " If you want to go nuts and change the sound completely, you can."
+  },
+  {
+    "start": 1121.6,
+    "text": " But of course, you need to do some exploration with the controls right here at the bottom."
+  },
+  {
+    "start": 1126.6,
+    "text": " You need to do this."
+  },
+  {
+    "start": 1128.6,
+    "text": " You need to do that."
+  },
+  {
+    "start": 1130.6,
+    "text": " All right, so, you know, that's it."
+  },
+  {
+    "start": 1132.6,
+    "text": " If you liked all of this and you maybe learned something new, please like and subscribe."
+  },
+  {
+    "start": 1137.6,
+    "text": " And if you have the money and you want to help the channel keep going on, you can."
+  },
+  {
+    "start": 1141.6,
+    "text": " You have links at the bottom for PayPal, YouTube, Thanks and Patreon."
+  },
+  {
+    "start": 1151.6,
+    "text": " Thank you."
+  }
+]

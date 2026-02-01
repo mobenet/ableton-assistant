@@ -1,0 +1,622 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends, so Ableton just announced Live 12, and I'm going to show you some of my favorite features."
+  },
+  {
+    "start": 5.0,
+    "text": " Ableton sent me the beta a while ago, and I've had a chance to play around a little bit,"
+  },
+  {
+    "start": 9.0,
+    "text": " and there is a lot to chew on here, so let's check it out."
+  },
+  {
+    "start": 11.0,
+    "text": " Okay, so to me, the last update to 11, it felt to me as if they were just catching Ableton up to modern DAW standards."
+  },
+  {
+    "start": 19.0,
+    "text": " Like they added comping and track linking, and a modern reverb that could take advantage of convolution and stuff like that."
+  },
+  {
+    "start": 26.0,
+    "text": " But to me, the Live 12 update feels like a real significant update, and it's not just to the sonic possibilities here,"
+  },
+  {
+    "start": 32.0,
+    "text": " but the utilitarian quality of life features that I'm really stoked about."
+  },
+  {
+    "start": 36.0,
+    "text": " So let's check out some of those first."
+  },
+  {
+    "start": 38.0,
+    "text": " Now here I am in Arrangement view, and check this out. Bam."
+  },
+  {
+    "start": 41.0,
+    "text": " Now we can use the track controls in one view, right?"
+  },
+  {
+    "start": 45.0,
+    "text": " So I'm in Arrangement view, but I can still see the track controls down here, and that's just really useful to me. I love that."
+  },
+  {
+    "start": 51.0,
+    "text": " Something else that's really cool is that if you go back to Session view, you'll notice that there's these little bars down here,"
+  },
+  {
+    "start": 56.0,
+    "text": " and I can actually click this button, and now I can resize the piano roll and look at the devices at the same time."
+  },
+  {
+    "start": 63.0,
+    "text": " This is just such a significant thing, and since I've been using Live 12, going back to Live 11 feels really obnoxious to me,"
+  },
+  {
+    "start": 70.0,
+    "text": " because I just love the ability to be able to look at these views at the same time."
+  },
+  {
+    "start": 74.0,
+    "text": " So you really have a flexible interface here, and it's really cool."
+  },
+  {
+    "start": 77.0,
+    "text": " So let's get into some of the things that I really love about this, though."
+  },
+  {
+    "start": 79.0,
+    "text": " I'm getting back to Arrangement view, and you'll notice I have everything revealed."
+  },
+  {
+    "start": 83.0,
+    "text": " Obviously, if I had a bigger screen, I could take advantage of maybe putting all of this on one screen,"
+  },
+  {
+    "start": 88.0,
+    "text": " but in this case, I'm going to get rid of the piano roll, because I just don't need it right now."
+  },
+  {
+    "start": 91.0,
+    "text": " And I'll also get rid of the track controls just so we can see what we're doing."
+  },
+  {
+    "start": 94.0,
+    "text": " I've got this little jam set up here, and I'm going to show you the next couple things."
+  },
+  {
+    "start": 98.0,
+    "text": " I'm using Meld, which is their new synthesizer, and this thing's pretty cool."
+  },
+  {
+    "start": 102.0,
+    "text": " This thing's pretty cool. It's bitambral, meaning that there's two completed synth paths, if you will,"
+  },
+  {
+    "start": 108.0,
+    "text": " that have an oscillator section, an envelope, an LFO modulation section, a matrix that goes into a filter,"
+  },
+  {
+    "start": 114.0,
+    "text": " and then gets summed together over here."
+  },
+  {
+    "start": 116.0,
+    "text": " So this is the sound that I've made with Meld by itself. Check it out."
+  },
+  {
+    "start": 124.0,
+    "text": " Not much to write home about, but what I'm really stoked about is this device here called Roar."
+  },
+  {
+    "start": 130.0,
+    "text": " Roar is insanely cool. I'm going to go ahead and describe it the way that I want to,"
+  },
+  {
+    "start": 134.0,
+    "text": " and that's that I feel like it's a very creative saturation tool. You can use this to make some incredible sounds."
+  },
+  {
+    "start": 139.0,
+    "text": " Take a listen to what this Roar does. I'm going to go ahead and turn off this filter just for now,"
+  },
+  {
+    "start": 143.0,
+    "text": " and you can check out what it's doing."
+  },
+  {
+    "start": 154.0,
+    "text": " So cool, right?"
+  },
+  {
+    "start": 156.0,
+    "text": " All right, so I'm going to turn the feedback down for now, but essentially what this is is a,"
+  },
+  {
+    "start": 160.0,
+    "text": " it can be a multi-stage saturator. You have all these different modes that you can run it through."
+  },
+  {
+    "start": 165.0,
+    "text": " So right now I'm using single mode, so there's just one saturator here,"
+  },
+  {
+    "start": 168.0,
+    "text": " but there's all these different shapes that you can use. You can see all these different ways that you can crush"
+  },
+  {
+    "start": 173.0,
+    "text": " and smash and destroy your audio in really, really pleasing ways."
+  },
+  {
+    "start": 177.0,
+    "text": " There's a filter associated with each one, and yes, of course, you can put it on multi-band mode,"
+  },
+  {
+    "start": 181.0,
+    "text": " so you have all three different bands here."
+  },
+  {
+    "start": 184.0,
+    "text": " You can also do some really other interesting things like mid-side, where you can, for example, saturate the side."
+  },
+  {
+    "start": 188.0,
+    "text": " You have a blend, and then of course you have a level for each one of these bands."
+  },
+  {
+    "start": 192.0,
+    "text": " So you can really get in there and do some wild stuff."
+  },
+  {
+    "start": 195.0,
+    "text": " In this case, I'm using the noise shaper, and let's go ahead and I'll dial it back,"
+  },
+  {
+    "start": 200.0,
+    "text": " and I'll show you kind of what I did. So, you know, in its vanilla setting, I probably had this around zero."
+  },
+  {
+    "start": 205.0,
+    "text": " And you can hear a really pleasing saturation just happening just by adding a little bit of drive there, right?"
+  },
+  {
+    "start": 214.0,
+    "text": " But each saturation stage, you can choose to bring more gain into it, so that's what I'm going to do here."
+  },
+  {
+    "start": 221.0,
+    "text": " Maybe we'll go ahead and listen to some of these other ones. Here's soft sign."
+  },
+  {
+    "start": 230.0,
+    "text": " And of course you can bias each one of these, so you can move where the transfer curve happens. Check this out."
+  },
+  {
+    "start": 239.0,
+    "text": " So lots of destruction potential there. Let's go ahead and listen to the tube preamp, which I've really enjoyed this one."
+  },
+  {
+    "start": 248.0,
+    "text": " I'm going to go ahead and put it back on the noise injection."
+  },
+  {
+    "start": 253.0,
+    "text": " So that's super cool. But moving over to this mode, this is a really cool thing."
+  },
+  {
+    "start": 259.0,
+    "text": " Moving over to this mode, this is where I really feel like Ableton is shining. They did this also in their shifter device,"
+  },
+  {
+    "start": 266.0,
+    "text": " but essentially they've added a delay line in here, and so the sonic possibilities are just awesome."
+  },
+  {
+    "start": 272.0,
+    "text": " What I've done is I've tuned the delay time to a very low amount here, so that I can get this kind of ringing,"
+  },
+  {
+    "start": 278.0,
+    "text": " and the ringing is happening at one of the notes in this bass line, and so there's a harmonic relationship happening between this delay and the actual riff."
+  },
+  {
+    "start": 286.0,
+    "text": " Check out what happens as I add the amount here."
+  },
+  {
+    "start": 300.0,
+    "text": " I just love it. So you can tune this to different notes. Let's try a different note here."
+  },
+  {
+    "start": 317.0,
+    "text": " Oh, so sick. And of course you can also filter the delay line. This is cool."
+  },
+  {
+    "start": 328.0,
+    "text": " And of course if you do this, you may need to retune the delay."
+  },
+  {
+    "start": 337.0,
+    "text": " That's just so great. Anyway, put this back where it was."
+  },
+  {
+    "start": 341.0,
+    "text": " And so I'm just using a filter at the end of this to complete this sound, and I'm using an envelope MIDI of course to control the filter."
+  },
+  {
+    "start": 352.0,
+    "text": " Radical. Okay, so in the next track, these are the drums. Check this out."
+  },
+  {
+    "start": 360.0,
+    "text": " In my opinion, the kick drum is kind of obnoxious. It's got this like tail to it. Take a listen."
+  },
+  {
+    "start": 364.0,
+    "text": " I like the punchiness, but not so much the tail."
+  },
+  {
+    "start": 366.0,
+    "text": " Back in the day, the way that you would swap a sample out is you just click on this hot swap, and you can still of course use this feature,"
+  },
+  {
+    "start": 373.0,
+    "text": " but something that's really amazing about Live 12 is they've implemented a sort of machine learning algorithm that can listen to all the samples in your sample library"
+  },
+  {
+    "start": 381.0,
+    "text": " and choose what they're calling similar sounds. So sounds that have similar sonic profiles to them,"
+  },
+  {
+    "start": 388.0,
+    "text": " such as maybe how long they last or the frequency content in them. And the way that you do that is you just right click on the sample,"
+  },
+  {
+    "start": 394.0,
+    "text": " and you choose show similar files. And now if I scroll up to the top, we can see this little line start to appear."
+  },
+  {
+    "start": 400.0,
+    "text": " And if I get all the way to the top, this is what Ableton has determined some of these other samples that I have that sound similar to this first one."
+  },
+  {
+    "start": 406.0,
+    "text": " So we can listen to them."
+  },
+  {
+    "start": 411.0,
+    "text": " So these two kicks are great. They're both very punchy, and they're very fun to play with."
+  },
+  {
+    "start": 416.0,
+    "text": " They're both very punchy, and they don't have that really annoying tail on them, right?"
+  },
+  {
+    "start": 420.0,
+    "text": " So I'll just go ahead and hit enter on this one. Bam. And it's put into the rack, and now I can go ahead and listen to this."
+  },
+  {
+    "start": 429.0,
+    "text": " Perfect, right? Sounds a lot better. Let's go ahead and add that with the bass."
+  },
+  {
+    "start": 436.0,
+    "text": " Cool. So listening to the drums, I also have an instance of Roar here,"
+  },
+  {
+    "start": 442.0,
+    "text": " and I'm going to make a video on all of the features in Ableton 12 and focus on each one of them individually."
+  },
+  {
+    "start": 448.0,
+    "text": " But I have to admit that I am the most stoked about Roar. It's incredible. It's so much fun."
+  },
+  {
+    "start": 453.0,
+    "text": " So check this out. I synced the delay. You can actually sync the delay to different delay times."
+  },
+  {
+    "start": 458.0,
+    "text": " And in this case, I chose a sixteenth. So check out what happens now when I start to add this delay."
+  },
+  {
+    "start": 465.0,
+    "text": " Super cool, right? Now, you might hear it coming in and out."
+  },
+  {
+    "start": 469.0,
+    "text": " That's because I'm also using this really rad envelope follower that's within the modulation controls, right?"
+  },
+  {
+    "start": 474.0,
+    "text": " So you have different LFOs, and you even have a kind of like sample and hold noise section, right?"
+  },
+  {
+    "start": 479.0,
+    "text": " But essentially what's going on here is in this envelope, in the matrix,"
+  },
+  {
+    "start": 483.0,
+    "text": " I have it so that the feedback amount is getting turned down whenever there's an actual signal in the envelope."
+  },
+  {
+    "start": 489.0,
+    "text": " You can see that the feedback amount is getting turned down whenever there's an actual signal in the envelope."
+  },
+  {
+    "start": 493.0,
+    "text": " You can watch it happen right here."
+  },
+  {
+    "start": 502.0,
+    "text": " Just so cool, right?"
+  },
+  {
+    "start": 506.0,
+    "text": " So yeah, I absolutely love Roar."
+  },
+  {
+    "start": 508.0,
+    "text": " All right, so looking at this last track here, let's take a listen to what's going on here."
+  },
+  {
+    "start": 512.0,
+    "text": " This is just meld in its fold FM voice."
+  },
+  {
+    "start": 523.0,
+    "text": " And so I really like meld. Meld is an incredible tool here."
+  },
+  {
+    "start": 526.0,
+    "text": " And essentially I feel like this is Ableton's play at trying to enter into the world of setting up oscillators to do really complex things,"
+  },
+  {
+    "start": 534.0,
+    "text": " but not have to make it so that you have to think about that."
+  },
+  {
+    "start": 537.0,
+    "text": " Essentially all of the different algorithms here in the oscillator section are different synthesis techniques"
+  },
+  {
+    "start": 543.0,
+    "text": " that are kind of boiled down to very simple controls."
+  },
+  {
+    "start": 546.0,
+    "text": " There's an amount and a shape to each one of these, and of course you can tune them."
+  },
+  {
+    "start": 550.0,
+    "text": " But essentially this is what's called the fold FM, and as I add shape we're adding harmonics here."
+  },
+  {
+    "start": 561.0,
+    "text": " Now of course this is a pretty basic sound, and I'm going to make a video on meld, I'm going to make a detailed video on Roar,"
+  },
+  {
+    "start": 567.0,
+    "text": " I'm going to make a detailed video on everything in 12, so make sure that you subscribe to see those videos as they come out."
+  },
+  {
+    "start": 573.0,
+    "text": " But essentially I'm using meld here just as this like little basic sound,"
+  },
+  {
+    "start": 577.0,
+    "text": " but I wanted to show you this really awesome chord device that they've implemented here."
+  },
+  {
+    "start": 581.0,
+    "text": " Now chord used to be static, right? You would choose specific notes that you would use, and it would be static no matter what."
+  },
+  {
+    "start": 588.0,
+    "text": " It would listen to the incoming notes in the piano roll and simply just add different intervals to that."
+  },
+  {
+    "start": 594.0,
+    "text": " But what's cool about Ableton 12 is that if you'll notice up here, each clip can have a tuning associated with it."
+  },
+  {
+    "start": 601.0,
+    "text": " And inside of meld there's this really handy little thing called use current scale."
+  },
+  {
+    "start": 606.0,
+    "text": " So because I'm in C major, and I'm using the scale feature here, if I turn on chord,"
+  },
+  {
+    "start": 612.0,
+    "text": " essentially this is going to shift the intervals up and down in this chord to the different notes that are associated in this chord, so check this out."
+  },
+  {
+    "start": 626.0,
+    "text": " Super cool. But they've also implemented one of my favorite things that is kind of like a new thing in MIDI controllers out there called strum."
+  },
+  {
+    "start": 634.0,
+    "text": " So essentially the idea here is that each one of these intervals will take a delay time associated with it, so it strums up through the notes. Check this out."
+  },
+  {
+    "start": 648.0,
+    "text": " So let's go ahead and listen to this in context."
+  },
+  {
+    "start": 664.0,
+    "text": " Super cool, right? That's so much fun to use. You can also learn different chords. If you play chords, it'll actually learn those chords and you can recall them, which I think is just so super useful."
+  },
+  {
+    "start": 671.0,
+    "text": " Now let's look at one other aspect of Live 12 that I really feel like is worth taking a look at, and that is of course the new piano roll. This is just incredible."
+  },
+  {
+    "start": 679.0,
+    "text": " They decided to modernize the piano roll like you wouldn't believe."
+  },
+  {
+    "start": 683.0,
+    "text": " There are so many different fun things that you can do with this piano roll."
+  },
+  {
+    "start": 687.0,
+    "text": " So one thing, if we're looking at just the pitch and time page, you can select different amounts of notes here and you can do things such as invert them."
+  },
+  {
+    "start": 694.0,
+    "text": " So now we have..."
+  },
+  {
+    "start": 699.0,
+    "text": " Or the other way."
+  },
+  {
+    "start": 705.0,
+    "text": " And so you can see all these really handy controls that are hanging out right here. You can also see the piano roll."
+  },
+  {
+    "start": 710.0,
+    "text": " So let's humanize this a lot so you can see the big difference. But you can see that you can just kind of move the notes around and make it more, I don't know, human."
+  },
+  {
+    "start": 717.0,
+    "text": " So maybe if you're putting notes in with a mouse, hitting humanize will kind of help you get more of a feel going on with it. Really, really cool stuff."
+  },
+  {
+    "start": 724.0,
+    "text": " You can reverse and forward the riff. I mean, it's just awesome. So you select an area of time and then these controls do these different things."
+  },
+  {
+    "start": 732.0,
+    "text": " Now, something else that's really great is you can lock the piano roll to a scale. So if you have a scale associated with the clip that you're working with, all of these controls will associate themselves with the actual notes within the scale that you're working in."
+  },
+  {
+    "start": 741.0,
+    "text": " So if we go to this next tab, transform, we can arpeggiate the notes and we can actually see them populate in the piano roll."
+  },
+  {
+    "start": 749.0,
+    "text": " So for example, I'll hit transform and you can see that the piano roll is a simple part of the piano roll."
+  },
+  {
+    "start": 755.0,
+    "text": " So if we go back to the track, and I'm going to turn off chords so we can hear. So going back to the piano roll, you can now see that we have an arpeggiated."
+  },
+  {
+    "start": 762.0,
+    "text": " How great is that?"
+  },
+  {
+    "start": 766.0,
+    "text": " So undo that. But yeah, essentially you have an arpeggiator that does what a normal arpeggiator does."
+  },
+  {
+    "start": 772.0,
+    "text": " So you can see that we have a piano roll, and we can actually see the notes populate in the piano roll."
+  },
+  {
+    "start": 780.0,
+    "text": " So undo that. But yeah, essentially you have an arpeggiator that does what a normal arpeggiator device does, but it applies it to the piano roll instantly."
+  },
+  {
+    "start": 790.0,
+    "text": " So yeah, there's all these different ways to transform and work with the different notes inside of your clip. It's truly awesome."
+  },
+  {
+    "start": 796.0,
+    "text": " I really like the ornament feature where you can add like grace notes to the beginning of things. This is pretty cool. You can see now we have."
+  },
+  {
+    "start": 802.0,
+    "text": " Right?"
+  },
+  {
+    "start": 807.0,
+    "text": " Like we're kind of going down to the note, same note or a lower note."
+  },
+  {
+    "start": 812.0,
+    "text": " Anyway, I'm going to go over this in detail in another video, but there's just so many awesome things that you can do with Ableton's new piano roll."
+  },
+  {
+    "start": 819.0,
+    "text": " It's incredible. I absolutely love this. It's really fun, especially if you're working on music away from your studio and you just have your laptop."
+  },
+  {
+    "start": 828.0,
+    "text": " I travel a lot using these transformations can make music really fun to generate and create without an instrument in front of you."
+  },
+  {
+    "start": 835.0,
+    "text": " And I just really think this is just a fun little addition and really modernizes Ableton in its piano roll."
+  },
+  {
+    "start": 842.0,
+    "text": " All right. So my thoughts on Ableton 12. This is a very robust update, and I think that Ableton has reacted to the demands and wishes of their user base."
+  },
+  {
+    "start": 850.0,
+    "text": " I also think, though, that we're living through a time where companies are incentivized to have a very rapid and tight release schedule in order to compete with the aggressive and highly competitive market."
+  },
+  {
+    "start": 859.0,
+    "text": " And what this means for creators is that there is always going to be a carrot at the end of the stick."
+  },
+  {
+    "start": 864.0,
+    "text": " It's a very real danger to be perpetually shopping for the latest and greatest thing and never get around to actually making music."
+  },
+  {
+    "start": 872.0,
+    "text": " Think about it. All of your favorite technological music that you know and love was created before this software or any new software was ever invented."
+  },
+  {
+    "start": 879.0,
+    "text": " Apex Twin made insanely complex and beautiful music before the modern DAW even existed."
+  },
+  {
+    "start": 885.0,
+    "text": " Now, I harp on this a lot, but it's so much more important for you to learn the tools that you already have and have a daily practice of creating."
+  },
+  {
+    "start": 892.0,
+    "text": " The DAW is not going to make or break your career."
+  },
+  {
+    "start": 896.0,
+    "text": " With that said, though, if you're just as excited about Ableton 12 as I am right now, you can get their 20% discount on Ableton Live 11 and then eventually upgrade for free to Ableton 12 by clicking on my affiliate link below."
+  },
+  {
+    "start": 908.0,
+    "text": " If you want a bigger discount, though, Ableton recognizes My Ableton Courses and their EDU program, which at the moment is offering a huge 60% discount on new licenses."
+  },
+  {
+    "start": 918.0,
+    "text": " And I'm sure many of you are wondering, but of course I'm going to be updating all of my courses with Ableton 12 content, all the Ableton 12 content that you could ever want, and that will be finished by the time Ableton 12 is available to the public."
+  },
+  {
+    "start": 929.0,
+    "text": " And I'm going to be running, of course, my Black Friday sale coming up here soon, so if you want to be notified when that sale hits, you can opt into this little email list and I'll send you an email when the sale goes live."
+  },
+  {
+    "start": 938.0,
+    "text": " This is the cheapest way to get into my courses and the cheapest way to get into Ableton."
+  },
+  {
+    "start": 943.0,
+    "text": " But remember, I really want to harp on this fact. It doesn't matter whether you're learning from me or from anybody else. All that matters is that you're learning, learning and creating."
+  },
+  {
+    "start": 951.0,
+    "text": " There's of course a million things that you could buy all the time, but if you're not creating and you're not learning, it's not worth doing."
+  },
+  {
+    "start": 956.0,
+    "text": " Okay? So make sure you at least get out there and learn a little bit today. Alright? Much love everybody. I'll see you next time. Thanks for watching."
+  }
+]

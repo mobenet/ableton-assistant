@@ -1,15 +1,15 @@
 import os
 import json
-import threading 
+import logging
+import threading
+from math import log2
 from typing import Dict
-from functools import lru_cache 
+from functools import lru_cache
 
 from langchain.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain.agents import create_openai_tools_agent, AgentExecutor
 from langchain_openai import ChatOpenAI
-from langchain.chains import LLMMathChain
 from ddgs import DDGS
-
 
 from langchain_core.tools import tool
 from langchain_core.runnables.history import RunnableWithMessageHistory
@@ -20,7 +20,15 @@ from rag import answer_query, CHROMA_DIR, COLLECTION_NAME, EMBED_MODEL
 from langchain_chroma import Chroma
 from embeddings import E5Embeddings
 from dotenv import load_dotenv
+
 load_dotenv()
+
+# Configure logging
+logger = logging.getLogger(__name__)
+
+# Web search cache (TTL-based caching for repeated queries)
+_SEARCH_CACHE: Dict[str, tuple] = {}  # query -> (timestamp, results)
+_SEARCH_CACHE_TTL = 300  # 5 minutes
 
 _AGENT_RUNNABLE = None 
 _AGENT_LOCK = threading.Lock() 
@@ -52,25 +60,31 @@ class RAGStrictInput(BaseModel):
 @tool("ask_rag_strict", args_schema=RAGStrictInput, return_direct=False)
 def ask_rag_strict(query: str, k: int = 5, min_relevance: float = 0.2) -> str:
     """
-    Intenta responder con el índice (Chroma+E5).
-    Si el mejor documento tiene relevancia < min_relevance => devuelve 'NO_CONTEXT'.
-    En caso contrario, devuelve la respuesta final (con 'Sources:').
+    Query the knowledge base (Chroma+E5).
+    Returns 'NO_CONTEXT' if best document relevance < min_relevance.
+    Otherwise returns the answer with sources.
     """
+    logger.debug(f"RAG query: {query[:80]}... (k={k}, min_rel={min_relevance})")
     vs = _vs()
-    docs_scores = vs.similarity_search_with_relevance_scores(query, k=k) 
-    
+    docs_scores = vs.similarity_search_with_relevance_scores(query, k=k)
+
     if not docs_scores:
+        logger.info("RAG: No documents found")
         return "NO_CONTEXT"
 
     top_score = docs_scores[0][1] or 0.0
-    if top_score is None or top_score < min_relevance: 
+    logger.debug(f"RAG top score: {top_score:.3f}")
+
+    if top_score is None or top_score < min_relevance:
+        logger.info(f"RAG: Below threshold ({top_score:.3f} < {min_relevance})")
         return "NO_CONTEXT"
 
     try:
         result = answer_query(query, k=k)
         return result["answer"]
     except Exception as e:
-        return f"I could'nt consult the RAG index: {e}"
+        logger.error(f"RAG query failed: {e}")
+        return f"Couldn't query the RAG index: {e}"
 
 class TempoInput(BaseModel):
     bpm: float = Field(..., description="Tempo in beats per minute (BPM)")
@@ -131,8 +145,7 @@ def _midi_to_hz(m: int) -> float:
     return _A4 * (2 ** ((m - _A4_MIDI)/12.0))        
 
 def _hz_to_midi(hz: float) -> float:
-    from math import log2
-    return _A4_MIDI + 12 * log2(hz/_A4)
+    return _A4_MIDI + 12 * log2(hz / _A4)
 
 @tool("pitch_converter", args_schema=PitchInput, return_direct=False)
 def pitch_converter(mode: str, value: str) -> str:
@@ -167,10 +180,21 @@ def web_search(query: str, max_results: int = 5) -> str:
     DuckDuckGo web search. Returns up to max_results results as JSON:
     [{title, url, snippet}]
     """
+    import time
+
+    # Check cache first
+    cache_key = f"{query}:{max_results}"
+    if cache_key in _SEARCH_CACHE:
+        cached_time, cached_results = _SEARCH_CACHE[cache_key]
+        if time.time() - cached_time < _SEARCH_CACHE_TTL:
+            logger.debug(f"Web search cache hit for: {query}")
+            return cached_results
+
     try:
+        logger.info(f"Web search: {query}")
         with DDGS() as ddgs:
-            results = list(ddgs.text(query, max_results=max_results)) 
-        simplified = [ 
+            results = list(ddgs.text(query, max_results=max_results))
+        simplified = [
             {
                 "title": r.get("title"),
                 "url": r.get("href") or r.get("link"),
@@ -178,8 +202,19 @@ def web_search(query: str, max_results: int = 5) -> str:
             }
             for r in results[:max_results]
         ]
-        return json.dumps(simplified, ensure_ascii=False)
+        result_json = json.dumps(simplified, ensure_ascii=False)
+
+        # Cache the result
+        _SEARCH_CACHE[cache_key] = (time.time(), result_json)
+
+        # Clean old cache entries (keep max 100)
+        if len(_SEARCH_CACHE) > 100:
+            oldest_key = min(_SEARCH_CACHE.keys(), key=lambda k: _SEARCH_CACHE[k][0])
+            del _SEARCH_CACHE[oldest_key]
+
+        return result_json
     except Exception as e:
+        logger.error(f"Web search failed: {e}")
         return f"SEARCH_ERROR: {e}" 
 
 
@@ -223,8 +258,16 @@ def get_agent_runnable():
 
 def build_agent():
     llm = _llm()
-    agent = create_openai_tools_agent(llm, TOOLS, AGENT_PROMPT) 
-    executor = AgentExecutor(agent=agent, tools=TOOLS, verbose=True, return_intermediate_steps=False) 
+    agent = create_openai_tools_agent(llm, TOOLS, AGENT_PROMPT)
+    executor = AgentExecutor(
+        agent=agent,
+        tools=TOOLS,
+        verbose=os.getenv("DEBUG", "").lower() in ("1", "true"),
+        return_intermediate_steps=False,
+        handle_parsing_errors=True,
+        max_iterations=10,
+    )
+    logger.info("Agent executor built successfully")
     return executor
 
 _CHAT_STORE: Dict[str, InMemoryChatMessageHistory] = {} 
@@ -244,9 +287,11 @@ def _get_session_history(session_id: str) -> InMemoryChatMessageHistory:
 
 
 def agent_ask(user_input: str, session_id: str = "default") -> str:
+    logger.info(f"Agent query [session={session_id}]: {user_input[:100]}...")
     runnable = get_agent_runnable()
     cfg = {"configurable": {"session_id": session_id}}
     out = runnable.invoke({"input": user_input}, config=cfg)
+    logger.debug(f"Agent response length: {len(out.get('output', ''))}")
     return out["output"]
 
 def reset_agent():

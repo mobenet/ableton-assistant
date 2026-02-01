@@ -1,0 +1,330 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hello world!"
+  },
+  {
+    "start": 2.0,
+    "text": " There's one particular track I use in every single Ableton Live project."
+  },
+  {
+    "start": 9.0,
+    "text": " It's called Resample, and it allows you to instantly sample whatever is playing out of"
+  },
+  {
+    "start": 14.36,
+    "text": " Ableton's master channel."
+  },
+  {
+    "start": 16.740000000000002,
+    "text": " The setup is simple."
+  },
+  {
+    "start": 18.5,
+    "text": " Just take an audio track and set its input type to Resampling."
+  },
+  {
+    "start": 23.88,
+    "text": " Now you can instantly sample whatever Ableton is playing with the click of a button."
+  },
+  {
+    "start": 31.58,
+    "text": " And saving this track in your default Live set means it's always there at your fingertips"
+  },
+  {
+    "start": 36.96,
+    "text": " whenever you need it."
+  },
+  {
+    "start": 39.84,
+    "text": " Keeping the Resampling track at the bottom of your session means it's easy to locate"
+  },
+  {
+    "start": 45.120000000000005,
+    "text": " anytime you need it, and allows you to put the sample onto its own track by simply dragging"
+  },
+  {
+    "start": 50.519999999999996,
+    "text": " it down onto the space below."
+  },
+  {
+    "start": 53.16,
+    "text": " This way you'll always have the Resampling track available, set up, and ready to go at"
+  },
+  {
+    "start": 58.4,
+    "text": " the bottom of the project every time you need it."
+  },
+  {
+    "start": 61.959999999999994,
+    "text": " So let me show you 5 quick and simple examples which I regularly use the Resample track for,"
+  },
+  {
+    "start": 67.88,
+    "text": " to illustrate just how powerful having this is."
+  },
+  {
+    "start": 71.36,
+    "text": " 1."
+  },
+  {
+    "start": 72.6,
+    "text": " TaylorMade Rizers"
+  },
+  {
+    "start": 75.12,
+    "text": " A great way to make a unique riser that's tailor-made to your song and fits perfectly"
+  },
+  {
+    "start": 80.92,
+    "text": " is to use a sample of your song to make it."
+  },
+  {
+    "start": 94.28,
+    "text": " Solo a selection of instruments and hit record to sample them."
+  },
+  {
+    "start": 98.04,
+    "text": " If you have a long sustained section, you can directly use that."
+  },
+  {
+    "start": 112.4,
+    "text": " Otherwise, you can warp and stretch out the sample, or use reverb to extend it."
+  },
+  {
+    "start": 118.52000000000001,
+    "text": " Then, simply automate the pitch,"
+  },
+  {
+    "start": 129.04,
+    "text": " and voila!"
+  },
+  {
+    "start": 143.04,
+    "text": " 2."
+  },
+  {
+    "start": 145.04,
+    "text": " Pitch Drop Ear Candy"
+  },
+  {
+    "start": 148.04,
+    "text": " Sprinkling bits of ear candy throughout your track is one of the many ways to keep listeners"
+  },
+  {
+    "start": 153.04,
+    "text": " excited, and resampling is a great way of making ear candy."
+  },
+  {
+    "start": 158.04,
+    "text": " Let's work in a pitch drop effect as an example."
+  },
+  {
+    "start": 161.04,
+    "text": " I'll use the Pitch Drop Max for Live device on the master."
+  },
+  {
+    "start": 167.04,
+    "text": " I'll trigger it here,"
+  },
+  {
+    "start": 172.04,
+    "text": " tweak the settings,"
+  },
+  {
+    "start": 179.04,
+    "text": " and take a sample of what that sounds like."
+  },
+  {
+    "start": 184.04,
+    "text": " Now I'm free to remove the Pitch Drop device from the master,"
+  },
+  {
+    "start": 191.04,
+    "text": " and manipulate the sound as I like it to fit the track."
+  },
+  {
+    "start": 202.04,
+    "text": " 3."
+  },
+  {
+    "start": 203.04,
+    "text": " A Classic, the Reverse Reverb Trick"
+  },
+  {
+    "start": 206.04,
+    "text": " A great way of introducing new sounds into your tracks is to use the Reverse Reverb Trick."
+  },
+  {
+    "start": 213.04,
+    "text": " With a resampling track ready to go in your project,"
+  },
+  {
+    "start": 219.04,
+    "text": " it's as easy as placing down a reverb device onto the sound you're introducing,"
+  },
+  {
+    "start": 224.04,
+    "text": " isolating the first phrase or vowel,"
+  },
+  {
+    "start": 228.04,
+    "text": " and hitting record."
+  },
+  {
+    "start": 231.04,
+    "text": " You can then copy the resampled audio,"
+  },
+  {
+    "start": 234.04,
+    "text": " and just hit undo a few times to restore the track,"
+  },
+  {
+    "start": 238.04,
+    "text": " before pasting the resampled audio onto a new track."
+  },
+  {
+    "start": 243.04,
+    "text": " Reverse it, trim it, and there you have it."
+  },
+  {
+    "start": 259.03999999999996,
+    "text": " 4."
+  },
+  {
+    "start": 260.03999999999996,
+    "text": " Faded Drop Builds"
+  },
+  {
+    "start": 263.03999999999996,
+    "text": " Sometimes, going from a verse or build straight into a chorus or drop"
+  },
+  {
+    "start": 268.03999999999996,
+    "text": " can sound a little disjointed."
+  },
+  {
+    "start": 270.04,
+    "text": " This can happen if the two parts are too contrasting."
+  },
+  {
+    "start": 287.04,
+    "text": " One technique you can use in this situation is to give a hint of the drop or chorus before it hits."
+  },
+  {
+    "start": 294.04,
+    "text": " Using the resample track, take a sample of all or part of the drop."
+  },
+  {
+    "start": 300.04,
+    "text": " Add the sample into the section before,"
+  },
+  {
+    "start": 303.04,
+    "text": " and use effects or automation to give the listener a small taste of what's to come."
+  },
+  {
+    "start": 327.04,
+    "text": " And finally,"
+  },
+  {
+    "start": 328.04,
+    "text": " 5."
+  },
+  {
+    "start": 329.04,
+    "text": " Wind Up Drums"
+  },
+  {
+    "start": 333.04,
+    "text": " A cool way of adding interest and variation to drums"
+  },
+  {
+    "start": 336.04,
+    "text": " is to add a reverse drum sound before a hit,"
+  },
+  {
+    "start": 339.04,
+    "text": " a common staple amongst producers such as Millennium."
+  },
+  {
+    "start": 347.04,
+    "text": " If your drums are programmed in MIDI,"
+  },
+  {
+    "start": 350.04,
+    "text": " and you want to use one of those samples to reverse into itself,"
+  },
+  {
+    "start": 354.04,
+    "text": " you could go on a hunt to locate the original audio file."
+  },
+  {
+    "start": 357.04,
+    "text": " Or, if you already have a resampling track,"
+  },
+  {
+    "start": 360.04,
+    "text": " just use that to sample the drum you're after."
+  },
+  {
+    "start": 366.04,
+    "text": " Move it to a new lane,"
+  },
+  {
+    "start": 367.04,
+    "text": " reverse it,"
+  },
+  {
+    "start": 369.04,
+    "text": " and hey presto."
+  },
+  {
+    "start": 375.04,
+    "text": " For some genres like electro and dubstep,"
+  },
+  {
+    "start": 378.04,
+    "text": " resampling is almost essential."
+  },
+  {
+    "start": 381.04,
+    "text": " But for other styles,"
+  },
+  {
+    "start": 382.04,
+    "text": " it's a superb way of adding ear candy into tracks to keep the listener engaged."
+  },
+  {
+    "start": 388.04,
+    "text": " By always having a resampling track ready to go in your session,"
+  },
+  {
+    "start": 392.04,
+    "text": " it greatly lowers that barrier to ear candy"
+  },
+  {
+    "start": 395.04,
+    "text": " without all the hassle and setup that often comes with it."
+  },
+  {
+    "start": 399.04,
+    "text": " And finally,"
+  },
+  {
+    "start": 400.04,
+    "text": " if you want to stay ahead of the curve with production tips and workflows just like this,"
+  },
+  {
+    "start": 405.04,
+    "text": " please consider hitting the subscribe button below."
+  },
+  {
+    "start": 408.04,
+    "text": " It goes a long way in supporting the channel."
+  },
+  {
+    "start": 412.04,
+    "text": " Click."
+  }
+]

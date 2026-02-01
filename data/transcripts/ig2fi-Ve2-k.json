@@ -1,0 +1,178 @@
+[
+  {
+    "start": 0.0,
+    "text": " Here's a vocal technique I've been hearing everywhere in 2023 used by Fredigan, Skrillex"
+  },
+  {
+    "start": 5.4,
+    "text": " and Bicep just to name a few."
+  },
+  {
+    "start": 20.52,
+    "text": " This video is supported by my sound design course which now also includes all of my preset"
+  },
+  {
+    "start": 25.32,
+    "text": " and sample backs, check the link in the description to learn more."
+  },
+  {
+    "start": 29.26,
+    "text": " So here's a vocal we're working with from Splice."
+  },
+  {
+    "start": 36.92,
+    "text": " If you don't have a vocal, you can always use an AI tool to grab an acapella from any"
+  },
+  {
+    "start": 40.82,
+    "text": " song you like."
+  },
+  {
+    "start": 41.82,
+    "text": " I'll leave a link in the description below to my favourite if you want to try it out"
+  },
+  {
+    "start": 45.38,
+    "text": " yourself."
+  },
+  {
+    "start": 46.38,
+    "text": " One really easy way to achieve this vocal effect is to use an auto pan and set the phase"
+  },
+  {
+    "start": 50.78,
+    "text": " to zero."
+  },
+  {
+    "start": 58.46,
+    "text": " This can work well but really we're after a bit more control over the rhythm and swing"
+  },
+  {
+    "start": 63.38,
+    "text": " of our lead."
+  },
+  {
+    "start": 64.5,
+    "text": " Let's instead set up a midi track with a sampler triggering some kind of noise sample."
+  },
+  {
+    "start": 70.18,
+    "text": " Let's give it a more percussive amplitude envelope."
+  },
+  {
+    "start": 76.02,
+    "text": " Now we have much more freedom to draw out the rhythm we want our vocal lead to follow."
+  },
+  {
+    "start": 84.38,
+    "text": " Once you're happy with the rhythm, set up a new audio track with a gate plugin, turn"
+  },
+  {
+    "start": 88.3,
+    "text": " sidechain on and choose the midi noise channel for the input."
+  },
+  {
+    "start": 92.06,
+    "text": " The last step is to make sure your vocal sample is in key with your track, but from here you"
+  },
+  {
+    "start": 97.61999999999999,
+    "text": " can basically just start chucking in random sections of your vocal and see how it sounds."
+  },
+  {
+    "start": 108.17999999999999,
+    "text": " It's also worth playing with both the gate threshold and noise floor, as well as the"
+  },
+  {
+    "start": 113.66,
+    "text": " envelope of your noise trigger."
+  },
+  {
+    "start": 115.54,
+    "text": " We can then combine and duplicate different loops to create a dynamic vocal lead that"
+  },
+  {
+    "start": 119.86,
+    "text": " changes over time."
+  },
+  {
+    "start": 128.5,
+    "text": " We can also repitch different chops to create more variations in the melody."
+  },
+  {
+    "start": 136.82,
+    "text": " To get the more polished sound we're after though, we can really start bringing this"
+  },
+  {
+    "start": 140.5,
+    "text": " lead to life with some processing."
+  },
+  {
+    "start": 142.58,
+    "text": " Let's first hear the vocal without any processing."
+  },
+  {
+    "start": 149.9,
+    "text": " First some OTT multi-band compression to bring out some details."
+  },
+  {
+    "start": 156.82000000000002,
+    "text": " Then some dimension expander width using Serum's effects mode."
+  },
+  {
+    "start": 167.5,
+    "text": " A bit of cleaning up with some EQ."
+  },
+  {
+    "start": 175.86,
+    "text": " Finally some reverb using a return track with some sidechain from the kick and vocal, and"
+  },
+  {
+    "start": 180.94,
+    "text": " also an EQ so the reverb doesn't interfere with the rest of the track."
+  },
+  {
+    "start": 191.54,
+    "text": " One final trick that producers like Skrillex use a lot is formant automation, which can"
+  },
+  {
+    "start": 196.54,
+    "text": " be really effective for keeping the sound interesting over time."
+  },
+  {
+    "start": 210.34,
+    "text": " If you're wondering about the drums and bass sound in this video, they're actually"
+  },
+  {
+    "start": 213.38,
+    "text": " stems from a track by Pluko."
+  },
+  {
+    "start": 215.89999999999998,
+    "text": " The way I got these stems was by using my new favourite AI stem separation software,"
+  },
+  {
+    "start": 221.14,
+    "text": " which I'll leave a link to in the description below."
+  },
+  {
+    "start": 223.74,
+    "text": " Give it a try for yourself, I promise you it will blow your mind."
+  },
+  {
+    "start": 227.10000000000002,
+    "text": " It's honestly for me being such a game changer."
+  },
+  {
+    "start": 230.38,
+    "text": " Let me know down in the comments if you'd enjoy more quick tip videos like this one."
+  },
+  {
+    "start": 234.18,
+    "text": " Be sure to check out my sound design course which now also includes all my preset and"
+  },
+  {
+    "start": 237.84,
+    "text": " sample packs, or check out this next video for more sound design inspiration."
+  }
+]

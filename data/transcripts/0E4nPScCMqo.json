@@ -1,0 +1,410 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hi, I'm Limeo Milan and in this video we're going to look at insert effects."
+  },
+  {
+    "start": 12.84,
+    "text": " So the first thing we need to be aware of is the concept of insert effects because it's"
+  },
+  {
+    "start": 16.72,
+    "text": " not just specific to Ableton Live, it's a general music technology based situation."
+  },
+  {
+    "start": 23.16,
+    "text": " What it means is you have a source sound and then you have it running through a mixing"
+  },
+  {
+    "start": 27.6,
+    "text": " channel and then it goes to a master channel or a mix bus and that's where we hear our"
+  },
+  {
+    "start": 33.56,
+    "text": " combination of all the signals within a mixing environment."
+  },
+  {
+    "start": 37.160000000000004,
+    "text": " An insert sits between the source sound and where it ends up."
+  },
+  {
+    "start": 41.2,
+    "text": " So rather than a signal being sent as a copy to feed another effect, the effect is actually"
+  },
+  {
+    "start": 45.58,
+    "text": " placed on the original sound itself and we hear whatever that effect gives out."
+  },
+  {
+    "start": 50.76,
+    "text": " So to do that in terms of the signal flow of Ableton Live's mixing environment, we"
+  },
+  {
+    "start": 57.28,
+    "text": " have an audio clip here."
+  },
+  {
+    "start": 59.96,
+    "text": " That audio clip is running to the master via the audio 2 setting there and we want to insert"
+  },
+  {
+    "start": 67.4,
+    "text": " the signal before it gets to that master track."
+  },
+  {
+    "start": 71.12,
+    "text": " So if I just bring up the device view here, we grab a typical effect to just show this"
+  },
+  {
+    "start": 77.60000000000001,
+    "text": " reverb and we drag that down to that channel path."
+  },
+  {
+    "start": 81.32000000000001,
+    "text": " We press play, just turn the reverb off for a minute."
+  },
+  {
+    "start": 85.32000000000001,
+    "text": " Press play."
+  },
+  {
+    "start": 88.92,
+    "text": " Nothing's happening."
+  },
+  {
+    "start": 89.92,
+    "text": " We turn the reverb on and we're hearing the original signal once it's passed through this"
+  },
+  {
+    "start": 99.80000000000001,
+    "text": " device."
+  },
+  {
+    "start": 101.36,
+    "text": " So we can do that with a couple of other effects as well."
+  },
+  {
+    "start": 107.16,
+    "text": " So again, for clarity reasons, let's go for a go-to kind of effect like a delay."
+  },
+  {
+    "start": 132.36,
+    "text": " So this brings us to another point to be aware of when you're doing insert effects."
+  },
+  {
+    "start": 138.36,
+    "text": " Now the reverb is happening after my arpeggiated line is playing."
+  },
+  {
+    "start": 143.48000000000002,
+    "text": " We're hearing what the reverb has done to the sound and we're listening to its output."
+  },
+  {
+    "start": 148.20000000000002,
+    "text": " However, the reverb itself has a balance control between what's called the dry signal, which"
+  },
+  {
+    "start": 153.48000000000002,
+    "text": " is as if that reverb was never placed on the track, and then hearing the 100% wet signal,"
+  },
+  {
+    "start": 159.76,
+    "text": " which is only the reverb with none of the original saw sound being heard."
+  },
+  {
+    "start": 164.44,
+    "text": " So if you like, it's like a crossfader or balancing pot that you're doing between that"
+  },
+  {
+    "start": 169.35999999999999,
+    "text": " original signal and that modified version of the signal."
+  },
+  {
+    "start": 173.32,
+    "text": " Now normally with a reverb, you'll never hear only reverb."
+  },
+  {
+    "start": 176.72,
+    "text": " You will always hear some degree of the saw sound that creates that reaction of the room."
+  },
+  {
+    "start": 182.45999999999998,
+    "text": " So the dry wet balance, which is just down here on the reverb, could be adjusted to suit"
+  },
+  {
+    "start": 186.96,
+    "text": " to taste where you think that dry signal should sit versus the level of that wet signal."
+  },
+  {
+    "start": 192.36,
+    "text": " So I'm just going to turn the delay off for a minute just so we can focus just on that"
+  },
+  {
+    "start": 195.92000000000002,
+    "text": " reverb and then try and find that striking, that balance point."
+  },
+  {
+    "start": 199.92000000000002,
+    "text": " So I'll move it all the way to the left so it's 100% dry, so I don't actually hear the"
+  },
+  {
+    "start": 203.92000000000002,
+    "text": " reverb yet, and then I'll sweep around and figure out where that balance should be between"
+  },
+  {
+    "start": 207.92000000000002,
+    "text": " dry and wet."
+  },
+  {
+    "start": 217.96,
+    "text": " Okay, I'm happy with that for the ambient effect, for the room that's created by that"
+  },
+  {
+    "start": 221.68,
+    "text": " reverb."
+  },
+  {
+    "start": 222.68,
+    "text": " I'm going to turn that delay on now, which is creating the rhythmic repeats, and again,"
+  },
+  {
+    "start": 226.92000000000002,
+    "text": " set that to dry all the way to the left."
+  },
+  {
+    "start": 241.96,
+    "text": " And that sounds like it's adding a nice sense of depth to that signal."
+  },
+  {
+    "start": 245.84,
+    "text": " Now that's only happening to that track, so if I wanted to do something similar to that,"
+  },
+  {
+    "start": 249.84,
+    "text": " I'd have to apply those same effects to other tracks if I want those to have the same sort"
+  },
+  {
+    "start": 253.64000000000001,
+    "text": " of treatment when we're using insert effects."
+  },
+  {
+    "start": 257.12,
+    "text": " But that for now is a nice sense of ambience."
+  },
+  {
+    "start": 259.2,
+    "text": " What I want to add now is, let's say, some filtering."
+  },
+  {
+    "start": 263.2,
+    "text": " So we'll go to auto filter, we'll just add that in."
+  },
+  {
+    "start": 269.92,
+    "text": " What this is doing is the signal from the lowest sounds to the highest, brightest sounds"
+  },
+  {
+    "start": 276.24,
+    "text": " normally are fully heard, and what a filter is doing is rejecting some of those frequencies"
+  },
+  {
+    "start": 282.92,
+    "text": " or some of that information."
+  },
+  {
+    "start": 284.98,
+    "text": " And a very traditional one to use for being able to introduce a sound or take a sound"
+  },
+  {
+    "start": 289.08,
+    "text": " away out of a song composition is what's called a low pass filter."
+  },
+  {
+    "start": 294.32,
+    "text": " So if you look at the auto filter here, this is the representation of all the frequencies,"
+  },
+  {
+    "start": 299.72,
+    "text": " and this line being in the middle allows them to pass."
+  },
+  {
+    "start": 304.64000000000004,
+    "text": " So at the moment, if I move this dot all the way to the right, which is called our cutoff"
+  },
+  {
+    "start": 308.36,
+    "text": " frequency, it's allowing all the sounds to pretty much pass through that filter."
+  },
+  {
+    "start": 313.16,
+    "text": " Now if I play this sound and I start moving the frequency here, the cutoff frequency,"
+  },
+  {
+    "start": 318.92,
+    "text": " down you'll notice that anything that's above this dot starts being rejected, and in this"
+  },
+  {
+    "start": 324.72,
+    "text": " case it's the sense of clarity from the sound."
+  },
+  {
+    "start": 329.72,
+    "text": " So you should have heard that in a lot of compositions already."
+  },
+  {
+    "start": 346.08000000000004,
+    "text": " It's a very useful way of introducing sounds."
+  },
+  {
+    "start": 348.92,
+    "text": " Now what's happening is I have the reverb being created, and we're hearing that alongside"
+  },
+  {
+    "start": 354.28000000000003,
+    "text": " the dry signal to the balance that I've preferred."
+  },
+  {
+    "start": 357.2,
+    "text": " We're hearing the delay line, and we're hearing that in relation to the original sound or"
+  },
+  {
+    "start": 361.8,
+    "text": " at least the sound after the reverb in balance with the delayed sound."
+  },
+  {
+    "start": 366.76,
+    "text": " And then we're just taking off all the higher frequencies of all those layers and combinations"
+  },
+  {
+    "start": 372.38,
+    "text": " of sounds."
+  },
+  {
+    "start": 373.8,
+    "text": " So at the moment when I do a filter sweep going down, everything is being reduced down"
+  },
+  {
+    "start": 378.52,
+    "text": " to nothing."
+  },
+  {
+    "start": 387.8,
+    "text": " Now what we can do is we can simply just drag that effect and put it earlier on in the chain"
+  },
+  {
+    "start": 393.4,
+    "text": " of events, in the sequence."
+  },
+  {
+    "start": 395.8,
+    "text": " So these devices are running in what's called in series, one goes after the other, into"
+  },
+  {
+    "start": 401.12,
+    "text": " the next, and into the next."
+  },
+  {
+    "start": 402.59999999999997,
+    "text": " I'm going to grab that filter and actually just stick it earlier on."
+  },
+  {
+    "start": 406.41999999999996,
+    "text": " So although it will filter the original sound, what the reverb does after that and what the"
+  },
+  {
+    "start": 411.7,
+    "text": " delay does after that are independent of what the filter's doing to that source sound,"
+  },
+  {
+    "start": 415.92,
+    "text": " so it does sound slightly different."
+  },
+  {
+    "start": 417.96000000000004,
+    "text": " So I'll drag that right to the beginning between those, or to the beginning of those three"
+  },
+  {
+    "start": 422.2,
+    "text": " devices and have a listen to the ambience aspect and also those little rhythmic delays"
+  },
+  {
+    "start": 427.96000000000004,
+    "text": " as well and see how they sound different."
+  },
+  {
+    "start": 429.52,
+    "text": " And we'll just do the same motion at the end there."
+  },
+  {
+    "start": 447.52,
+    "text": " So I'm sweeping that quickly to make it more obvious."
+  },
+  {
+    "start": 459.64,
+    "text": " When the filter's at the end of the chain of devices, even if it's moved quickly, it"
+  },
+  {
+    "start": 465.03999999999996,
+    "text": " will always remove those repeats because they're happening before that filter has a chance"
+  },
+  {
+    "start": 468.97999999999996,
+    "text": " to take them out of the equation."
+  },
+  {
+    "start": 470.79999999999995,
+    "text": " However, if we put the filter at the beginning of all those devices, even if it moves up"
+  },
+  {
+    "start": 476.4,
+    "text": " If there's a moment of brightness, that delay can catch a little bit of that and elongate"
+  },
+  {
+    "start": 480.67999999999995,
+    "text": " it and prolong it to happen for longer."
+  },
+  {
+    "start": 483.08,
+    "text": " So the purpose of that filter can be that it's an absolute stop to all of that track"
+  },
+  {
+    "start": 488.84,
+    "text": " sound or it can be earlier on in the path, so the source sound gets modified, but the"
+  },
+  {
+    "start": 494.4,
+    "text": " ongoing sequence of events that happens afterwards have a chance to still ring out and be heard"
+  },
+  {
+    "start": 499.03999999999996,
+    "text": " afterwards too."
+  },
+  {
+    "start": 500.56,
+    "text": " So that's the good thing about the running order of devices."
+  },
+  {
+    "start": 503.76,
+    "text": " Even if you're not sure what the best running order is, grab a device and move it earlier"
+  },
+  {
+    "start": 508.52,
+    "text": " or later on in the chain and have a listen and make an educated decision as to which"
+  },
+  {
+    "start": 512.6,
+    "text": " you think sounds best based on the nature of what it is you're trying to achieve."
+  },
+  {
+    "start": 518.3199999999999,
+    "text": " So we've looked at what an insert effect is, we've looked at exploring the different audio"
+  },
+  {
+    "start": 524.4399999999999,
+    "text": " effects from the audio effects section in the browser, and we've also had a look at"
+  },
+  {
+    "start": 529.8,
+    "text": " the dry wet control alongside the running order of different devices."
+  }
+]

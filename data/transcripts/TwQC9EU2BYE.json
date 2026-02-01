@@ -1,0 +1,210 @@
+[
+  {
+    "start": 0.0,
+    "text": " Let's take a look at Live's Preferences window."
+  },
+  {
+    "start": 2.96,
+    "text": " This is a section with many tabs for you to adjust the way that Live looks and behaves."
+  },
+  {
+    "start": 9.36,
+    "text": " To do this, simply go to the drop-down Live menu and select Preferences."
+  },
+  {
+    "start": 14.72,
+    "text": " Alternatively, you can use the shortcut Command comma on a Mac, or Control comma on Windows."
+  },
+  {
+    "start": 22.32,
+    "text": " The Preferences window is divided into tab sections."
+  },
+  {
+    "start": 26.16,
+    "text": " These are as follows."
+  },
+  {
+    "start": 28.400000000000002,
+    "text": " Look Feel"
+  },
+  {
+    "start": 30.400000000000002,
+    "text": " Audio"
+  },
+  {
+    "start": 32.160000000000004,
+    "text": " Link Tempo MIDI"
+  },
+  {
+    "start": 34.4,
+    "text": " File Folder"
+  },
+  {
+    "start": 36.480000000000004,
+    "text": " Library"
+  },
+  {
+    "start": 38.24,
+    "text": " Plugins"
+  },
+  {
+    "start": 40.08,
+    "text": " Record Warp Launch"
+  },
+  {
+    "start": 42.64,
+    "text": " And Licenses Maintenance"
+  },
+  {
+    "start": 45.84,
+    "text": " Look Feel allows you to set up Live's language using the chooser."
+  },
+  {
+    "start": 49.76,
+    "text": " Zoom Display Slider"
+  },
+  {
+    "start": 52.48,
+    "text": " The Zoom Display Slider allows you to zoom Live's screen from 50% up to 200%."
+  },
+  {
+    "start": 60.72,
+    "text": " The next section allows you to set track and clip colors when using Live."
+  },
+  {
+    "start": 66.16,
+    "text": " In the section directly below labeled Customization,"
+  },
+  {
+    "start": 69.6,
+    "text": " you can select themes which change the overall appearance of Live."
+  },
+  {
+    "start": 73.52,
+    "text": " Brightness, Color Intensity, Color Hue, and Gridline Intensity"
+  },
+  {
+    "start": 77.52,
+    "text": " You can also change the brightness, color intensity, color hue, and gridline intensity"
+  },
+  {
+    "start": 81.75999999999999,
+    "text": " of Live's user interface."
+  },
+  {
+    "start": 85.28,
+    "text": " The Audio tab is split into four sections."
+  },
+  {
+    "start": 89.11999999999999,
+    "text": " Audio Device, which covers drivers and the audio interface selection,"
+  },
+  {
+    "start": 93.84,
+    "text": " as well as input and output configuration."
+  },
+  {
+    "start": 97.6,
+    "text": " Under Sample Rate, you can set the overall sample rate of your audio interface."
+  },
+  {
+    "start": 102.8,
+    "text": " And under Latency, you can adjust the latency of your interface."
+  },
+  {
+    "start": 107.92,
+    "text": " In the last section, Test, you can simulate a CPU load"
+  },
+  {
+    "start": 112.0,
+    "text": " to make sure that the latency set for your audio interface doesn't produce audio artifacts."
+  },
+  {
+    "start": 118.8,
+    "text": " The next tab, Link Tempo MIDI, is split into three sections."
+  },
+  {
+    "start": 124.16,
+    "text": " Link allows you to set preferences for Ableton Link."
+  },
+  {
+    "start": 128.32,
+    "text": " Tempo Follower allows you to enable or disable Live's Tempo Following feature,"
+  },
+  {
+    "start": 133.6,
+    "text": " as well as select an input source to control Live's tempo."
+  },
+  {
+    "start": 137.76,
+    "text": " It's worth noting that Link, Tempo Follower, and External Sync are mutually exclusive features."
+  },
+  {
+    "start": 144.72,
+    "text": " For instance, activating Tempo Follower will deactivate Link."
+  },
+  {
+    "start": 149.28,
+    "text": " The MIDI section allows you to select control surfaces, takeover mode, and MIDI ports."
+  },
+  {
+    "start": 155.20000000000002,
+    "text": " In the File Folder tab, you can select another sample editing software to use with Live,"
+  },
+  {
+    "start": 161.52,
+    "text": " and you can set the location of your temporary folder,"
+  },
+  {
+    "start": 164.64000000000001,
+    "text": " as well as the location and size of your decoding cache."
+  },
+  {
+    "start": 169.44,
+    "text": " The Library tab allows you to set the browser behavior in Live,"
+  },
+  {
+    "start": 173.28,
+    "text": " as well as choose locations for content."
+  },
+  {
+    "start": 177.44,
+    "text": " The Plugins tab allows you to choose settings for your third-party plugins."
+  },
+  {
+    "start": 182.24,
+    "text": " You can enable or disable audio units, access your system VST folders,"
+  },
+  {
+    "start": 187.52,
+    "text": " and set up a custom folder for your VST plugins,"
+  },
+  {
+    "start": 191.04000000000002,
+    "text": " as well as asking Live to re-scan for plugins should they not have appeared in your browser."
+  },
+  {
+    "start": 197.84,
+    "text": " The Record Warp Launch tab allows you to set parameters for recording,"
+  },
+  {
+    "start": 202.88,
+    "text": " warp behavior, and launching of clips."
+  },
+  {
+    "start": 206.4,
+    "text": " Notable options here include setting the file type and bit depth"
+  },
+  {
+    "start": 210.4,
+    "text": " of your recordings, an option to automatically create fades on clip edges,"
+  },
+  {
+    "start": 218.56,
+    "text": " and toggling of pitch lock when drawing MIDI notes."
+  },
+  {
+    "start": 223.28,
+    "text": " Finally, under Licenses and Maintenance, you can authorize your version of Live, both online and offline."
+  }
+]

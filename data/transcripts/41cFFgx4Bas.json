@@ -1,0 +1,1374 @@
+[
+  {
+    "start": 0.0,
+    "text": " As you probably know by now, electronic music production is very complicated, so you might be wondering,"
+  },
+  {
+    "start": 5.44,
+    "text": " is there a system that you could follow to actually get really good results every time?"
+  },
+  {
+    "start": 9.52,
+    "text": " Well, I've actually developed a system that has helped my students hit over 100 million streams in multiple genres"
+  },
+  {
+    "start": 14.72,
+    "text": " and get their music signed to some of the world's biggest labels, and the best thing is you can just copy it."
+  },
+  {
+    "start": 19.04,
+    "text": " And this system kind of takes away a lot of the complication. So here's what I want to share with you today."
+  },
+  {
+    "start": 23.8,
+    "text": " We're going to go through my perfect DAW template setup. We're going to go through sample organization and favorites."
+  },
+  {
+    "start": 29.72,
+    "text": " We're going to go through how to reference and the importance of focus, and we're going to go through mix levels."
+  },
+  {
+    "start": 34.839999999999996,
+    "text": " We're going to go through arrangement to get out of that eight bar loop, and then we're going to go into some other stuff as well,"
+  },
+  {
+    "start": 40.16,
+    "text": " like automation. And I want to share all of this with you today because it's actually what we teach in our music production accelerator program."
+  },
+  {
+    "start": 46.56,
+    "text": " So if you watch this video and you find it useful and you do want to find out about our coaching program, you can click the link below and check it out."
+  },
+  {
+    "start": 53.32,
+    "text": " I've also shared with you this entire system, which you can download in a free cheat sheet below this video as well to help."
+  },
+  {
+    "start": 59.08,
+    "text": " OK, so the first thing I want to talk about is the template walkthrough."
+  },
+  {
+    "start": 62.28,
+    "text": " So it doesn't matter if you're using Ableton or Logic or FL Studio."
+  },
+  {
+    "start": 65.92,
+    "text": " It's important to have a template set up to help you work quickly, because when I started doing this as a full time job,"
+  },
+  {
+    "start": 71.4,
+    "text": " you're having to produce every day and you want to get things done quickly."
+  },
+  {
+    "start": 74.52,
+    "text": " So you're in a state of flow because that's the easiest way to work."
+  },
+  {
+    "start": 78.0,
+    "text": " So let me just walk you through what I use for my Ableton setup."
+  },
+  {
+    "start": 81.75999999999999,
+    "text": " I used to have a really complicated template, but I found it would always kind of push me in a certain direction."
+  },
+  {
+    "start": 87.12,
+    "text": " And that's why I simplified this."
+  },
+  {
+    "start": 89.12,
+    "text": " So I've got this channel, which is an audio track, and that's for my reference track."
+  },
+  {
+    "start": 93.48,
+    "text": " We're going to get to that in section three of this guide today."
+  },
+  {
+    "start": 96.4,
+    "text": " And then I've got this SC trigger, which is a sidechain trigger."
+  },
+  {
+    "start": 99.96000000000001,
+    "text": " Again, we're going to get to that soon."
+  },
+  {
+    "start": 101.52000000000001,
+    "text": " And then I've got a track set up for my kick drum, a track set up for my other drums and just a blank midi track set up for my bass."
+  },
+  {
+    "start": 108.68,
+    "text": " I've also got a few plugins here, which I'm going to walk through as well."
+  },
+  {
+    "start": 111.96,
+    "text": " So reference track, I've got this mono switch, which allows me to reduce the volume of my reference track,"
+  },
+  {
+    "start": 117.96,
+    "text": " which has already been mastered, and it allows me to switch the whole mix into mono, which I'm going to touch upon soon as well."
+  },
+  {
+    "start": 123.63999999999999,
+    "text": " And then I've got this referencing roll off, which is just an EQ."
+  },
+  {
+    "start": 126.6,
+    "text": " It allows me to listen to just the low frequencies or the high frequencies of my reference track."
+  },
+  {
+    "start": 131.32,
+    "text": " And then I've got a loudness meter, which allows me to measure the volume or the average volume of that reference track."
+  },
+  {
+    "start": 137.2,
+    "text": " And then I've got an EQ, which allows me to just view the frequency spread of the reference track."
+  },
+  {
+    "start": 141.95999999999998,
+    "text": " So I'm kind of using it like a spectrum analyzer."
+  },
+  {
+    "start": 144.44,
+    "text": " And then for the kick drum, I use midi."
+  },
+  {
+    "start": 146.56,
+    "text": " Doesn't matter if you use audio."
+  },
+  {
+    "start": 148.04,
+    "text": " In fact, audio is probably better in many ways."
+  },
+  {
+    "start": 150.32,
+    "text": " And then I've got a drum rack in Ableton."
+  },
+  {
+    "start": 152.88,
+    "text": " But again, you can use audio."
+  },
+  {
+    "start": 154.32,
+    "text": " It doesn't matter whatever works for you."
+  },
+  {
+    "start": 156.23999999999998,
+    "text": " And then for my auxiliary channels, I've got a room reverb set up with a very short decay of under half a second."
+  },
+  {
+    "start": 163.6,
+    "text": " And then I've got a whole reverb with a longer decay of about five and a half seconds."
+  },
+  {
+    "start": 167.72,
+    "text": " But I usually change that."
+  },
+  {
+    "start": 169.51999999999998,
+    "text": " And I've got this bass reverb channel, which I don't often use, actually."
+  },
+  {
+    "start": 172.92,
+    "text": " So I'll get rid of that for now."
+  },
+  {
+    "start": 174.76,
+    "text": " And then on our main master channel, I've got another mono switch, which allows us to switch the whole mix into mono."
+  },
+  {
+    "start": 181.51999999999998,
+    "text": " And then I've got this limiter test, which I don't really use."
+  },
+  {
+    "start": 184.95999999999998,
+    "text": " And then the referencing roll off so I can compare my tracks to the reference track that I'm going to use as well."
+  },
+  {
+    "start": 191.44,
+    "text": " And then I've got a loudness meter and a spectrum analyzer on the end, exactly the same as I have on my reference channel."
+  },
+  {
+    "start": 197.76000000000002,
+    "text": " Finally, I've got my reference track set up to go to external out, so it doesn't go through into my main master channel."
+  },
+  {
+    "start": 204.36,
+    "text": " And that's pretty much it."
+  },
+  {
+    "start": 205.52,
+    "text": " I really try and keep this as simple as possible because it allows more creativity and flexibility."
+  },
+  {
+    "start": 210.24,
+    "text": " But you'll develop your own DAW template over time."
+  },
+  {
+    "start": 213.32,
+    "text": " But if you haven't got one, I've included it in the link that's got the cheat sheet to help with this process."
+  },
+  {
+    "start": 218.04000000000002,
+    "text": " So you'll get that there as well."
+  },
+  {
+    "start": 219.4,
+    "text": " Now, let's look at the sample organization favorites, because this is so important."
+  },
+  {
+    "start": 223.64000000000001,
+    "text": " I've literally worked with thousands of people now."
+  },
+  {
+    "start": 226.48000000000002,
+    "text": " And one of the things they struggle with most is picking the right sounds."
+  },
+  {
+    "start": 230.24,
+    "text": " If you pick the right sounds and you can compose it well, the mixing and the mastering is kind of easy after that point."
+  },
+  {
+    "start": 235.48000000000002,
+    "text": " So it's really important to organize your samples, spend half a day going through them, selecting your favorites,"
+  },
+  {
+    "start": 241.16,
+    "text": " invest in a couple of really good sample packs for your chosen genre."
+  },
+  {
+    "start": 244.88,
+    "text": " If you pick a couple of good sample packs and you get to know them, you can use those for years."
+  },
+  {
+    "start": 249.16,
+    "text": " I've still using samples I've had for probably 15 years now."
+  },
+  {
+    "start": 252.6,
+    "text": " So it's really important."
+  },
+  {
+    "start": 254.16,
+    "text": " And you can use stuff like Splice as well, of course."
+  },
+  {
+    "start": 256.24,
+    "text": " But Splice tends not to organize it that well."
+  },
+  {
+    "start": 259.4,
+    "text": " If you can organize them into your favorites, just duplicate the ones you like most."
+  },
+  {
+    "start": 264.24,
+    "text": " Don't worry if you've got a couple of duplicates on your hard drive."
+  },
+  {
+    "start": 266.96,
+    "text": " A kick drum duplicated twice is not going to take up much memory, you know."
+  },
+  {
+    "start": 271.04,
+    "text": " So I've got my favorites."
+  },
+  {
+    "start": 273.0,
+    "text": " I've got all of the different categories for drums."
+  },
+  {
+    "start": 275.92,
+    "text": " I've got all of the different categories for different sounds."
+  },
+  {
+    "start": 278.68,
+    "text": " And that's where I save my favorites."
+  },
+  {
+    "start": 280.36,
+    "text": " And that's so every track I start, I know I can reach for some good sounds really quickly."
+  },
+  {
+    "start": 285.48,
+    "text": " And my friend Josh, who's got over 100 million streams, will sometimes even start using the same project file as a previous track that he's done."
+  },
+  {
+    "start": 293.28000000000003,
+    "text": " Delete most of it apart from, for example, the kick and the bass."
+  },
+  {
+    "start": 296.04,
+    "text": " And then he's got a solid foundation that he knows works to start his next track."
+  },
+  {
+    "start": 299.84000000000003,
+    "text": " So now I'm going to put my headphones on and we'll get into the production part of this guide."
+  },
+  {
+    "start": 304.2,
+    "text": " And there's one thing that I'm going to show you now that if you get right, is going to absolutely change your life."
+  },
+  {
+    "start": 309.2,
+    "text": " And this is all about focus and having reference tracks."
+  },
+  {
+    "start": 313.24,
+    "text": " Now, one of the biggest mistakes that I see new producers making, in fact, not even new producers, is that they want to be original before they can actually make something that sounds good."
+  },
+  {
+    "start": 321.71999999999997,
+    "text": " But for me, this would be like walking into a karate dojo as a white belt and saying to the sensei, you know what?"
+  },
+  {
+    "start": 327.36,
+    "text": " I'm going to design my own martial art from scratch and it's going to be the best thing ever."
+  },
+  {
+    "start": 331.08,
+    "text": " No, you learn the basics, you learn what works, because then once you've learned those rules, you can know how to bend them."
+  },
+  {
+    "start": 337.16,
+    "text": " I resisted this for years. I literally resisted this for years."
+  },
+  {
+    "start": 340.88,
+    "text": " But when I actually embraced referencing within a week, within a few days, my entire career trajectory changed."
+  },
+  {
+    "start": 347.92,
+    "text": " I got my first manager, I got paid for my first remix, and then I started becoming an actual full time music producer."
+  },
+  {
+    "start": 354.04,
+    "text": " So please, if you take anything from this guide, let the fact that referencing will help you be that thing."
+  },
+  {
+    "start": 360.16,
+    "text": " So I've got this reference track set up and the way to get a good reference track firstly is what music do you like listening to?"
+  },
+  {
+    "start": 368.28000000000003,
+    "text": " What music do you like producing?"
+  },
+  {
+    "start": 369.68,
+    "text": " Now, for some people, this is really obvious to them."
+  },
+  {
+    "start": 372.0,
+    "text": " Other people like myself have a very broad taste."
+  },
+  {
+    "start": 374.44000000000005,
+    "text": " So I would look at your playlist history and try and find out what you listen to most."
+  },
+  {
+    "start": 380.16,
+    "text": " That's a good indication of what you probably like to produce."
+  },
+  {
+    "start": 382.92,
+    "text": " And then where do you get your reference tracks?"
+  },
+  {
+    "start": 384.68,
+    "text": " Just get them from Beatport."
+  },
+  {
+    "start": 386.08000000000004,
+    "text": " They're really high quality, it costs a couple of pounds."
+  },
+  {
+    "start": 388.8,
+    "text": " You'll support the artist, just buy the WAV file if you can, because it's higher quality, although really a 320 kilobits per second MP3 is fine."
+  },
+  {
+    "start": 397.32,
+    "text": " Buy it, download it, and now we're going to bring it into my project file and I'm going to show you exactly how to use it."
+  },
+  {
+    "start": 402.96000000000004,
+    "text": " Now, before you start complaining and say, oh, Will, I want to create something completely original and for the world to see my beautiful creativity,"
+  },
+  {
+    "start": 410.08000000000004,
+    "text": " I'm going to show you how you're going to create something original from this."
+  },
+  {
+    "start": 412.6,
+    "text": " So don't worry, but it all starts with referencing."
+  },
+  {
+    "start": 415.32,
+    "text": " So I've brought this into that reference track audio channel like that."
+  },
+  {
+    "start": 418.88,
+    "text": " And you can see because this track has been mastered, it's really loud."
+  },
+  {
+    "start": 422.68,
+    "text": " It's like a sausage face."
+  },
+  {
+    "start": 424.0,
+    "text": " We need to reduce the volume of that so we can create something that's going to be comparably loud."
+  },
+  {
+    "start": 429.48,
+    "text": " But because we don't have any mastering on our channel yet, on our master channel, like Limiting, we need to reduce the volume of this reference track."
+  },
+  {
+    "start": 436.36,
+    "text": " So we're not going to run into clipping issues ourselves."
+  },
+  {
+    "start": 438.76,
+    "text": " That is exactly what this first thing's for, where I take it down by 12 decibels."
+  },
+  {
+    "start": 443.04,
+    "text": " It's not going to get rid of all of the effects of mastering, but it is going to reduce the volume enough."
+  },
+  {
+    "start": 448.12,
+    "text": " So the levels I'm about to show you are going to work straight out the gate for our music, too."
+  },
+  {
+    "start": 452.88,
+    "text": " So first thing I'm going to do once I brought it in is get it synced to the tempo of our channel or of our track."
+  },
+  {
+    "start": 459.04,
+    "text": " Sorry. So I'm going to go into the channel, go to the first transient like so."
+  },
+  {
+    "start": 462.96000000000004,
+    "text": " And you can actually look up what tempo this is."
+  },
+  {
+    "start": 466.28000000000003,
+    "text": " Beatport will tell me anyway, because I've downloaded it from there."
+  },
+  {
+    "start": 469.72,
+    "text": " I know it's 129 BPM, but actually I can sync it up without even listening to it."
+  },
+  {
+    "start": 474.64000000000004,
+    "text": " So look at this grid here at the moment."
+  },
+  {
+    "start": 477.24,
+    "text": " You can see it's kind of the beats are falling off the grid."
+  },
+  {
+    "start": 480.40000000000003,
+    "text": " As I start pushing this up, you'll see it all actually kind of locks into place, just falls into place."
+  },
+  {
+    "start": 486.12,
+    "text": " So I know it's 129 BPM because I can see when I've set my project to that, it's all synced."
+  },
+  {
+    "start": 492.24,
+    "text": " And if I zoom further along the track, it's still in sync near the end."
+  },
+  {
+    "start": 495.68,
+    "text": " So I know it's 129."
+  },
+  {
+    "start": 497.64,
+    "text": " So it sounds like this."
+  },
+  {
+    "start": 501.91999999999996,
+    "text": " And with the metronome."
+  },
+  {
+    "start": 504.47999999999996,
+    "text": " Cool. So we've got that set up."
+  },
+  {
+    "start": 506.44,
+    "text": " Simple as that."
+  },
+  {
+    "start": 507.56,
+    "text": " Next thing I want to do is use this to build myself out a palette of sounds, which I can then use knowing they work really well together to create something that's going to be current"
+  },
+  {
+    "start": 518.08,
+    "text": " and that's most likely to fit into the style of the record label that I might be, for example, wanting to sign on."
+  },
+  {
+    "start": 524.32,
+    "text": " So I will now try and replicate each of these sounds, the most important of which is going to be the kick drum."
+  },
+  {
+    "start": 530.4000000000001,
+    "text": " That's the first sound I'm going to try and match."
+  },
+  {
+    "start": 536.48,
+    "text": " Absolute fills."
+  },
+  {
+    "start": 537.8000000000001,
+    "text": " So I'm going to find a part of the track where the kick drum's on its own."
+  },
+  {
+    "start": 544.0,
+    "text": " OK, this is just a top kick."
+  },
+  {
+    "start": 547.0,
+    "text": " So there's not really a part of the track that's just got the kick on its own, and that's very common."
+  },
+  {
+    "start": 551.24,
+    "text": " But even using the top kick can help me."
+  },
+  {
+    "start": 554.5600000000001,
+    "text": " Because that's the sound of the top."
+  },
+  {
+    "start": 557.72,
+    "text": " So I'm listening very carefully for every nuance."
+  },
+  {
+    "start": 560.24,
+    "text": " And this is really going to train your ears."
+  },
+  {
+    "start": 561.76,
+    "text": " And that's why referencing is so important."
+  },
+  {
+    "start": 564.6800000000001,
+    "text": " So that's the kick drum."
+  },
+  {
+    "start": 566.4,
+    "text": " I'm going to try and find a kick drum that's got that similar sound."
+  },
+  {
+    "start": 570.08,
+    "text": " Now, at this point, you probably want to layer your kick drum."
+  },
+  {
+    "start": 573.32,
+    "text": " You'd want a kick drum that's doing that top kind of atmosphere."
+  },
+  {
+    "start": 577.24,
+    "text": " And then whatever the low down part of the kick drum, the main body, you'll want as well."
+  },
+  {
+    "start": 581.72,
+    "text": " So for anyone in doubt, WillKick3, it's kind of a joke within the accelerator."
+  },
+  {
+    "start": 586.52,
+    "text": " That's pretty good for most music."
+  },
+  {
+    "start": 588.8,
+    "text": " So I might use that for this track."
+  },
+  {
+    "start": 591.8,
+    "text": " And then find a different top for it, like so."
+  },
+  {
+    "start": 595.28,
+    "text": " So I'm just going to bring that in."
+  },
+  {
+    "start": 596.48,
+    "text": " And the way I've got my Ableton Simpler setup is I know that this kick drum,"
+  },
+  {
+    "start": 601.4,
+    "text": " and this is very important, we're getting into level four almost, is going to peak at minus 12 decibels."
+  },
+  {
+    "start": 607.1999999999999,
+    "text": " But it's very important that you set your reference track to be minus 12 decibels too."
+  },
+  {
+    "start": 611.12,
+    "text": " So if we program in that kick drum, like so."
+  },
+  {
+    "start": 614.56,
+    "text": " And I was showing this on a call of one of our accelerator students last night,"
+  },
+  {
+    "start": 618.48,
+    "text": " and that's why I wanted to share it with you today."
+  },
+  {
+    "start": 620.36,
+    "text": " Now, I know that our low end is going to be set pretty much the same as the reference track."
+  },
+  {
+    "start": 625.76,
+    "text": " So I'm going to just copy that part of the reference track, bring it over."
+  },
+  {
+    "start": 629.56,
+    "text": " And let's look at what level it's hitting in the low end."
+  },
+  {
+    "start": 634.04,
+    "text": " I'm going to take out all of the frequencies above 100 Hz."
+  },
+  {
+    "start": 637.68,
+    "text": " I know this is going to be a bit complex for some of you,"
+  },
+  {
+    "start": 639.64,
+    "text": " but this guide is really meant for people who are very serious about getting to a professional level."
+  },
+  {
+    "start": 644.08,
+    "text": " It's not really for beginners."
+  },
+  {
+    "start": 645.76,
+    "text": " So we can see boom, boom, boom."
+  },
+  {
+    "start": 649.0,
+    "text": " Yes, there's the bass line in there as well."
+  },
+  {
+    "start": 651.08,
+    "text": " But if we look at our low end as well, and we just take everything off over 100, like so."
+  },
+  {
+    "start": 657.04,
+    "text": " Now let's look at our low end and compare it to the reference track."
+  },
+  {
+    "start": 660.76,
+    "text": " So if we've got them opened up to the same size, they should now, if our kick is peaking at minus 12,"
+  },
+  {
+    "start": 668.72,
+    "text": " we can see, look, they're kind of hitting in the same place, right?"
+  },
+  {
+    "start": 676.88,
+    "text": " Which is exactly what we want."
+  },
+  {
+    "start": 678.3199999999999,
+    "text": " So that's the perfect foundation to start our track."
+  },
+  {
+    "start": 680.92,
+    "text": " Now I'll take off that referencing filter of both the reference track and our master channel."
+  },
+  {
+    "start": 686.0,
+    "text": " And then I'm basically going to spend the next hour trying to find sounds that match those of the reference track."
+  },
+  {
+    "start": 694.0400000000001,
+    "text": " Now, of course, that takes practice."
+  },
+  {
+    "start": 695.72,
+    "text": " And if you jump into the accelerator program, every week we have two live calls for three hours"
+  },
+  {
+    "start": 701.48,
+    "text": " where we actually pick apart sounds and give homework feedback for an entire 12 months."
+  },
+  {
+    "start": 706.32,
+    "text": " So that's why it works so well."
+  },
+  {
+    "start": 707.72,
+    "text": " That's how our students get really good results because you kind of need that feedback."
+  },
+  {
+    "start": 711.1600000000001,
+    "text": " But that's what I'll do for the next hour."
+  },
+  {
+    "start": 712.92,
+    "text": " I'll go with kick drum, then I'll go bass, then I'll go the main clap or snare,"
+  },
+  {
+    "start": 717.4799999999999,
+    "text": " then I'll do all the other drums and I'll replicate the notes as well."
+  },
+  {
+    "start": 721.16,
+    "text": " So that's why this technique works so well, because once I've got the track set up at the right tempo,"
+  },
+  {
+    "start": 727.36,
+    "text": " I can hit warp complex pro and I can slow down this project like this."
+  },
+  {
+    "start": 736.8399999999999,
+    "text": " I wouldn't really slow it down more than about 30 to 40 percent because then it starts going weird."
+  },
+  {
+    "start": 741.2,
+    "text": " But now I can use that to really hone in what's happening."
+  },
+  {
+    "start": 747.08,
+    "text": " So here there's no hi-hat in that first beat."
+  },
+  {
+    "start": 752.96,
+    "text": " But then the hi-hat starts."
+  },
+  {
+    "start": 758.72,
+    "text": " And there is an open hat there."
+  },
+  {
+    "start": 760.24,
+    "text": " So that's why this technique works so well."
+  },
+  {
+    "start": 762.08,
+    "text": " In the accelerator, we actually call it the X-ray technique because it allows you to really hone in"
+  },
+  {
+    "start": 766.6800000000001,
+    "text": " to the structure of what's going on in your reference track."
+  },
+  {
+    "start": 770.08,
+    "text": " And actually we go into a lot more detail, of course, because as I said, it would take me an hour to do that."
+  },
+  {
+    "start": 775.1600000000001,
+    "text": " So I'm not going to do it today."
+  },
+  {
+    "start": 776.4000000000001,
+    "text": " But that's what I would do."
+  },
+  {
+    "start": 777.48,
+    "text": " I'd spend an hour trying to replicate one loop of that reference track."
+  },
+  {
+    "start": 781.36,
+    "text": " And then that takes us on to the basic levels because you need it sounding good as well."
+  },
+  {
+    "start": 785.36,
+    "text": " So we've already touched upon the fact that our kick drum is peaking at minus 12 dB."
+  },
+  {
+    "start": 789.44,
+    "text": " And I know this works so well that I can literally take a student's track and with no headphones on,"
+  },
+  {
+    "start": 795.96,
+    "text": " I can look at what's going on and I can tell them if the mix is working or not."
+  },
+  {
+    "start": 800.32,
+    "text": " And I can fix the mix without even listening to it."
+  },
+  {
+    "start": 803.1600000000001,
+    "text": " That's how ridiculous this is."
+  },
+  {
+    "start": 805.0400000000001,
+    "text": " So kick drum, peaking at minus 12."
+  },
+  {
+    "start": 807.5600000000001,
+    "text": " Then when you've got your bassline in, we want the sub bass to be averaging minus 20 dB, more or less."
+  },
+  {
+    "start": 816.5600000000001,
+    "text": " In fact, let's just recreate that bassline now."
+  },
+  {
+    "start": 818.9200000000001,
+    "text": " I know this is not the smoothest of YouTube videos, but I wanted to give maximum value."
+  },
+  {
+    "start": 824.68,
+    "text": " And this isn't going to be for everyone, but I know who this is for and you know if this is for you."
+  },
+  {
+    "start": 829.3599999999999,
+    "text": " So let's just create that bassline using the X-Ray technique as I've just discussed."
+  },
+  {
+    "start": 834.7199999999999,
+    "text": " I hope it doesn't get flagged for copyright."
+  },
+  {
+    "start": 836.2399999999999,
+    "text": " This works so well sometimes to get flagged for copyright just for a replication of a track."
+  },
+  {
+    "start": 841.4,
+    "text": " We know what key it's in because we can look it up."
+  },
+  {
+    "start": 843.7199999999999,
+    "text": " So I think actually it's in F minor."
+  },
+  {
+    "start": 847.0,
+    "text": " Just check on beatport."
+  },
+  {
+    "start": 848.76,
+    "text": " Sometimes this gets it wrong, but most of the time it's right."
+  },
+  {
+    "start": 852.04,
+    "text": " So it's in F minor."
+  },
+  {
+    "start": 853.2,
+    "text": " Hit scale mode, F minor like so."
+  },
+  {
+    "start": 856.32,
+    "text": " Boom."
+  },
+  {
+    "start": 861.32,
+    "text": " I don't think this is F minor at all."
+  },
+  {
+    "start": 863.2800000000001,
+    "text": " I think it's actually E flat minor."
+  },
+  {
+    "start": 866.2800000000001,
+    "text": " So yeah, quite often it gets it wrong."
+  },
+  {
+    "start": 869.12,
+    "text": " OK, so it's best to do it by ear."
+  },
+  {
+    "start": 871.24,
+    "text": " This is the beauty of slowing the whole thing down because it allows you to really focus like so."
+  },
+  {
+    "start": 883.2800000000001,
+    "text": " At the moment, this is pretty much a replication of the track."
+  },
+  {
+    "start": 892.88,
+    "text": " So I'll speed it up a bit back to the normal tempo and let's listen to what's going on in the sound."
+  },
+  {
+    "start": 897.6,
+    "text": " And we've actually got a 12 step process as well in the accelerator for identifying the characteristics of any sound."
+  },
+  {
+    "start": 904.48,
+    "text": " So you can recreate it and use it in your own music."
+  },
+  {
+    "start": 906.88,
+    "text": " So let's look at some of those now."
+  },
+  {
+    "start": 908.56,
+    "text": " Cool, so it's kind of a pluck."
+  },
+  {
+    "start": 910.56,
+    "text": " So let's put a filter on there and let's just make it a bit plucky."
+  },
+  {
+    "start": 928.0,
+    "text": " OK, so we're getting close."
+  },
+  {
+    "start": 930.0,
+    "text": " I'm not going to do this perfectly because of time, but you can see how quickly we can use those techniques to actually do it."
+  },
+  {
+    "start": 936.12,
+    "text": " You can see how quickly we can use those techniques to actually get it to work."
+  },
+  {
+    "start": 939.96,
+    "text": " I'm doing this all to show you about what we need to do with the sub bass levels."
+  },
+  {
+    "start": 944.64,
+    "text": " So I'm just going to roll off the top end of that bass down to 100 hertz like so."
+  },
+  {
+    "start": 949.72,
+    "text": " And now check this out."
+  },
+  {
+    "start": 951.0,
+    "text": " I can set this so the average volume is averaging about minus 20."
+  },
+  {
+    "start": 957.08,
+    "text": " And it already is because I've set it correctly."
+  },
+  {
+    "start": 960.04,
+    "text": " So it's going to be comparable to the reference track."
+  },
+  {
+    "start": 963.12,
+    "text": " And let's start off with that little automation because it kind of it's a big part of the character of this sound."
+  },
+  {
+    "start": 971.36,
+    "text": " And again, we'll get to automation in a few minutes as well."
+  },
+  {
+    "start": 973.68,
+    "text": " I wanted to help as much as I could with this."
+  },
+  {
+    "start": 982.96,
+    "text": " And let's just put a side chain compressor on there."
+  },
+  {
+    "start": 985.76,
+    "text": " You could use Kickstart by Niki Romero or Shape a Box, which is kind of what we prefer in the accelerator."
+  },
+  {
+    "start": 991.2,
+    "text": " There's a few reasons for that."
+  },
+  {
+    "start": 992.48,
+    "text": " You basically get lots of tools in one."
+  },
+  {
+    "start": 994.72,
+    "text": " But I'm just going to use a side chain compressor because we're doing this all in Ableton."
+  },
+  {
+    "start": 998.88,
+    "text": " So that's where I can use this side chain trigger track, which is just a really short, sharp tick sound that you never hear because I've got it set to send zony."
+  },
+  {
+    "start": 1006.88,
+    "text": " Need more water."
+  },
+  {
+    "start": 1008.0,
+    "text": " And what it's going to do is just duck this side chain compressor."
+  },
+  {
+    "start": 1012.16,
+    "text": " So I'll take the input from there."
+  },
+  {
+    "start": 1014.64,
+    "text": " Side chain trigger."
+  },
+  {
+    "start": 1016.4,
+    "text": " Because, and this is another tip I want to share with you."
+  },
+  {
+    "start": 1019.28,
+    "text": " You only ever want one thing handling the sub bass at any one time."
+  },
+  {
+    "start": 1023.28,
+    "text": " So it has to be either the kick or the bassline handling the sub bass."
+  },
+  {
+    "start": 1027.04,
+    "text": " And that's why we duck it out the way."
+  },
+  {
+    "start": 1036.0,
+    "text": " And actually in Shape a Box, you can just duck the sub frequencies so the top of the bass doesn't have to duck."
+  },
+  {
+    "start": 1041.6,
+    "text": " And now if we look at our reference track compared to our track on the low end,"
+  },
+  {
+    "start": 1047.04,
+    "text": " we'll see they should be if we roll off everything over 100 hertz."
+  },
+  {
+    "start": 1051.04,
+    "text": " This is the reference track."
+  },
+  {
+    "start": 1054.32,
+    "text": " And this is our track."
+  },
+  {
+    "start": 1061.84,
+    "text": " Maybe our bass needs to extend a little bit."
+  },
+  {
+    "start": 1065.12,
+    "text": " You can see how close our track is to the reference track."
+  },
+  {
+    "start": 1068.32,
+    "text": " Now when I've spent an hour doing all of the x-ray technique, this is what we end up with."
+  },
+  {
+    "start": 1073.84,
+    "text": " Papa."
+  },
+  {
+    "start": 1080.0,
+    "text": " Nice."
+  },
+  {
+    "start": 1080.6399999999999,
+    "text": " And here's the reference track."
+  },
+  {
+    "start": 1085.6799999999998,
+    "text": " Pretty close, right?"
+  },
+  {
+    "start": 1086.8799999999999,
+    "text": " At this point, you're probably wondering, okay, well, we've replicated a track,"
+  },
+  {
+    "start": 1090.48,
+    "text": " but what uses that to me?"
+  },
+  {
+    "start": 1092.0,
+    "text": " This is where we can use that sound palette and create our own idea."
+  },
+  {
+    "start": 1095.6799999999998,
+    "text": " And this is how I would suggest doing it."
+  },
+  {
+    "start": 1097.36,
+    "text": " You can stay in the same key if you want,"
+  },
+  {
+    "start": 1099.04,
+    "text": " but you can change the key if you want to have a slightly different vibe."
+  },
+  {
+    "start": 1102.64,
+    "text": " But I'm going to stay in the same key just to keep things simple."
+  },
+  {
+    "start": 1105.44,
+    "text": " So what I'm going to do is just duplicate all of that."
+  },
+  {
+    "start": 1108.0,
+    "text": " Then I'm going to delete the bass."
+  },
+  {
+    "start": 1111.8400000000001,
+    "text": " And what I'm going to do is just jam out a new bass rhythm on the root note of the track."
+  },
+  {
+    "start": 1116.88,
+    "text": " And in this instance, as we discovered, it's E flat minor, the scale."
+  },
+  {
+    "start": 1123.3600000000001,
+    "text": " So let's just play our beats and loop it."
+  },
+  {
+    "start": 1132.64,
+    "text": " So you can tap out the rhythm first if you're not that great at playing the keyboard,"
+  },
+  {
+    "start": 1144.0,
+    "text": " like I'm not, or you can program it in the piano roll editor."
+  },
+  {
+    "start": 1147.5200000000002,
+    "text": " If we've got scale mode, it makes it super easy."
+  },
+  {
+    "start": 1150.16,
+    "text": " So let's go to our bass line, like there,"
+  },
+  {
+    "start": 1153.6000000000001,
+    "text": " and just program in that rhythm using the snare skip point."
+  },
+  {
+    "start": 1160.72,
+    "text": " Like so."
+  },
+  {
+    "start": 1162.64,
+    "text": " And I want to keep it fairly simple because that's the vibe of the original."
+  },
+  {
+    "start": 1184.0,
+    "text": " So I think that sounds pretty cool."
+  },
+  {
+    "start": 1186.0,
+    "text": " So let's just repeat that rhythm."
+  },
+  {
+    "start": 1188.5600000000002,
+    "text": " And then using scale mode, we can just change some of the notes"
+  },
+  {
+    "start": 1191.28,
+    "text": " if we do want a bit of a progression."
+  },
+  {
+    "start": 1194.72,
+    "text": " So let's just duplicate that progression."
+  },
+  {
+    "start": 1198.96,
+    "text": " And now when we put that onto our sub bass track as well,"
+  },
+  {
+    "start": 1202.56,
+    "text": " because that's part of what I did during the x-ray technique, now we've got this."
+  },
+  {
+    "start": 1213.84,
+    "text": " And if you listen to the original track further on, there's the main vocal"
+  },
+  {
+    "start": 1217.84,
+    "text": " from the original Poison track."
+  },
+  {
+    "start": 1219.68,
+    "text": " So I could look for something that's going to do a similar job,"
+  },
+  {
+    "start": 1222.16,
+    "text": " which is really going to change the vibe."
+  },
+  {
+    "start": 1224.0,
+    "text": " So I'm just going to look for vocal on splice."
+  },
+  {
+    "start": 1227.04,
+    "text": " I'm going to go for R and B, and I'm going to go for male."
+  },
+  {
+    "start": 1231.6000000000001,
+    "text": " And we know the scale that we're working in, so I could go E flat minor."
+  },
+  {
+    "start": 1237.92,
+    "text": " And I can just play that and jam out some vocals whilst we're listening."
+  },
+  {
+    "start": 1242.16,
+    "text": " So to do that, I'm going to create a midi channel."
+  },
+  {
+    "start": 1244.4,
+    "text": " I'm just going to load in splice bridge."
+  },
+  {
+    "start": 1246.3200000000002,
+    "text": " You don't have to do it this way, but as I say,"
+  },
+  {
+    "start": 1248.56,
+    "text": " this is kind of the process that I found works really well and helps people produce quickly."
+  },
+  {
+    "start": 1254.96,
+    "text": " And then we can just sync that up and preview some vocals."
+  },
+  {
+    "start": 1270.1599999999999,
+    "text": " That's pretty cool as well."
+  },
+  {
+    "start": 1278.8,
+    "text": " That's pretty cool."
+  },
+  {
+    "start": 1283.44,
+    "text": " Now it might seem trite, but honestly, this is how our students get these crazy results so quickly"
+  },
+  {
+    "start": 1288.72,
+    "text": " and get to do things that they've only dreamed about,"
+  },
+  {
+    "start": 1290.96,
+    "text": " like playing at these festivals or releasing on their favourite labels."
+  },
+  {
+    "start": 1294.08,
+    "text": " And I've met and spoken to enough top tier A-list producers"
+  },
+  {
+    "start": 1297.6799999999998,
+    "text": " to know that they reference music as well."
+  },
+  {
+    "start": 1299.84,
+    "text": " And as David Bowie said, the only art that he consumes is that he can steal from."
+  },
+  {
+    "start": 1304.48,
+    "text": " And if someone like David Bowie is saying, it's probably worth listening to."
+  },
+  {
+    "start": 1307.52,
+    "text": " The next stage, step five of this system, is the arrangement."
+  },
+  {
+    "start": 1311.52,
+    "text": " So you've got a loop that sounds great, maybe four or eight bars."
+  },
+  {
+    "start": 1314.56,
+    "text": " I know that you know what that's like, but now you need to take it into a full arrangement."
+  },
+  {
+    "start": 1318.16,
+    "text": " This is when you can also use your reference track to help you map out the arrangement."
+  },
+  {
+    "start": 1322.8799999999999,
+    "text": " So where do the beats come in?"
+  },
+  {
+    "start": 1325.84,
+    "text": " Where's just the top kick playing?"
+  },
+  {
+    "start": 1327.44,
+    "text": " Where does the bass line come in?"
+  },
+  {
+    "start": 1329.92,
+    "text": " Comes in there."
+  },
+  {
+    "start": 1330.56,
+    "text": " That's when the hi-hats are coming in as well."
+  },
+  {
+    "start": 1332.72,
+    "text": " And you go through the whole track and you just map out yours to match the reference track."
+  },
+  {
+    "start": 1337.12,
+    "text": " And it's worth mentioning, you can use this technique as little or as much as you want."
+  },
+  {
+    "start": 1341.52,
+    "text": " You could just replicate the kick and the snare and have it working really well together"
+  },
+  {
+    "start": 1345.6799999999998,
+    "text": " and decide that you've got inspiration for a completely different bass line."
+  },
+  {
+    "start": 1348.9599999999998,
+    "text": " You might use one track to help you with the sounds"
+  },
+  {
+    "start": 1351.1999999999998,
+    "text": " and then another track to help you with the arrangement."
+  },
+  {
+    "start": 1353.4399999999998,
+    "text": " You can do this as much or as little as you want, but it really helps."
+  },
+  {
+    "start": 1356.56,
+    "text": " At that point, you'd go into the automation, blending all of those sections together"
+  },
+  {
+    "start": 1361.52,
+    "text": " in what I call the four-dimensional arrangement process,"
+  },
+  {
+    "start": 1364.16,
+    "text": " because you've got the blocks that sound great and then you smooth them together,"
+  },
+  {
+    "start": 1367.8400000000001,
+    "text": " again, using the reference track to work out what effects you should be using,"
+  },
+  {
+    "start": 1371.52,
+    "text": " what transitions you can be using before finally going into the mixing and the mastering stage."
+  },
+  {
+    "start": 1376.48,
+    "text": " And that is the fastest way that you can produce something that sounds really good"
+  },
+  {
+    "start": 1379.8400000000001,
+    "text": " and is in an arrangement that's actually proven to work on the dance floor."
+  },
+  {
+    "start": 1383.76,
+    "text": " We've already touched upon a couple of the things that I like to do"
+  },
+  {
+    "start": 1386.88,
+    "text": " straight out the gate to get the levels matched."
+  },
+  {
+    "start": 1388.72,
+    "text": " But if you want to find out everything that I've learned over the last 25 years,"
+  },
+  {
+    "start": 1392.08,
+    "text": " that has really, really helped me and my students."
+  },
+  {
+    "start": 1394.1599999999999,
+    "text": " You can check that video out there because many of my students are now also mixing"
+  },
+  {
+    "start": 1397.6,
+    "text": " and mastering engineers and earning money from it."
+  },
+  {
+    "start": 1399.84,
+    "text": " And the tips in this video is what helped them do that."
+  },
+  {
+    "start": 1402.1599999999999,
+    "text": " Before you head over there, though, don't forget to download the guide using the link below."
+  },
+  {
+    "start": 1405.6,
+    "text": " Thanks for watching and I'll catch you over at that next video."
+  }
+]

@@ -1,0 +1,678 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends, so there is a lot lot lot of OTT content and tutorials all over YouTube."
+  },
+  {
+    "start": 5.92,
+    "text": " And it just so happens that producers like to use it a lot. A lot."
+  },
+  {
+    "start": 10.72,
+    "text": " So considering how much lotness there is of OTT content already out there,"
+  },
+  {
+    "start": 15.44,
+    "text": " what could I possibly contribute to the OTT conversation? Well, as it turns out, a lot."
+  },
+  {
+    "start": 21.84,
+    "text": " I decided to spend a little bit of time watching a bunch of tutorials on OTT,"
+  },
+  {
+    "start": 25.84,
+    "text": " and honestly I'm a little disappointed at how much multiband dynamics itself as a device"
+  },
+  {
+    "start": 30.8,
+    "text": " is overlooked, misunderstood, and features are just not covered."
+  },
+  {
+    "start": 34.480000000000004,
+    "text": " Now in case you've been living in a cave under a rock, OTT is a preset inside of Ableton's amazing"
+  },
+  {
+    "start": 39.2,
+    "text": " multiband dynamics device, and it can turn your tracks into instant bangers. Or at least that's"
+  },
+  {
+    "start": 44.08,
+    "text": " the promise. OTT stands for Over the Top, and novices who are just beginning their music"
+  },
+  {
+    "start": 49.760000000000005,
+    "text": " production journey can commonly make badly produced or dull sounds come to life by simply dragging"
+  },
+  {
+    "start": 55.36,
+    "text": " the preset onto a track. But honestly that's about as far as most people take their understanding of"
+  },
+  {
+    "start": 60.08,
+    "text": " OTT. But multiband dynamics is such a powerful and overlooked tool that in this video I'm going to"
+  },
+  {
+    "start": 65.03999999999999,
+    "text": " show you how you can do way more with it than just making bro step. Let's check it out."
+  },
+  {
+    "start": 71.28,
+    "text": " So first let's just get something quickly out of the way. By far the most popular sound to make"
+  },
+  {
+    "start": 75.76,
+    "text": " with OTT or to use with OTT is a bass sound. So here I've got just a vanilla operator patch,"
+  },
+  {
+    "start": 81.76,
+    "text": " and of course this is what it sounds like by default. So what I'm going to do is I'm going"
+  },
+  {
+    "start": 85.76,
+    "text": " to drop this down an octave so it's very deep, and then I'm going to use this second oscillator here"
+  },
+  {
+    "start": 91.52000000000001,
+    "text": " to kind of sweep in some FM sounds. So I'm going to open the attack up a little bit."
+  },
+  {
+    "start": 96.32000000000001,
+    "text": " I'm going to add some level to it, and then let's go ahead and mess with the chorus."
+  },
+  {
+    "start": 102.96000000000001,
+    "text": " So classic bass sound, right? Okay, so now we're going to go up to our multiband dynamics,"
+  },
+  {
+    "start": 109.28,
+    "text": " and we're going to go over to OTT. We're going to drag it and drop it on this track."
+  },
+  {
+    "start": 113.12,
+    "text": " And commonly a lot of folks will, you know, duplicate this a couple times,"
+  },
+  {
+    "start": 116.64,
+    "text": " or a lot of times, and all of a sudden you get"
+  },
+  {
+    "start": 121.44,
+    "text": " that all too familiar crazy compressed smashed sound. And thereby doing this crazy squashing"
+  },
+  {
+    "start": 126.8,
+    "text": " of the signal, going back to the operator and changing something about it will have a huge"
+  },
+  {
+    "start": 131.36,
+    "text": " effect on the sound. Especially adding something like distortion to the filter."
+  },
+  {
+    "start": 145.12,
+    "text": " You've all heard this sound before. So the funny thing about this is that kind of sums up a lot"
+  },
+  {
+    "start": 149.52,
+    "text": " of the YouTube tutorials that are out there on this subject. They're basically saying put one"
+  },
+  {
+    "start": 154.24,
+    "text": " or 100,000 OTTs on your bass and voila, go have yourself a trendy EDM career. But there's so much"
+  },
+  {
+    "start": 160.88,
+    "text": " more to the story than that. I think the next thing worth mentioning is that X4 Records released"
+  },
+  {
+    "start": 165.2,
+    "text": " a slimmed down plugin version of the OTT preset called OTT. And while they are filling a need"
+  },
+  {
+    "start": 172.79999999999998,
+    "text": " for people that don't have Ableton Live to get this kind of sound, they kind of whacked the original"
+  },
+  {
+    "start": 177.28,
+    "text": " idea of multiband dynamics with an idiot stick. Now the OTT preset in Ableton and the OTT plugin"
+  },
+  {
+    "start": 183.68,
+    "text": " are functionally identical, but some key features were removed from X4's version. And I say key"
+  },
+  {
+    "start": 189.52,
+    "text": " features because multiband dynamics is so much more than just a trendy sound generator. And those"
+  },
+  {
+    "start": 195.04000000000002,
+    "text": " of you willing to watch the rest of this video will gain skills that I'm sure that you will use"
+  },
+  {
+    "start": 199.20000000000002,
+    "text": " from this day forward. Let's check it out. So first of all, and perhaps the most important thing I can"
+  },
+  {
+    "start": 203.36,
+    "text": " contribute to the OTT conversation is this. OTT splits the signal into three bands, lows, mids,"
+  },
+  {
+    "start": 209.84,
+    "text": " and highs. If you leave the crossovers, specifically the mid-high crossover point where it defaults to,"
+  },
+  {
+    "start": 215.44,
+    "text": " it will force sounds into a very similar space and is more likely responsible for the sameness disease"
+  },
+  {
+    "start": 221.52,
+    "text": " or why so much EDM music has a similar tonal signature to it. Now you see OTT works by taking"
+  },
+  {
+    "start": 227.2,
+    "text": " the loudest parts of a signal and crushing them down, and inversely taking the lowest part of a"
+  },
+  {
+    "start": 231.84,
+    "text": " signal and raising it up, thus creating a neatly homogenized heavily controlled signal on the way"
+  },
+  {
+    "start": 237.44,
+    "text": " out. Because of the extreme nature of this effect, where your mid-high crossover is will have a massive"
+  },
+  {
+    "start": 243.12,
+    "text": " effect on the tone that you're creating. So let's go ahead and take these OTTs right here, all three"
+  },
+  {
+    "start": 247.76,
+    "text": " of these, and I'm going to put them into a group by hitting command G. I'm going to reveal the macros,"
+  },
+  {
+    "start": 253.44,
+    "text": " I'm going to click on map, and I'm going to go ahead and map this mid-high crossover point to"
+  },
+  {
+    "start": 258.0,
+    "text": " this first macro right here. Each one of these. I'm going to do all three of these together because"
+  },
+  {
+    "start": 262.24,
+    "text": " I want you to be able to hear the big difference that this makes. Okay, so now I'm going to go"
+  },
+  {
+    "start": 266.32,
+    "text": " ahead and play this bass sound and check out the huge difference that moving this crossover point makes."
+  },
+  {
+    "start": 273.12,
+    "text": " Insane, right? Now, another thing that I should say is that much of the time when you're doing"
+  },
+  {
+    "start": 285.36,
+    "text": " this kind of work, you're also going to be putting a filter at the end of your bass sound. Because,"
+  },
+  {
+    "start": 289.68,
+    "text": " as you can hear when I let go of the note, there's a lot of that extra white noise that's just"
+  },
+  {
+    "start": 295.2,
+    "text": " basically the OTTs trying to make up for and upward compress the noise floor of this sound,"
+  },
+  {
+    "start": 300.48,
+    "text": " right? So, let's go ahead and do that real quick. I'm just going to grab a filter, put it at the end,"
+  },
+  {
+    "start": 310.40000000000003,
+    "text": " and maybe just for good measure, I'll go ahead and grab an envelope."
+  },
+  {
+    "start": 323.28000000000003,
+    "text": " I'll map that to the filter frequency."
+  },
+  {
+    "start": 324.96,
+    "text": " So, now that we've got all that control, take a listen to the difference that we can make here."
+  },
+  {
+    "start": 332.08,
+    "text": " So, now that you've heard the huge difference that moving the crossover makes,"
+  },
+  {
+    "start": 335.44,
+    "text": " I'm now going to send a bunch of different sounds through the same setup."
+  },
+  {
+    "start": 338.71999999999997,
+    "text": " And hopefully you can hear how important it is not to overlook the crossover control."
+  },
+  {
+    "start": 354.96,
+    "text": " So,"
+  },
+  {
+    "start": 377.84,
+    "text": " I like to call this action tuning the OTT. This one simple action is so important to do because"
+  },
+  {
+    "start": 384.08,
+    "text": " each sound is different, and each different crossover setting can yield better and more"
+  },
+  {
+    "start": 388.24,
+    "text": " desirable results, and dare I say, more original sounds. If you want to create actually novel"
+  },
+  {
+    "start": 394.08,
+    "text": " sounding music in extreme genres like EDM, this one simple thing can be really effective. X for OTT"
+  },
+  {
+    "start": 400.96,
+    "text": " doesn't even allow for changing the crossover point. So, every sound fed into this plugin will"
+  },
+  {
+    "start": 405.59999999999997,
+    "text": " inevitably enter into the same tonal territory. Now, I'm not saying that every single sound fed"
+  },
+  {
+    "start": 410.56,
+    "text": " into X for OTT or into Ableton's OTT preset will yield exactly the same sound if you don't change"
+  },
+  {
+    "start": 416.56,
+    "text": " the crossover. Of course not. Each sound is unique, and the compressor can only do so much. But I will"
+  },
+  {
+    "start": 422.48,
+    "text": " say that it will force sounds into a much more similar space, and the effect of doing this achieves"
+  },
+  {
+    "start": 428.24,
+    "text": " that sound, that OTT sound. I think it's also really fair to say, though, that the vanilla OTT"
+  },
+  {
+    "start": 434.64,
+    "text": " sound is very familiar to listeners, and if you're going for that homogenized pop EDM music or"
+  },
+  {
+    "start": 440.64,
+    "text": " that sound, knock yourself out. But in my opinion, there's just so much more sonic territory to"
+  },
+  {
+    "start": 445.91999999999996,
+    "text": " explore by simply adjusting the crossover at the mid-high point. While there isn't any real data"
+  },
+  {
+    "start": 450.88,
+    "text": " on this, the weird reality, and my assumption, is likely that the biggest use case for Ableton's"
+  },
+  {
+    "start": 456.08,
+    "text": " multiband dynamics is simply people dragging and dropping the OTT preset all over their set."
+  },
+  {
+    "start": 461.36,
+    "text": " But Ableton's multiband dynamics is so super useful in so many different mixing scenarios,"
+  },
+  {
+    "start": 466.88,
+    "text": " and Nexfer Records OTT can't do any of these things that I'm about to mention at all. Now,"
+  },
+  {
+    "start": 471.36,
+    "text": " before I get into it, if you have a specific use for Ableton's multiband dynamics that I don't cover"
+  },
+  {
+    "start": 476.0,
+    "text": " here, please leave it down in the comments, because I love discovering new ideas. Anyway,"
+  },
+  {
+    "start": 480.16,
+    "text": " let's check these out. So in this example, we have a recording of a piano, and it's pretty bad,"
+  },
+  {
+    "start": 484.40000000000003,
+    "text": " because there's a bunch of resonances inside of the room that it was recorded in. Take a listen."
+  },
+  {
+    "start": 491.36,
+    "text": " Notice that it kind of sounds boxy, right? So I'm going to grab a multiband dynamics,"
+  },
+  {
+    "start": 501.36,
+    "text": " and this time what I'm going to do is I'm going to go ahead and tune these crossovers so that I can"
+  },
+  {
+    "start": 505.12,
+    "text": " kind of dynamically control this room resonance that's happening. So what I'm going to do is I'm"
+  },
+  {
+    "start": 509.6,
+    "text": " going to go ahead and solo the mid-band, and at this point we're going to be filtering out of this"
+  },
+  {
+    "start": 514.08,
+    "text": " mid-band everything below 120 Hz and everything above 2.5 kHz. So what I need to do is I need to"
+  },
+  {
+    "start": 519.52,
+    "text": " tune this up. So let's take a listen, and I'm going to do that. So I'll go ahead and start the"
+  },
+  {
+    "start": 530.0,
+    "text": " low around 400. Now with the top frequency, I'm going to start pulling this down until we've"
+  },
+  {
+    "start": 534.72,
+    "text": " honed in that range of bad resonance. There we go. So you can hear that around 900 Hz. That's kind"
+  },
+  {
+    "start": 544.88,
+    "text": " of the end of that. So now this mid-range is basically representing all the resonances that"
+  },
+  {
+    "start": 549.68,
+    "text": " I want to control. So this is so simple. All I need to do is take this guy right here. What this is,"
+  },
+  {
+    "start": 554.4,
+    "text": " is this is the threshold for the above section of the multiband dynamics. I'm going to pull this"
+  },
+  {
+    "start": 560.0,
+    "text": " down, and I'm going to raise the ratio so that whenever this frequency gets to be too loud,"
+  },
+  {
+    "start": 565.04,
+    "text": " it'll simply just compress it, right? So check this out."
+  },
+  {
+    "start": 567.36,
+    "text": " Now what this is going to ultimately do is make this band a lot quieter. So I might need to turn"
+  },
+  {
+    "start": 578.08,
+    "text": " this band up a little bit to compensate. So now let's go ahead and listen to this without"
+  },
+  {
+    "start": 582.64,
+    "text": " the multiband dynamics and with it. So to me, this is just so much more of an elegant solution to"
+  },
+  {
+    "start": 594.24,
+    "text": " this problem. If I just use an EQ, that would be a static setting. The multiband dynamics is moving"
+  },
+  {
+    "start": 599.6,
+    "text": " and breathing with the audio. As the frequency gets to be too much or it's annoying to the ear,"
+  },
+  {
+    "start": 604.88,
+    "text": " it's pushing it down. But then when the piano is quiet, it's still there. So it's kind of a way to"
+  },
+  {
+    "start": 609.28,
+    "text": " preserve that room resonance to give it that character. But whenever it gets too annoying,"
+  },
+  {
+    "start": 613.44,
+    "text": " we're pushing it down, right? So in that same vein, I've recorded myself saying that multiband"
+  },
+  {
+    "start": 618.96,
+    "text": " dynamics is super useful. And I emphasize the S's or the annoying parts of my voice."
+  },
+  {
+    "start": 625.2800000000001,
+    "text": " When I'm saying that, take a listen. Ableton's multiband dynamics is so super useful. So obviously"
+  },
+  {
+    "start": 632.4000000000001,
+    "text": " I'm emphasizing the S sounds of what I'm saying because multiband dynamics is also a really,"
+  },
+  {
+    "start": 637.6800000000001,
+    "text": " really powerful de-esser. Let's go ahead and check that out. So I'm going to drag a multiband dynamics"
+  },
+  {
+    "start": 641.76,
+    "text": " onto this. And yet again, we're going to be tuning the mid band to take care of those S sounds,"
+  },
+  {
+    "start": 647.2,
+    "text": " right? And so I'll go ahead and solo the mid band. I'm going to push the low crossover as high as"
+  },
+  {
+    "start": 651.76,
+    "text": " it will go because I know that it's likely everything above 2k or 3k where those S sounds"
+  },
+  {
+    "start": 657.2800000000001,
+    "text": " are going to be. And then I'm going to mess with the high band. Ableton's multiband dynamics is so"
+  },
+  {
+    "start": 664.88,
+    "text": " super useful. So you can see that every single time I have an S sound right there, you can see"
+  },
+  {
+    "start": 668.8000000000001,
+    "text": " that it's jumping up. So let's go ahead and maybe we'll just go in here and listen to this section"
+  },
+  {
+    "start": 673.36,
+    "text": " right here. I'll go ahead and loop this. Right now let's listen to the whole thing."
+  },
+  {
+    "start": 684.08,
+    "text": " So at the moment, multiband dynamics isn't really doing anything. So yet again, I'm going to go to"
+  },
+  {
+    "start": 688.8000000000001,
+    "text": " this mid band. I'm going to go to the above. So right, this is everything that is going to"
+  },
+  {
+    "start": 692.4,
+    "text": " be affected by this side of the multiband dynamics. I'm going to pull this down a little bit and raise"
+  },
+  {
+    "start": 697.28,
+    "text": " the ratio. Here's without it. Here's with it. And of course I also need to mess around with the"
+  },
+  {
+    "start": 710.48,
+    "text": " crossover frequency up high because I'm still trying to preserve the air of what I'm saying."
+  },
+  {
+    "start": 714.56,
+    "text": " So maybe I should push this up a little bit. Maybe up to 10. And so now we've controlled those really"
+  },
+  {
+    "start": 725.52,
+    "text": " annoying S sounds, right? Okay. So the next thing I want to show you is that multiband dynamics can"
+  },
+  {
+    "start": 729.84,
+    "text": " actually be an incredible transient designer or transient shaper. Okay. So listen to these"
+  },
+  {
+    "start": 735.6,
+    "text": " different kick drum sounds that I have here. Each one of these kick drum sounds is a little bit"
+  },
+  {
+    "start": 741.04,
+    "text": " underwhelming. Like they don't have a nice, bright, strong attack and they would probably get buried"
+  },
+  {
+    "start": 745.1999999999999,
+    "text": " in a mix, right? Let's go ahead and grab multiband dynamics and drop it here. Now something to"
+  },
+  {
+    "start": 749.68,
+    "text": " understand about multiband dynamics is yes, it does your classic compression kind of sounds"
+  },
+  {
+    "start": 754.48,
+    "text": " upward and downward compression, right? But what it also can do is act as an expander. And let me"
+  },
+  {
+    "start": 759.36,
+    "text": " explain that. So let's listen to this first kick drum. We can hear that most of the energy in this"
+  },
+  {
+    "start": 766.0,
+    "text": " kick drum and we can actually see that most of the energy in this kick drum is in the low end, right?"
+  },
+  {
+    "start": 772.08,
+    "text": " If we want to add energy to the top of this, we could simply just turn the output of the highs up,"
+  },
+  {
+    "start": 776.96,
+    "text": " right? That's one way to do it, but we could do that with an EQ. A maybe more effective thing to"
+  },
+  {
+    "start": 783.2,
+    "text": " do is to use an expander. So what I'm going to do is I'm going to take the upward compression"
+  },
+  {
+    "start": 788.0,
+    "text": " threshold all the way down or essentially the below and I'm going to switch over to the above"
+  },
+  {
+    "start": 793.12,
+    "text": " and I'm going to pull this down really low so that the threshold of this gets crossed."
+  },
+  {
+    "start": 797.6,
+    "text": " Okay, another thing I'm going to do is I'm going to switch this over to peak mode instead of RMS"
+  },
+  {
+    "start": 801.5200000000001,
+    "text": " mode. This is going to force the compressor to be listening to the peak signal and then adjusting"
+  },
+  {
+    "start": 806.5600000000001,
+    "text": " what it's doing based on the peak signal. The next thing I'm going to do is that instead of going"
+  },
+  {
+    "start": 811.04,
+    "text": " this way with the ratio, I'm going to do the opposite. The opposite of this kind of compression"
+  },
+  {
+    "start": 815.8399999999999,
+    "text": " is called expansion, okay? So now if I go this way with it, take a listen to this now."
+  },
+  {
+    "start": 825.28,
+    "text": " Let's go ahead and listen without it."
+  },
+  {
+    "start": 830.88,
+    "text": " Let's go ahead and increase the effect by turning the threshold down."
+  },
+  {
+    "start": 835.28,
+    "text": " Boom. You can really hear the big difference that that makes without it"
+  },
+  {
+    "start": 839.2,
+    "text": " with it. Now again, you can go ahead and mess with the crossover frequency."
+  },
+  {
+    "start": 846.08,
+    "text": " Maybe we want more of like that mid-rangey kind of sound and the way that I achieve that is by"
+  },
+  {
+    "start": 850.1600000000001,
+    "text": " moving the crossover frequency down. And you can also see that I'm clipping when I do this,"
+  },
+  {
+    "start": 855.2,
+    "text": " so I should bust out also a saturator to make sure that I'm not crossing zero. So I'll bust"
+  },
+  {
+    "start": 859.7600000000001,
+    "text": " out this saturator and I'll turn on soft clipping. Okay, cool. So like I said, this is just one sample."
+  },
+  {
+    "start": 866.56,
+    "text": " You have to tune this. Let's go ahead and use a different example."
+  },
+  {
+    "start": 870.16,
+    "text": " So you can hear that there might be more top-end frequency in this"
+  },
+  {
+    "start": 873.3599999999999,
+    "text": " kick drum, so maybe I'll back the threshold off a little bit."
+  },
+  {
+    "start": 877.8399999999999,
+    "text": " Without the multi-band dynamics with it."
+  },
+  {
+    "start": 882.56,
+    "text": " Just so much more of a thick, juicy, strong transient right at the beginning of that kick"
+  },
+  {
+    "start": 886.88,
+    "text": " drum, right? Now this third example, this is a very, very low-pitched kick drum. Here's without"
+  },
+  {
+    "start": 893.68,
+    "text": " multi-band dynamics at all. And we can hear that there's hardly any of that top-end in there."
+  },
+  {
+    "start": 898.7199999999999,
+    "text": " So in this case, I would have to not only put this threshold lower,"
+  },
+  {
+    "start": 903.8399999999999,
+    "text": " but I'd also need to tune the split way lower to get more of that top-end, whatever top-end is in"
+  },
+  {
+    "start": 909.4399999999999,
+    "text": " the signal into the compressor. And it may be prudent at this point to bring the threshold back"
+  },
+  {
+    "start": 916.88,
+    "text": " up a little bit. And there we go. Just such a huge difference that this thing can make. And of course,"
+  },
+  {
+    "start": 921.92,
+    "text": " I should probably adjust the output a little bit. Bam. A much better kick drum than..."
+  },
+  {
+    "start": 929.28,
+    "text": " Right? Cool. So hopefully you can see how much of an overlooked tool multi-band dynamics is."
+  },
+  {
+    "start": 934.16,
+    "text": " And also, hopefully you got something useful out of this video. Understanding everything that's"
+  },
+  {
+    "start": 938.64,
+    "text": " happening under the hood with multi-band dynamics would take much longer than the average attention"
+  },
+  {
+    "start": 943.28,
+    "text": " span of YouTube viewers. But it can drastically make your mixes sound much better. If you want"
+  },
+  {
+    "start": 948.24,
+    "text": " to truly understand this device, I cover it fully in my Mixing and Mastering with Ableton Live"
+  },
+  {
+    "start": 953.04,
+    "text": " online course. You can learn more about my Ableton courses up here or down in the description."
+  },
+  {
+    "start": 957.2,
+    "text": " If you like this kind of thing, consider subbing to the channel for more."
+  },
+  {
+    "start": 960.5600000000001,
+    "text": " Thanks for watching, everybody. I'll see you next time."
+  }
+]

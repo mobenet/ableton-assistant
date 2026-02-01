@@ -1,0 +1,250 @@
+[
+  {
+    "start": 0.0,
+    "text": " I'm going to show you the secret source of how to make your mixes sound warmer, fuller and just overall better."
+  },
+  {
+    "start": 7.0,
+    "text": " It's one of the easiest ways to add character and energy to your sound."
+  },
+  {
+    "start": 11.0,
+    "text": " So what are we waiting for? Let's dive in."
+  },
+  {
+    "start": 13.0,
+    "text": " Saturation is basically controlled distortion."
+  },
+  {
+    "start": 16.0,
+    "text": " It brings out all the hidden harmonics in your instruments."
+  },
+  {
+    "start": 19.0,
+    "text": " And by adding this harmonic content, your mix suddenly sounds richer, thicker and more alive."
+  },
+  {
+    "start": 25.0,
+    "text": " There are two main types of saturation."
+  },
+  {
+    "start": 27.0,
+    "text": " Each brings unique qualities to your mix."
+  },
+  {
+    "start": 29.0,
+    "text": " The first one is odd order harmonics."
+  },
+  {
+    "start": 31.0,
+    "text": " They add excitement and energy to your tracks by introducing harmonics at odd multiples of the fundamental frequency."
+  },
+  {
+    "start": 38.0,
+    "text": " This is perfect for drums, electric guitar and bass where you want to create impact and cut through the mix."
+  },
+  {
+    "start": 44.0,
+    "text": " The second is even order harmonics."
+  },
+  {
+    "start": 47.0,
+    "text": " These produce smoother, warmer, more rounded tones."
+  },
+  {
+    "start": 50.0,
+    "text": " They add richness and depth by generating harmonics at even multiples of the fundamental frequency."
+  },
+  {
+    "start": 56.0,
+    "text": " This is ideal for vocals, pianos and acoustic guitars when you want to add to their natural character without making them sound harsh."
+  },
+  {
+    "start": 64.0,
+    "text": " Now let's talk about plugins because let's be honest, we all love a good plugin, don't we?"
+  },
+  {
+    "start": 69.0,
+    "text": " And you know what I like more is when you hit the like button."
+  },
+  {
+    "start": 72.0,
+    "text": " Go on then, go on."
+  },
+  {
+    "start": 74.0,
+    "text": " Here's plugins for even order saturation."
+  },
+  {
+    "start": 77.0,
+    "text": " The warm vintage vibe."
+  },
+  {
+    "start": 79.0,
+    "text": " UAD Studer A800."
+  },
+  {
+    "start": 81.0,
+    "text": " Waves Abbey Road J37 tape."
+  },
+  {
+    "start": 84.0,
+    "text": " And Softube tape."
+  },
+  {
+    "start": 86.0,
+    "text": " For odd order saturation, the gritty in your face kind of vibe."
+  },
+  {
+    "start": 90.0,
+    "text": " Soundtoys decapitator."
+  },
+  {
+    "start": 92.0,
+    "text": " Waves Abbey Road vinyl."
+  },
+  {
+    "start": 94.0,
+    "text": " SSL Fusion Vintage Drive."
+  },
+  {
+    "start": 97.0,
+    "text": " And if you want both types in one plugin, try these."
+  },
+  {
+    "start": 100.0,
+    "text": " Isotope Trash 2."
+  },
+  {
+    "start": 102.0,
+    "text": " Fabfilter Saturn 2."
+  },
+  {
+    "start": 105.0,
+    "text": " And Waves Magma BB tubes."
+  },
+  {
+    "start": 108.0,
+    "text": " Now let's put this to action on the vocal bus."
+  },
+  {
+    "start": 110.0,
+    "text": " I'm using Fabfilter Saturn 2 because it's multiband and it lets me dial in saturation exactly where I need it."
+  },
+  {
+    "start": 118.0,
+    "text": " So the vocals live in around 500 Hz to the 5k range."
+  },
+  {
+    "start": 122.0,
+    "text": " So that's where I want to add a little bit of warmth and presence to the vocal."
+  },
+  {
+    "start": 127.0,
+    "text": " So step one, route all of my vocals to a vocal bus."
+  },
+  {
+    "start": 131.0,
+    "text": " Then set up the multiband Saturn 2 around 500 to 5k range."
+  },
+  {
+    "start": 137.0,
+    "text": " Select Warm Tube."
+  },
+  {
+    "start": 139.0,
+    "text": " And then play with the drive until you get it as sweet as you want it to sound."
+  },
+  {
+    "start": 143.0,
+    "text": " Let's listen to a before and after on the vocal."
+  },
+  {
+    "start": 161.0,
+    "text": " Next up, let's use some saturation on the drums because saturation on drums just works."
+  },
+  {
+    "start": 170.0,
+    "text": " So first up, I've routed all my drums to a drum bus."
+  },
+  {
+    "start": 173.0,
+    "text": " And then I've selected the Magma BB tubes to use for this."
+  },
+  {
+    "start": 177.0,
+    "text": " This is a great plugin."
+  },
+  {
+    "start": 179.0,
+    "text": " So it's got two controls."
+  },
+  {
+    "start": 180.0,
+    "text": " One is Beauty, which is even harmonics, and Beast, which is uneven harmonics."
+  },
+  {
+    "start": 186.0,
+    "text": " So you can just play with these, blend them together as you're doing the mix so that you can hear and they sound just amazing."
+  },
+  {
+    "start": 193.0,
+    "text": " Check this out. I'll play them solo."
+  },
+  {
+    "start": 207.0,
+    "text": " So you can hear that gives it a real crispiness and a real bite."
+  },
+  {
+    "start": 211.0,
+    "text": " That snare is really hitting nicely now."
+  },
+  {
+    "start": 213.0,
+    "text": " But let's not do it in solo."
+  },
+  {
+    "start": 215.0,
+    "text": " Let's have a listen to the whole track together and I'll before and after it for you at the same level."
+  },
+  {
+    "start": 221.0,
+    "text": " So you can hear exactly what the saturation is doing across the whole mix."
+  },
+  {
+    "start": 225.0,
+    "text": " Listen to the drums and obviously the vocals."
+  },
+  {
+    "start": 227.0,
+    "text": " But before we do that, don't forget to like this video and subscribe."
+  },
+  {
+    "start": 231.0,
+    "text": " And if you want to download the Saturn preset that I just showed you, it's called Streaky Vocal Wow."
+  },
+  {
+    "start": 236.0,
+    "text": " You can do that from the description down below."
+  },
+  {
+    "start": 239.0,
+    "text": " Right, let's listen to the before and after saturation."
+  },
+  {
+    "start": 243.0,
+    "text": " I walked up and down her block before the birds began to talk"
+  },
+  {
+    "start": 251.0,
+    "text": " I could not miss you anymore than I do"
+  },
+  {
+    "start": 259.0,
+    "text": " I'm looking for you, I'm looking for you, I'm looking for you, I'm looking"
+  },
+  {
+    "start": 273.0,
+    "text": " After I got through the door, I searched your house for the men before"
+  }
+]

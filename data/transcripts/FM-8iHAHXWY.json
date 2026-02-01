@@ -1,0 +1,454 @@
+[
+  {
+    "start": 0.0,
+    "text": " The following tutorial is brought to you by WholeLoopz.com."
+  },
+  {
+    "start": 12.72,
+    "text": " Production time. I'm Reid Stefon. Realist puppet in the game. Today,"
+  },
+  {
+    "start": 19.76,
+    "text": " we're talking about the sauciest Ableton audio effect that is an EQ, distortion,"
+  },
+  {
+    "start": 26.08,
+    "text": " and modulation tool all built into one. I'm talking about the Ableton Auto Filter."
+  },
+  {
+    "start": 34.08,
+    "text": " Let's start out by dropping it on the master before our master chain."
+  },
+  {
+    "start": 42.879999999999995,
+    "text": " So as you can see, I just used the low pass filter to roll off everything above 600 hertz."
+  },
+  {
+    "start": 49.36,
+    "text": " And there's a little resonance peak if you want to add a spike right next to the roll off."
+  },
+  {
+    "start": 56.08,
+    "text": " That more noticeable filtering effect. But if we want our filter to be a little bit more active"
+  },
+  {
+    "start": 61.92,
+    "text": " and bouncy, we can add envelope. And what this is doing is basically spiking this control,"
+  },
+  {
+    "start": 68.64,
+    "text": " but you can't see it. It's doing it in the background, whatever amount you choose,"
+  },
+  {
+    "start": 73.2,
+    "text": " based off of how loud the signal going into it is. So the drum hits are really going to be opening"
+  },
+  {
+    "start": 78.48,
+    "text": " the filter up in this beat."
+  },
+  {
+    "start": 89.12,
+    "text": " Now the attack and release control how fast the filter reacts to the transients that it's hearing"
+  },
+  {
+    "start": 95.36,
+    "text": " and releases how quickly or slowly it returns back to the position that you assign to it."
+  },
+  {
+    "start": 109.44,
+    "text": " And that's a little bit extreme of an effect. I might just use it a tiny little bit."
+  },
+  {
+    "start": 129.12,
+    "text": " Instead of putting it on the master, I'm going to make a group out of all my synths."
+  },
+  {
+    "start": 133.52,
+    "text": " And we're going to drag it from the master up onto here. And let's try doing some automation"
+  },
+  {
+    "start": 139.68,
+    "text": " here on the auto filter frequency during this part. Let's have it cut down and filter back in."
+  },
+  {
+    "start": 147.2,
+    "text": " Cut down and filter back in."
+  },
+  {
+    "start": 159.68,
+    "text": " Let's put this voice instrument into our synths group too, so it gets filtered with everything else."
+  },
+  {
+    "start": 176.88,
+    "text": " Now since there aren't many transients during this part for the envelope to react to,"
+  },
+  {
+    "start": 181.04,
+    "text": " I still want to give this filter a little bit more motion than just the simple slope that I drew in"
+  },
+  {
+    "start": 186.24,
+    "text": " with the automation. And that's what this quantize function down here is amazing for. So what you do"
+  },
+  {
+    "start": 192.16,
+    "text": " is basically tell it to not listen to the transients and to listen to whatever grid you choose."
+  },
+  {
+    "start": 198.48,
+    "text": " And you could do four sixes of this, but you can also do four eights of this."
+  },
+  {
+    "start": 203.04000000000002,
+    "text": " And you can also listen to whatever grid you choose. And you could do four sixteenth notes"
+  },
+  {
+    "start": 208.32000000000002,
+    "text": " as a quarter note, one sixteenth note if you want a really fast pattern. And this is basically"
+  },
+  {
+    "start": 214.56,
+    "text": " having this frequency amount move up in steps rhythmically every sixteenth note,"
+  },
+  {
+    "start": 220.96,
+    "text": " rather than just a smooth slope up. Let's try eighth notes."
+  },
+  {
+    "start": 228.4,
+    "text": " Hey!"
+  },
+  {
+    "start": 233.68,
+    "text": " Let's do a little bit deeper of a starting point."
+  },
+  {
+    "start": 243.52,
+    "text": " Hey!"
+  },
+  {
+    "start": 250.72,
+    "text": " Let's turn the envelope off just so you could hear what it's doing without it."
+  },
+  {
+    "start": 253.36,
+    "text": " That little quarter note motion helps give this pad a little bit of a more grounded rhythm because"
+  },
+  {
+    "start": 265.28000000000003,
+    "text": " there's a lot of fast syncopated elements here in this group. So just having the little subtle"
+  },
+  {
+    "start": 270.0,
+    "text": " quarter note change happening underneath it helps kind of remind the listener where the downbeat is."
+  },
+  {
+    "start": 274.88,
+    "text": " Say you want something a little bit more flowy, that's where the LFO comes in. And an LFO is"
+  },
+  {
+    "start": 280.4,
+    "text": " basically taking this filter amount and swinging it back and forth. And the amount that it goes"
+  },
+  {
+    "start": 286.08,
+    "text": " back and forth is determined by the amount knob. So let's just try a little bit and let's do a"
+  },
+  {
+    "start": 293.03999999999996,
+    "text": " musical LFO instead of a millisecond LFO. Let's try our quarter notes again because that sounded"
+  },
+  {
+    "start": 299.12,
+    "text": " good with the other one."
+  },
+  {
+    "start": 303.35999999999996,
+    "text": " Hey!"
+  },
+  {
+    "start": 311.03999999999996,
+    "text": " Hey!"
+  },
+  {
+    "start": 312.23999999999995,
+    "text": " So what this is essentially doing is giving us a upward sloping zigzag. And now here we have some"
+  },
+  {
+    "start": 320.47999999999996,
+    "text": " controls to do a really cool stereo effect. What Phase does is it takes the filter effect in the"
+  },
+  {
+    "start": 327.03999999999996,
+    "text": " left ear and the filter effect in the right ear and misaligns them. So if you want them completely"
+  },
+  {
+    "start": 333.28,
+    "text": " misaligned where the filter is closed in one ear while it's open in the other, you would enter in 180."
+  },
+  {
+    "start": 340.64,
+    "text": " Hey!"
+  },
+  {
+    "start": 351.2,
+    "text": " And what Offset does is it picks a spot in the sine wave. It's basically following this shape that"
+  },
+  {
+    "start": 357.52,
+    "text": " we pick. And what Offset does is instead of having it start here at the neutral position,"
+  },
+  {
+    "start": 362.96,
+    "text": " you could offset it a little bit to have it start a little bit up here or offset it 180 degrees."
+  },
+  {
+    "start": 369.44,
+    "text": " Which I guess since this is a sine wave you'd probably want to do 90 degrees since this would"
+  },
+  {
+    "start": 374.0,
+    "text": " be a different spot from here. Your offset is basically going to have it start on different"
+  },
+  {
+    "start": 379.6,
+    "text": " parts of the wave but to have it stay on beat since we're doing a quarter note, leaving the"
+  },
+  {
+    "start": 385.92,
+    "text": " offset at zero is going to be better for our rhythmic effect."
+  },
+  {
+    "start": 398.88,
+    "text": " So"
+  },
+  {
+    "start": 407.36,
+    "text": " does your master chain sound a little weak, Sauce? Do your tracks lack organic flavor and quality?"
+  },
+  {
+    "start": 412.96,
+    "text": " Maybe you're just missing the sauce. Introducing Master Sauce, our organic blend of Ableton effects"
+  },
+  {
+    "start": 420.88,
+    "text": " that'll get your master so crispy you might never use another plug-in chain again."
+  },
+  {
+    "start": 426.08,
+    "text": " Master Sauce is available now only at WholeLoop.com."
+  },
+  {
+    "start": 431.03999999999996,
+    "text": " In addition to these really cool automatically moving filters, the auto filter is also a beast"
+  },
+  {
+    "start": 438.32,
+    "text": " for some mixing cleanup work. Let's go down into our drums group where we have a little bit of"
+  },
+  {
+    "start": 443.44,
+    "text": " competition between the hi-hats that are closed and the shaker because a lot of times they're"
+  },
+  {
+    "start": 448.88,
+    "text": " playing the same pattern."
+  },
+  {
+    "start": 455.52000000000004,
+    "text": " So let's start out by using auto filter here on this shaker and do a little bit of a cleanup."
+  },
+  {
+    "start": 460.32,
+    "text": " Instead of using a low pass, I'm going to use a high pass because all I want is the very very top"
+  },
+  {
+    "start": 464.96000000000004,
+    "text": " absolute crispiness of the shaker. Now I kind of like this spot on the frequency but it got really"
+  },
+  {
+    "start": 473.84,
+    "text": " quiet. So to make up for this huge loss in signal which we just cut out, we now have this little"
+  },
+  {
+    "start": 481.11999999999995,
+    "text": " option of different types of distortion. OSR is a very soft distortion, MS2 is a very aggressive"
+  },
+  {
+    "start": 489.91999999999996,
+    "text": " distortion, SMP is probably a 50-50 combination of both of these, and PRD is really just its own beast."
+  },
+  {
+    "start": 498.32,
+    "text": " So you do have four truly different flavors of distortion to reboost your signal with after you"
+  },
+  {
+    "start": 505.36,
+    "text": " filter it. And to boost it out you just got to pick whichever flavor of distortion you want"
+  },
+  {
+    "start": 511.2,
+    "text": " and turn that drive back up."
+  },
+  {
+    "start": 514.88,
+    "text": " And without it,"
+  },
+  {
+    "start": 518.08,
+    "text": " and with it."
+  },
+  {
+    "start": 522.64,
+    "text": " We can even just bump this up even higher, bump this up even higher."
+  },
+  {
+    "start": 528.48,
+    "text": " Maybe a little resonance. Or maybe the attacks of the shaker control an envelope that makes it even"
+  },
+  {
+    "start": 537.44,
+    "text": " thinner on the downbeats."
+  },
+  {
+    "start": 549.2,
+    "text": " Let's turn the hats off."
+  },
+  {
+    "start": 554.5600000000001,
+    "text": " It's got a little bit more movement to it."
+  },
+  {
+    "start": 558.88,
+    "text": " Versus this where it stays in the same spot the whole time."
+  },
+  {
+    "start": 566.72,
+    "text": " Moving filters are really the sauce, especially when they are reacting to the signal that you're"
+  },
+  {
+    "start": 573.12,
+    "text": " filtering. If you want it to maybe duck to a different part of the signal, you can also"
+  },
+  {
+    "start": 578.8000000000001,
+    "text": " hit this little triangle here on auto filter, enable sidechain, and pick a instrument for it"
+  },
+  {
+    "start": 585.6,
+    "text": " to filter to. So let's say we wanted our kick drum to control how much low cut this"
+  },
+  {
+    "start": 593.36,
+    "text": " was receiving. Let's turn this down so we could hear it a little bit better and turn this up so"
+  },
+  {
+    "start": 597.36,
+    "text": " we get a more drastic difference. So you could hear it getting thin where our kick hits."
+  },
+  {
+    "start": 609.0400000000001,
+    "text": " And if our kick is coming in hot and we don't want it to control our sidechain so much,"
+  },
+  {
+    "start": 613.0400000000001,
+    "text": " you can just pull the gain down on it. Or a slight variation of that is a mix knob."
+  },
+  {
+    "start": 622.48,
+    "text": " It's dry and wet."
+  },
+  {
+    "start": 639.76,
+    "text": " So I wouldn't have it so extreme for the actual mix. I would probably do something more like this."
+  },
+  {
+    "start": 655.76,
+    "text": " And now for the hi hats, they're kind of getting lost under the really crispy auto filter. So we're"
+  },
+  {
+    "start": 661.6800000000001,
+    "text": " just going to grab the built in auto filter here on the sampler. So let's go and maybe add some"
+  },
+  {
+    "start": 667.76,
+    "text": " resonance around 10k to these. I want these hats to really dominate the 10k range."
+  },
+  {
+    "start": 681.84,
+    "text": " Maybe down a little bit, like 6-7k."
+  },
+  {
+    "start": 685.2,
+    "text": " Let's also use the phase controls here. Add a little bit more stereo-ness to this."
+  },
+  {
+    "start": 709.2800000000001,
+    "text": " And instead of the normal phase, you also have something called spin, which gives the illusion"
+  },
+  {
+    "start": 714.8,
+    "text": " that the shaker is spinning around in a circle around the listener's head."
+  },
+  {
+    "start": 727.12,
+    "text": " A little bit of a different take on panning, but the difference between phase and spin"
+  },
+  {
+    "start": 731.04,
+    "text": " is so subtle that I almost always just leave it at phase."
+  },
+  {
+    "start": 734.4000000000001,
+    "text": " Now there's a little frequency in the low mids that I think is causing the amp to distort more"
+  },
+  {
+    "start": 740.32,
+    "text": " than I want it to, so I'm going to switch this to my notch."
+  },
+  {
+    "start": 751.12,
+    "text": " And maybe make this a little bit narrower of"
+  },
+  {
+    "start": 757.6,
+    "text": " and without it."
+  },
+  {
+    "start": 776.48,
+    "text": " I guess when you're using notch you don't get all the filter options,"
+  },
+  {
+    "start": 779.2,
+    "text": " so I'm just going to leave this one at clean."
+  },
+  {
+    "start": 787.9200000000001,
+    "text": " A little envelope made that fit perfect in the mix. So what we're doing is basically completely"
+  },
+  {
+    "start": 797.52,
+    "text": " dumping this frequency band from the guitar before it hits the amp, because there's three"
+  },
+  {
+    "start": 802.24,
+    "text": " different stages of distortion going on here in pedal, amp, and cabinet. And if you want to see"
+  },
+  {
+    "start": 807.36,
+    "text": " the tutorials on all these plugins and audio effect rack, I'll put links to those episodes of"
+  },
+  {
+    "start": 812.88,
+    "text": " the Ableton ABC series in the video description. Well thank you so much for watching. I hope you"
+  },
+  {
+    "start": 819.28,
+    "text": " found all the tips, tricks, and shortcuts in this auto filter tutorial useful, and I'll catch you"
+  },
+  {
+    "start": 825.04,
+    "text": " guys next time with another Ableton stock plugins tutorial. Peace out."
+  }
+]

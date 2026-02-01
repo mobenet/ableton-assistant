@@ -1,0 +1,534 @@
+[
+  {
+    "start": 0.0,
+    "text": " ¿Qué tal gente? Soy Tom, bienvenidos al canal."
+  },
+  {
+    "start": 2.7600000000000002,
+    "text": " Espero que este 2021 haya empezado bien"
+  },
+  {
+    "start": 5.76,
+    "text": " y que lo cojáis con ganas para seguir creando música."
+  },
+  {
+    "start": 8.76,
+    "text": " Hoy voy a hablaros sobre un plugin creo que bastante infravalorado"
+  },
+  {
+    "start": 12.08,
+    "text": " dentro de Ableton que a lo mejor muchos conocéis, otros no,"
+  },
+  {
+    "start": 15.4,
+    "text": " pero que como siempre os digo seguro que a partir de ahora utilizáis siempre."
+  },
+  {
+    "start": 19.72,
+    "text": " Y aunque ya lo conozcas, quédate, mirate el vídeo completo"
+  },
+  {
+    "start": 22.6,
+    "text": " porque creo que seguro que te puedo aportar alguna cosilla"
+  },
+  {
+    "start": 25.48,
+    "text": " que pueda mejorar tu flujo de trabajo en Ableton."
+  },
+  {
+    "start": 28.2,
+    "text": " Así que vamos a Ableton Live."
+  },
+  {
+    "start": 38.2,
+    "text": " Bueno pues ya estamos aquí en Ableton, en este caso estoy en el 11"
+  },
+  {
+    "start": 40.92,
+    "text": " pero no te preocupes porque Utility es exactamente igual en el 10."
+  },
+  {
+    "start": 44.08,
+    "text": " Y vamos a introducir a este plugin y vamos a ver para qué sirve."
+  },
+  {
+    "start": 47.84,
+    "text": " Lo podemos encontrar en efectos de audio."
+  },
+  {
+    "start": 50.519999999999996,
+    "text": " Aquí está Utility o bien lo podemos buscar arriba en un segundito en el buscador."
+  },
+  {
+    "start": 54.2,
+    "text": " Vamos a arrastrarlo hasta esta pista donde está este sample de piano."
+  },
+  {
+    "start": 57.96,
+    "text": " Vamos a escucharlo."
+  },
+  {
+    "start": 68.68,
+    "text": " Es un sample de la librería que voy a sacar gratuita"
+  },
+  {
+    "start": 71.56,
+    "text": " para los suscriptores y seguidores de Instagram"
+  },
+  {
+    "start": 74.96000000000001,
+    "text": " y que va a salir en breve porque ya hemos llegado a los 5000 suscriptores."
+  },
+  {
+    "start": 80.52000000000001,
+    "text": " Muchas gracias a todos."
+  },
+  {
+    "start": 82.0,
+    "text": " Vale, pues aquí tenemos Utility, es este pequeño plugin de aquí abajo a la izquierda."
+  },
+  {
+    "start": 87.16000000000001,
+    "text": " Y vamos a empezar viendo todas sus funciones una por una."
+  },
+  {
+    "start": 89.80000000000001,
+    "text": " Lo primero que nos encontramos son dos botoncitos aquí de inversión de fase."
+  },
+  {
+    "start": 94.04,
+    "text": " Podemos invertir tanto los dos canales como cada uno por separado."
+  },
+  {
+    "start": 97.72,
+    "text": " L por separado y R por separado."
+  },
+  {
+    "start": 102.08000000000001,
+    "text": " Esto es muy útil, por ejemplo, si has realizado una grabación multimicrófono"
+  },
+  {
+    "start": 105.56,
+    "text": " y quieres invertir uno de los canales, pues aquí lo tienes súper sencillo."
+  },
+  {
+    "start": 108.80000000000001,
+    "text": " Si no sabes lo que es la fase y te gustaría saber más sobre ella,"
+  },
+  {
+    "start": 112.16,
+    "text": " no dudes en dejar un comentario y podemos hacer un vídeo sobre ello."
+  },
+  {
+    "start": 115.60000000000001,
+    "text": " Lo siguiente que nos encontramos, esta pestañita de aquí es un selector de canal."
+  },
+  {
+    "start": 119.4,
+    "text": " ¿Para qué nos vale esto?"
+  },
+  {
+    "start": 120.64,
+    "text": " Con esto podemos decirle a Utility que solo nos mande a la salida del canal"
+  },
+  {
+    "start": 124.76,
+    "text": " uno de los canales de audio."
+  },
+  {
+    "start": 126.88,
+    "text": " El izquierdo solo."
+  },
+  {
+    "start": 130.96,
+    "text": " Ahí solo estaríamos escuchando el canal izquierdo de esta señal."
+  },
+  {
+    "start": 135.44,
+    "text": " Stereo estaríamos escuchando los dos, el derecho o que incluso nos intercambie el L por el R."
+  },
+  {
+    "start": 145.56,
+    "text": " ¿Para qué nos puede ser útil este selector de canal?"
+  },
+  {
+    "start": 148.64000000000001,
+    "text": " Pues para muchísimas cosas, por ejemplo, si cogéis un sample antiguo de estos"
+  },
+  {
+    "start": 152.44,
+    "text": " que solo tienen la batería por un lado y la melodía por el otro,"
+  },
+  {
+    "start": 155.88,
+    "text": " pues ya lo tenéis súper fácil para extraer el sample de ahí."
+  },
+  {
+    "start": 158.96,
+    "text": " Simplemente le dejes al canal derecho que es el que tiene la melodía"
+  },
+  {
+    "start": 161.76,
+    "text": " y automáticamente esa batería que estaba en el canal izquierdo desaparecería."
+  },
+  {
+    "start": 165.48000000000002,
+    "text": " Y luego para tratar sonidos vuestros en el stereo,"
+  },
+  {
+    "start": 168.16,
+    "text": " a lo mejor hay un sonido que la mayor parte de la información está en la izquierda"
+  },
+  {
+    "start": 171.52,
+    "text": " y en la derecha solo hay reverb, pues podéis hacer un sample de este."
+  },
+  {
+    "start": 174.52,
+    "text": " Solo hay reverb, pues podéis sacarlo de ahí."
+  },
+  {
+    "start": 176.8,
+    "text": " Podéis hacer infinidad de cosas."
+  },
+  {
+    "start": 179.4,
+    "text": " Luego aquí uno de los parámetros que más uso yo,"
+  },
+  {
+    "start": 181.8,
+    "text": " esta rueda de white, o como se pronuncie la verdad,"
+  },
+  {
+    "start": 184.60000000000002,
+    "text": " no sirve para cerrar el stereo o abrirlo."
+  },
+  {
+    "start": 188.08,
+    "text": " Vamos a comprobar."
+  },
+  {
+    "start": 197.32000000000002,
+    "text": " Si lo ponemos al 0%, la señal se convertiría básicamente en mono."
+  },
+  {
+    "start": 201.36,
+    "text": " Sería lo equivalente a pulsar aquí abajo este botoncito de mono."
+  },
+  {
+    "start": 212.48000000000002,
+    "text": " También podéis usarlo para ampliar el stereo,"
+  },
+  {
+    "start": 214.60000000000002,
+    "text": " pero os recomiendo que no lo uséis para eso,"
+  },
+  {
+    "start": 216.48000000000002,
+    "text": " porque hay otras herramientas que creo que dan mejores resultados,"
+  },
+  {
+    "start": 218.96,
+    "text": " incluso gratuitas, como wider de, no me acuerdo la casa del plugin,"
+  },
+  {
+    "start": 222.84,
+    "text": " pero hay un plugin que se llama wider que es gratuito que va bastante bien."
+  },
+  {
+    "start": 231.76000000000002,
+    "text": " Ahí veis cómo amplía esa imagen en stereo."
+  },
+  {
+    "start": 234.60000000000002,
+    "text": " Luego aquí abajo tenemos un botón super útil que se llama Bass Mono,"
+  },
+  {
+    "start": 238.72000000000003,
+    "text": " con el que podemos decirle a Utility que solo nos deja en mono"
+  },
+  {
+    "start": 241.64000000000001,
+    "text": " la frecuencia grave a partir de donde le digamos."
+  },
+  {
+    "start": 244.32000000000002,
+    "text": " Por ejemplo, si yo activo este Bass Mono y lo llevo a 200,"
+  },
+  {
+    "start": 248.72000000000003,
+    "text": " todo lo que esté de 200 para abajo lo va a dejar en mono."
+  },
+  {
+    "start": 252.64,
+    "text": " Si subimos, ahora es de 500 para abajo, todo estará en mono."
+  },
+  {
+    "start": 261.15999999999997,
+    "text": " Si queremos ver qué es exactamente lo que estamos poniendo en mono,"
+  },
+  {
+    "start": 266.24,
+    "text": " incluso tenemos este botoncito para escucharlo."
+  },
+  {
+    "start": 277.32,
+    "text": " Así que si solo quisiéramos las notas graves de este sample de piano en mono,"
+  },
+  {
+    "start": 282.08000000000004,
+    "text": " podríamos hacerlo perfectamente y rápidamente con este parámetro."
+  },
+  {
+    "start": 285.48,
+    "text": " Esto es brutal."
+  },
+  {
+    "start": 286.6,
+    "text": " Luego hay otra cosilla que esto, si estás viendo el vídeo y has usado mucho Utility,"
+  },
+  {
+    "start": 291.44,
+    "text": " creo que incluso tú puedes no saberlo, que es que si pulsamos botón derecho"
+  },
+  {
+    "start": 295.36,
+    "text": " en la ruedita de white, podemos acceder a otro modo oculto que se llama modo mid side."
+  },
+  {
+    "start": 302.8,
+    "text": " Tío, si utilizabas Utility y no sabías esto, déjate un suscríbete ahí y déjate un ligazo."
+  },
+  {
+    "start": 310.64000000000004,
+    "text": " ¿Qué hace este modo mid side?"
+  },
+  {
+    "start": 311.76,
+    "text": " Pues nos permite escuchar la información central o la información lateral."
+  },
+  {
+    "start": 316.56,
+    "text": " Si nosotros por ejemplo lleváramos el parámetro a 100m, lo que haría es sumar la señal en mono."
+  },
+  {
+    "start": 325.28000000000003,
+    "text": " Y si lo dejamos aquí en cns, estaremos básicamente solo escuchando la señal lateral."
+  },
+  {
+    "start": 335.04,
+    "text": " Vamos a pasar a esta parte derecha, ha sido otra parte muy sencilla que tenemos aquí."
+  },
+  {
+    "start": 339.92,
+    "text": " Que a primera vista podemos pasar de ella por ser solo un rotatorio de gain."
+  },
+  {
+    "start": 344.92,
+    "text": " Pero tío, esto tiene muchas más utilidades de la que tú te crees."
+  },
+  {
+    "start": 348.28000000000003,
+    "text": " Hazme caso."
+  },
+  {
+    "start": 348.96000000000004,
+    "text": " Por ejemplo, aquí podemos controlar el gain, vamos a..."
+  },
+  {
+    "start": 354.12,
+    "text": " Podemos bajar o aumentar el nivel de la señal."
+  },
+  {
+    "start": 356.8,
+    "text": " Y con esto podemos por ejemplo controlar la entrada de gain a los plugins."
+  },
+  {
+    "start": 360.16,
+    "text": " Si hubiera aquí un plugin a la derecha y el sonido sonara demasiado alto y este vúmetro de aquí."
+  },
+  {
+    "start": 370.88,
+    "text": " Estuviera picando en la entrada del siguiente plugin, podríamos ajustarlo con el gain."
+  },
+  {
+    "start": 375.04,
+    "text": " Y otra cosa muy útil que podemos hacer es automatizar el gain."
+  },
+  {
+    "start": 378.72,
+    "text": " Pero tío, ¿por qué automatizar el gain y no automatizar el volumen de la pista?"
+  },
+  {
+    "start": 382.56,
+    "text": " Creo que seguro que tú en estos instantes has pensado el por qué y vamos a verlo."
+  },
+  {
+    "start": 387.24,
+    "text": " Si yo automatizo aquí, si no sabes cómo automatizar por cierto, te dejo ese..."
+  },
+  {
+    "start": 393.28000000000003,
+    "text": " Ahí te dejo un vídeo que hice sobre todo sobre automatización en Ableton, donde vas a aprender muchísimo."
+  },
+  {
+    "start": 399.24,
+    "text": " Pero bueno, imagínate que automatizamos el volumen para que en esta parte del tema haya un fade hacia abajo."
+  },
+  {
+    "start": 412.8,
+    "text": " Digamos que eso lo hemos hecho en la etapa de producción del tema, por así decirlo."
+  },
+  {
+    "start": 417.28000000000003,
+    "text": " Y luego pasamos a la etapa de mezcla y vemos que este piano, esta pista de piano,"
+  },
+  {
+    "start": 421.4,
+    "text": " pues a lo mejor está sonando un poquito alta y la queremos más bajita."
+  },
+  {
+    "start": 424.2,
+    "text": " ¿Qué pasa? Que si nosotros modificamos este parámetro de volumen..."
+  },
+  {
+    "start": 429.2,
+    "text": " ¡Vaya!"
+  },
+  {
+    "start": 434.59999999999997,
+    "text": " He bajado el volumen, pero también he desactivado la automatización."
+  },
+  {
+    "start": 439.24,
+    "text": " Entonces, en vez de automatizar el volumen, vamos a eliminarla, podríamos reactivarla, pero bueno,"
+  },
+  {
+    "start": 444.2,
+    "text": " lo que queremos es eliminarla."
+  },
+  {
+    "start": 445.52,
+    "text": " Pues en vez de automatizar el volumen, podemos automatizar el gain en un utility."
+  },
+  {
+    "start": 450.76,
+    "text": " Vale, aquí vamos a automatizarlo."
+  },
+  {
+    "start": 453.72,
+    "text": " Seleccionamos gain, usamos así y hacemos ese fade."
+  },
+  {
+    "start": 463.0,
+    "text": " Y si nosotros ahora en algún momento en la mezcla simplemente queremos bajar el nivel de la pista..."
+  },
+  {
+    "start": 469.36,
+    "text": " Podemos bajarlo, pero esa automatización de bajada de volumen va a seguir ahí."
+  },
+  {
+    "start": 480.96000000000004,
+    "text": " ¡Ay, niño! Esto es muy útil. Estoy muy útil, niño, que tú no lo sabes lo útil que es."
+  },
+  {
+    "start": 485.52000000000004,
+    "text": " Y eso es gloria bendita, porque es un plugin muy cómodo, muy rápido,"
+  },
+  {
+    "start": 490.96000000000004,
+    "text": " que te permite hacer muchas cosas a la vez."
+  },
+  {
+    "start": 493.0,
+    "text": " Otra cosa que podemos hacer es exactamente esto mismo que te he comentado ahora con el volumen,"
+  },
+  {
+    "start": 496.68,
+    "text": " pero con el balance."
+  },
+  {
+    "start": 499.36,
+    "text": " Vale, podemos aquí panear izquierda y derecha y tenemos un botón de mute."
+  },
+  {
+    "start": 509.04,
+    "text": " Y aquí por último tenemos un botón de des-offset, que lo que hace es como quitarte ruidos debajo del"
+  },
+  {
+    "start": 514.24,
+    "text": " espectro audible que pueden haber surgido, por ejemplo, al usar equipo analógico."
+  },
+  {
+    "start": 518.76,
+    "text": " Pero bueno, este botón ya no me preocuparía mucho y tampoco lo tendría en cuenta."
+  },
+  {
+    "start": 522.88,
+    "text": " Pero todo lo demás es maravilloso. Todo lo demás es maravilla,"
+  },
+  {
+    "start": 527.92,
+    "text": " sobre todo para tener el control de nuestra señal."
+  },
+  {
+    "start": 531.28,
+    "text": " Imagínate que tú metes una reverb. Por ejemplo, voy a quitar esta reverb."
+  },
+  {
+    "start": 537.12,
+    "text": " Voy a poner este delay. Si yo pongo un delay ping pong,"
+  },
+  {
+    "start": 540.3199999999999,
+    "text": " voy a ponerlo en dry-quad al tope, para que escuchéis el efecto."
+  },
+  {
+    "start": 548.4799999999999,
+    "text": " Pues yo podría, por ejemplo, agruparlo como te enseñé en el vídeo del f-rack."
+  },
+  {
+    "start": 553.3199999999999,
+    "text": " Ahí también te lo dejo, no te preocupes. Lo agrupo aquí."
+  },
+  {
+    "start": 555.92,
+    "text": " Esta sería mi señal sin procesar y este sería mi delay ping."
+  },
+  {
+    "start": 560.8399999999999,
+    "text": " Entonces lo que podría hacer es si ese ping pong ping pong ping pong ping de los lados lo quisiera"
+  },
+  {
+    "start": 566.8,
+    "text": " un poquito más cerrado para que no me estorbe, por ejemplo, con otro delay ping pong que tenga"
+  },
+  {
+    "start": 570.92,
+    "text": " por ahí puesto, pues podría coger el white, white, o como se pronuncie, cerrarlo."
+  },
+  {
+    "start": 586.68,
+    "text": " Incluso podría ponerlo en mono, lo cual no tiene mucho sentido, pero bueno,"
+  },
+  {
+    "start": 590.1999999999999,
+    "text": " el caso es que podemos controlar el estéreo muy fácilmente con este plugin."
+  },
+  {
+    "start": 593.76,
+    "text": " Sobre todo, ya os digo, cerrar. Vamos un momentito a la otra ventana. No te vayas."
+  },
+  {
+    "start": 599.4399999999999,
+    "text": " Bueno, pues ya sabes, si tienes alguna pregunta y tienes el personal,"
+  },
+  {
+    "start": 603.04,
+    "text": " las cosas de los comentarios, no olvides darle a like, suscribirte, la campana y"
+  },
+  {
+    "start": 607.3599999999999,
+    "text": " todas esas movidas que ayudan a que el canal siga creciendo. Y nos vemos en el siguiente vídeo."
+  }
+]

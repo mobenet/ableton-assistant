@@ -1,0 +1,150 @@
+[
+  {
+    "start": 0.0,
+    "text": " Today I'm going to show you some really cool tricks with instrument rack."
+  },
+  {
+    "start": 3.04,
+    "text": " So basically when you've got any MIDI track, I've got DIVA in this MIDI track here as you can see."
+  },
+  {
+    "start": 7.68,
+    "text": " If you press Ctrl G, that will put it instantly into an instrument rack, which is basically a container or a group."
+  },
+  {
+    "start": 13.6,
+    "text": " If you click on SHOHAI chain list, you can see the instrument in there."
+  },
+  {
+    "start": 17.72,
+    "text": " So let's listen to how that sounds just by itself."
+  },
+  {
+    "start": 22.400000000000002,
+    "text": " Now, what we can do now is go in and select another VST instrument."
+  },
+  {
+    "start": 27.04,
+    "text": " So I've just done that here and that's selected a second instrument."
+  },
+  {
+    "start": 30.96,
+    "text": " If we just reduce the volume of the first one, you can hear that there's a piano and the DIVA instrument playing at the same time."
+  },
+  {
+    "start": 38.480000000000004,
+    "text": " And you can mess with the volume levels and you can also change the panning of each one and the position of each one."
+  },
+  {
+    "start": 46.32,
+    "text": " Now, in addition to that, you can do some really, really useful things."
+  },
+  {
+    "start": 49.28,
+    "text": " So for example, if you click on key, you'll see here in red what keys you're playing."
+  },
+  {
+    "start": 56.88,
+    "text": " So let's just stick to the C key there."
+  },
+  {
+    "start": 60.56,
+    "text": " So on C, we're going to on the DIVA instrument, we're going to switch that off and we're going to start the DIVA instrument on C and finish the piano, the key zone on C as well."
+  },
+  {
+    "start": 72.08,
+    "text": " So this time when I play this note here, you just hear the piano and play this note here, you just play the DIVA synth."
+  },
+  {
+    "start": 78.88,
+    "text": " And this is really useful in performances if you want to have, say, one part of the keyboard playing one instrument, another part saying the bass or something like that."
+  },
+  {
+    "start": 86.24,
+    "text": " In addition to that, you've got velocity."
+  },
+  {
+    "start": 88.39999999999999,
+    "text": " Now, basically, what velocity is, say we just move this up to 80."
+  },
+  {
+    "start": 92.67999999999999,
+    "text": " Velocity is on how hard you click and hit the keyboard."
+  },
+  {
+    "start": 96.52,
+    "text": " So it's like touch sensitive."
+  },
+  {
+    "start": 97.88,
+    "text": " So, for example, if you just play a really soft velocity, all you're going to hear, you can see this level is the piano."
+  },
+  {
+    "start": 106.56,
+    "text": " If you play it really hard up to over 80, you'll hear both instruments."
+  },
+  {
+    "start": 112.68,
+    "text": " Now, the other thing you could do, for example, is you could say the second instrument only gets played when you hit it softly, but the first instrument gets played when you hit it really loud."
+  },
+  {
+    "start": 126.12,
+    "text": " So velocity is really useful."
+  },
+  {
+    "start": 127.44000000000001,
+    "text": " And then finally, you've got this thing called chain mode."
+  },
+  {
+    "start": 129.76000000000002,
+    "text": " So, for example, on position zero, you can select DIVA and on position one, let's move this to one, or even say up to position three, you can select key zone."
+  },
+  {
+    "start": 139.44,
+    "text": " So what's useful about that is once you've selected it on the instrument, you can actually change the chain position."
+  },
+  {
+    "start": 145.64,
+    "text": " So, for example, this one here is on two to three."
+  },
+  {
+    "start": 149.04,
+    "text": " So once we've got that in the instrument and we automate the instrument, we can select a different chain selector."
+  },
+  {
+    "start": 155.04,
+    "text": " For example, you start on zero and zero plays DIVA."
+  },
+  {
+    "start": 158.0,
+    "text": " But if you say move it to one, it'll play the piano key zone."
+  },
+  {
+    "start": 161.96,
+    "text": " Let's record some MIDI here."
+  },
+  {
+    "start": 170.44,
+    "text": " So what's happened there is the selector has moved it from DIVA to piano because that's the chain selector."
+  },
+  {
+    "start": 176.96,
+    "text": " And if I want, I could really put in, like, say, a hundred instruments and use chains all over the place and randomly select what instrument."
+  },
+  {
+    "start": 185.4,
+    "text": " And that can really sound really interesting and amazing at the same time."
+  },
+  {
+    "start": 189.44,
+    "text": " Now, finally, say you want a effect on one of the instruments and not on both."
+  },
+  {
+    "start": 194.76,
+    "text": " You can just select any effect on the effects rack and just drag and drop it on one of the instruments."
+  },
+  {
+    "start": 200.44,
+    "text": " So now the DIVA instrument has the reverb effect."
+  }
+]

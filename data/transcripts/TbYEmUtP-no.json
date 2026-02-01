@@ -1,0 +1,294 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey guys, if you're having problems with your Ableton Live crashing on you all the time,"
+  },
+  {
+    "start": 4.08,
+    "text": " and you're getting that weird memory error when you restart it again,"
+  },
+  {
+    "start": 8.32,
+    "text": " let me show you how to find out what the problem is and a potential fix for it."
+  },
+  {
+    "start": 14.8,
+    "text": " Okay, so you can see I have a session open here."
+  },
+  {
+    "start": 18.240000000000002,
+    "text": " And so I've figured out that it's actually your plugins that are causing this issue and causing"
+  },
+  {
+    "start": 25.2,
+    "text": " it to crash. And I'll show you which plugin it is on my computer that's causing it to crash"
+  },
+  {
+    "start": 30.0,
+    "text": " and why it's doing it. So first, let me show you like if I throw addictive drums on this track here,"
+  },
+  {
+    "start": 37.68,
+    "text": " right, so that opens up. And let's say I duplicate this track. So I have two instances"
+  },
+  {
+    "start": 44.879999999999995,
+    "text": " of my addictive drums going, right? I got one there and one on track two. Nothing happened."
+  },
+  {
+    "start": 53.04,
+    "text": " So I'm going to go back here. Let's get rid of this addictive drums that I also have."
+  },
+  {
+    "start": 60.32,
+    "text": " I have some Native Instruments plugins. So let me throw a Native Instruments on my track here."
+  },
+  {
+    "start": 67.44,
+    "text": " And if I duplicate this, no problems at all. So now I have two instances of my Native Instruments"
+  },
+  {
+    "start": 74.88,
+    "text": " contact running. Everything's fine. But here's where the problem begins. Let me get rid of all"
+  },
+  {
+    "start": 80.56,
+    "text": " get rid of this plugin as well. But when I go to record guitar, and I'm using Bias Effects 2,"
+  },
+  {
+    "start": 89.2,
+    "text": " watch what happens when I do the same thing with Bias Effects."
+  },
+  {
+    "start": 95.12,
+    "text": " Wait for that to open. Okay, so now we have one instance of Bias Effects 2 on this audio track."
+  },
+  {
+    "start": 102.56,
+    "text": " Now check this out. First, I'm going to show you this before I run another instance."
+  },
+  {
+    "start": 107.52,
+    "text": " If you open up your Task Manager while Bias Effects 2 is running,"
+  },
+  {
+    "start": 114.72,
+    "text": " you're going to come down here and you're going to notice, check it out, Bias WebView 7."
+  },
+  {
+    "start": 122.0,
+    "text": " When you open that up and drop it into your live project, it's opening up seven different"
+  },
+  {
+    "start": 128.24,
+    "text": " web views from Bias Effects. And so then when you try to duplicate that track, and you have two"
+  },
+  {
+    "start": 133.76,
+    "text": " instances of Bias Effects running, now you have 14 web views. And these don't close down either"
+  },
+  {
+    "start": 139.67999999999998,
+    "text": " after you shut the program down, they stay open. And that's what's causing the memory down problems."
+  },
+  {
+    "start": 144.23999999999998,
+    "text": " So check this out. So I'll close out the Task Manager. Here comes the error, right?"
+  },
+  {
+    "start": 151.51999999999998,
+    "text": " So if I duplicate it, boom, serious program errors occurred, live will shut down after this"
+  },
+  {
+    "start": 156.72,
+    "text": " message box is closed. Please restart live and follow the instructions in the report a crash"
+  },
+  {
+    "start": 161.36,
+    "text": " lesson. You hit OK. Now we're going to open up live again."
+  },
+  {
+    "start": 170.88000000000002,
+    "text": " Live unexpectedly quit while you were working on this live set. Would you like to recover your work?"
+  },
+  {
+    "start": 175.84,
+    "text": " No. And now live is going to take forever to open. It's going to be so slow. Everything's"
+  },
+  {
+    "start": 184.0,
+    "text": " going to be bogged down because remember that WebView, those seven WebView windows that opened on"
+  },
+  {
+    "start": 189.76,
+    "text": " the initial start of the plug-in are still there. I'll show you that when we come back up here."
+  },
+  {
+    "start": 197.67999999999998,
+    "text": " It's going to take a little bit because might as well have some coffee."
+  },
+  {
+    "start": 206.16,
+    "text": " And this is so aggravating because once you get that error and that keeps going, I mean,"
+  },
+  {
+    "start": 211.44,
+    "text": " I mean, Ableton live is just it is so slow. Here's that other error. So fail to access the"
+  },
+  {
+    "start": 220.16,
+    "text": " undo history file switching to memory based undo live will not be able to recover your sets after"
+  },
+  {
+    "start": 225.76,
+    "text": " crashes anymore. I'm going to show you how to fix that so you don't get it the next time after you"
+  },
+  {
+    "start": 230.4,
+    "text": " open live again. So we're just going to click OK. And you can see it's it's really slow. We still"
+  },
+  {
+    "start": 237.68,
+    "text": " have the blue box here. It's going to take forever. And then here in a second, we'll get the"
+  },
+  {
+    "start": 242.16,
+    "text": " report a crash icon come up. There it is. Report a crash, right? So click out of that and see it's"
+  },
+  {
+    "start": 249.04000000000002,
+    "text": " not even doesn't even want to do it. OK, so we have no plugins. Now let's open up our task manager"
+  },
+  {
+    "start": 256.32,
+    "text": " again. I'm going to show you this. Come down to bias effects. See that bias web view seven."
+  },
+  {
+    "start": 270.0,
+    "text": " So we still have seven web views of bias effects open, even though we have no plugins going."
+  },
+  {
+    "start": 276.48,
+    "text": " So what we're going to do is we're going to click on it. We're going to end the task."
+  },
+  {
+    "start": 280.48,
+    "text": " OK, now we've gotten rid of that, right? So now the next thing we need to do is we're going to"
+  },
+  {
+    "start": 287.36,
+    "text": " close out. I'm going to show you how to get rid of that other error. So close out of your live."
+  },
+  {
+    "start": 293.28000000000003,
+    "text": " And it's going to take forever to even close."
+  },
+  {
+    "start": 296.47999999999996,
+    "text": " This has been driving me insane every time I try to run this. It's been doing it. And of course,"
+  },
+  {
+    "start": 303.12,
+    "text": " you know, as a guitar player, you're always using your guitar effects, right? So it's just."
+  },
+  {
+    "start": 308.47999999999996,
+    "text": " It's no good. And bias effects is really not a big help because they're kind of putting it on"
+  },
+  {
+    "start": 316.0,
+    "text": " Ableton Live saying there's something wrong with them. But in reality, it's not because my bias"
+  },
+  {
+    "start": 321.92,
+    "text": " effects to work fine until I update it to the latest version and all of a sudden have these"
+  },
+  {
+    "start": 326.88,
+    "text": " problems. OK, so now we're going to go to our file explorer here. OK, you're going to go to your"
+  },
+  {
+    "start": 331.68,
+    "text": " operating system, your C drive. You're going to find your users folder. You're going to find your"
+  },
+  {
+    "start": 338.0,
+    "text": " files folder. You're going to find your files folder. You're going to find your files folder."
+  },
+  {
+    "start": 344.0,
+    "text": " You're going to find your users folder. And then you're going to find your user name. Now, in here,"
+  },
+  {
+    "start": 350.64,
+    "text": " it's important. This is going to be a hidden file. So you need to click on view down to show and then"
+  },
+  {
+    "start": 356.56,
+    "text": " show hidden items here. Make sure that's checked or you won't be able to do this. So you're going"
+  },
+  {
+    "start": 361.6,
+    "text": " to come down to app data, the app data folder, double click. You're going to double click onto"
+  },
+  {
+    "start": 368.88,
+    "text": " your roaming folder. You're going to double click into Ableton. And now here in your live reports,"
+  },
+  {
+    "start": 375.6,
+    "text": " you're going to go inside of there, go into your temp folder. And you see we have the memory dump"
+  },
+  {
+    "start": 381.84000000000003,
+    "text": " that's being caused by the Web view. So click on that and delete it and get rid of that folder."
+  },
+  {
+    "start": 387.52,
+    "text": " And then you see all these Ableton crash reports. We're just going to highlight all of those,"
+  },
+  {
+    "start": 392.88,
+    "text": " delete all of the crash reports. So now you're going to come back out. You're going to go into"
+  },
+  {
+    "start": 397.44,
+    "text": " your live folder, whatever version number it is, it'll say live followed by your version number,"
+  },
+  {
+    "start": 402.56,
+    "text": " double click in there, double click into your preferences. And then here in your,"
+  },
+  {
+    "start": 409.04,
+    "text": " you're going to that undo folder, you're going to delete it, that crash folder, you're going to"
+  },
+  {
+    "start": 413.68,
+    "text": " delete it. Close that out, relaunch Ableton. And it was going to open up really quick. Boom,"
+  },
+  {
+    "start": 422.96,
+    "text": " already open. So yeah, it's your plugins that are causing the problems. I hope this video helps you."
+  },
+  {
+    "start": 429.59999999999997,
+    "text": " There's no work around for bias effects too. So if you have another plugin that's causing an issue,"
+  },
+  {
+    "start": 436.88,
+    "text": " you might want to look into alternatives. I'm not going to be able to use my bias effects too"
+  },
+  {
+    "start": 441.35999999999996,
+    "text": " anymore. I'm going to switch over to the Native Instruments guitar rig. So that's my work around"
+  },
+  {
+    "start": 447.67999999999995,
+    "text": " for that. But I hope this video helps you guys out to understand what's going on and why you're"
+  },
+  {
+    "start": 451.84,
+    "text": " Ableton Live just keeps crashing. All right, guys, I'll talk to you in the next video."
+  }
+]

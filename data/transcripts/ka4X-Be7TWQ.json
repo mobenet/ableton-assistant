@@ -1,0 +1,7502 @@
+[
+  {
+    "start": 0.0,
+    "text": " Okay, so welcome to a new guide on this channel, and on this occasion is the analog synth."
+  },
+  {
+    "start": 4.08,
+    "text": " This is not a review, but a deep dive guide about this device."
+  },
+  {
+    "start": 8.48,
+    "text": " Now, everything is in tiny chapters, so if you look at the description or the timeline,"
+  },
+  {
+    "start": 12.4,
+    "text": " you can jump to a section or skip the ones you don't want."
+  },
+  {
+    "start": 15.6,
+    "text": " So, if you like what I do, remember to like and subscribe,"
+  },
+  {
+    "start": 18.32,
+    "text": " and if you want to buy me a coffee just to say thanks, check the links at the description."
+  },
+  {
+    "start": 22.72,
+    "text": " So, how this works is that we have two oscillators."
+  },
+  {
+    "start": 25.76,
+    "text": " The oscillators will go to the filters, and then go to the amp section, and then go out."
+  },
+  {
+    "start": 31.28,
+    "text": " So, it makes sense that we start from the oscillators."
+  },
+  {
+    "start": 34.24,
+    "text": " I'm always going to be starting from a default patch, and I'm going to go to the amp,"
+  },
+  {
+    "start": 39.760000000000005,
+    "text": " and right here you have something that says envelope velocity."
+  },
+  {
+    "start": 43.760000000000005,
+    "text": " We will talk about this, but for now, since I'm talking and using the mouse"
+  },
+  {
+    "start": 47.92,
+    "text": " and playing a keyboard at the same time, I'm going to disable this,"
+  },
+  {
+    "start": 51.68,
+    "text": " so I don't have to be aware of how hard or how soft I play my keyboard."
+  },
+  {
+    "start": 56.16,
+    "text": " Okay, so let's start with the oscillators."
+  },
+  {
+    "start": 58.64,
+    "text": " So, you get two oscillators pretty much, and when you start with a default patch,"
+  },
+  {
+    "start": 63.28,
+    "text": " both oscillators are going to be on."
+  },
+  {
+    "start": 65.03999999999999,
+    "text": " So, it says right here, one and two, and if you click them, you're going to be turning them off."
+  },
+  {
+    "start": 69.84,
+    "text": " So, when I play something, nothing happens."
+  },
+  {
+    "start": 72.96000000000001,
+    "text": " So, you can just use the oscillator number one without using the oscillator number two,"
+  },
+  {
+    "start": 77.76,
+    "text": " or if you want to use both, you can just turn them on."
+  },
+  {
+    "start": 81.36,
+    "text": " So, in this case, I'm just going to work with the oscillator number one,"
+  },
+  {
+    "start": 83.68,
+    "text": " because the two is pretty much the same."
+  },
+  {
+    "start": 85.92,
+    "text": " So, the oscillator number one, you can go down in volume or go up in volume, pretty obvious."
+  },
+  {
+    "start": 91.76,
+    "text": " And then you have all these controls that you have right here."
+  },
+  {
+    "start": 94.64,
+    "text": " Right here, you can select the shape, which by default is going to be a saw,"
+  },
+  {
+    "start": 98.72,
+    "text": " but you have other waveforms like sine wave, and you have a square,"
+  },
+  {
+    "start": 103.44,
+    "text": " and then you have right here, which is going to be noise."
+  },
+  {
+    "start": 107.36,
+    "text": " All right, so you have the most common waveforms that you could get on any analog synthesizer."
+  },
+  {
+    "start": 112.24,
+    "text": " In the right side, you can control the octave control,"
+  },
+  {
+    "start": 114.72,
+    "text": " so it means that you can go down an octave or go up."
+  },
+  {
+    "start": 120.08,
+    "text": " In the other side, you can go in semitones,"
+  },
+  {
+    "start": 121.92,
+    "text": " and I'm covering the obvious parts so we can go to the most complicated parts."
+  },
+  {
+    "start": 126.32,
+    "text": " You just go up and down in semitones, that's all."
+  },
+  {
+    "start": 129.68,
+    "text": " And then you have your detune."
+  },
+  {
+    "start": 131.36,
+    "text": " So, if you can go in semitones, instead of going in semitones,"
+  },
+  {
+    "start": 134.56,
+    "text": " you can go in tiny, tiny little portions."
+  },
+  {
+    "start": 138.16,
+    "text": " In this case, it's going to be synths."
+  },
+  {
+    "start": 142.24,
+    "text": " Right, so you can fine tune whatever is that you're playing."
+  },
+  {
+    "start": 145.44,
+    "text": " Now, all of this is just pretty obvious, and I'm pretty sure you knew about this."
+  },
+  {
+    "start": 149.04,
+    "text": " But then at the bottom, you have something called F1 and F2,"
+  },
+  {
+    "start": 152.72,
+    "text": " and then it says F1, and we have an arrow, which is just a little bit confusing."
+  },
+  {
+    "start": 156.64000000000001,
+    "text": " So, this is something that you don't get on all synthesizers."
+  },
+  {
+    "start": 159.6,
+    "text": " So, the oscillators will go to the filters or both filters,"
+  },
+  {
+    "start": 164.64,
+    "text": " and you have different combinations."
+  },
+  {
+    "start": 166.79999999999998,
+    "text": " That's the thing."
+  },
+  {
+    "start": 168.24,
+    "text": " Now, in this case, this one, it's saying F1 or F2,"
+  },
+  {
+    "start": 172.07999999999998,
+    "text": " and it's because the oscillator number 1 and the 2 as well"
+  },
+  {
+    "start": 175.84,
+    "text": " can route the signal that it's going to spit or output to the filter 1 or the filter 2."
+  },
+  {
+    "start": 182.16,
+    "text": " Right?"
+  },
+  {
+    "start": 182.79999999999998,
+    "text": " But right here, by default, this one is going to go to the filter 1,"
+  },
+  {
+    "start": 186.56,
+    "text": " which is going to be this one."
+  },
+  {
+    "start": 188.88,
+    "text": " But what you can do right here, you can offset all of this."
+  },
+  {
+    "start": 192.4,
+    "text": " You can just maybe play something and say,"
+  },
+  {
+    "start": 194.64,
+    "text": " I want to go to the filter number 1."
+  },
+  {
+    "start": 196.23999999999998,
+    "text": " No, I want to go to the number 2."
+  },
+  {
+    "start": 197.92,
+    "text": " So, now the oscillator number 2 is going to go to the filter number 2."
+  },
+  {
+    "start": 201.68,
+    "text": " The oscillator number 1 is going to the filter number 2."
+  },
+  {
+    "start": 204.23999999999998,
+    "text": " Since this one is disabled, of course, we are not going to get anything."
+  },
+  {
+    "start": 207.68,
+    "text": " Now, also, what you can do, you can split the signal."
+  },
+  {
+    "start": 210.88,
+    "text": " So, right now, let's say that we want to send maybe 53%, 55% to the 1,"
+  },
+  {
+    "start": 216.96,
+    "text": " and the remaining part is going to be sent to the number 2."
+  },
+  {
+    "start": 221.20000000000002,
+    "text": " Right?"
+  },
+  {
+    "start": 221.76000000000002,
+    "text": " And you get all of this, you have this,"
+  },
+  {
+    "start": 223.60000000000002,
+    "text": " because you can create different combinations with this."
+  },
+  {
+    "start": 227.28,
+    "text": " If I bring the default patch, you know, what we get by default,"
+  },
+  {
+    "start": 230.72,
+    "text": " what we throw the analog on the channel,"
+  },
+  {
+    "start": 233.76000000000002,
+    "text": " is that the oscillator number 2 is going to this one,"
+  },
+  {
+    "start": 236.72,
+    "text": " and it says filter 1."
+  },
+  {
+    "start": 238.08,
+    "text": " I'm sorry, the oscillator number 1 is going to filter 1 completely."
+  },
+  {
+    "start": 241.92000000000002,
+    "text": " And then the oscillator number 2, instead of going to the filter number 2,"
+  },
+  {
+    "start": 246.16,
+    "text": " is still going to the number 1."
+  },
+  {
+    "start": 247.92,
+    "text": " So, both oscillators route to the number 1,"
+  },
+  {
+    "start": 251.04,
+    "text": " and then the number 1 is going to go out to the amp."
+  },
+  {
+    "start": 253.6,
+    "text": " And this is what we get, you know, the final sound that we get."
+  },
+  {
+    "start": 256.4,
+    "text": " But still, what you can do, you can change this, you know, how it works."
+  },
+  {
+    "start": 260.24,
+    "text": " You can change the configuration."
+  },
+  {
+    "start": 261.92,
+    "text": " And you have something called, at the end,"
+  },
+  {
+    "start": 263.6,
+    "text": " when you go to the volume right here, quick routing."
+  },
+  {
+    "start": 266.56,
+    "text": " And this is telling you how this should be routed,"
+  },
+  {
+    "start": 269.36,
+    "text": " and that's why it's called quick routing."
+  },
+  {
+    "start": 271.76,
+    "text": " If I click this right here, it's going to change the routing."
+  },
+  {
+    "start": 274.56,
+    "text": " Now, oscillator number 1 is going to go to the 2,"
+  },
+  {
+    "start": 277.12,
+    "text": " to the filter number 1, and then go out."
+  },
+  {
+    "start": 279.28000000000003,
+    "text": " But then the oscillator number 2 will go to the filter number 2,"
+  },
+  {
+    "start": 282.56,
+    "text": " without going to the 1, and this one is going to go out to its own amp."
+  },
+  {
+    "start": 286.56,
+    "text": " So, we have like two different oscillators, or two different synths,"
+  },
+  {
+    "start": 290.48,
+    "text": " of one oscillator going out from the same device."
+  },
+  {
+    "start": 293.6,
+    "text": " And you have different combinations."
+  },
+  {
+    "start": 294.88,
+    "text": " We are going to be talking about this."
+  },
+  {
+    "start": 296.64000000000004,
+    "text": " By default, when I throw an instance, you know, the default, when we get right here,"
+  },
+  {
+    "start": 301.92,
+    "text": " both oscillators will go to the filter number 1."
+  },
+  {
+    "start": 304.96000000000004,
+    "text": " Filter number 1 is going to go out on the amp number 1,"
+  },
+  {
+    "start": 308.0,
+    "text": " and then we get some sound."
+  },
+  {
+    "start": 309.6,
+    "text": " And then it says right here, this is the confusing part."
+  },
+  {
+    "start": 312.40000000000003,
+    "text": " It says 2 filter 2, 2 F2."
+  },
+  {
+    "start": 315.04,
+    "text": " You might assume that this is sending something to filter number 2."
+  },
+  {
+    "start": 318.72,
+    "text": " And it is, but since this is disabled, and it's not going through the amp,"
+  },
+  {
+    "start": 323.52000000000004,
+    "text": " you're, you know, this is pretty much not doing anything,"
+  },
+  {
+    "start": 325.84000000000003,
+    "text": " unless you turn this on, and you turn this on."
+  },
+  {
+    "start": 328.56,
+    "text": " But for now, we're going to keep it simple,"
+  },
+  {
+    "start": 330.4,
+    "text": " and we're going to go back and keep talking about the oscillators,"
+  },
+  {
+    "start": 334.15999999999997,
+    "text": " because we have all of these options, and we need to discuss them."
+  },
+  {
+    "start": 337.28,
+    "text": " Okay, so I'm going to turn off the oscillator number 2,"
+  },
+  {
+    "start": 339.84,
+    "text": " and maybe go up a little bit in volume."
+  },
+  {
+    "start": 342.23999999999995,
+    "text": " So, when I play something, we get our waveform, and everything is cool, sounds fine."
+  },
+  {
+    "start": 346.96,
+    "text": " Now, if I go right there, you have these options at the bottom."
+  },
+  {
+    "start": 351.12,
+    "text": " So, the first one is the sub and the sync."
+  },
+  {
+    "start": 353.59999999999997,
+    "text": " So, this one can give you a sub oscillator, or a sync mode."
+  },
+  {
+    "start": 358.08,
+    "text": " We can go into sync."
+  },
+  {
+    "start": 359.6,
+    "text": " Now, first, by default, it's sub."
+  },
+  {
+    "start": 361.68,
+    "text": " So, on some analog synthesizers, what you get is a way,"
+  },
+  {
+    "start": 365.36,
+    "text": " like a Juno, or maybe, or Jupiter, for example."
+  },
+  {
+    "start": 368.48,
+    "text": " You can add, or you have an extra oscillator,"
+  },
+  {
+    "start": 371.36,
+    "text": " which is going to be played an octave below of whatever is that you're doing right here."
+  },
+  {
+    "start": 375.92,
+    "text": " And this is what this does."
+  },
+  {
+    "start": 377.44,
+    "text": " It's going to graph whatever shape that you're doing."
+  },
+  {
+    "start": 380.64000000000004,
+    "text": " If we are playing on this octave, it's going to add, behind the scenes,"
+  },
+  {
+    "start": 384.8,
+    "text": " you don't see it, the same wave shape, an octave lower."
+  },
+  {
+    "start": 390.64000000000004,
+    "text": " So, if I play something, right now we are using this shape, which is a saw."
+  },
+  {
+    "start": 395.20000000000005,
+    "text": " If I keep going up, you notice that right here is just starting to change,"
+  },
+  {
+    "start": 399.92,
+    "text": " but we also get more bottom end."
+  },
+  {
+    "start": 404.56,
+    "text": " So, yeah, what it's doing, it's adding a sub oscillator."
+  },
+  {
+    "start": 407.44000000000005,
+    "text": " And if I go all the way up, it's just, we are going to get a lot of the sub, and less from this one."
+  },
+  {
+    "start": 412.0,
+    "text": " It's kind of taking over."
+  },
+  {
+    "start": 415.04,
+    "text": " If I go down, one oscillator, if I go up, we get that sub."
+  },
+  {
+    "start": 420.56,
+    "text": " And notice that everything is a saw."
+  },
+  {
+    "start": 422.32000000000005,
+    "text": " So, if I change this to a square, everything is going to be a square."
+  },
+  {
+    "start": 426.72,
+    "text": " Right? No, no sub, more sub."
+  },
+  {
+    "start": 430.56,
+    "text": " Now, if you go to a sine wave, and I go right there, and go to this one,"
+  },
+  {
+    "start": 436.16,
+    "text": " this one goes off."
+  },
+  {
+    "start": 437.52000000000004,
+    "text": " Why it's going off?"
+  },
+  {
+    "start": 438.96000000000004,
+    "text": " Now, you can still do a sub."
+  },
+  {
+    "start": 440.40000000000003,
+    "text": " Notice that we are getting it."
+  },
+  {
+    "start": 441.76000000000005,
+    "text": " What you don't get is the sync."
+  },
+  {
+    "start": 444.08000000000004,
+    "text": " That's why it's just disabled, and it's just giving you, dude, you can do only a sub."
+  },
+  {
+    "start": 449.28000000000003,
+    "text": " But if you go up on this one, you can hear, and you can actually see right there,"
+  },
+  {
+    "start": 453.92,
+    "text": " I'm maybe zooming too much, that it's changing the waveform because we are adding sub."
+  },
+  {
+    "start": 463.68,
+    "text": " So, I'm going to go back to a saw, right?"
+  },
+  {
+    "start": 467.12,
+    "text": " And just, we are doing nothing of the sub."
+  },
+  {
+    "start": 469.36,
+    "text": " Now, what we need to do, we need to talk about the other mode,"
+  },
+  {
+    "start": 472.08,
+    "text": " which is going to be the sync."
+  },
+  {
+    "start": 473.91999999999996,
+    "text": " Now, sync is a very old school, I won't say old school,"
+  },
+  {
+    "start": 478.0,
+    "text": " it's just an old thing that we get on a lot of analog synthesizers."
+  },
+  {
+    "start": 482.24,
+    "text": " And it's just called sync or hard sync, or depends on how the synthesizer syncs."
+  },
+  {
+    "start": 487.28,
+    "text": " So, pretty much what it does is, on other synthesizers,"
+  },
+  {
+    "start": 491.84,
+    "text": " it's going to take a different oscillator, maybe this one,"
+  },
+  {
+    "start": 494.88,
+    "text": " it's just pretend it's this one, and it's going to sync it to the frequency of this one."
+  },
+  {
+    "start": 499.92,
+    "text": " So, by definition, what it's called, or how we call it,"
+  },
+  {
+    "start": 505.04,
+    "text": " is that the oscillator number one is going to be the master,"
+  },
+  {
+    "start": 507.76,
+    "text": " and since this one is synced to the number two,"
+  },
+  {
+    "start": 510.40000000000003,
+    "text": " the frequency of this one will restart along with the number two."
+  },
+  {
+    "start": 514.16,
+    "text": " So, when we detune, this one is going to detune along with this one."
+  },
+  {
+    "start": 519.04,
+    "text": " So, if we are using the same oscillator and the same octave, the same semitones,"
+  },
+  {
+    "start": 524.16,
+    "text": " you're not going to get a cool sound, but as soon as you start detuning the slave,"
+  },
+  {
+    "start": 528.72,
+    "text": " you're going to start to get this metallic cool sound."
+  },
+  {
+    "start": 531.52,
+    "text": " How it works right here is a little bit different from other synthesizers."
+  },
+  {
+    "start": 535.52,
+    "text": " By default, we always sync another oscillator to maybe the one,"
+  },
+  {
+    "start": 540.32,
+    "text": " or the one that's going to be synced to the two, and so on."
+  },
+  {
+    "start": 542.72,
+    "text": " On this one, you don't get that."
+  },
+  {
+    "start": 544.4,
+    "text": " It works like this sub. Let me go to this."
+  },
+  {
+    "start": 546.88,
+    "text": " It works like this sub."
+  },
+  {
+    "start": 548.24,
+    "text": " We have some oscillator behind the scenes doing that sync."
+  },
+  {
+    "start": 553.6,
+    "text": " So, if I go to sync and I just play something, it doesn't matter, whatever,"
+  },
+  {
+    "start": 557.84,
+    "text": " and I go up in ratio, we are going to start to hear the difference,"
+  },
+  {
+    "start": 561.84,
+    "text": " because remember what I've told you."
+  },
+  {
+    "start": 563.6,
+    "text": " Whenever we start to offset the sound, it's going to give us this metallic cool sound."
+  },
+  {
+    "start": 570.1600000000001,
+    "text": " Right now, we have the zero, which is, they're pretty much on the same spot,"
+  },
+  {
+    "start": 574.1600000000001,
+    "text": " but if I keep going up, we start to separate them."
+  },
+  {
+    "start": 581.12,
+    "text": " And we get that sound."
+  },
+  {
+    "start": 588.8000000000001,
+    "text": " If I do something like this, I could use it like this, and if I play something,"
+  },
+  {
+    "start": 595.2800000000001,
+    "text": " let me just bring the keyboard."
+  },
+  {
+    "start": 599.84,
+    "text": " It sounds cool, but it maybe, you know, maybe doesn't sound that cool."
+  },
+  {
+    "start": 603.9200000000001,
+    "text": " Now, all this, the sync really shines when we start to detune some of the oscillators."
+  },
+  {
+    "start": 611.36,
+    "text": " So, in this case, I'm going to be playing maybe just a lower key."
+  },
+  {
+    "start": 614.4000000000001,
+    "text": " I'm going to be playing that."
+  },
+  {
+    "start": 616.16,
+    "text": " But when we modulate the pitch of this one, it's going to start to separate"
+  },
+  {
+    "start": 621.36,
+    "text": " from whatever we have right here."
+  },
+  {
+    "start": 623.04,
+    "text": " So, we will start to get that hard sync vibe."
+  },
+  {
+    "start": 627.04,
+    "text": " Notice that we get it there."
+  },
+  {
+    "start": 628.64,
+    "text": " It's just a little, you know, maybe a little bit too hard."
+  },
+  {
+    "start": 631.2,
+    "text": " I'm going to maybe go down on the ratio."
+  },
+  {
+    "start": 634.24,
+    "text": " I'm going to change the octave, maybe one octave,"
+  },
+  {
+    "start": 637.92,
+    "text": " and we get that hard sync sound, just a little bit."
+  },
+  {
+    "start": 646.72,
+    "text": " Right? So, let's see a sync sound."
+  },
+  {
+    "start": 655.44,
+    "text": " Now, I'm making it a little bit obvious."
+  },
+  {
+    "start": 656.8,
+    "text": " We can go down on the pitch or even make it shorter,"
+  },
+  {
+    "start": 660.0,
+    "text": " and it's just going to be maybe a little bit more useful."
+  },
+  {
+    "start": 666.32,
+    "text": " So, yeah, the sync is cool, but it really shines when you start modulating the pitch."
+  },
+  {
+    "start": 671.12,
+    "text": " And guess what?"
+  },
+  {
+    "start": 671.84,
+    "text": " This is the next topic, you know, this one."
+  },
+  {
+    "start": 674.88,
+    "text": " Okay, so we have a pitch envelope modulation."
+  },
+  {
+    "start": 678.56,
+    "text": " Now, we could have something like this, which is an ADSR type of envelope,"
+  },
+  {
+    "start": 683.2,
+    "text": " but we don't get something like this."
+  },
+  {
+    "start": 685.4399999999999,
+    "text": " What you get is an initial, which is going to be where it's going to be starting up in pitch,"
+  },
+  {
+    "start": 690.64,
+    "text": " and then it's going to take some time, and the pitch is going to go down,"
+  },
+  {
+    "start": 694.24,
+    "text": " it's going to go right there, and then just go out."
+  },
+  {
+    "start": 697.12,
+    "text": " That's how it works."
+  },
+  {
+    "start": 698.32,
+    "text": " We are pretty much, you know, it's like we start an initial pitch,"
+  },
+  {
+    "start": 702.64,
+    "text": " and then we go back to whatever we are playing on the keyboard."
+  },
+  {
+    "start": 705.68,
+    "text": " So if I play a C note, it starts very high in pitch,"
+  },
+  {
+    "start": 710.24,
+    "text": " and then it's going to take some time,"
+  },
+  {
+    "start": 712.08,
+    "text": " and it's going to stay right there at whatever key I'm playing,"
+  },
+  {
+    "start": 715.28,
+    "text": " which is a C3 in this case."
+  },
+  {
+    "start": 717.4399999999999,
+    "text": " Right?"
+  },
+  {
+    "start": 718.4,
+    "text": " Now, of course, I'm going really up 100%, so it's going to start really high in pitch."
+  },
+  {
+    "start": 724.48,
+    "text": " And instead of doing this, you can start maybe right there."
+  },
+  {
+    "start": 729.04,
+    "text": " It's going to be a little bit different."
+  },
+  {
+    "start": 730.56,
+    "text": " We can do just a little bit."
+  },
+  {
+    "start": 733.1999999999999,
+    "text": " And now, as you can hear, when I start up, it's going to start really high in pitch, right?"
+  },
+  {
+    "start": 739.1999999999999,
+    "text": " It starts high."
+  },
+  {
+    "start": 740.24,
+    "text": " But instead of doing that, we can go low, and start low in pitch, and then, you know, go up in pitch."
+  },
+  {
+    "start": 750.48,
+    "text": " So this is the initial pitch envelope initial."
+  },
+  {
+    "start": 754.08,
+    "text": " And right here, this value is a representation of how"
+  },
+  {
+    "start": 756.88,
+    "text": " if we are going up or we are starting down, right?"
+  },
+  {
+    "start": 761.52,
+    "text": " Now then, we need to decide how long this transition is going to take."
+  },
+  {
+    "start": 765.8399999999999,
+    "text": " And that is the time."
+  },
+  {
+    "start": 766.88,
+    "text": " If I make it really short, it's going to be perfect for, you know, maybe a pluck."
+  },
+  {
+    "start": 772.9599999999999,
+    "text": " But if I go really long, it's going to take a long time to get back to whatever key I'm playing,"
+  },
+  {
+    "start": 781.28,
+    "text": " which is C3."
+  },
+  {
+    "start": 783.4399999999999,
+    "text": " Right?"
+  },
+  {
+    "start": 783.76,
+    "text": " So, you know, all this just looked confusing, but it's very simple."
+  },
+  {
+    "start": 787.76,
+    "text": " Just a sub, we get the sync, and now we just can do a little bit of pitch modulation."
+  },
+  {
+    "start": 792.7199999999999,
+    "text": " That's all."
+  },
+  {
+    "start": 793.4399999999999,
+    "text": " Now, we have other ways to modulate the pitch."
+  },
+  {
+    "start": 796.0799999999999,
+    "text": " And this is something, again, very, very common on a lot of synthesizers."
+  },
+  {
+    "start": 799.92,
+    "text": " You have the pitch mod right there."
+  },
+  {
+    "start": 802.4,
+    "text": " And then you have the pulse width."
+  },
+  {
+    "start": 803.5999999999999,
+    "text": " We're going to talk about this in a minute."
+  },
+  {
+    "start": 804.9599999999999,
+    "text": " But first, I'm going to be talking about this one."
+  },
+  {
+    "start": 806.7199999999999,
+    "text": " So we can modulate it with an LFO."
+  },
+  {
+    "start": 809.4399999999999,
+    "text": " And what will be modulated is the pitch."
+  },
+  {
+    "start": 812.24,
+    "text": " It's something like me going right here and doing something like that manually."
+  },
+  {
+    "start": 817.12,
+    "text": " And I'm doing manually."
+  },
+  {
+    "start": 818.8,
+    "text": " But instead of doing manually, we can outsource this, you know, this signal or this instruction"
+  },
+  {
+    "start": 824.08,
+    "text": " to an LFO."
+  },
+  {
+    "start": 825.2,
+    "text": " Now, one thing that you need to know is that the oscillator number one is hard-wired to the LFO"
+  },
+  {
+    "start": 832.32,
+    "text": " number one."
+  },
+  {
+    "start": 833.2,
+    "text": " And the oscillator number two is hard-wired to the LFO number two."
+  },
+  {
+    "start": 837.44,
+    "text": " So we cannot use the LFO number two on the oscillator number one."
+  },
+  {
+    "start": 841.28,
+    "text": " We just can use the number one."
+  },
+  {
+    "start": 843.6,
+    "text": " That's all."
+  },
+  {
+    "start": 844.4000000000001,
+    "text": " And right now, all of this is just grayed out because the LFO, it's off."
+  },
+  {
+    "start": 848.6400000000001,
+    "text": " And by default, they are off."
+  },
+  {
+    "start": 850.0,
+    "text": " So we need to turn it on if we want to get something."
+  },
+  {
+    "start": 852.6400000000001,
+    "text": " And we will talk about all of this."
+  },
+  {
+    "start": 855.12,
+    "text": " And right now, the modulation is just a sine wave."
+  },
+  {
+    "start": 858.08,
+    "text": " We can do a lot of things, but right now, it's just a sine wave."
+  },
+  {
+    "start": 862.32,
+    "text": " So now that it's on, I can go back right here and we have it enabled."
+  },
+  {
+    "start": 866.88,
+    "text": " So we have two different things."
+  },
+  {
+    "start": 868.5600000000001,
+    "text": " We're going to talk about the key in a minute."
+  },
+  {
+    "start": 869.92,
+    "text": " But the LFO, what it will do, it will just use that LFO to go up and down in pitch."
+  },
+  {
+    "start": 878.64,
+    "text": " And I'm just pressing one key and holding it."
+  },
+  {
+    "start": 882.4799999999999,
+    "text": " How it's going to be going up and down in pitch?"
+  },
+  {
+    "start": 884.4,
+    "text": " Well, this is how much."
+  },
+  {
+    "start": 885.68,
+    "text": " If I go all the way up and you can only go to one, it's just going to be a little bit"
+  },
+  {
+    "start": 889.92,
+    "text": " more aggressive."
+  },
+  {
+    "start": 891.04,
+    "text": " Maybe sometimes just doing a little bit."
+  },
+  {
+    "start": 893.68,
+    "text": " It's going to give you that nice detuning, especially when you use chords like"
+  },
+  {
+    "start": 900.4,
+    "text": " that."
+  },
+  {
+    "start": 900.56,
+    "text": " You get that old vintage vibe detuning."
+  },
+  {
+    "start": 904.64,
+    "text": " Yeah, that's the LFO."
+  },
+  {
+    "start": 906.56,
+    "text": " And of course, you can go to the LFO and just change everything and go maybe super fast"
+  },
+  {
+    "start": 911.68,
+    "text": " and do something else like that, for example."
+  },
+  {
+    "start": 915.04,
+    "text": " If I go up, it's going to be really crazy."
+  },
+  {
+    "start": 918.0,
+    "text": " Well, you can."
+  },
+  {
+    "start": 919.12,
+    "text": " Let me just go back to default."
+  },
+  {
+    "start": 920.8,
+    "text": " And the other way, we can go to positives."
+  },
+  {
+    "start": 923.92,
+    "text": " So it means that the LFO will start some point and then go up and down."
+  },
+  {
+    "start": 927.44,
+    "text": " But we can go into negatives and it means that the LFO, whatever it is, is going to"
+  },
+  {
+    "start": 932.6400000000001,
+    "text": " start on the other way."
+  },
+  {
+    "start": 934.4000000000001,
+    "text": " No negative."
+  },
+  {
+    "start": 936.32,
+    "text": " But that's fine."
+  },
+  {
+    "start": 936.8800000000001,
+    "text": " This is still, you know, an LFO."
+  },
+  {
+    "start": 938.8800000000001,
+    "text": " We are modulating the pitch with an LFO."
+  },
+  {
+    "start": 941.0400000000001,
+    "text": " Now, then we have the key."
+  },
+  {
+    "start": 942.6400000000001,
+    "text": " And this is a little bit weird to explain because it's something that you don't get"
+  },
+  {
+    "start": 946.72,
+    "text": " on a lot of synthesizers."
+  },
+  {
+    "start": 948.24,
+    "text": " And it's cool."
+  },
+  {
+    "start": 949.0400000000001,
+    "text": " So when you have 100%, it means that it's equally tempered."
+  },
+  {
+    "start": 954.1600000000001,
+    "text": " So if I play a C3, I'm going to be getting a C3."
+  },
+  {
+    "start": 958.5600000000001,
+    "text": " I'm going to show you a tuner."
+  },
+  {
+    "start": 960.88,
+    "text": " If I play a C higher, it's going to give me that C higher."
+  },
+  {
+    "start": 964.8000000000001,
+    "text": " If I play a C lower, it's going to give me that C lower."
+  },
+  {
+    "start": 968.24,
+    "text": " So where am I going with all this?"
+  },
+  {
+    "start": 970.1600000000001,
+    "text": " So whenever you have 100%, it means that whatever you play on your keyboard is going to be what"
+  },
+  {
+    "start": 976.08,
+    "text": " is going to come out, you know, a C, an A or whatever."
+  },
+  {
+    "start": 979.76,
+    "text": " It's not going to mess the scaling."
+  },
+  {
+    "start": 981.36,
+    "text": " The difference is that when you go up or down, and this value is going to start to"
+  },
+  {
+    "start": 986.0,
+    "text": " offset whatever scale that you're using on your keyboard."
+  },
+  {
+    "start": 989.6800000000001,
+    "text": " Now, C3, which is this one, is always going to be your center point."
+  },
+  {
+    "start": 995.28,
+    "text": " So if I go all the way up and I keep playing C3, nothing is going to change because C3"
+  },
+  {
+    "start": 1001.12,
+    "text": " is your center point."
+  },
+  {
+    "start": 1002.64,
+    "text": " But if I go up, for example, on this one and I go to a C4, this is a little bit different."
+  },
+  {
+    "start": 1009.84,
+    "text": " I don't get the C4."
+  },
+  {
+    "start": 1011.12,
+    "text": " I just get an A."
+  },
+  {
+    "start": 1013.12,
+    "text": " Right?"
+  },
+  {
+    "start": 1013.6,
+    "text": " So this is going to start to mess the scaling of your keyboard."
+  },
+  {
+    "start": 1017.44,
+    "text": " So let me just give you an example."
+  },
+  {
+    "start": 1019.04,
+    "text": " I'm doing a C."
+  },
+  {
+    "start": 1020.5600000000001,
+    "text": " So next, I'm going to do a D."
+  },
+  {
+    "start": 1022.8,
+    "text": " I'm going to play all the white keys."
+  },
+  {
+    "start": 1024.72,
+    "text": " Right now, I'm on a C3, so we get a C."
+  },
+  {
+    "start": 1028.16,
+    "text": " And we are offsetting this by 164%."
+  },
+  {
+    "start": 1031.76,
+    "text": " So it's going to be really weird."
+  },
+  {
+    "start": 1033.28,
+    "text": " I'm going to play a D."
+  },
+  {
+    "start": 1035.04,
+    "text": " Do I get D?"
+  },
+  {
+    "start": 1036.16,
+    "text": " No, I'm playing an F and I'm playing a D3."
+  },
+  {
+    "start": 1040.32,
+    "text": " They're a key next to C3."
+  },
+  {
+    "start": 1042.72,
+    "text": " And I'm not getting it."
+  },
+  {
+    "start": 1043.6799999999998,
+    "text": " So this will mess with your scaling."
+  },
+  {
+    "start": 1048.08,
+    "text": " Sometimes it's useful and fun, depends on what you have."
+  },
+  {
+    "start": 1050.56,
+    "text": " You can just get different things and you can go the other way."
+  },
+  {
+    "start": 1053.76,
+    "text": " And it's pretty much the same, but the other way."
+  },
+  {
+    "start": 1056.0,
+    "text": " If I go to C, I get that."
+  },
+  {
+    "start": 1057.9199999999998,
+    "text": " But now if I go to C, to D, I'm sorry, I'm just getting it a little bit detuned."
+  },
+  {
+    "start": 1064.56,
+    "text": " And if I go to E, I get a C sharp."
+  },
+  {
+    "start": 1068.72,
+    "text": " So it's going to mess with your tuning."
+  },
+  {
+    "start": 1070.72,
+    "text": " Now this is cool, but you need to be aware of that."
+  },
+  {
+    "start": 1072.88,
+    "text": " If you change this, you might not get what you play."
+  },
+  {
+    "start": 1076.4,
+    "text": " So then we have the pulse width."
+  },
+  {
+    "start": 1078.0,
+    "text": " And pulse width is something that we get on a lot of analog synthesizers."
+  },
+  {
+    "start": 1081.84,
+    "text": " It's very common."
+  },
+  {
+    "start": 1083.36,
+    "text": " Nowadays, we can alter or use the pulse width and change the width of any waveform."
+  },
+  {
+    "start": 1089.76,
+    "text": " But this is analog."
+  },
+  {
+    "start": 1091.04,
+    "text": " This is emulating an analog synthesizer."
+  },
+  {
+    "start": 1094.4,
+    "text": " So we cannot do it on pretty much all the waveforms that we have right here."
+  },
+  {
+    "start": 1099.68,
+    "text": " So if I go to a sine wave, this is great out."
+  },
+  {
+    "start": 1103.6000000000001,
+    "text": " If I go to a saw, this is great out."
+  },
+  {
+    "start": 1106.3200000000002,
+    "text": " We cannot use it."
+  },
+  {
+    "start": 1107.6000000000001,
+    "text": " But if I go to this one, the shape, we can use pulse width because this is a pulse."
+  },
+  {
+    "start": 1114.16,
+    "text": " And we can only do it with a pulse."
+  },
+  {
+    "start": 1116.48,
+    "text": " Right? Pretty simple."
+  },
+  {
+    "start": 1117.68,
+    "text": " So I'm going to play a C3."
+  },
+  {
+    "start": 1120.16,
+    "text": " I'm going to sustain it."
+  },
+  {
+    "start": 1122.16,
+    "text": " Now the width is going to be the width of this waveform."
+  },
+  {
+    "start": 1125.28,
+    "text": " So if I go down, it's going to make it narrow."
+  },
+  {
+    "start": 1128.0800000000002,
+    "text": " And at some point, it's going to be super narrow."
+  },
+  {
+    "start": 1131.04,
+    "text": " Now if I go up, it's going to make it wider."
+  },
+  {
+    "start": 1135.52,
+    "text": " Right? That's it."
+  },
+  {
+    "start": 1137.44,
+    "text": " So something very common is that we modulate this"
+  },
+  {
+    "start": 1142.88,
+    "text": " and we can do something like this."
+  },
+  {
+    "start": 1144.16,
+    "text": " And right now I'm just doing it manually."
+  },
+  {
+    "start": 1147.04,
+    "text": " And it's something very common in a lot of analog synthesizers."
+  },
+  {
+    "start": 1150.4,
+    "text": " Now another thing that's common is that what are you going to do?"
+  },
+  {
+    "start": 1153.3600000000001,
+    "text": " You're going to modulate manually the width."
+  },
+  {
+    "start": 1156.4,
+    "text": " This is not the MS-20."
+  },
+  {
+    "start": 1157.52,
+    "text": " We can do it with the LFO."
+  },
+  {
+    "start": 1159.2800000000002,
+    "text": " So I can go to the LFO and outsource this instruction."
+  },
+  {
+    "start": 1164.0,
+    "text": " And right now we are doing the LFO 1."
+  },
+  {
+    "start": 1166.24,
+    "text": " Remember, this is hardwired to the LFO 1."
+  },
+  {
+    "start": 1169.0400000000002,
+    "text": " Now we are doing this much of width."
+  },
+  {
+    "start": 1172.0800000000002,
+    "text": " Maybe we can go the other way."
+  },
+  {
+    "start": 1173.52,
+    "text": " And right here, when we change this value, we are just like choosing the center point."
+  },
+  {
+    "start": 1179.04,
+    "text": " And the LFO is going to go up and down for us."
+  },
+  {
+    "start": 1182.8799999999999,
+    "text": " And we can change the rate."
+  },
+  {
+    "start": 1185.2,
+    "text": " This can give you some classic, very classic sounds like..."
+  },
+  {
+    "start": 1196.8799999999999,
+    "text": " Right? So you get that classic old school vibe, which is something very common."
+  },
+  {
+    "start": 1202.0,
+    "text": " Let me just go back to nothing."
+  },
+  {
+    "start": 1204.3999999999999,
+    "text": " So by default, your width is going to be 50%."
+  },
+  {
+    "start": 1208.0,
+    "text": " And this is the default width of the pulse."
+  },
+  {
+    "start": 1210.72,
+    "text": " You can just, you know, maybe change it and use it like this."
+  },
+  {
+    "start": 1214.4,
+    "text": " And you are going to be getting a different sound."
+  },
+  {
+    "start": 1217.76,
+    "text": " Or just leave it at 50% and just use it like that."
+  },
+  {
+    "start": 1220.16,
+    "text": " It's completely up to you."
+  },
+  {
+    "start": 1222.4,
+    "text": " Now if I go to the oscillator number two, what's the difference with the number one?"
+  },
+  {
+    "start": 1227.68,
+    "text": " Nothing."
+  },
+  {
+    "start": 1228.32,
+    "text": " We get the same shapes."
+  },
+  {
+    "start": 1229.6,
+    "text": " We can do the same things."
+  },
+  {
+    "start": 1231.12,
+    "text": " Everything is going to be the same."
+  },
+  {
+    "start": 1232.64,
+    "text": " And even the filter, you know, everything is just the same."
+  },
+  {
+    "start": 1235.36,
+    "text": " But the only difference, remember, is that the oscillator number two is hardwired to"
+  },
+  {
+    "start": 1240.0,
+    "text": " the LFO number two."
+  },
+  {
+    "start": 1241.6,
+    "text": " And that is something that we cannot change."
+  },
+  {
+    "start": 1243.84,
+    "text": " But everything else is just the same."
+  },
+  {
+    "start": 1246.3999999999999,
+    "text": " Now then we have a noise generator."
+  },
+  {
+    "start": 1248.3999999999999,
+    "text": " And as you could guess, this is just noise."
+  },
+  {
+    "start": 1250.8799999999999,
+    "text": " If I play it, we are going to be just getting just noise."
+  },
+  {
+    "start": 1255.52,
+    "text": " And this right here, just like we get with the oscillator one and two,"
+  },
+  {
+    "start": 1258.8,
+    "text": " we can decide if we want to go to the filter number two or do 50-50 or maybe go to the number one."
+  },
+  {
+    "start": 1264.88,
+    "text": " Now you get something right here, it's color."
+  },
+  {
+    "start": 1267.2,
+    "text": " And this is a cutoff."
+  },
+  {
+    "start": 1270.0,
+    "text": " It's just like this one."
+  },
+  {
+    "start": 1271.6000000000001,
+    "text": " We are cutting high frequencies."
+  },
+  {
+    "start": 1274.88,
+    "text": " And we can just chop the high frequencies."
+  },
+  {
+    "start": 1277.5200000000002,
+    "text": " And we can see it right there on the spectrum."
+  },
+  {
+    "start": 1280.96,
+    "text": " That's it."
+  },
+  {
+    "start": 1282.4,
+    "text": " It's just a filter."
+  },
+  {
+    "start": 1284.88,
+    "text": " Okay, so let's talk about the filters."
+  },
+  {
+    "start": 1286.8000000000002,
+    "text": " We already know the oscillators."
+  },
+  {
+    "start": 1288.24,
+    "text": " I'm going to be covering this."
+  },
+  {
+    "start": 1289.44,
+    "text": " So when we go to the filters, we have a lot of options."
+  },
+  {
+    "start": 1292.0800000000002,
+    "text": " And it's just a little bit more confusing than this."
+  },
+  {
+    "start": 1294.16,
+    "text": " But don't worry, I'm going to be covering pretty much everything."
+  },
+  {
+    "start": 1297.2,
+    "text": " Now one thing I'm going to need to do is go to the amp and go all the way up on the sustain."
+  },
+  {
+    "start": 1302.88,
+    "text": " And I'm going to disable the envelope."
+  },
+  {
+    "start": 1305.28,
+    "text": " We will reach this section in a minute."
+  },
+  {
+    "start": 1307.6000000000001,
+    "text": " I just want to be back here."
+  },
+  {
+    "start": 1309.3600000000001,
+    "text": " Now, since this might be your first synthesizer,"
+  },
+  {
+    "start": 1312.48,
+    "text": " I'm going to kind of slow down and talk about the attack,"
+  },
+  {
+    "start": 1316.4,
+    "text": " how an ADSR works, what it is, and all that."
+  },
+  {
+    "start": 1319.92,
+    "text": " If you have experience, maybe you want to skip some parts."
+  },
+  {
+    "start": 1323.28,
+    "text": " Because you're going to get a little bit bored."
+  },
+  {
+    "start": 1326.32,
+    "text": " So let's start talking about the main thing,"
+  },
+  {
+    "start": 1328.24,
+    "text": " which is going to be the different slopes that you have right here."
+  },
+  {
+    "start": 1331.6,
+    "text": " So you have a filter."
+  },
+  {
+    "start": 1333.12,
+    "text": " And what you do, pretty much, let me just disable the oscillator number two."
+  },
+  {
+    "start": 1337.44,
+    "text": " Just going to be using the number one."
+  },
+  {
+    "start": 1339.76,
+    "text": " What you do, you cut frequencies."
+  },
+  {
+    "start": 1342.48,
+    "text": " And this is going to be your control."
+  },
+  {
+    "start": 1344.16,
+    "text": " So in this case, we can see right here, we have all the frequencies,"
+  },
+  {
+    "start": 1347.12,
+    "text": " and we're going to start chopping them down."
+  },
+  {
+    "start": 1349.36,
+    "text": " This is a subtractive synth."
+  },
+  {
+    "start": 1351.28,
+    "text": " We use a filter to remove the frequencies we don't want."
+  },
+  {
+    "start": 1355.76,
+    "text": " Now then, you have the resonance."
+  },
+  {
+    "start": 1357.84,
+    "text": " So at some point, this frequency control is cutting the high frequencies."
+  },
+  {
+    "start": 1363.12,
+    "text": " So we do have some slope, or it's going to start cutting us someplace."
+  },
+  {
+    "start": 1367.36,
+    "text": " Now, the resonance is going to give us a bump"
+  },
+  {
+    "start": 1371.36,
+    "text": " on where the cutoff or the filter is starting to cut."
+  },
+  {
+    "start": 1375.84,
+    "text": " So if I go up in resonance, it's going to start to expose this peak."
+  },
+  {
+    "start": 1380.8,
+    "text": " So this is where it's starting to cut."
+  },
+  {
+    "start": 1383.12,
+    "text": " So again, it's like a bump on the cut."
+  },
+  {
+    "start": 1386.56,
+    "text": " Now, if I move the frequency now,"
+  },
+  {
+    "start": 1389.9199999999998,
+    "text": " we can see where the frequency is cutting, and it's just pretty clear now."
+  },
+  {
+    "start": 1395.04,
+    "text": " Now, on the resonance, at some point, if you go all the way up,"
+  },
+  {
+    "start": 1398.8,
+    "text": " it's going to start resonating."
+  },
+  {
+    "start": 1400.6399999999999,
+    "text": " You can start to get this sound,"
+  },
+  {
+    "start": 1403.28,
+    "text": " which, you know, might be a little bit annoying sometimes."
+  },
+  {
+    "start": 1407.36,
+    "text": " But it's cool,"
+  },
+  {
+    "start": 1408.88,
+    "text": " because you can do those sweeps."
+  },
+  {
+    "start": 1413.68,
+    "text": " But the key thing is that we are cutting frequencies with this control,"
+  },
+  {
+    "start": 1416.96,
+    "text": " and this one is exposing that cut by creating a bump at the cutoff."
+  },
+  {
+    "start": 1422.3200000000002,
+    "text": " Right, for now, I'm going to go all the way down"
+  },
+  {
+    "start": 1424.24,
+    "text": " and maybe just do a little bit of resonance so we can see that cut."
+  },
+  {
+    "start": 1428.0800000000002,
+    "text": " Now then, you have different types of filters."
+  },
+  {
+    "start": 1430.48,
+    "text": " You have a low pass, which is going to be cutting low frequencies,"
+  },
+  {
+    "start": 1433.44,
+    "text": " but it's a little bit less aggressive."
+  },
+  {
+    "start": 1436.3200000000002,
+    "text": " Then you have the low pass 24 dBs per octave,"
+  },
+  {
+    "start": 1439.52,
+    "text": " which is going to be a little bit more aggressive."
+  },
+  {
+    "start": 1441.52,
+    "text": " So this one is mild, this one is aggressive."
+  },
+  {
+    "start": 1444.88,
+    "text": " Then you have a band pass, and it's the same thing."
+  },
+  {
+    "start": 1447.28,
+    "text": " It's just going to be 6 dBs less aggressive,"
+  },
+  {
+    "start": 1450.0800000000002,
+    "text": " and then the other one is going to be more aggressive."
+  },
+  {
+    "start": 1452.3200000000002,
+    "text": " And I'm going to go to this one."
+  },
+  {
+    "start": 1453.6000000000001,
+    "text": " So the band pass is just a band pass."
+  },
+  {
+    "start": 1455.68,
+    "text": " It's going to cut lows, and it's going to cut highs."
+  },
+  {
+    "start": 1458.16,
+    "text": " And we move the frequency, and we're going to get just this part."
+  },
+  {
+    "start": 1462.0800000000002,
+    "text": " We don't get this, and we don't get this."
+  },
+  {
+    "start": 1464.32,
+    "text": " Now the resonance will again do the same thing, will give us that peak."
+  },
+  {
+    "start": 1468.96,
+    "text": " If I don't do anything, it's just going to be a little bit weird"
+  },
+  {
+    "start": 1472.0,
+    "text": " when we move it right here, because there's nothing there."
+  },
+  {
+    "start": 1475.12,
+    "text": " So we need to expose it by doing a little bit of resonance."
+  },
+  {
+    "start": 1479.6,
+    "text": " All right, so that's the band pass."
+  },
+  {
+    "start": 1481.28,
+    "text": " Then you have the notch, and the notch is completely the…"
+  },
+  {
+    "start": 1485.52,
+    "text": " not completely, but pretty much the opposite to the band pass."
+  },
+  {
+    "start": 1488.8,
+    "text": " If I do notch, it's creating a notch at some place, some frequency."
+  },
+  {
+    "start": 1493.84,
+    "text": " And the resonance is going to help to fine-tune this."
+  },
+  {
+    "start": 1498.32,
+    "text": " If we want it to be a sharp notch, or we want it to be super wide, something like that."
+  },
+  {
+    "start": 1505.36,
+    "text": " And the frequency will just move that notch up and down in the spectrum."
+  },
+  {
+    "start": 1510.6399999999999,
+    "text": " So then we have the high pass, and this is the opposite from the low pass."
+  },
+  {
+    "start": 1514.48,
+    "text": " We are going to be cutting low frequencies."
+  },
+  {
+    "start": 1517.6799999999998,
+    "text": " The other one, we just cut highs."
+  },
+  {
+    "start": 1520.56,
+    "text": " But this one, we cut the lows."
+  },
+  {
+    "start": 1523.04,
+    "text": " So if I start right there, we are not doing anything."
+  },
+  {
+    "start": 1525.84,
+    "text": " But if I keep moving up, we start cutting the low frequencies."
+  },
+  {
+    "start": 1531.2,
+    "text": " And all of this is important because you can do a combination of this filter and this filter."
+  },
+  {
+    "start": 1537.28,
+    "text": " Maybe this one is going to be chopping lows,"
+  },
+  {
+    "start": 1539.28,
+    "text": " and this one is going to be chopping highs or doing a notch."
+  },
+  {
+    "start": 1542.0,
+    "text": " And you can start to get different combinations and, you know, different sounds."
+  },
+  {
+    "start": 1545.68,
+    "text": " It depends on how you use it."
+  },
+  {
+    "start": 1547.6,
+    "text": " Now the last one is going to be a formant."
+  },
+  {
+    "start": 1549.6,
+    "text": " If you don't know what a formant is, it's going to like expose some frequencies"
+  },
+  {
+    "start": 1554.7199999999998,
+    "text": " or just create a prominence on some frequencies."
+  },
+  {
+    "start": 1557.76,
+    "text": " So formant is something that we use the whole time on vocals to expose some frequencies,"
+  },
+  {
+    "start": 1563.84,
+    "text": " and we get this vocal sound."
+  },
+  {
+    "start": 1566.8,
+    "text": " If I play something, let me just go to 12 degrees because it's going to be pretty obvious."
+  },
+  {
+    "start": 1571.84,
+    "text": " So I'm doing nothing."
+  },
+  {
+    "start": 1573.9199999999998,
+    "text": " And still we get something right here, and we get something right here,"
+  },
+  {
+    "start": 1577.28,
+    "text": " and notice this peak right there."
+  },
+  {
+    "start": 1579.6,
+    "text": " Now I'm going to start moving this, and we start to get this like vocal sound, like it's talking."
+  },
+  {
+    "start": 1588.8,
+    "text": " Well, this is the formant."
+  },
+  {
+    "start": 1590.48,
+    "text": " Now the resonance is going to shift where we are focusing this."
+  },
+  {
+    "start": 1601.4399999999998,
+    "text": " And just by modulating the resonance and the frequency,"
+  },
+  {
+    "start": 1604.48,
+    "text": " you just can get this vocal type of sound."
+  },
+  {
+    "start": 1608.08,
+    "text": " So that's the formant."
+  },
+  {
+    "start": 1609.2,
+    "text": " Pretty simple."
+  },
+  {
+    "start": 1610.0800000000002,
+    "text": " Now usually the most common filter that you will find in an analog synthesizer"
+  },
+  {
+    "start": 1614.72,
+    "text": " is just a low pass or a high pass."
+  },
+  {
+    "start": 1616.72,
+    "text": " Okay, so I'm just going to go back to 24, all the way up in frequency,"
+  },
+  {
+    "start": 1620.16,
+    "text": " and nothing on the resonance."
+  },
+  {
+    "start": 1621.76,
+    "text": " And again, this might be a little bit easy for you because this is our very standard controls,"
+  },
+  {
+    "start": 1627.8400000000001,
+    "text": " but if you're starting, this is gold, right?"
+  },
+  {
+    "start": 1630.32,
+    "text": " Okay, so we have nothing."
+  },
+  {
+    "start": 1632.0,
+    "text": " We are just not doing anything with the cutting, right?"
+  },
+  {
+    "start": 1634.64,
+    "text": " Right now we do, but no."
+  },
+  {
+    "start": 1636.48,
+    "text": " Then we have all these options right here at the bottom."
+  },
+  {
+    "start": 1639.68,
+    "text": " And the first thing we need to talk about is the frequency modulation."
+  },
+  {
+    "start": 1642.8799999999999,
+    "text": " Now what is frequency modulation?"
+  },
+  {
+    "start": 1644.8799999999999,
+    "text": " Well, this is called frequency, and we need to modulate this somehow."
+  },
+  {
+    "start": 1649.04,
+    "text": " So when I do it manually, it's something like that."
+  },
+  {
+    "start": 1652.56,
+    "text": " So we, all of this, is just going to be a little bit about how we can modulate this control."
+  },
+  {
+    "start": 1659.04,
+    "text": " Now we can do it randomly like I'm doing right now, like if we use an LFO,"
+  },
+  {
+    "start": 1663.36,
+    "text": " or we can have a controlled movement that is going to happen every time we play a key."
+  },
+  {
+    "start": 1668.32,
+    "text": " So let me just simulate that."
+  },
+  {
+    "start": 1671.04,
+    "text": " If I play a key, what I want to do, I want to play it, I want to go up,"
+  },
+  {
+    "start": 1674.8799999999999,
+    "text": " and then I want it to go down."
+  },
+  {
+    "start": 1680.32,
+    "text": " And I want to do this motion every time I play a key,"
+  },
+  {
+    "start": 1683.6,
+    "text": " but I don't want to do it with my mouse."
+  },
+  {
+    "start": 1685.84,
+    "text": " I want to outsource this."
+  },
+  {
+    "start": 1687.52,
+    "text": " So this is going to be this."
+  },
+  {
+    "start": 1689.36,
+    "text": " It's the envelope, these controls that we have right here at the top."
+  },
+  {
+    "start": 1693.2,
+    "text": " And it's going to be this shape."
+  },
+  {
+    "start": 1694.88,
+    "text": " This shape is how we are going to be moving this up and down."
+  },
+  {
+    "start": 1698.96,
+    "text": " So right here at the bottom, frequency mod, this is like the brains."
+  },
+  {
+    "start": 1703.52,
+    "text": " Right here, it will decide how much of this modulation we are going to be doing with what."
+  },
+  {
+    "start": 1709.6000000000001,
+    "text": " And then you have a resonance modulation, which is the same, but for the resonance,"
+  },
+  {
+    "start": 1713.1200000000001,
+    "text": " which is something that you don't get on a lot of synthesizers,"
+  },
+  {
+    "start": 1715.76,
+    "text": " but it's cool that we get it right here."
+  },
+  {
+    "start": 1717.68,
+    "text": " So this frequency mod will decide, do we want to do modulation with an LFO?"
+  },
+  {
+    "start": 1722.48,
+    "text": " Do we want to do modulation with a key tracking?"
+  },
+  {
+    "start": 1724.8,
+    "text": " We're going to talk about this one."
+  },
+  {
+    "start": 1726.16,
+    "text": " Or we want to do modulation with an envelope."
+  },
+  {
+    "start": 1728.48,
+    "text": " The most common type of modulation for the frequency is the envelope."
+  },
+  {
+    "start": 1732.72,
+    "text": " This is like a classic, like the classic."
+  },
+  {
+    "start": 1735.68,
+    "text": " And by default, it's doing a little bit."
+  },
+  {
+    "start": 1737.76,
+    "text": " Notice it says 4."
+  },
+  {
+    "start": 1739.52,
+    "text": " It doesn't say 0."
+  },
+  {
+    "start": 1740.72,
+    "text": " So when we play a key, it's just doing a little bit of modulation."
+  },
+  {
+    "start": 1744.48,
+    "text": " So let me just go all the way up."
+  },
+  {
+    "start": 1746.08,
+    "text": " You can go all the way up to 16."
+  },
+  {
+    "start": 1748.32,
+    "text": " So if I go to 4, which is what we had from before, maybe 4-ish, something like that,"
+  },
+  {
+    "start": 1754.1599999999999,
+    "text": " and I play a key, notice that this is like moving a little bit."
+  },
+  {
+    "start": 1758.6399999999999,
+    "text": " It's just like that."
+  },
+  {
+    "start": 1761.2,
+    "text": " Well, it's doing a little bit of modulation."
+  },
+  {
+    "start": 1763.84,
+    "text": " How it's moving?"
+  },
+  {
+    "start": 1765.04,
+    "text": " Well, that's going to be the envelope."
+  },
+  {
+    "start": 1766.72,
+    "text": " Now, and right here is the moment where I need to warn you."
+  },
+  {
+    "start": 1770.72,
+    "text": " If you have some experience, you're going to get bored because again,"
+  },
+  {
+    "start": 1773.9199999999998,
+    "text": " I'm going to explain how attack, decay, sustain, and release, the ADSR works."
+  },
+  {
+    "start": 1778.6399999999999,
+    "text": " So we have attack, decay, sustain, and release."
+  },
+  {
+    "start": 1782.08,
+    "text": " The S time, for now, forget that we have right here."
+  },
+  {
+    "start": 1784.8,
+    "text": " This one, forget it."
+  },
+  {
+    "start": 1786.0,
+    "text": " And this one, forget it."
+  },
+  {
+    "start": 1786.9599999999998,
+    "text": " We are not going to be talking about this."
+  },
+  {
+    "start": 1788.1599999999999,
+    "text": " We're going to be talking about this in a minute."
+  },
+  {
+    "start": 1789.6,
+    "text": " But for now, we need to learn the basics."
+  },
+  {
+    "start": 1791.6799999999998,
+    "text": " And you need to make sure that on the amp envelope, this is to 0,"
+  },
+  {
+    "start": 1795.1999999999998,
+    "text": " all the way up on the sustain."
+  },
+  {
+    "start": 1796.56,
+    "text": " And we have a little bit of tail, like this one right here."
+  },
+  {
+    "start": 1799.6799999999998,
+    "text": " We have these values."
+  },
+  {
+    "start": 1801.04,
+    "text": " Right."
+  },
+  {
+    "start": 1801.6,
+    "text": " So I'm going to go right here."
+  },
+  {
+    "start": 1803.12,
+    "text": " What I want to do, I want to play a key and then go up like this."
+  },
+  {
+    "start": 1807.52,
+    "text": " And for now, I'm going to go all the way back to 0, maybe 5 is the lowest you can go."
+  },
+  {
+    "start": 1813.84,
+    "text": " The decay is going to be all the way down, sustain all the way down,"
+  },
+  {
+    "start": 1817.6,
+    "text": " release all the way down."
+  },
+  {
+    "start": 1819.1999999999998,
+    "text": " If I play a key, we get like a pluck."
+  },
+  {
+    "start": 1822.9599999999998,
+    "text": " It's very, very, very mild."
+  },
+  {
+    "start": 1824.3999999999999,
+    "text": " So we don't get a lot."
+  },
+  {
+    "start": 1826.8799999999999,
+    "text": " So what it's doing behind the scenes, it's taking 5 milliseconds"
+  },
+  {
+    "start": 1830.88,
+    "text": " and modulate this up and down with the attack and the decay."
+  },
+  {
+    "start": 1834.72,
+    "text": " Now, the attack, the decay, and this is in the release are time-based controls."
+  },
+  {
+    "start": 1840.0800000000002,
+    "text": " But the sustain, it's not."
+  },
+  {
+    "start": 1841.5200000000002,
+    "text": " Notice it says it doesn't say a mess."
+  },
+  {
+    "start": 1843.8400000000001,
+    "text": " And it's because it's a level control."
+  },
+  {
+    "start": 1845.44,
+    "text": " It's like a gain."
+  },
+  {
+    "start": 1846.3200000000002,
+    "text": " Okay."
+  },
+  {
+    "start": 1846.88,
+    "text": " So let's start with the attack."
+  },
+  {
+    "start": 1848.48,
+    "text": " When we play a key, I want this to go up in this fashion by some amount."
+  },
+  {
+    "start": 1854.5600000000002,
+    "text": " And then I want it to go down."
+  },
+  {
+    "start": 1856.96,
+    "text": " Okay."
+  },
+  {
+    "start": 1857.6,
+    "text": " So I'm going to go all the way up or maybe just to 10 or something like that."
+  },
+  {
+    "start": 1862.1599999999999,
+    "text": " Then we can take it from there."
+  },
+  {
+    "start": 1864.48,
+    "text": " And this is going to decide how much of this envelope we are doing here."
+  },
+  {
+    "start": 1869.6,
+    "text": " So I want for this to go up when I play a key."
+  },
+  {
+    "start": 1873.04,
+    "text": " So the attack is going to be how slow it's going to take from here when we play a key"
+  },
+  {
+    "start": 1878.08,
+    "text": " to reach a maximum peak."
+  },
+  {
+    "start": 1880.1599999999999,
+    "text": " And then we're going to go back."
+  },
+  {
+    "start": 1882.0,
+    "text": " But this is going to decide how long it takes to go up."
+  },
+  {
+    "start": 1885.04,
+    "text": " That's the attack."
+  },
+  {
+    "start": 1886.32,
+    "text": " So if you have five milliseconds, it's going to be super fast."
+  },
+  {
+    "start": 1890.08,
+    "text": " So if I make it slower, we can see it right here on the envelope."
+  },
+  {
+    "start": 1893.52,
+    "text": " It's just going to say it's going to take some time."
+  },
+  {
+    "start": 1895.9199999999998,
+    "text": " By default, you don't have exponential."
+  },
+  {
+    "start": 1898.6399999999999,
+    "text": " I'm going to go to linear and then we will talk about the exponential."
+  },
+  {
+    "start": 1902.0,
+    "text": " It's going to be easier to learn with linear."
+  },
+  {
+    "start": 1905.6,
+    "text": " So right now, it's going to start like this."
+  },
+  {
+    "start": 1908.3999999999999,
+    "text": " The frequency is going to move up."
+  },
+  {
+    "start": 1911.04,
+    "text": " It's going to take 340 milliseconds."
+  },
+  {
+    "start": 1914.08,
+    "text": " And then it's going to go back and down."
+  },
+  {
+    "start": 1917.04,
+    "text": " Let us say we get something."
+  },
+  {
+    "start": 1922.08,
+    "text": " So I play a key."
+  },
+  {
+    "start": 1923.4399999999998,
+    "text": " It's going up."
+  },
+  {
+    "start": 1924.48,
+    "text": " It's taking 304 milliseconds and then it's going back."
+  },
+  {
+    "start": 1928.1599999999999,
+    "text": " Now, what happens if I make it really slow so we can just tell the difference?"
+  },
+  {
+    "start": 1931.6799999999998,
+    "text": " It's going to take two seconds."
+  },
+  {
+    "start": 1932.96,
+    "text": " It's going to slowly go up in frequency right here."
+  },
+  {
+    "start": 1938.32,
+    "text": " And then at some point, it's going to die, right?"
+  },
+  {
+    "start": 1940.8,
+    "text": " It's take one, two, and dies."
+  },
+  {
+    "start": 1943.68,
+    "text": " And this is because we have nothing right here."
+  },
+  {
+    "start": 1946.72,
+    "text": " So this decides how long it's going to take to go up,"
+  },
+  {
+    "start": 1950.24,
+    "text": " but not how long it's going to take to go back."
+  },
+  {
+    "start": 1952.64,
+    "text": " And that's going to be the decay."
+  },
+  {
+    "start": 1954.3200000000002,
+    "text": " So right now, it's five milliseconds, which is super fast."
+  },
+  {
+    "start": 1957.8400000000001,
+    "text": " It's going slowly up, but super fast down."
+  },
+  {
+    "start": 1960.88,
+    "text": " So if I decide to have some decay, like maybe pretty much about the same thing,"
+  },
+  {
+    "start": 1965.52,
+    "text": " like two seconds, now it's going to take two seconds to go up,"
+  },
+  {
+    "start": 1969.3600000000001,
+    "text": " and then two seconds to go down."
+  },
+  {
+    "start": 1972.1599999999999,
+    "text": " But still, you know, just going down pretty much to nothing."
+  },
+  {
+    "start": 1975.04,
+    "text": " But that's how we do it."
+  },
+  {
+    "start": 1976.3999999999999,
+    "text": " It's going to take two seconds to go up, and then two seconds to go down."
+  },
+  {
+    "start": 1979.84,
+    "text": " That's the attack, and that's the decay."
+  },
+  {
+    "start": 1982.3999999999999,
+    "text": " Now, then you have something called the sustain."
+  },
+  {
+    "start": 1985.12,
+    "text": " So right now, I'm playing a key."
+  },
+  {
+    "start": 1987.6,
+    "text": " It's going up."
+  },
+  {
+    "start": 1988.72,
+    "text": " It's going down."
+  },
+  {
+    "start": 1989.9199999999998,
+    "text": " And I'm not releasing the key."
+  },
+  {
+    "start": 1991.1999999999998,
+    "text": " I'm still holding."
+  },
+  {
+    "start": 1992.3999999999999,
+    "text": " So you can see right here that we have some frequency."
+  },
+  {
+    "start": 1995.04,
+    "text": " So I'm still holding the key."
+  },
+  {
+    "start": 1997.12,
+    "text": " What happens if I don't want to go all the way back if I'm still holding a key?"
+  },
+  {
+    "start": 2001.76,
+    "text": " So that's the sustain."
+  },
+  {
+    "start": 2003.04,
+    "text": " And notice this is not a time-based control."
+  },
+  {
+    "start": 2006.08,
+    "text": " It's a level."
+  },
+  {
+    "start": 2007.04,
+    "text": " It's going to be where do we want to stay?"
+  },
+  {
+    "start": 2009.04,
+    "text": " We want to stay right here."
+  },
+  {
+    "start": 2010.48,
+    "text": " Do we want to stay right here or maybe all the way up the top?"
+  },
+  {
+    "start": 2013.44,
+    "text": " So this is a level."
+  },
+  {
+    "start": 2014.64,
+    "text": " That's why right here we have a representation of how long it's going to take up to go up,"
+  },
+  {
+    "start": 2019.44,
+    "text": " how long it's going to take to go down."
+  },
+  {
+    "start": 2021.12,
+    "text": " But if we are sustaining, instead of going all the way down,"
+  },
+  {
+    "start": 2024.56,
+    "text": " it's going to stay somewhere in between."
+  },
+  {
+    "start": 2027.28,
+    "text": " So if I play it, it's going to go up."
+  },
+  {
+    "start": 2031.04,
+    "text": " It's going to go down."
+  },
+  {
+    "start": 2032.08,
+    "text": " And then it's sustaining at some point."
+  },
+  {
+    "start": 2033.76,
+    "text": " Let me just do the decay two seconds."
+  },
+  {
+    "start": 2037.44,
+    "text": " I'm going to do less sustain, something like that."
+  },
+  {
+    "start": 2039.76,
+    "text": " I'm going to play a key."
+  },
+  {
+    "start": 2040.8799999999999,
+    "text": " It's going to take a long time to go up."
+  },
+  {
+    "start": 2042.6399999999999,
+    "text": " Long time to go down."
+  },
+  {
+    "start": 2044.3999999999999,
+    "text": " But it's not going all the way down."
+  },
+  {
+    "start": 2046.48,
+    "text": " It's just staying at this point."
+  },
+  {
+    "start": 2048.56,
+    "text": " Now, if I go back to the sustain and I change it to 50%, let's say to be around here,"
+  },
+  {
+    "start": 2054.64,
+    "text": " it's going to go up."
+  },
+  {
+    "start": 2056.08,
+    "text": " It's going to go down, but not all the way down."
+  },
+  {
+    "start": 2058.64,
+    "text": " It's just going to sustain higher."
+  },
+  {
+    "start": 2061.12,
+    "text": " Now, when you use sustain and you use decay,"
+  },
+  {
+    "start": 2063.7599999999998,
+    "text": " if you go all the way up on the sustain, you're disabling the decay stage."
+  },
+  {
+    "start": 2068.08,
+    "text": " There is no decay."
+  },
+  {
+    "start": 2069.44,
+    "text": " I'm going to go up."
+  },
+  {
+    "start": 2071.68,
+    "text": " And then it's staying at the top because the sustain, it's all the way up."
+  },
+  {
+    "start": 2076.32,
+    "text": " And if you want to do a little bit, it's going to go up."
+  },
+  {
+    "start": 2079.6,
+    "text": " It's going to go down just a little bit."
+  },
+  {
+    "start": 2082.72,
+    "text": " It's almost unnoticeable."
+  },
+  {
+    "start": 2083.84,
+    "text": " It's only just go maybe a little bit down."
+  },
+  {
+    "start": 2087.12,
+    "text": " Let's do it again."
+  },
+  {
+    "start": 2088.08,
+    "text": " It's going to go up."
+  },
+  {
+    "start": 2089.04,
+    "text": " It should be going down just a little bit."
+  },
+  {
+    "start": 2091.92,
+    "text": " It's just, you know, almost unnoticeable."
+  },
+  {
+    "start": 2093.68,
+    "text": " Let me just go down a little bit."
+  },
+  {
+    "start": 2095.44,
+    "text": " It's going to go up, then down."
+  },
+  {
+    "start": 2100.0,
+    "text": " And there you go."
+  },
+  {
+    "start": 2100.72,
+    "text": " It's super, super small."
+  },
+  {
+    "start": 2104.24,
+    "text": " So yeah, you need to fine tune all of this just to get what you want."
+  },
+  {
+    "start": 2108.32,
+    "text": " It's going to take two seconds on the decay and then it's going down."
+  },
+  {
+    "start": 2112.32,
+    "text": " Right?"
+  },
+  {
+    "start": 2112.8,
+    "text": " But it's a stain right there."
+  },
+  {
+    "start": 2115.2799999999997,
+    "text": " So that's the sustain."
+  },
+  {
+    "start": 2116.72,
+    "text": " Now, notice when I play a key, I'm going to make this one second so we can..."
+  },
+  {
+    "start": 2122.16,
+    "text": " It's going to be a little bit faster."
+  },
+  {
+    "start": 2124.0,
+    "text": " Now, when I play a key, it goes up, it goes down, and then it stays right here."
+  },
+  {
+    "start": 2129.52,
+    "text": " But if I release a key, the sound, it's dying super fast."
+  },
+  {
+    "start": 2135.12,
+    "text": " Goes up, goes down."
+  },
+  {
+    "start": 2137.04,
+    "text": " I'm going to release the key in three, two, one."
+  },
+  {
+    "start": 2140.0,
+    "text": " The sound dies and it down."
+  },
+  {
+    "start": 2141.8399999999997,
+    "text": " It just dies."
+  },
+  {
+    "start": 2143.2,
+    "text": " What if we don't want this?"
+  },
+  {
+    "start": 2144.32,
+    "text": " We want to smoothly go out in time."
+  },
+  {
+    "start": 2147.84,
+    "text": " So that's the release."
+  },
+  {
+    "start": 2148.88,
+    "text": " What's going to happen when you release a key?"
+  },
+  {
+    "start": 2151.84,
+    "text": " And right now it's saying, okay, it's going to take me five milliseconds to go to full silence."
+  },
+  {
+    "start": 2156.88,
+    "text": " So if I play a key, but in this case, I'm just going to make it longer."
+  },
+  {
+    "start": 2160.8,
+    "text": " It's going to take maybe two seconds to die."
+  },
+  {
+    "start": 2163.36,
+    "text": " I go up, it's going to go down, it's going to sustain."
+  },
+  {
+    "start": 2167.44,
+    "text": " And if I release the key, now it's going to take a little bit more time."
+  },
+  {
+    "start": 2171.6000000000004,
+    "text": " Now, it's super fast."
+  },
+  {
+    "start": 2173.36,
+    "text": " Why is it super fast?"
+  },
+  {
+    "start": 2174.96,
+    "text": " And it's because the amp, it's controlling the volume that goes out of the synthesizer."
+  },
+  {
+    "start": 2180.2400000000002,
+    "text": " So if the sustain or the release is super short, it doesn't matter."
+  },
+  {
+    "start": 2184.2400000000002,
+    "text": " We make it two seconds right here."
+  },
+  {
+    "start": 2186.1600000000003,
+    "text": " The volume is going all the way down way before we hear this release."
+  },
+  {
+    "start": 2192.1600000000003,
+    "text": " So I'm going to make the release a little bit longer, just four seconds, which is crazy."
+  },
+  {
+    "start": 2197.28,
+    "text": " But this is just going to work."
+  },
+  {
+    "start": 2199.2000000000003,
+    "text": " I'm going to play a key."
+  },
+  {
+    "start": 2200.96,
+    "text": " It's going to go down, sustain, and I'm going to release in three, two, one."
+  },
+  {
+    "start": 2206.96,
+    "text": " And we can slowly fade the sound out."
+  },
+  {
+    "start": 2210.56,
+    "text": " In this case, what it's doing is going up a little bit down, it's sustaining,"
+  },
+  {
+    "start": 2215.52,
+    "text": " and we release the keys, it's going back to its original place."
+  },
+  {
+    "start": 2219.68,
+    "text": " Now, all of this is just a very common thing, and this is how ADSR works."
+  },
+  {
+    "start": 2223.92,
+    "text": " Once you understand this, you're going to be able to understand,"
+  },
+  {
+    "start": 2227.36,
+    "text": " like all the synthesizers that have some ADSR stage or some envelope stage,"
+  },
+  {
+    "start": 2233.04,
+    "text": " because it's pretty much the same."
+  },
+  {
+    "start": 2234.96,
+    "text": " And now that we know this, I don't need to explain this because it works the same way."
+  },
+  {
+    "start": 2239.2000000000003,
+    "text": " OK, so let's just keep moving forward."
+  },
+  {
+    "start": 2241.6800000000003,
+    "text": " Now, then you have other options which are not that common, like the S time right here."
+  },
+  {
+    "start": 2249.2000000000003,
+    "text": " You have the loop, the attack and velocity, and then you have the slope right there."
+  },
+  {
+    "start": 2253.6800000000003,
+    "text": " OK, so I'm going to be first going to the slope because it's just very simple."
+  },
+  {
+    "start": 2257.36,
+    "text": " So I'm going to play something, and we do it something like that,"
+  },
+  {
+    "start": 2261.2000000000003,
+    "text": " notice that it's going up."
+  },
+  {
+    "start": 2264.1600000000003,
+    "text": " And for now, I'm just going to maybe go all the way up on the sustain."
+  },
+  {
+    "start": 2268.88,
+    "text": " And how it's going up is in a linear fashion."
+  },
+  {
+    "start": 2271.84,
+    "text": " It's starting here and going like that, then there's no stopping it."
+  },
+  {
+    "start": 2277.44,
+    "text": " There's no motion, no curve, no smoothing, nothing."
+  },
+  {
+    "start": 2280.8,
+    "text": " It's just super linear."
+  },
+  {
+    "start": 2282.88,
+    "text": " Now, the other one is going to be exponential,"
+  },
+  {
+    "start": 2284.88,
+    "text": " and this is going to change how the curves work."
+  },
+  {
+    "start": 2289.52,
+    "text": " Now, in this case, it's going to start super fast and it's going to sustain at some point right here."
+  },
+  {
+    "start": 2295.44,
+    "text": " That's the slope."
+  },
+  {
+    "start": 2296.2400000000002,
+    "text": " It's like slowing down right here until it reaches the maximum point."
+  },
+  {
+    "start": 2300.48,
+    "text": " Now, since I'm doing sustain all the way up, it's pretty unnoticeable."
+  },
+  {
+    "start": 2304.0,
+    "text": " I'm going to be doing something like that, and then it's going to go down."
+  },
+  {
+    "start": 2309.2000000000003,
+    "text": " So notice it's super fast at the beginning,"
+  },
+  {
+    "start": 2311.6,
+    "text": " and then it's going to sustain right here at the top,"
+  },
+  {
+    "start": 2314.48,
+    "text": " and then it's going to decay."
+  },
+  {
+    "start": 2316.96,
+    "text": " So that's the exponential."
+  },
+  {
+    "start": 2318.48,
+    "text": " If I do linear, it's just up and down."
+  },
+  {
+    "start": 2322.64,
+    "text": " Maybe I'm sustaining."
+  },
+  {
+    "start": 2326.0,
+    "text": " I'm decaying four seconds."
+  },
+  {
+    "start": 2327.28,
+    "text": " That's the problem."
+  },
+  {
+    "start": 2328.56,
+    "text": " So let me just go right there."
+  },
+  {
+    "start": 2332.72,
+    "text": " If I do exponential, fast, sustains, and then goes back."
+  },
+  {
+    "start": 2337.28,
+    "text": " Just a little bit different."
+  },
+  {
+    "start": 2340.48,
+    "text": " So it depends on what you want to do."
+  },
+  {
+    "start": 2341.84,
+    "text": " You need to decide which one you want to use."
+  },
+  {
+    "start": 2344.08,
+    "text": " Now, then you have the S time right here."
+  },
+  {
+    "start": 2346.56,
+    "text": " Right now, inf S, it means nothing."
+  },
+  {
+    "start": 2349.04,
+    "text": " It's all the way down."
+  },
+  {
+    "start": 2350.24,
+    "text": " So if I go right here, notice how it's changing the sustain."
+  },
+  {
+    "start": 2353.7599999999998,
+    "text": " It's happening right there."
+  },
+  {
+    "start": 2354.72,
+    "text": " Let me make it a little bit obvious."
+  },
+  {
+    "start": 2356.56,
+    "text": " I'm going to go right there."
+  },
+  {
+    "start": 2358.96,
+    "text": " And what it's doing is just modifying how the sustain works."
+  },
+  {
+    "start": 2363.12,
+    "text": " Now, remember when we play a key and we go up and we have some decay stage,"
+  },
+  {
+    "start": 2368.88,
+    "text": " we are staying right here."
+  },
+  {
+    "start": 2370.7999999999997,
+    "text": " And it's not going to move until I release the key and we go to the release stage."
+  },
+  {
+    "start": 2377.52,
+    "text": " Now, the S time, what it does is going to,"
+  },
+  {
+    "start": 2381.68,
+    "text": " when we are holding a key, it's going to hold it at some point,"
+  },
+  {
+    "start": 2385.7599999999998,
+    "text": " but it's going to slowly transition and go down in the position where we are sustaining."
+  },
+  {
+    "start": 2393.7599999999998,
+    "text": " If I play it again, it goes up, goes down,"
+  },
+  {
+    "start": 2397.28,
+    "text": " and then goes down to the sustain stage, which is pretty low at this point."
+  },
+  {
+    "start": 2402.7200000000003,
+    "text": " Let me just go maybe up a little bit more or just maybe go up right here."
+  },
+  {
+    "start": 2407.92,
+    "text": " Go up a little bit of decay, and then the sustain is going to fade out."
+  },
+  {
+    "start": 2412.1600000000003,
+    "text": " So that's, you know, the S time."
+  },
+  {
+    "start": 2414.0,
+    "text": " Now, this is again, not a very common, you know,"
+  },
+  {
+    "start": 2416.7200000000003,
+    "text": " control that you get on all the synthesizers, but it's cool."
+  },
+  {
+    "start": 2420.48,
+    "text": " Let's move on to the next thing."
+  },
+  {
+    "start": 2422.2400000000002,
+    "text": " And this one is going to be the attack and velocity."
+  },
+  {
+    "start": 2425.36,
+    "text": " And notice it says attack, and then the arrow,"
+  },
+  {
+    "start": 2428.56,
+    "text": " it's pointing towards velocity or the velocity is pointing towards the attack."
+  },
+  {
+    "start": 2433.76,
+    "text": " So this is what it means."
+  },
+  {
+    "start": 2434.96,
+    "text": " It's the velocity of how we play the keys is going to affect the attack."
+  },
+  {
+    "start": 2440.48,
+    "text": " And this is pretty simple."
+  },
+  {
+    "start": 2442.08,
+    "text": " I'm going to maybe do some long attacks."
+  },
+  {
+    "start": 2444.88,
+    "text": " So we know it's going to be, it's going to take a long time."
+  },
+  {
+    "start": 2448.2400000000002,
+    "text": " So if I play it, maybe 15 seconds is too much."
+  },
+  {
+    "start": 2450.7200000000003,
+    "text": " I'm going to maybe do three seconds."
+  },
+  {
+    "start": 2453.2799999999997,
+    "text": " So if I play it, it's going to go up."
+  },
+  {
+    "start": 2455.8399999999997,
+    "text": " And for now, it's just going to keep the sustain all the way up."
+  },
+  {
+    "start": 2458.16,
+    "text": " But it's taking a long time to go up because we said three seconds."
+  },
+  {
+    "start": 2463.4399999999996,
+    "text": " So now if I play the key softer, it's going to do that."
+  },
+  {
+    "start": 2469.2,
+    "text": " Now, if I play the key harder, it's going to do it the same way."
+  },
+  {
+    "start": 2474.56,
+    "text": " So this is what it means."
+  },
+  {
+    "start": 2476.7999999999997,
+    "text": " If we play hard or we play soft, this is going to affect the attack."
+  },
+  {
+    "start": 2482.48,
+    "text": " So if I go all the way up, just to prove how this works,"
+  },
+  {
+    "start": 2485.6,
+    "text": " if I do soft, it's going to go slow."
+  },
+  {
+    "start": 2489.28,
+    "text": " But now if I go fast, the attack is going to be faster."
+  },
+  {
+    "start": 2492.88,
+    "text": " Right?"
+  },
+  {
+    "start": 2493.28,
+    "text": " I'm going to play it soft."
+  },
+  {
+    "start": 2496.48,
+    "text": " It's super slow, like super slow."
+  },
+  {
+    "start": 2499.92,
+    "text": " But now I'm going to play the keys harder."
+  },
+  {
+    "start": 2502.0,
+    "text": " So it means more velocity."
+  },
+  {
+    "start": 2504.72,
+    "text": " And it's super fast."
+  },
+  {
+    "start": 2506.64,
+    "text": " Right?"
+  },
+  {
+    "start": 2506.96,
+    "text": " So this is what the attack and velocity means."
+  },
+  {
+    "start": 2509.92,
+    "text": " It's going to alter the values on the attack,"
+  },
+  {
+    "start": 2512.8,
+    "text": " depending on how we play the keys in terms of velocity."
+  },
+  {
+    "start": 2516.32,
+    "text": " Now then we have the other side, which is going to be envelope and velocity."
+  },
+  {
+    "start": 2520.4,
+    "text": " And for now, I'm just going to do something like this,"
+  },
+  {
+    "start": 2522.7200000000003,
+    "text": " maybe a long decay or something like that,"
+  },
+  {
+    "start": 2525.36,
+    "text": " a little bit of sustain, a little bit of release."
+  },
+  {
+    "start": 2527.6800000000003,
+    "text": " Right?"
+  },
+  {
+    "start": 2528.08,
+    "text": " So if I play something, it's going to be something like that."
+  },
+  {
+    "start": 2533.92,
+    "text": " If I release it, it's going to go out."
+  },
+  {
+    "start": 2535.92,
+    "text": " So the envelope, this works pretty much the same."
+  },
+  {
+    "start": 2539.36,
+    "text": " The velocity is affecting the attack."
+  },
+  {
+    "start": 2541.6,
+    "text": " But now on this one, the velocity is going to affect the whole envelope."
+  },
+  {
+    "start": 2546.32,
+    "text": " So all the values are going to be scaled, depending on what we have right here."
+  },
+  {
+    "start": 2551.1200000000003,
+    "text": " And I'm going to go all the way up, just like with it, and we can prove this."
+  },
+  {
+    "start": 2554.08,
+    "text": " So if I play soft, it's going to be very soft."
+  },
+  {
+    "start": 2558.8,
+    "text": " If I play hard, it's going to be super hard."
+  },
+  {
+    "start": 2562.1600000000003,
+    "text": " And if I play kind of a mid intensity, it's going to be like that."
+  },
+  {
+    "start": 2567.6,
+    "text": " Like that."
+  },
+  {
+    "start": 2568.24,
+    "text": " If I play super soft, it's going to be super soft."
+  },
+  {
+    "start": 2572.16,
+    "text": " So yeah, this is going to change how the velocity or the envelope is going to work,"
+  },
+  {
+    "start": 2577.6,
+    "text": " depending on how hard you hit the keys."
+  },
+  {
+    "start": 2580.16,
+    "text": " Okay, so we covered pretty much everything."
+  },
+  {
+    "start": 2582.3999999999996,
+    "text": " We still need to talk about the loop,"
+  },
+  {
+    "start": 2584.64,
+    "text": " but all of this section we have right here at the top, we covered this."
+  },
+  {
+    "start": 2589.2799999999997,
+    "text": " Now we know that we can do modulation with envelope, but you have other options."
+  },
+  {
+    "start": 2594.08,
+    "text": " You have the LFO and you have key tracking."
+  },
+  {
+    "start": 2596.88,
+    "text": " And for now, I'm going to go to nothing on the envelope."
+  },
+  {
+    "start": 2599.92,
+    "text": " So whatever I play is not going to affect the frequency."
+  },
+  {
+    "start": 2604.56,
+    "text": " I'm just going to do a little bit of resonance and leave it right there."
+  },
+  {
+    "start": 2607.92,
+    "text": " And we need to talk about this."
+  },
+  {
+    "start": 2609.76,
+    "text": " Now the LFO is just like works like the oscillator."
+  },
+  {
+    "start": 2613.84,
+    "text": " This one is going to be tied to the LFO 1."
+  },
+  {
+    "start": 2616.4,
+    "text": " So if it's off, it's going to be off."
+  },
+  {
+    "start": 2618.48,
+    "text": " When I turn it on and go back, now it's on."
+  },
+  {
+    "start": 2622.1600000000003,
+    "text": " So it's going to do modulation."
+  },
+  {
+    "start": 2624.48,
+    "text": " It's going to move the frequency following the LFO."
+  },
+  {
+    "start": 2628.1600000000003,
+    "text": " If I go faster, it's going to be faster."
+  },
+  {
+    "start": 2630.48,
+    "text": " If I go slower on the LFO, it's going to be slower."
+  },
+  {
+    "start": 2633.6800000000003,
+    "text": " That's what it means."
+  },
+  {
+    "start": 2634.56,
+    "text": " It's just pretty simple."
+  },
+  {
+    "start": 2636.08,
+    "text": " And this is how aggressive that LFO is going to be."
+  },
+  {
+    "start": 2639.92,
+    "text": " So if I go down, we are just going to be doing a little bit."
+  },
+  {
+    "start": 2642.64,
+    "text": " If I go super hard, it's just going to be more."
+  },
+  {
+    "start": 2646.32,
+    "text": " So pretty simple, pretty simple control."
+  },
+  {
+    "start": 2648.64,
+    "text": " Now if I double click, it's going to go back to the original value."
+  },
+  {
+    "start": 2652.1600000000003,
+    "text": " Now we need to talk about the key track."
+  },
+  {
+    "start": 2654.08,
+    "text": " And it's something you have on pretty much any synthesizer."
+  },
+  {
+    "start": 2659.2,
+    "text": " And it's a little bit weird to explain."
+  },
+  {
+    "start": 2660.96,
+    "text": " I'm going to explain it on a very easy way."
+  },
+  {
+    "start": 2665.44,
+    "text": " So right now, the key tracking is pretty much nothing."
+  },
+  {
+    "start": 2669.04,
+    "text": " I have a lot of sustain on the amp."
+  },
+  {
+    "start": 2671.6,
+    "text": " Let me go a little bit less."
+  },
+  {
+    "start": 2673.84,
+    "text": " I'm going to go there."
+  },
+  {
+    "start": 2675.12,
+    "text": " So if I play it, it's going to go down in volume very smoothly."
+  },
+  {
+    "start": 2680.48,
+    "text": " All right."
+  },
+  {
+    "start": 2681.84,
+    "text": " Let's talk about the key track."
+  },
+  {
+    "start": 2683.8399999999997,
+    "text": " So I'm going to be playing."
+  },
+  {
+    "start": 2685.8399999999997,
+    "text": " I'm going to be doing something like this."
+  },
+  {
+    "start": 2688.08,
+    "text": " Okay."
+  },
+  {
+    "start": 2689.2,
+    "text": " So we can see when we do something like this,"
+  },
+  {
+    "start": 2691.4399999999996,
+    "text": " and we are cutting right there, and we have this peak right here."
+  },
+  {
+    "start": 2696.24,
+    "text": " Now if I play a low key, the peak is right here."
+  },
+  {
+    "start": 2700.0,
+    "text": " If I play an octave higher, the peak is on the same place."
+  },
+  {
+    "start": 2704.24,
+    "text": " The peak is on the same place."
+  },
+  {
+    "start": 2706.0,
+    "text": " And I keep playing higher keys, but the peak is always on the same place."
+  },
+  {
+    "start": 2710.24,
+    "text": " So this means that when I play a key,"
+  },
+  {
+    "start": 2712.56,
+    "text": " it doesn't matter if I'm playing low keys or higher keys."
+  },
+  {
+    "start": 2715.68,
+    "text": " The frequency is going to be always the same."
+  },
+  {
+    "start": 2718.72,
+    "text": " We are going to be always standing on 2.2k when we just, you know,"
+  },
+  {
+    "start": 2723.04,
+    "text": " cut off frequencies in this case because we are using a load pass."
+  },
+  {
+    "start": 2726.16,
+    "text": " So this means that the frequency is not affected by how we play the keys."
+  },
+  {
+    "start": 2730.7999999999997,
+    "text": " Now, the key tracking is going to do the opposite."
+  },
+  {
+    "start": 2733.6,
+    "text": " It's going to move the frequency controls, like moving it up or moving it down,"
+  },
+  {
+    "start": 2739.6,
+    "text": " depending on which key we are playing."
+  },
+  {
+    "start": 2742.08,
+    "text": " So now if I go up all the way down on this one,"
+  },
+  {
+    "start": 2745.36,
+    "text": " now the frequency or that peak is going to start moving."
+  },
+  {
+    "start": 2748.96,
+    "text": " So if I play a low key, notice that we get nothing."
+  },
+  {
+    "start": 2752.24,
+    "text": " If I play a high key, we get it, but it's just a little bit different."
+  },
+  {
+    "start": 2755.84,
+    "text": " And if I play a high key, it's going to be right here."
+  },
+  {
+    "start": 2759.36,
+    "text": " Now from this key, I'm doing C3, and I'm going to start playing all the white keys."
+  },
+  {
+    "start": 2765.28,
+    "text": " Right? C. It's going to be a D."
+  },
+  {
+    "start": 2766.96,
+    "text": " And then go on and on and on."
+  },
+  {
+    "start": 2772.32,
+    "text": " Notice the difference."
+  },
+  {
+    "start": 2774.08,
+    "text": " The peak, it's moving."
+  },
+  {
+    "start": 2775.36,
+    "text": " And I'm being very aggressive."
+  },
+  {
+    "start": 2777.28,
+    "text": " Let me just go maybe to 2."
+  },
+  {
+    "start": 2779.36,
+    "text": " So what it means is that when we play low keys,"
+  },
+  {
+    "start": 2782.4,
+    "text": " we are cutting less, you know, more of the high frequencies."
+  },
+  {
+    "start": 2786.48,
+    "text": " And when we play higher keys, it's going to be cutting less."
+  },
+  {
+    "start": 2791.04,
+    "text": " It's like we play high keys."
+  },
+  {
+    "start": 2792.8,
+    "text": " This is just going to be moved like that."
+  },
+  {
+    "start": 2794.56,
+    "text": " If we play low keys, it's going to be that."
+  },
+  {
+    "start": 2796.96,
+    "text": " So it's going to be brighter for higher keys, darker for lower keys."
+  },
+  {
+    "start": 2801.68,
+    "text": " That's what the key track is going to do for us."
+  },
+  {
+    "start": 2804.64,
+    "text": " So again, if I go and play C, as soon as I play the next key,"
+  },
+  {
+    "start": 2808.88,
+    "text": " that peak is moving, which means that the frequency is moving."
+  },
+  {
+    "start": 2812.96,
+    "text": " And when I say frequency, I mean the cutoff frequency."
+  },
+  {
+    "start": 2819.76,
+    "text": " Now, what is the point of all of this?"
+  },
+  {
+    "start": 2821.84,
+    "text": " Now, sometimes you're going to be playing and kind of playing some keys."
+  },
+  {
+    "start": 2825.92,
+    "text": " So you're going to be playing a lower."
+  },
+  {
+    "start": 2827.6,
+    "text": " You're going to be doing some cutoff like that."
+  },
+  {
+    "start": 2829.6,
+    "text": " Let's say I'm going to be playing a low key and we get something."
+  },
+  {
+    "start": 2832.48,
+    "text": " But if I want to play higher keys, we don't hear them"
+  },
+  {
+    "start": 2836.88,
+    "text": " because we are cutting them with the frequency."
+  },
+  {
+    "start": 2840.48,
+    "text": " And the key tracking, it's not modifying the frequency."
+  },
+  {
+    "start": 2844.48,
+    "text": " So we are cutting a lot of the high keys."
+  },
+  {
+    "start": 2847.44,
+    "text": " We cannot hear them."
+  },
+  {
+    "start": 2848.96,
+    "text": " So the key tracking will allow the high keys to, you know, to shine."
+  },
+  {
+    "start": 2855.92,
+    "text": " You know, we can hear them now."
+  },
+  {
+    "start": 2857.6,
+    "text": " If I play a low key, we can hear the low key."
+  },
+  {
+    "start": 2860.2400000000002,
+    "text": " But if I play higher keys, we can hear them."
+  },
+  {
+    "start": 2866.0,
+    "text": " Now, all this depends on how much you're doing right here."
+  },
+  {
+    "start": 2868.4,
+    "text": " We can do just a tiny bit and get closer to maybe one."
+  },
+  {
+    "start": 2873.36,
+    "text": " We can hear the low frequency, but now I can hear the high frequencies."
+  },
+  {
+    "start": 2879.84,
+    "text": " If I go all the way down, this is going to be completely different."
+  },
+  {
+    "start": 2883.76,
+    "text": " Oh, let me go right there."
+  },
+  {
+    "start": 2886.8,
+    "text": " You can."
+  },
+  {
+    "start": 2888.8,
+    "text": " Right."
+  },
+  {
+    "start": 2889.28,
+    "text": " So we are cutting a lot and we are not getting the higher keys."
+  },
+  {
+    "start": 2892.48,
+    "text": " Now, you can go the other way."
+  },
+  {
+    "start": 2893.92,
+    "text": " This is just going to do the opposite."
+  },
+  {
+    "start": 2896.0,
+    "text": " Now, the lower keys are going to be brighter and the higher keys are going to be darker."
+  },
+  {
+    "start": 2900.0,
+    "text": " So low key, we get a lot."
+  },
+  {
+    "start": 2902.1600000000003,
+    "text": " High key, we get less."
+  },
+  {
+    "start": 2903.84,
+    "text": " And notice that we get pretty much nothing if I play higher keys."
+  },
+  {
+    "start": 2908.16,
+    "text": " So it's just the opposite."
+  },
+  {
+    "start": 2909.36,
+    "text": " So it depends on what you want to do."
+  },
+  {
+    "start": 2910.64,
+    "text": " You want to do a key tracking."
+  },
+  {
+    "start": 2912.16,
+    "text": " If you're playing some keys and you are playing with both hands,"
+  },
+  {
+    "start": 2915.52,
+    "text": " maybe a little bit of key tracking will do good."
+  },
+  {
+    "start": 2918.0,
+    "text": " But if you're making, let's say you're creating a bass patch,"
+  },
+  {
+    "start": 2921.92,
+    "text": " maybe disabling the key tracking or having less key tracking is going to help you."
+  },
+  {
+    "start": 2927.04,
+    "text": " Now, on the other side, we have the rest mod."
+  },
+  {
+    "start": 2930.0,
+    "text": " And this works the same."
+  },
+  {
+    "start": 2931.36,
+    "text": " So I don't need to do a lot of explaining because it works the same than here,"
+  },
+  {
+    "start": 2936.32,
+    "text": " than the frequency mod."
+  },
+  {
+    "start": 2937.36,
+    "text": " Now, the difference is that we are modulating this control,"
+  },
+  {
+    "start": 2940.1600000000003,
+    "text": " which is something that's so common on all synthesizers."
+  },
+  {
+    "start": 2943.1200000000003,
+    "text": " We can do it with an LFO."
+  },
+  {
+    "start": 2945.1200000000003,
+    "text": " It's going to be wild."
+  },
+  {
+    "start": 2949.6800000000003,
+    "text": " It's modulating this, not this."
+  },
+  {
+    "start": 2952.8,
+    "text": " Now, same thing with the key tracking."
+  },
+  {
+    "start": 2954.96,
+    "text": " Works the same way."
+  },
+  {
+    "start": 2956.1600000000003,
+    "text": " Low keys, higher keys, it's just going to go aggressive."
+  },
+  {
+    "start": 2959.36,
+    "text": " And then the envelope, it's just going to work the same way."
+  },
+  {
+    "start": 2961.76,
+    "text": " It's going to move it up and then down, depending on what we are doing on the envelope."
+  },
+  {
+    "start": 2966.32,
+    "text": " Now, then we have another thing, which is going to be the drive."
+  },
+  {
+    "start": 2970.32,
+    "text": " Now, usually on analog synthesizers, you get a little bit of drive"
+  },
+  {
+    "start": 2974.0800000000004,
+    "text": " because you have an analog circuit."
+  },
+  {
+    "start": 2976.4,
+    "text": " So this is what gives you, it gives you a little bit of saturation"
+  },
+  {
+    "start": 2981.04,
+    "text": " on pretty much all the different types that you have right here."
+  },
+  {
+    "start": 2985.04,
+    "text": " By default, you have this one, but you can just turn it off and, you know, do nothing."
+  },
+  {
+    "start": 2991.6800000000003,
+    "text": " If you go up in resonance, it's going to be a little bit more obvious."
+  },
+  {
+    "start": 2994.48,
+    "text": " Let me just go up and up."
+  },
+  {
+    "start": 2996.56,
+    "text": " So different drives are just going to give you different tones."
+  },
+  {
+    "start": 2999.76,
+    "text": " Notice it's just a little bit more aggressive."
+  },
+  {
+    "start": 3002.32,
+    "text": " Different, way aggressive."
+  },
+  {
+    "start": 3005.2,
+    "text": " A little bit less, a little bit more, and a little bit more."
+  },
+  {
+    "start": 3009.52,
+    "text": " So just different types of drive, depends on what you want to do."
+  },
+  {
+    "start": 3012.96,
+    "text": " Okay, I'm starting with the default patch, and I'm going to go to the amp"
+  },
+  {
+    "start": 3016.08,
+    "text": " and do the same thing I did before."
+  },
+  {
+    "start": 3017.84,
+    "text": " I'm going to go all the way up on the sustain."
+  },
+  {
+    "start": 3019.68,
+    "text": " And I'm going to go back because I want to talk about the loop."
+  },
+  {
+    "start": 3022.48,
+    "text": " Now, this is something very simple."
+  },
+  {
+    "start": 3024.24,
+    "text": " Now, right now, the loop is completely off and we are doing a little bit of envelope."
+  },
+  {
+    "start": 3028.24,
+    "text": " I'm going to do about 10."
+  },
+  {
+    "start": 3030.08,
+    "text": " So if I do something like that, I'm going to adjust the attack."
+  },
+  {
+    "start": 3034.16,
+    "text": " I'm going to do it like that."
+  },
+  {
+    "start": 3035.52,
+    "text": " And we already know how this works."
+  },
+  {
+    "start": 3037.12,
+    "text": " I don't need to explain it again."
+  },
+  {
+    "start": 3039.12,
+    "text": " I'm going to be moving the frequencies and I'm going to be doing a little bit of resonance."
+  },
+  {
+    "start": 3042.8799999999997,
+    "text": " So we're going to see it moving up, then sustaining at some point,"
+  },
+  {
+    "start": 3046.7999999999997,
+    "text": " and then going down if it's going down."
+  },
+  {
+    "start": 3050.08,
+    "text": " Let me just do it like that."
+  },
+  {
+    "start": 3052.3999999999996,
+    "text": " There we go."
+  },
+  {
+    "start": 3052.7999999999997,
+    "text": " It's just going down."
+  },
+  {
+    "start": 3055.2,
+    "text": " All right."
+  },
+  {
+    "start": 3056.0,
+    "text": " So there we have the loop."
+  },
+  {
+    "start": 3057.2799999999997,
+    "text": " By default, it's off."
+  },
+  {
+    "start": 3058.3999999999996,
+    "text": " So it means whatever we do on the envelope is just going to be doing that, right?"
+  },
+  {
+    "start": 3062.64,
+    "text": " Okay."
+  },
+  {
+    "start": 3062.9599999999996,
+    "text": " So if I go to AD, it says, okay, so we are going to do AD and then we're going to do R."
+  },
+  {
+    "start": 3068.24,
+    "text": " So this is called loop."
+  },
+  {
+    "start": 3069.7599999999998,
+    "text": " So it means it's going to loop something."
+  },
+  {
+    "start": 3071.4399999999996,
+    "text": " And in this case, it's going to be the attack and the decay."
+  },
+  {
+    "start": 3074.24,
+    "text": " So if I go to that section, I'm going to be playing it."
+  },
+  {
+    "start": 3078.3199999999997,
+    "text": " And that's what is happening."
+  },
+  {
+    "start": 3079.4399999999996,
+    "text": " I'm holding the keys and it's looping the A and the D,"
+  },
+  {
+    "start": 3083.52,
+    "text": " the attack and the decay."
+  },
+  {
+    "start": 3084.8,
+    "text": " Now, if we make this a little bit shorter, it's going to be a little bit obvious."
+  },
+  {
+    "start": 3089.36,
+    "text": " Right?"
+  },
+  {
+    "start": 3091.2,
+    "text": " I'm going to be using the oscillator number one."
+  },
+  {
+    "start": 3094.16,
+    "text": " So that's what is happening."
+  },
+  {
+    "start": 3095.12,
+    "text": " It's just looping a portion of the envelope."
+  },
+  {
+    "start": 3099.28,
+    "text": " So what is going to happen with the ADSR?"
+  },
+  {
+    "start": 3101.68,
+    "text": " So this is pretty much the same thing, but it's a little bit more aggressive"
+  },
+  {
+    "start": 3105.28,
+    "text": " because now it's like cycling through everything without sustained."
+  },
+  {
+    "start": 3110.32,
+    "text": " And it's just kind of repeating it over and over as I hold the keys."
+  },
+  {
+    "start": 3116.32,
+    "text": " Right?"
+  },
+  {
+    "start": 3116.88,
+    "text": " Pretty simple."
+  },
+  {
+    "start": 3117.84,
+    "text": " Now that we have the other one and the other one is just a little bit more specific."
+  },
+  {
+    "start": 3121.36,
+    "text": " It says ADS and then it's going to do the AR."
+  },
+  {
+    "start": 3124.32,
+    "text": " So I'm going to select this one and maybe I'm going to be doing something like this"
+  },
+  {
+    "start": 3127.84,
+    "text": " and maybe I'm going to do something like this."
+  },
+  {
+    "start": 3129.2,
+    "text": " Let's see if we can find a good example."
+  },
+  {
+    "start": 3132.16,
+    "text": " So right now we are going up, staying right there,"
+  },
+  {
+    "start": 3135.84,
+    "text": " going down and keeping right here on the sustain."
+  },
+  {
+    "start": 3138.64,
+    "text": " So we play a key, goes up, goes down with the key and it stays right there."
+  },
+  {
+    "start": 3143.12,
+    "text": " Now when I release the keys, it's just doing something like that."
+  },
+  {
+    "start": 3148.56,
+    "text": " Oh, there we see it."
+  },
+  {
+    "start": 3149.8399999999997,
+    "text": " So now if I play a key, it's going to go up, it's going to go down, sustain,"
+  },
+  {
+    "start": 3153.8399999999997,
+    "text": " but I'm going to release it and it's going to kind of like go back to whatever we had."
+  },
+  {
+    "start": 3159.7599999999998,
+    "text": " You know, it's going to go up again."
+  },
+  {
+    "start": 3161.8399999999997,
+    "text": " It's like doing an AR at the end."
+  },
+  {
+    "start": 3165.04,
+    "text": " That's the difference."
+  },
+  {
+    "start": 3165.8399999999997,
+    "text": " That's pretty much the difference."
+  },
+  {
+    "start": 3167.2,
+    "text": " Now if I do less sustain, maybe it's going to be a little bit obvious."
+  },
+  {
+    "start": 3170.08,
+    "text": " It's going to go up, it's going to go down and I release the key"
+  },
+  {
+    "start": 3173.12,
+    "text": " and it's going to go up again."
+  },
+  {
+    "start": 3174.8799999999997,
+    "text": " Now if I go to off, we are not going to get that."
+  },
+  {
+    "start": 3177.6,
+    "text": " It's going to go up, it's going to go down and when I release the keys,"
+  },
+  {
+    "start": 3180.24,
+    "text": " it's just going to die."
+  },
+  {
+    "start": 3181.4399999999996,
+    "text": " So this is what it means."
+  },
+  {
+    "start": 3182.8799999999997,
+    "text": " It goes up, it goes down and then I release the key and it's going to repeat the AR."
+  },
+  {
+    "start": 3189.8399999999997,
+    "text": " Right?"
+  },
+  {
+    "start": 3190.3199999999997,
+    "text": " So that's what it means."
+  },
+  {
+    "start": 3191.52,
+    "text": " It's pretty, pretty simple."
+  },
+  {
+    "start": 3193.04,
+    "text": " So this, of course, this depends on what you want to do with the envelopes right here."
+  },
+  {
+    "start": 3199.12,
+    "text": " Now let me adjust the envelopes just a tiny bit."
+  },
+  {
+    "start": 3202.4,
+    "text": " So we are going to be doing some attack, some decay."
+  },
+  {
+    "start": 3205.68,
+    "text": " We are doing a little bit of sustain and then, you know, the release,"
+  },
+  {
+    "start": 3208.16,
+    "text": " but right now the release doesn't matter much."
+  },
+  {
+    "start": 3210.24,
+    "text": " So I'm going to be playing a key."
+  },
+  {
+    "start": 3211.7599999999998,
+    "text": " We're going to go up, we're going to go down and sustain at this point."
+  },
+  {
+    "start": 3216.0,
+    "text": " Now the free, what it's going to do is like, it's a little bit weird."
+  },
+  {
+    "start": 3219.84,
+    "text": " It's like disabling the sustain stage, but at the same time,"
+  },
+  {
+    "start": 3223.2000000000003,
+    "text": " it's like it's going to jump if we have a value on the sustain."
+  },
+  {
+    "start": 3226.48,
+    "text": " So let me just show you right now."
+  },
+  {
+    "start": 3228.08,
+    "text": " Again, we go up, we go down."
+  },
+  {
+    "start": 3230.08,
+    "text": " It's going to stay right there because we are sustaining at that point."
+  },
+  {
+    "start": 3233.52,
+    "text": " Now if I do free, it's going to go up, it's going to go down and when it reaches this point,"
+  },
+  {
+    "start": 3238.2400000000002,
+    "text": " which is the sustain stage, it's going to go all the way down."
+  },
+  {
+    "start": 3242.32,
+    "text": " There's decay, stays, when we reach the sustain, jumps all the way back."
+  },
+  {
+    "start": 3246.72,
+    "text": " So there's no sustain or no motion right here if we reach this section."
+  },
+  {
+    "start": 3251.9199999999996,
+    "text": " It's like stride going right here to this one."
+  },
+  {
+    "start": 3255.04,
+    "text": " If I go all the way down on the sustain,"
+  },
+  {
+    "start": 3257.52,
+    "text": " we are going to be able to hear the decay go all the way down."
+  },
+  {
+    "start": 3261.12,
+    "text": " But if we have some sustain at some point,"
+  },
+  {
+    "start": 3264.3199999999997,
+    "text": " it's just going to hit the sustain and just jump back."
+  },
+  {
+    "start": 3267.68,
+    "text": " Let me just make the decay longer."
+  },
+  {
+    "start": 3270.0,
+    "text": " It's going to decay."
+  },
+  {
+    "start": 3274.16,
+    "text": " Or maybe not because it's just too long."
+  },
+  {
+    "start": 3276.8799999999997,
+    "text": " It's going to take a long time."
+  },
+  {
+    "start": 3282.3999999999996,
+    "text": " It's going to go down at some point and then jump back."
+  },
+  {
+    "start": 3286.0,
+    "text": " This is what the free is going to do."
+  },
+  {
+    "start": 3287.9199999999996,
+    "text": " So on the amp, it's going to be a little bit easier because"
+  },
+  {
+    "start": 3291.2799999999997,
+    "text": " a lot of the features we have right here, we already covered them on the filters."
+  },
+  {
+    "start": 3296.7999999999997,
+    "text": " So yeah, notice it looks pretty much the same and it's because it is the same."
+  },
+  {
+    "start": 3300.8799999999997,
+    "text": " It's just the same."
+  },
+  {
+    "start": 3301.9199999999996,
+    "text": " The only difference is that the amp is going to control the volume."
+  },
+  {
+    "start": 3305.2799999999997,
+    "text": " It's how the volume goes out of the synthesizer to whatever effect or other channel in this case."
+  },
+  {
+    "start": 3313.2,
+    "text": " So again, the amp controls volume."
+  },
+  {
+    "start": 3315.8399999999997,
+    "text": " That's what it does."
+  },
+  {
+    "start": 3316.8799999999997,
+    "text": " This one controls the frequency and the filtering and the resonance,"
+  },
+  {
+    "start": 3320.16,
+    "text": " and this one controls volume."
+  },
+  {
+    "start": 3321.6,
+    "text": " So you have two amps."
+  },
+  {
+    "start": 3322.72,
+    "text": " The amp number one is going to control whatever routing we have right here."
+  },
+  {
+    "start": 3326.0,
+    "text": " We're going to talk about the minute."
+  },
+  {
+    "start": 3327.4399999999996,
+    "text": " And then you have a second amp."
+  },
+  {
+    "start": 3329.04,
+    "text": " And the amp, this one, is going to be for this line for the oscillator number two,"
+  },
+  {
+    "start": 3333.76,
+    "text": " but it's going to be tied to the LFO number two."
+  },
+  {
+    "start": 3336.32,
+    "text": " And this one is tied to the LFO number one, just like we have on the oscillators."
+  },
+  {
+    "start": 3341.0400000000004,
+    "text": " All right, so let's just start with the basics."
+  },
+  {
+    "start": 3343.0400000000004,
+    "text": " I'm going to go to the amp number one."
+  },
+  {
+    "start": 3344.6400000000003,
+    "text": " What do we have first?"
+  },
+  {
+    "start": 3345.84,
+    "text": " Well, we have the envelopes and we have a way to modulate the only two params that we have right here,"
+  },
+  {
+    "start": 3352.1600000000003,
+    "text": " which is the pan and the level."
+  },
+  {
+    "start": 3354.4,
+    "text": " And as you could guess, the level is going to go up in level or go down in level."
+  },
+  {
+    "start": 3359.0400000000004,
+    "text": " Pretty easy, right?"
+  },
+  {
+    "start": 3360.8,
+    "text": " Then we have the pan."
+  },
+  {
+    "start": 3361.6000000000004,
+    "text": " It's going to go all the way to the left, to the right in this case,"
+  },
+  {
+    "start": 3364.32,
+    "text": " or it's going to go all the way to the left."
+  },
+  {
+    "start": 3366.32,
+    "text": " And you can turn it off because maybe you want to route all to the amp number two."
+  },
+  {
+    "start": 3371.04,
+    "text": " So now then we have the envelopes."
+  },
+  {
+    "start": 3372.7200000000003,
+    "text": " And I feel, again, I don't need to talk about this."
+  },
+  {
+    "start": 3375.6000000000004,
+    "text": " We are going to be deciding how much of this we are going to be doing to go out."
+  },
+  {
+    "start": 3380.48,
+    "text": " And this is decided by the envelope."
+  },
+  {
+    "start": 3382.8,
+    "text": " In the case of the frequency, we need to manually go and say,"
+  },
+  {
+    "start": 3386.64,
+    "text": " dude, we are going to be working with the frequency and we are going to use the envelope."
+  },
+  {
+    "start": 3390.96,
+    "text": " But by this much on the amp, you don't get something like this."
+  },
+  {
+    "start": 3395.2799999999997,
+    "text": " By default, the envelope is 100%."
+  },
+  {
+    "start": 3398.64,
+    "text": " You're using 100% of the envelope."
+  },
+  {
+    "start": 3401.8399999999997,
+    "text": " You don't have a choice."
+  },
+  {
+    "start": 3402.72,
+    "text": " This is how it works."
+  },
+  {
+    "start": 3404.64,
+    "text": " Now, how is it going to control the how the volume goes out?"
+  },
+  {
+    "start": 3407.7599999999998,
+    "text": " And for now, I'm just going to go all the way down in this one is by using this."
+  },
+  {
+    "start": 3411.2,
+    "text": " And it works the same than this."
+  },
+  {
+    "start": 3413.04,
+    "text": " If I do a slow attack and for now, I'm going to go to linear,"
+  },
+  {
+    "start": 3416.16,
+    "text": " it's going to take a long time or maybe some time."
+  },
+  {
+    "start": 3418.64,
+    "text": " And for now, it's going to go all the way down, all the way down, all the way down."
+  },
+  {
+    "start": 3422.48,
+    "text": " Remember, this controls volume."
+  },
+  {
+    "start": 3423.7599999999998,
+    "text": " So it's going to go up in volume slowly."
+  },
+  {
+    "start": 3426.72,
+    "text": " And then at some point, it's going to die because we have no decay."
+  },
+  {
+    "start": 3430.0,
+    "text": " So if I want to smoothly go down, then I'm going to go up on the decay."
+  },
+  {
+    "start": 3434.3199999999997,
+    "text": " And it's going to take one second to go down in volume."
+  },
+  {
+    "start": 3438.96,
+    "text": " And we go down smoothly."
+  },
+  {
+    "start": 3440.64,
+    "text": " What happens if we want to sustain if you're holding a key?"
+  },
+  {
+    "start": 3443.7599999999998,
+    "text": " Well, we need some sustain."
+  },
+  {
+    "start": 3445.36,
+    "text": " So I'm going to be going up, it's going to go down a little bit."
+  },
+  {
+    "start": 3449.36,
+    "text": " And then it's going to sustain around here."
+  },
+  {
+    "start": 3452.1600000000003,
+    "text": " So remember, it's just the same thing we did right here, but with volume."
+  },
+  {
+    "start": 3456.0,
+    "text": " And then if I release a key, it's just going to die instantly."
+  },
+  {
+    "start": 3459.28,
+    "text": " So in this case, if we want it for the sound to die smoothly,"
+  },
+  {
+    "start": 3463.92,
+    "text": " we need to add some release."
+  },
+  {
+    "start": 3466.56,
+    "text": " And now it's going to go down."
+  },
+  {
+    "start": 3467.6,
+    "text": " And when I release the keys, it's going to take almost a second to die."
+  },
+  {
+    "start": 3472.4,
+    "text": " So remember, it's just the same we had on the filters,"
+  },
+  {
+    "start": 3474.88,
+    "text": " but right here."
+  },
+  {
+    "start": 3476.0,
+    "text": " Now the loop, it's the same we have on the filter,"
+  },
+  {
+    "start": 3478.96,
+    "text": " but in this case, it's going to be with volume."
+  },
+  {
+    "start": 3481.36,
+    "text": " Then we have the attack to velocity."
+  },
+  {
+    "start": 3483.52,
+    "text": " This works the same way."
+  },
+  {
+    "start": 3484.88,
+    "text": " If I go all the way up and I press very slowly,"
+  },
+  {
+    "start": 3489.28,
+    "text": " that is the volume and the attack, actually the attack."
+  },
+  {
+    "start": 3492.7200000000003,
+    "text": " It's super slow."
+  },
+  {
+    "start": 3494.4,
+    "text": " But if I play hard, it's going to be super fast."
+  },
+  {
+    "start": 3498.32,
+    "text": " Same thing we did on the filter."
+  },
+  {
+    "start": 3500.4,
+    "text": " Now, if we go to the envelope and velocity, this one,"
+  },
+  {
+    "start": 3504.0800000000004,
+    "text": " it will work the same as this one."
+  },
+  {
+    "start": 3506.6400000000003,
+    "text": " So velocity, whatever we do on the keyboard,"
+  },
+  {
+    "start": 3509.28,
+    "text": " it's going to control and scale down or scale up"
+  },
+  {
+    "start": 3512.5600000000004,
+    "text": " all the controls, all the values we have on the envelope."
+  },
+  {
+    "start": 3516.5600000000004,
+    "text": " So if I go all the way down or up on this one,"
+  },
+  {
+    "start": 3519.36,
+    "text": " I'm going to be playing a key and I'm going to play it soft."
+  },
+  {
+    "start": 3523.6800000000003,
+    "text": " So the volume, it's relatively low."
+  },
+  {
+    "start": 3526.0800000000004,
+    "text": " But if I play hard, everything is going to be super scaled."
+  },
+  {
+    "start": 3531.1200000000003,
+    "text": " So you need to be careful with this one."
+  },
+  {
+    "start": 3532.72,
+    "text": " Now, the S time works the same."
+  },
+  {
+    "start": 3534.7999999999997,
+    "text": " Then this one, we can scale the S time right here,"
+  },
+  {
+    "start": 3538.48,
+    "text": " the sustain and just make it go down in time when we sustain."
+  },
+  {
+    "start": 3544.24,
+    "text": " Pretty simple."
+  },
+  {
+    "start": 3545.2799999999997,
+    "text": " And if you don't know how this works,"
+  },
+  {
+    "start": 3547.12,
+    "text": " you will need to go and check this out when we talk about this."
+  },
+  {
+    "start": 3550.56,
+    "text": " And then we have some other features,"
+  },
+  {
+    "start": 3552.24,
+    "text": " and these ones are a little bit different."
+  },
+  {
+    "start": 3553.9199999999996,
+    "text": " We have the pan mod and the level mod."
+  },
+  {
+    "start": 3556.3199999999997,
+    "text": " Right, so we modulate the panning."
+  },
+  {
+    "start": 3559.12,
+    "text": " Pretty easy."
+  },
+  {
+    "start": 3560.3999999999996,
+    "text": " We can do it with the LFO 1."
+  },
+  {
+    "start": 3562.16,
+    "text": " And by default, the LFO 1, it's hardwired or prewired to the LFO 1."
+  },
+  {
+    "start": 3567.12,
+    "text": " So if I play something like that,"
+  },
+  {
+    "start": 3569.52,
+    "text": " and for now, I'm just going to sustain it all the way up,"
+  },
+  {
+    "start": 3571.92,
+    "text": " do something like that."
+  },
+  {
+    "start": 3572.64,
+    "text": " So we have something a little bit more useful."
+  },
+  {
+    "start": 3575.12,
+    "text": " I'm going to go down the level."
+  },
+  {
+    "start": 3577.52,
+    "text": " If I go up on the LFO, it's going to start modulating the panning."
+  },
+  {
+    "start": 3581.52,
+    "text": " It's like me doing something like this."
+  },
+  {
+    "start": 3583.8399999999997,
+    "text": " And it's using this instruction to do it."
+  },
+  {
+    "start": 3586.0,
+    "text": " We're going to talk about the LFO in a minute."
+  },
+  {
+    "start": 3589.2799999999997,
+    "text": " Right, pretty easy."
+  },
+  {
+    "start": 3591.2,
+    "text": " Now then we have the envelope, right?"
+  },
+  {
+    "start": 3593.8399999999997,
+    "text": " Which is what we don't have right here."
+  },
+  {
+    "start": 3596.08,
+    "text": " And this is the same than this."
+  },
+  {
+    "start": 3598.0,
+    "text": " We can use the envelope or whatever we are doing right here to modulate the panning."
+  },
+  {
+    "start": 3608.8799999999997,
+    "text": " Now, this spectrum shows you how the sound goes out."
+  },
+  {
+    "start": 3613.7599999999998,
+    "text": " It's a stereo spectrum."
+  },
+  {
+    "start": 3615.2799999999997,
+    "text": " So you have the yellow, which is going to be, I guess, the right one."
+  },
+  {
+    "start": 3618.72,
+    "text": " And the pink one is going to be the left side of the speaker."
+  },
+  {
+    "start": 3622.3999999999996,
+    "text": " So right speaker, left speaker."
+  },
+  {
+    "start": 3624.56,
+    "text": " And that is how it's offsetting."
+  },
+  {
+    "start": 3626.72,
+    "text": " We can actually hear it."
+  },
+  {
+    "start": 3628.16,
+    "text": " The right side, it's a little more prominent."
+  },
+  {
+    "start": 3631.3599999999997,
+    "text": " We get like the normal thing."
+  },
+  {
+    "start": 3633.04,
+    "text": " But the other one, it's being scaled down."
+  },
+  {
+    "start": 3635.12,
+    "text": " So we have less on the left side."
+  },
+  {
+    "start": 3638.8799999999997,
+    "text": " So it's going to be like moving the panning towards the right side."
+  },
+  {
+    "start": 3643.2799999999997,
+    "text": " But this is being decided by the envelope."
+  },
+  {
+    "start": 3645.44,
+    "text": " When I release the keys, both are going to go to normal."
+  },
+  {
+    "start": 3649.6,
+    "text": " Right?"
+  },
+  {
+    "start": 3650.0,
+    "text": " So this is what it does."
+  },
+  {
+    "start": 3651.28,
+    "text": " This is pretty, pretty easy."
+  },
+  {
+    "start": 3652.88,
+    "text": " You can go the other way and it's going to go to the right side."
+  },
+  {
+    "start": 3656.16,
+    "text": " Sounds like that."
+  },
+  {
+    "start": 3657.04,
+    "text": " I play a key."
+  },
+  {
+    "start": 3658.16,
+    "text": " It's going to slowly go there."
+  },
+  {
+    "start": 3659.76,
+    "text": " We can actually do a slow attack and we can hear that motion."
+  },
+  {
+    "start": 3664.4,
+    "text": " There's that first, we start with the left and the right on the same spot."
+  },
+  {
+    "start": 3670.88,
+    "text": " And then it's going to start offsetting following the envelope instruction."
+  },
+  {
+    "start": 3675.44,
+    "text": " When I release it, it's going to go back to the original one."
+  },
+  {
+    "start": 3678.08,
+    "text": " You know, they go back to the same."
+  },
+  {
+    "start": 3679.92,
+    "text": " Now the key, it's something really cool."
+  },
+  {
+    "start": 3681.92,
+    "text": " So you can go to one or you can go to minus one."
+  },
+  {
+    "start": 3684.64,
+    "text": " On zero, nothing happens."
+  },
+  {
+    "start": 3686.32,
+    "text": " If I play a low key, it's the same thing."
+  },
+  {
+    "start": 3688.4,
+    "text": " If I play a high key, it's going to be the same."
+  },
+  {
+    "start": 3690.48,
+    "text": " And if I play a super high key, it's just going to be the same."
+  },
+  {
+    "start": 3693.44,
+    "text": " Now, if I go all the way to the one, now the higher keys"
+  },
+  {
+    "start": 3697.2000000000003,
+    "text": " are going to be on the right side of the speaker."
+  },
+  {
+    "start": 3699.52,
+    "text": " But if I play a low key, it's going to be on the left side of the speaker."
+  },
+  {
+    "start": 3703.36,
+    "text": " But this is what it does."
+  },
+  {
+    "start": 3705.2000000000003,
+    "text": " Now you can select some in-betweens if you wanted to."
+  },
+  {
+    "start": 3708.32,
+    "text": " So I can go right there."
+  },
+  {
+    "start": 3710.48,
+    "text": " And this one is going to be, you know, I'm getting a little bit of that."
+  },
+  {
+    "start": 3714.56,
+    "text": " Let me just get closer to C3."
+  },
+  {
+    "start": 3716.7200000000003,
+    "text": " Now, when I get closer to C3, everything is at center."
+  },
+  {
+    "start": 3720.48,
+    "text": " But as I go away or off C3, it's going to start moving it more to the left"
+  },
+  {
+    "start": 3726.96,
+    "text": " as we go up on the higher keys."
+  },
+  {
+    "start": 3729.12,
+    "text": " Now, if I go to the other side, it's going to be completely the opposite."
+  },
+  {
+    "start": 3732.16,
+    "text": " The higher keys are going to be in the left,"
+  },
+  {
+    "start": 3734.08,
+    "text": " and the lower keys are going to be in the right."
+  },
+  {
+    "start": 3738.3999999999996,
+    "text": " Right?"
+  },
+  {
+    "start": 3738.7999999999997,
+    "text": " So pretty easy."
+  },
+  {
+    "start": 3739.92,
+    "text": " That's what it does."
+  },
+  {
+    "start": 3741.04,
+    "text": " I'm going to double click it and go back to default."
+  },
+  {
+    "start": 3743.52,
+    "text": " So now we need to talk about the level."
+  },
+  {
+    "start": 3745.44,
+    "text": " Now, the level is, you know, very simple."
+  },
+  {
+    "start": 3748.56,
+    "text": " It's just the volume that goes out."
+  },
+  {
+    "start": 3750.3999999999996,
+    "text": " So we have the LFO."
+  },
+  {
+    "start": 3751.68,
+    "text": " What do you think the LFO is going to do?"
+  },
+  {
+    "start": 3753.7599999999998,
+    "text": " Well, if I go up, it's going to modulate the volume up and down."
+  },
+  {
+    "start": 3757.7599999999998,
+    "text": " And if you think about what it is, it's a tremolo."
+  },
+  {
+    "start": 3761.2,
+    "text": " That is what a tremolo is going to do."
+  },
+  {
+    "start": 3762.96,
+    "text": " It's going to modulate the volume up and down."
+  },
+  {
+    "start": 3765.7599999999998,
+    "text": " And if I play something, it's going to do just that."
+  },
+  {
+    "start": 3768.96,
+    "text": " Now we can go faster with the LFO, which is slower."
+  },
+  {
+    "start": 3772.3199999999997,
+    "text": " And you must not confuse tremolo with vibrato,"
+  },
+  {
+    "start": 3776.72,
+    "text": " which is something we have right here."
+  },
+  {
+    "start": 3778.48,
+    "text": " The vibrato is going to modulate pitch."
+  },
+  {
+    "start": 3780.8799999999997,
+    "text": " This one modulates amplitude."
+  },
+  {
+    "start": 3784.16,
+    "text": " There we go."
+  },
+  {
+    "start": 3785.12,
+    "text": " Aggressively, it's just going to be a little bit more aggressive."
+  },
+  {
+    "start": 3788.24,
+    "text": " Right?"
+  },
+  {
+    "start": 3789.2,
+    "text": " Right?"
+  },
+  {
+    "start": 3790.0,
+    "text": " Now, then you have the key."
+  },
+  {
+    "start": 3791.36,
+    "text": " And this one, notice that all the keys are going to interact"
+  },
+  {
+    "start": 3794.96,
+    "text": " on where we play the keys."
+  },
+  {
+    "start": 3796.64,
+    "text": " If we play low keys or play high keys,"
+  },
+  {
+    "start": 3798.7200000000003,
+    "text": " it's going to do something or it's going to do something else."
+  },
+  {
+    "start": 3801.12,
+    "text": " Now, in this case, it's pretty much the same, but with level, with volume."
+  },
+  {
+    "start": 3805.2000000000003,
+    "text": " In this case, if I go up on the keys and you can go all the way up to one"
+  },
+  {
+    "start": 3809.44,
+    "text": " or all the way down to one."
+  },
+  {
+    "start": 3811.2000000000003,
+    "text": " If I go all the way up to one, you're going to start hearing this."
+  },
+  {
+    "start": 3814.48,
+    "text": " I'm going to be playing low keys."
+  },
+  {
+    "start": 3816.2400000000002,
+    "text": " And it sounds pretty low."
+  },
+  {
+    "start": 3817.76,
+    "text": " I'm going to play high key."
+  },
+  {
+    "start": 3819.52,
+    "text": " It sounds super loud."
+  },
+  {
+    "start": 3821.36,
+    "text": " So low keys are going to be lower in volume and high keys, higher keys"
+  },
+  {
+    "start": 3828.16,
+    "text": " or higher frequencies are going to be high in volume."
+  },
+  {
+    "start": 3831.44,
+    "text": " If I go back to one or zero, everything's pretty much the same level."
+  },
+  {
+    "start": 3837.2,
+    "text": " And if I go to the other side, it's going to be completely the opposite."
+  },
+  {
+    "start": 3840.32,
+    "text": " The higher keys are going to be low in volume, but the lower keys"
+  },
+  {
+    "start": 3844.64,
+    "text": " are just going to be super, you know, super high in volume."
+  },
+  {
+    "start": 3848.08,
+    "text": " Now, I don't know if you noticed, but we cover all of this, which is it was challenging."
+  },
+  {
+    "start": 3853.52,
+    "text": " All of this and all of this, you know, a lot of things we covered like 80% of the synth."
+  },
+  {
+    "start": 3859.12,
+    "text": " Now, we still need to talk about the LFO, which is a very simple topic"
+  },
+  {
+    "start": 3862.64,
+    "text": " and some options that we get right here."
+  },
+  {
+    "start": 3864.7999999999997,
+    "text": " This one looks challenging again, like the rest."
+  },
+  {
+    "start": 3868.4,
+    "text": " But now, you know, now it's going to be a little bit easier to explain all of this."
+  },
+  {
+    "start": 3872.4,
+    "text": " All right."
+  },
+  {
+    "start": 3872.88,
+    "text": " Okay. So back to a default patch."
+  },
+  {
+    "start": 3875.36,
+    "text": " Let's talk about the LFO."
+  },
+  {
+    "start": 3877.28,
+    "text": " So again, like before, I'm going to go all the way down and all the way up on the sustain."
+  },
+  {
+    "start": 3881.76,
+    "text": " So we have something constant and I'm going to disable the oscillator number two."
+  },
+  {
+    "start": 3885.52,
+    "text": " So we have only the number one."
+  },
+  {
+    "start": 3887.76,
+    "text": " I'm going to enable the number one, the LFO number one."
+  },
+  {
+    "start": 3891.0400000000004,
+    "text": " And the controls right here are very simple."
+  },
+  {
+    "start": 3893.28,
+    "text": " This part belongs to this and this belongs to the LFO number two."
+  },
+  {
+    "start": 3897.2000000000003,
+    "text": " So we can go up in the speed."
+  },
+  {
+    "start": 3899.52,
+    "text": " We can use Hertz or we can sync it to your DAW tempo and use subdivisions."
+  },
+  {
+    "start": 3906.0800000000004,
+    "text": " Right."
+  },
+  {
+    "start": 3906.72,
+    "text": " Now let's just hear it or get it on something."
+  },
+  {
+    "start": 3909.7599999999998,
+    "text": " I'm going to go to the oscillator number one and we can do pitch modulation on this one."
+  },
+  {
+    "start": 3914.8799999999997,
+    "text": " So I'm going to be going up and doing something like that."
+  },
+  {
+    "start": 3917.8399999999997,
+    "text": " And remember, you can use Hertz or you can use subdivisions"
+  },
+  {
+    "start": 3924.0,
+    "text": " because it depends on what you're doing."
+  },
+  {
+    "start": 3926.0,
+    "text": " Maybe you want to sync it to whatever track you're creating."
+  },
+  {
+    "start": 3931.52,
+    "text": " All of this is just very simple."
+  },
+  {
+    "start": 3933.04,
+    "text": " Now we need to talk about what's going on right here."
+  },
+  {
+    "start": 3935.92,
+    "text": " Right."
+  },
+  {
+    "start": 3936.1600000000003,
+    "text": " So we can start from this side because it's easier."
+  },
+  {
+    "start": 3938.96,
+    "text": " And then all this just get very simple, but we need to do a little bit of explaining."
+  },
+  {
+    "start": 3943.6,
+    "text": " So right now we are using the sine wave and this belongs to the LFO one and this belongs to the LFO two."
+  },
+  {
+    "start": 3950.7200000000003,
+    "text": " So we can go right there, use a sine wave."
+  },
+  {
+    "start": 3952.96,
+    "text": " Pretty easy."
+  },
+  {
+    "start": 3953.76,
+    "text": " You can use a triangle."
+  },
+  {
+    "start": 3956.4,
+    "text": " We can use a rect, which is a square or pulse."
+  },
+  {
+    "start": 3960.2400000000002,
+    "text": " And then we can use noise one."
+  },
+  {
+    "start": 3962.4,
+    "text": " And now whenever you think noise in this case is a way to say random."
+  },
+  {
+    "start": 3967.2799999999997,
+    "text": " So we don't have a pattern."
+  },
+  {
+    "start": 3969.2,
+    "text": " It's just random."
+  },
+  {
+    "start": 3970.72,
+    "text": " And then the noise two is the same random, but instead of just going really aggressive on the changes,"
+  },
+  {
+    "start": 3977.6,
+    "text": " that is just very abruptly changing the pitch is going to smooth the changes up and down."
+  },
+  {
+    "start": 3985.04,
+    "text": " That's the difference."
+  },
+  {
+    "start": 3986.96,
+    "text": " Now on the rect, which is the pulse, we can adjust the width, just like with it,"
+  },
+  {
+    "start": 3994.72,
+    "text": " you know, with the oscillators where we can do pulse width."
+  },
+  {
+    "start": 3997.36,
+    "text": " Well, this is just the same."
+  },
+  {
+    "start": 3998.56,
+    "text": " We make it short."
+  },
+  {
+    "start": 4000.4,
+    "text": " It's going to be very short."
+  },
+  {
+    "start": 4001.36,
+    "text": " It will make it wide."
+  },
+  {
+    "start": 4002.24,
+    "text": " It's going to sustain a little bit longer."
+  },
+  {
+    "start": 4005.92,
+    "text": " Right."
+  },
+  {
+    "start": 4007.52,
+    "text": " So that's it."
+  },
+  {
+    "start": 4008.0,
+    "text": " You know, it was super simple."
+  },
+  {
+    "start": 4009.76,
+    "text": " The LFO is not out of this world."
+  },
+  {
+    "start": 4013.12,
+    "text": " It's a very simple LFO."
+  },
+  {
+    "start": 4015.28,
+    "text": " Now, then you have the root trigger and this one, it's going to be a little bit weird to explain."
+  },
+  {
+    "start": 4020.0800000000004,
+    "text": " Okay."
+  },
+  {
+    "start": 4020.48,
+    "text": " So let me go to the amp and make it a little bit less right here."
+  },
+  {
+    "start": 4026.0,
+    "text": " Actually, I'm going to go all the way down so we can have something like that."
+  },
+  {
+    "start": 4028.96,
+    "text": " So right now we are saying, we are actually saying LFO go and detune the pitch."
+  },
+  {
+    "start": 4035.6000000000004,
+    "text": " So if I go back to the LFO, we are using a rect, which is going to be a pulse."
+  },
+  {
+    "start": 4041.28,
+    "text": " So it's going to be the pitch is going to be up or it's going to be down."
+  },
+  {
+    "start": 4045.04,
+    "text": " Right."
+  },
+  {
+    "start": 4045.2799999999997,
+    "text": " Because this is like an on and off."
+  },
+  {
+    "start": 4047.2,
+    "text": " The rect is like an on and off."
+  },
+  {
+    "start": 4048.4,
+    "text": " If I play it, it's going to be on, off, on, off."
+  },
+  {
+    "start": 4051.68,
+    "text": " Maybe I'm doing too much."
+  },
+  {
+    "start": 4052.8,
+    "text": " It's like not even cats can hear that."
+  },
+  {
+    "start": 4056.24,
+    "text": " Right."
+  },
+  {
+    "start": 4056.56,
+    "text": " So when I use it and I hold the key, it's going to be up, down, up, down."
+  },
+  {
+    "start": 4060.48,
+    "text": " This is what the pulse or the square can do."
+  },
+  {
+    "start": 4066.48,
+    "text": " Right."
+  },
+  {
+    "start": 4066.96,
+    "text": " So what is going to happen with the root trigger?"
+  },
+  {
+    "start": 4068.8,
+    "text": " Now, if I played a key, I'm going to go a key and I'm going to tap it several times."
+  },
+  {
+    "start": 4075.68,
+    "text": " And I'm just tapping it."
+  },
+  {
+    "start": 4076.88,
+    "text": " I'm not holding."
+  },
+  {
+    "start": 4077.7599999999998,
+    "text": " I'm just pressing it several times."
+  },
+  {
+    "start": 4080.64,
+    "text": " Notice that sometimes we start on low frequency and sometimes we start on a higher frequency."
+  },
+  {
+    "start": 4088.48,
+    "text": " And if I stop and start over again, it's just the same thing."
+  },
+  {
+    "start": 4092.64,
+    "text": " So it's not very predictable."
+  },
+  {
+    "start": 4094.72,
+    "text": " Now behind the scenes, this is emulating analog."
+  },
+  {
+    "start": 4098.72,
+    "text": " And what happens on analog is that the LFOs are non-stopping or just constant."
+  },
+  {
+    "start": 4105.52,
+    "text": " The LFO is a waveform that you see right here that it's constantly moving"
+  },
+  {
+    "start": 4110.320000000001,
+    "text": " and it will never ever, ever stop."
+  },
+  {
+    "start": 4112.88,
+    "text": " So you don't have a way to say, hey, LFO, start doing your job when I press a key."
+  },
+  {
+    "start": 4118.8,
+    "text": " And only and only when I press a key."
+  },
+  {
+    "start": 4121.200000000001,
+    "text": " By default, the LFO is just going to keep going and going and going."
+  },
+  {
+    "start": 4124.72,
+    "text": " It doesn't care if you play a key or not."
+  },
+  {
+    "start": 4128.08,
+    "text": " It doesn't matter."
+  },
+  {
+    "start": 4128.88,
+    "text": " It just doesn't care."
+  },
+  {
+    "start": 4130.0,
+    "text": " That's why when I play a key, it's just starting up or down."
+  },
+  {
+    "start": 4134.32,
+    "text": " Depends on where that LFO in time it is."
+  },
+  {
+    "start": 4138.72,
+    "text": " Right?"
+  },
+  {
+    "start": 4139.92,
+    "text": " Just that."
+  },
+  {
+    "start": 4142.24,
+    "text": " So this is not very controllable because if I do it,"
+  },
+  {
+    "start": 4144.88,
+    "text": " sometimes it's going to be up and sometimes it's going to be down."
+  },
+  {
+    "start": 4147.92,
+    "text": " Maybe what I want, I want to start on the same place always when I play a key."
+  },
+  {
+    "start": 4153.6,
+    "text": " Well, that's the retrigger."
+  },
+  {
+    "start": 4155.12,
+    "text": " It's going to retrigger the waveform so it can always start from the beginning"
+  },
+  {
+    "start": 4161.04,
+    "text": " or the same place."
+  },
+  {
+    "start": 4162.32,
+    "text": " So I'm going to enable retrigger and I'm going to do the same thing."
+  },
+  {
+    "start": 4165.44,
+    "text": " I'm going to be playing this."
+  },
+  {
+    "start": 4167.92,
+    "text": " And notice that now it's a little bit different."
+  },
+  {
+    "start": 4171.28,
+    "text": " It's always starting from the beginning of the waveform, which is up."
+  },
+  {
+    "start": 4176.96,
+    "text": " So we always start with a pitch up."
+  },
+  {
+    "start": 4181.2,
+    "text": " If I do off, sometimes up down, sometimes down."
+  },
+  {
+    "start": 4185.5199999999995,
+    "text": " So with the retrigger, you make sure that you always start"
+  },
+  {
+    "start": 4189.12,
+    "text": " from the beginning of the waveform and you don't start maybe here or here or here or here."
+  },
+  {
+    "start": 4194.32,
+    "text": " Now, still, what if you don't want to start all the way up on the waveform?"
+  },
+  {
+    "start": 4199.28,
+    "text": " So you have the offset."
+  },
+  {
+    "start": 4200.88,
+    "text": " Now, this one is going to move the waveform and instead of maybe starting up,"
+  },
+  {
+    "start": 4206.08,
+    "text": " like we are doing right now, we're going to be starting down."
+  },
+  {
+    "start": 4208.72,
+    "text": " So if I play it now, we're going to start down."
+  },
+  {
+    "start": 4212.56,
+    "text": " Now, if I hold the key, still, it's just, you know, it's going to do the a la fo"
+  },
+  {
+    "start": 4216.64,
+    "text": " because I'm holding the key."
+  },
+  {
+    "start": 4218.4800000000005,
+    "text": " Now, this makes a little bit more sense when we maybe use a sine wave."
+  },
+  {
+    "start": 4222.8,
+    "text": " Right now, we are starting right here and then it goes down."
+  },
+  {
+    "start": 4226.320000000001,
+    "text": " But I can offset this and say, you know what?"
+  },
+  {
+    "start": 4228.4800000000005,
+    "text": " I'm going to be starting from this part and then go down."
+  },
+  {
+    "start": 4231.76,
+    "text": " So we start high and then we go down."
+  },
+  {
+    "start": 4235.200000000001,
+    "text": " So now when you play different keys, you can't predict it."
+  },
+  {
+    "start": 4240.32,
+    "text": " Now, if I do re-trigger and I do the same thing,"
+  },
+  {
+    "start": 4244.799999999999,
+    "text": " sometimes it's just going to be a little bit uncontrollable."
+  },
+  {
+    "start": 4247.5199999999995,
+    "text": " And I'm just playing different keys right now."
+  },
+  {
+    "start": 4249.5199999999995,
+    "text": " Just I'm making a chord."
+  },
+  {
+    "start": 4250.719999999999,
+    "text": " I'll try it."
+  },
+  {
+    "start": 4253.2,
+    "text": " So again, it's just a little bit uncontrollable."
+  },
+  {
+    "start": 4255.12,
+    "text": " Now, this depends on always on what you want to do."
+  },
+  {
+    "start": 4257.44,
+    "text": " Maybe you want this constant non-stopping behavior"
+  },
+  {
+    "start": 4260.32,
+    "text": " or maybe you want to re-trigger the waveform when you start playing."
+  },
+  {
+    "start": 4263.679999999999,
+    "text": " If you don't, if you want that, then you enable re-trigger"
+  },
+  {
+    "start": 4266.719999999999,
+    "text": " and then you choose where you want to start on the waveform."
+  },
+  {
+    "start": 4269.76,
+    "text": " All right, so I'm going to go and double click and go back to the beginning."
+  },
+  {
+    "start": 4272.72,
+    "text": " Now, then we have the delay and the attack."
+  },
+  {
+    "start": 4274.4800000000005,
+    "text": " This is a fantastic thing that we get on some synthesizers."
+  },
+  {
+    "start": 4278.08,
+    "text": " We don't get it on all."
+  },
+  {
+    "start": 4280.24,
+    "text": " So right now, let me do something useful because this is just going crazy."
+  },
+  {
+    "start": 4285.6,
+    "text": " I'm going to do something like that."
+  },
+  {
+    "start": 4287.6,
+    "text": " I want to do a modulation like that."
+  },
+  {
+    "start": 4289.84,
+    "text": " And when I make a chord, if it's too much, let me just go back."
+  },
+  {
+    "start": 4296.400000000001,
+    "text": " And I want to give you a real life example."
+  },
+  {
+    "start": 4299.12,
+    "text": " So that's going to give you, you know, that vintage sound"
+  },
+  {
+    "start": 4304.4,
+    "text": " by modulating the pitch up and down."
+  },
+  {
+    "start": 4306.5599999999995,
+    "text": " It's very small."
+  },
+  {
+    "start": 4308.24,
+    "text": " We can't hear it."
+  },
+  {
+    "start": 4309.84,
+    "text": " It's a very common thing."
+  },
+  {
+    "start": 4310.96,
+    "text": " We do it the whole time, especially when you use a Juno, for example,"
+  },
+  {
+    "start": 4314.88,
+    "text": " using the LFO to move the pitch up and down gives you that vibe."
+  },
+  {
+    "start": 4319.12,
+    "text": " Now, the problem is that sometimes when you're playing or doing something like this,"
+  },
+  {
+    "start": 4325.92,
+    "text": " it's going to start right away."
+  },
+  {
+    "start": 4328.08,
+    "text": " So what you can do, you can delay the effect."
+  },
+  {
+    "start": 4331.92,
+    "text": " So I'm going to say, maybe I want to start this LFO a second after I play the keys."
+  },
+  {
+    "start": 4338.64,
+    "text": " So now I'm going to make a chord."
+  },
+  {
+    "start": 4340.64,
+    "text": " It's going to start with no LFO and then it's going to LFO."
+  },
+  {
+    "start": 4344.48,
+    "text": " So that's what it means."
+  },
+  {
+    "start": 4347.76,
+    "text": " So if you play a chord and you hold it,"
+  },
+  {
+    "start": 4350.16,
+    "text": " at some point you are going to be getting this modulation."
+  },
+  {
+    "start": 4352.96,
+    "text": " Or if you play some keys,"
+  },
+  {
+    "start": 4354.4,
+    "text": " you make sure that you don't get this modulation"
+  },
+  {
+    "start": 4361.2,
+    "text": " when you play staccato."
+  },
+  {
+    "start": 4362.639999999999,
+    "text": " Only you get it when you sustain the keys."
+  },
+  {
+    "start": 4365.599999999999,
+    "text": " Right? That's the whole point."
+  },
+  {
+    "start": 4367.679999999999,
+    "text": " Now, one thing you need to notice is that whenever it starts to do the LFO,"
+  },
+  {
+    "start": 4373.44,
+    "text": " it's pretty aggressive."
+  },
+  {
+    "start": 4374.96,
+    "text": " So the attack is going to provide a little bit of a smoothness."
+  },
+  {
+    "start": 4379.28,
+    "text": " Let me do it a little bit more aggressive so we can really hear that."
+  },
+  {
+    "start": 4382.799999999999,
+    "text": " Maybe one is too much."
+  },
+  {
+    "start": 4383.76,
+    "text": " I'm going to go to something like that."
+  },
+  {
+    "start": 4385.6,
+    "text": " So back to the LFO."
+  },
+  {
+    "start": 4387.2,
+    "text": " We are doing some delay."
+  },
+  {
+    "start": 4388.56,
+    "text": " Maybe I'm going to do two seconds and then I'm going to go to the attack."
+  },
+  {
+    "start": 4392.4800000000005,
+    "text": " Now, if I do it like that, boom, super aggressive."
+  },
+  {
+    "start": 4398.24,
+    "text": " I don't want this."
+  },
+  {
+    "start": 4399.2,
+    "text": " What I want to do is to slowly introduce the modulation or the LFO in this case,"
+  },
+  {
+    "start": 4405.52,
+    "text": " to the detuning."
+  },
+  {
+    "start": 4406.72,
+    "text": " So we are going to be doing attack and I'm going to say,"
+  },
+  {
+    "start": 4409.2,
+    "text": " dude, you're going to take one second, but you're going to ramp up that modulation."
+  },
+  {
+    "start": 4413.76,
+    "text": " So, that is nice right now."
+  },
+  {
+    "start": 4417.76,
+    "text": " It's a little bit smoother and we can even make it more smooth."
+  },
+  {
+    "start": 4421.12,
+    "text": " I'm going to go there to save four seconds."
+  },
+  {
+    "start": 4423.360000000001,
+    "text": " It's a long time."
+  },
+  {
+    "start": 4427.12,
+    "text": " And it's super smooth."
+  },
+  {
+    "start": 4430.64,
+    "text": " At some point, it's going to reach peak and we're going to get full modulation."
+  },
+  {
+    "start": 4434.8,
+    "text": " But it's just a nice way to control whatever is that you do on your LFO."
+  },
+  {
+    "start": 4439.5199999999995,
+    "text": " And all of this will affect all the properties where we use the LFO, like the pitch,"
+  },
+  {
+    "start": 4445.04,
+    "text": " or we can use the pulse width."
+  },
+  {
+    "start": 4446.5599999999995,
+    "text": " It's just still going to affect it."
+  },
+  {
+    "start": 4448.16,
+    "text": " The same thing with the here, with the filter and same thing on the amp."
+  },
+  {
+    "start": 4452.32,
+    "text": " So that's it."
+  },
+  {
+    "start": 4453.12,
+    "text": " It's a pretty simple LFO and this one belongs to the LFO number two."
+  },
+  {
+    "start": 4457.36,
+    "text": " That belongs to different sections."
+  },
+  {
+    "start": 4459.36,
+    "text": " Maybe the oscillator number two and the filter number two and the amp number two."
+  },
+  {
+    "start": 4462.96,
+    "text": " So that's the only difference."
+  },
+  {
+    "start": 4464.799999999999,
+    "text": " Okay, so let's just keep going."
+  },
+  {
+    "start": 4466.16,
+    "text": " I'm going to start on a default patch like before."
+  },
+  {
+    "start": 4468.72,
+    "text": " And I'm going to go all the way down right here on the envelope and all the way up on the sustain."
+  },
+  {
+    "start": 4474.56,
+    "text": " And we need to talk about the things that are going to happen right here."
+  },
+  {
+    "start": 4477.68,
+    "text": " So first of all, this is the volume that goes out."
+  },
+  {
+    "start": 4480.08,
+    "text": " I feel like I don't need to explain it."
+  },
+  {
+    "start": 4481.84,
+    "text": " So it's just a volume, right?"
+  },
+  {
+    "start": 4483.6,
+    "text": " Going to go up and down in volume."
+  },
+  {
+    "start": 4485.2,
+    "text": " And I'm going to turn this one off."
+  },
+  {
+    "start": 4486.72,
+    "text": " I don't want it."
+  },
+  {
+    "start": 4487.4400000000005,
+    "text": " I just want one oscillator."
+  },
+  {
+    "start": 4489.92,
+    "text": " So then we're going to go in order right here."
+  },
+  {
+    "start": 4492.08,
+    "text": " So we have the vibrato."
+  },
+  {
+    "start": 4493.52,
+    "text": " The vibrato, it's just a vibrato."
+  },
+  {
+    "start": 4496.08,
+    "text": " Now remember we talked about this."
+  },
+  {
+    "start": 4497.76,
+    "text": " This is a tremolo."
+  },
+  {
+    "start": 4498.72,
+    "text": " And the tremolo is going to go up and down in volume."
+  },
+  {
+    "start": 4501.2,
+    "text": " So this one goes up and down in pitch pretty much."
+  },
+  {
+    "start": 4504.64,
+    "text": " So if I go all the way up, we can clearly hear this."
+  },
+  {
+    "start": 4510.56,
+    "text": " And if I go down on the rate, this is how fast it's going to go."
+  },
+  {
+    "start": 4515.2,
+    "text": " If I go down, we can right there see it moving up and down."
+  },
+  {
+    "start": 4519.92,
+    "text": " Same thing right here."
+  },
+  {
+    "start": 4522.88,
+    "text": " So that's what it does."
+  },
+  {
+    "start": 4523.76,
+    "text": " It's going to give you this vibrato."
+  },
+  {
+    "start": 4526.16,
+    "text": " Now you have extended controls for this."
+  },
+  {
+    "start": 4528.96,
+    "text": " Let me just put it around maybe around there."
+  },
+  {
+    "start": 4532.64,
+    "text": " Now since this is a polyphonic instrument, whenever you play a key,"
+  },
+  {
+    "start": 4536.56,
+    "text": " that vibrato is going to start someplace."
+  },
+  {
+    "start": 4539.12,
+    "text": " But it's going to start when you play the key."
+  },
+  {
+    "start": 4541.12,
+    "text": " So each voice that you play, each key will move on its own way."
+  },
+  {
+    "start": 4546.88,
+    "text": " And I can actually prove this."
+  },
+  {
+    "start": 4548.56,
+    "text": " I'm going to be going to a lower octave."
+  },
+  {
+    "start": 4550.96,
+    "text": " And I'm going to be playing a higher octave."
+  },
+  {
+    "start": 4556.0,
+    "text": " And now I'm going to be playing a higher octave."
+  },
+  {
+    "start": 4558.96,
+    "text": " Notice they move a little bit different."
+  },
+  {
+    "start": 4561.04,
+    "text": " They don't move the same."
+  },
+  {
+    "start": 4567.44,
+    "text": " They just move the games and be the other ones."
+  },
+  {
+    "start": 4570.88,
+    "text": " It's because when you have a polyphonic instrument,"
+  },
+  {
+    "start": 4573.2,
+    "text": " not everything is going to be aligned."
+  },
+  {
+    "start": 4575.2,
+    "text": " In this case, each voice is starting from where we play the key."
+  },
+  {
+    "start": 4583.04,
+    "text": " So this is how it works right here."
+  },
+  {
+    "start": 4584.8,
+    "text": " And remember, right there are the voices."
+  },
+  {
+    "start": 4586.96,
+    "text": " We need to talk about this in a minute."
+  },
+  {
+    "start": 4588.56,
+    "text": " Now the thing is that on this one, you have extended controls."
+  },
+  {
+    "start": 4591.360000000001,
+    "text": " You have a delay, attack, amount, and error."
+  },
+  {
+    "start": 4594.56,
+    "text": " Now for now, just to so we can actually see it."
+  },
+  {
+    "start": 4598.320000000001,
+    "text": " Let me just go right there."
+  },
+  {
+    "start": 4599.76,
+    "text": " We need to, I need to show you the error."
+  },
+  {
+    "start": 4602.16,
+    "text": " It's just a little bit weird."
+  },
+  {
+    "start": 4603.76,
+    "text": " Let me maybe three."
+  },
+  {
+    "start": 4605.6,
+    "text": " It's going to be enough."
+  },
+  {
+    "start": 4606.400000000001,
+    "text": " Yeah."
+  },
+  {
+    "start": 4607.12,
+    "text": " Okay."
+  },
+  {
+    "start": 4607.68,
+    "text": " So maybe two."
+  },
+  {
+    "start": 4609.84,
+    "text": " Yeah."
+  },
+  {
+    "start": 4610.16,
+    "text": " Okay."
+  },
+  {
+    "start": 4610.48,
+    "text": " Two."
+  },
+  {
+    "start": 4611.36,
+    "text": " Yeah."
+  },
+  {
+    "start": 4611.759999999999,
+    "text": " Okay."
+  },
+  {
+    "start": 4612.0,
+    "text": " So the error on analog synthesizers, what you get,"
+  },
+  {
+    "start": 4616.0,
+    "text": " is a little bit of inconsistency."
+  },
+  {
+    "start": 4617.839999999999,
+    "text": " And I'm talking about the controls and how it works."
+  },
+  {
+    "start": 4620.5599999999995,
+    "text": " Sometimes the times are not going to be right in tune."
+  },
+  {
+    "start": 4624.24,
+    "text": " So you will have this natural, let's say, detuning or, you know,"
+  },
+  {
+    "start": 4629.04,
+    "text": " inconsistency on all the controls."
+  },
+  {
+    "start": 4631.5199999999995,
+    "text": " So this, what it does is going to add a little bit of that."
+  },
+  {
+    "start": 4635.28,
+    "text": " So now this is going to be a little bit inconsistent."
+  },
+  {
+    "start": 4638.16,
+    "text": " So if I play a key, it's going to go with that rate."
+  },
+  {
+    "start": 4642.48,
+    "text": " If I play it again, notice it's going faster now."
+  },
+  {
+    "start": 4646.4,
+    "text": " It's just a tiny little bit."
+  },
+  {
+    "start": 4648.72,
+    "text": " But if I play it again, slower, slower, a little bit faster."
+  },
+  {
+    "start": 4655.12,
+    "text": " Right?"
+  },
+  {
+    "start": 4656.16,
+    "text": " So this is what the error means."
+  },
+  {
+    "start": 4657.599999999999,
+    "text": " It's going to give you that inconsistency with the values that you selected."
+  },
+  {
+    "start": 4662.16,
+    "text": " Now then you have the amount right there."
+  },
+  {
+    "start": 4664.16,
+    "text": " And this one is pretty simple."
+  },
+  {
+    "start": 4665.44,
+    "text": " MW, it's mod wheel."
+  },
+  {
+    "start": 4667.44,
+    "text": " So if you're using a mini controller, you can go all the way up on this one."
+  },
+  {
+    "start": 4671.28,
+    "text": " And now your mod wheel will control how much vibrato you're doing."
+  },
+  {
+    "start": 4675.28,
+    "text": " So if I play a chord, we have very little to nothing."
+  },
+  {
+    "start": 4680.879999999999,
+    "text": " If I go up on my mod wheel, I'm going all the way up right now."
+  },
+  {
+    "start": 4683.759999999999,
+    "text": " We get something."
+  },
+  {
+    "start": 4684.879999999999,
+    "text": " If I go down, you have pretty much, you know, not a lot."
+  },
+  {
+    "start": 4689.839999999999,
+    "text": " If I go up, we have it."
+  },
+  {
+    "start": 4693.919999999999,
+    "text": " We have less."
+  },
+  {
+    "start": 4694.88,
+    "text": " So it's just the mod wheel."
+  },
+  {
+    "start": 4696.16,
+    "text": " How much do you want to go up?"
+  },
+  {
+    "start": 4697.4400000000005,
+    "text": " I'm going really aggressive."
+  },
+  {
+    "start": 4699.2,
+    "text": " Maybe 70%."
+  },
+  {
+    "start": 4700.56,
+    "text": " It's something that's going to be a little bit more normal."
+  },
+  {
+    "start": 4704.32,
+    "text": " If I go up, you can see it moving."
+  },
+  {
+    "start": 4707.2,
+    "text": " Or you can hear it moving as well."
+  },
+  {
+    "start": 4709.52,
+    "text": " But yeah, this is the mod wheel control."
+  },
+  {
+    "start": 4712.08,
+    "text": " Now, the other one is pretty simple."
+  },
+  {
+    "start": 4714.72,
+    "text": " I'm going to go aggressive."
+  },
+  {
+    "start": 4716.08,
+    "text": " The delay is the same thing we discussed on the LFO, the delay and the attack."
+  },
+  {
+    "start": 4721.04,
+    "text": " Well, this is the same."
+  },
+  {
+    "start": 4722.48,
+    "text": " So if I play a key right now, it's going to start right away."
+  },
+  {
+    "start": 4724.799999999999,
+    "text": " But we can delay that motion by some amount."
+  },
+  {
+    "start": 4729.759999999999,
+    "text": " You know, in this case, 138 seconds."
+  },
+  {
+    "start": 4732.639999999999,
+    "text": " Yeah, 138."
+  },
+  {
+    "start": 4733.839999999999,
+    "text": " So if I play a key, it's going to take a little bit to kick in."
+  },
+  {
+    "start": 4737.759999999999,
+    "text": " And the attack is how smooth that transition is going to happen."
+  },
+  {
+    "start": 4741.599999999999,
+    "text": " I'm going to do maybe three or four seconds."
+  },
+  {
+    "start": 4743.839999999999,
+    "text": " So if I play a key, it's going to start doing it."
+  },
+  {
+    "start": 4746.48,
+    "text": " But it's going to start slowly, you know, it's going to smooth in."
+  },
+  {
+    "start": 4750.4,
+    "text": " So this is the same."
+  },
+  {
+    "start": 4753.839999999999,
+    "text": " It works the same with the LFOs, right?"
+  },
+  {
+    "start": 4756.4,
+    "text": " With the delay and the attack."
+  },
+  {
+    "start": 4758.24,
+    "text": " We don't need to overthink this."
+  },
+  {
+    "start": 4760.08,
+    "text": " This is what it does."
+  },
+  {
+    "start": 4761.5199999999995,
+    "text": " Now, the next one is going to be unison."
+  },
+  {
+    "start": 4764.24,
+    "text": " Now, if you don't know what unison is, is that you stack voices, for example."
+  },
+  {
+    "start": 4768.48,
+    "text": " Now, in this synthesizer, you have eight voices."
+  },
+  {
+    "start": 4771.5199999999995,
+    "text": " You can do a lot like 32."
+  },
+  {
+    "start": 4773.839999999999,
+    "text": " So when you enable the unison voices, it's saying, dude, you can play two voices."
+  },
+  {
+    "start": 4780.639999999999,
+    "text": " On unison."
+  },
+  {
+    "start": 4781.839999999999,
+    "text": " So it means that if you play a key, two voices are going to be playing behind the scenes."
+  },
+  {
+    "start": 4788.32,
+    "text": " And you can actually hear this."
+  },
+  {
+    "start": 4789.599999999999,
+    "text": " If I play it, that is, it sounds a little weird."
+  },
+  {
+    "start": 4793.5199999999995,
+    "text": " And if I turn it off, it sounds a little bit more clear."
+  },
+  {
+    "start": 4798.32,
+    "text": " Now a little bit weird."
+  },
+  {
+    "start": 4799.5199999999995,
+    "text": " It sounds it sounds phasy, right?"
+  },
+  {
+    "start": 4802.799999999999,
+    "text": " And it's because you have two voices playing the same thing on top of each other."
+  },
+  {
+    "start": 4808.88,
+    "text": " So you're stacking voices."
+  },
+  {
+    "start": 4810.72,
+    "text": " Now, since you're stacking voices and your maximum amount of voices is limited to eight,"
+  },
+  {
+    "start": 4816.32,
+    "text": " this means that you can only play four keys, right?"
+  },
+  {
+    "start": 4819.52,
+    "text": " If I go right there and say that my synthesizer can only do two keys,"
+  },
+  {
+    "start": 4824.08,
+    "text": " it means that right now, if we do unison, we can play not two keys."
+  },
+  {
+    "start": 4828.400000000001,
+    "text": " We can only play one key because each key is going to use two of these voices, right?"
+  },
+  {
+    "start": 4834.0,
+    "text": " So you always need to be aware of this."
+  },
+  {
+    "start": 4836.72,
+    "text": " So where's the magic on this one?"
+  },
+  {
+    "start": 4838.4,
+    "text": " I'm going to go to eight."
+  },
+  {
+    "start": 4839.599999999999,
+    "text": " Now, the magic is that when you start to detune the duplicated voices, the stacked voices,"
+  },
+  {
+    "start": 4845.2,
+    "text": " you're going to get this big, super beautiful sound."
+  },
+  {
+    "start": 4849.12,
+    "text": " So I'm going to go up on the detune."
+  },
+  {
+    "start": 4852.5599999999995,
+    "text": " And this is what's going on now."
+  },
+  {
+    "start": 4856.879999999999,
+    "text": " We get a bigger sound, right?"
+  },
+  {
+    "start": 4859.04,
+    "text": " You go crazy at some point."
+  },
+  {
+    "start": 4861.12,
+    "text": " You're just detuning too much and you're going to get a crazy sound."
+  },
+  {
+    "start": 4865.76,
+    "text": " So bigger, crazy."
+  },
+  {
+    "start": 4870.400000000001,
+    "text": " But this is what the detune is going to do."
+  },
+  {
+    "start": 4873.4400000000005,
+    "text": " You're just separating the voices so they don't sound super-phasey like now."
+  },
+  {
+    "start": 4881.2,
+    "text": " Now, you can go right there and have four voices per key."
+  },
+  {
+    "start": 4884.64,
+    "text": " So if you play a key, you can have four stacked voices on each key."
+  },
+  {
+    "start": 4888.64,
+    "text": " Now, since you have eight voices in total, now you can play only two keys, right?"
+  },
+  {
+    "start": 4893.68,
+    "text": " One key is four voices."
+  },
+  {
+    "start": 4895.200000000001,
+    "text": " The other one is going to be eight."
+  },
+  {
+    "start": 4896.8,
+    "text": " If I do a new one, it's just going to dispose one of the keys I was playing."
+  },
+  {
+    "start": 4901.68,
+    "text": " It's just going to steal voices."
+  },
+  {
+    "start": 4903.92,
+    "text": " So yeah, now, if you want to do a lot of voices, maybe play a chord, seventh chord, I don't know,"
+  },
+  {
+    "start": 4909.92,
+    "text": " and do four unison voices, you can go and change your voices to 32."
+  },
+  {
+    "start": 4914.72,
+    "text": " And you can do whatever the F you want right here."
+  },
+  {
+    "start": 4916.8,
+    "text": " Now, for now, I'm just going to go back to eight and I'm going to go back to two"
+  },
+  {
+    "start": 4919.4400000000005,
+    "text": " because maybe four is too much."
+  },
+  {
+    "start": 4921.12,
+    "text": " So you have something called delay, and this is something a little bit weird"
+  },
+  {
+    "start": 4924.8,
+    "text": " that you don't find on a lot of synthesizers."
+  },
+  {
+    "start": 4927.36,
+    "text": " So the delay is going to delay the unison voices."
+  },
+  {
+    "start": 4932.08,
+    "text": " Yeah, the duplicate voices."
+  },
+  {
+    "start": 4933.599999999999,
+    "text": " And it's a very short sound."
+  },
+  {
+    "start": 4935.68,
+    "text": " So you are going to be..."
+  },
+  {
+    "start": 4937.92,
+    "text": " Can you hear it?"
+  },
+  {
+    "start": 4939.12,
+    "text": " It's like..."
+  },
+  {
+    "start": 4942.16,
+    "text": " So that's it."
+  },
+  {
+    "start": 4942.72,
+    "text": " Now, if you're holding the key, you're not going to notice it, but when you play it,"
+  },
+  {
+    "start": 4948.64,
+    "text": " for the first time, you're going to be getting it."
+  },
+  {
+    "start": 4951.28,
+    "text": " Now, what you can do, you can just do a little bit."
+  },
+  {
+    "start": 4954.24,
+    "text": " And I believe the idea of all of this is to detune, is to just move back the voices"
+  },
+  {
+    "start": 4961.84,
+    "text": " and alter the bass."
+  },
+  {
+    "start": 4968.08,
+    "text": " But it is a very simple control, you know, if you don't even have to use it if you don't want to."
+  },
+  {
+    "start": 4973.76,
+    "text": " Now, I'm going to turn this one off and we need to talk about the glide."
+  },
+  {
+    "start": 4977.36,
+    "text": " I'm not going to spend a lot of time on this one because it's just a simple thing."
+  },
+  {
+    "start": 4980.88,
+    "text": " Now, the glide is going to slide or glide to your next note."
+  },
+  {
+    "start": 4984.96,
+    "text": " So if I play a key, it's going to do that."
+  },
+  {
+    "start": 4987.6,
+    "text": " If I play a higher key, it's going to glide."
+  },
+  {
+    "start": 4990.16,
+    "text": " It's like..."
+  },
+  {
+    "start": 4993.76,
+    "text": " It's just like doing that."
+  },
+  {
+    "start": 4994.72,
+    "text": " If I go all the way up, it's going to take a long time to glide."
+  },
+  {
+    "start": 5002.24,
+    "text": " Right?"
+  },
+  {
+    "start": 5002.72,
+    "text": " Yeah, super long time to glide."
+  },
+  {
+    "start": 5005.28,
+    "text": " Let me go to 70 something, a little bit more normal."
+  },
+  {
+    "start": 5008.24,
+    "text": " Now, the glide, even though you can do it on polyphonic, you know, with a lot of voices,"
+  },
+  {
+    "start": 5015.599999999999,
+    "text": " it always works a little bit better when you're working on mono."
+  },
+  {
+    "start": 5020.5599999999995,
+    "text": " Right?"
+  },
+  {
+    "start": 5021.12,
+    "text": " It's a little bit more consistent."
+  },
+  {
+    "start": 5023.28,
+    "text": " Now, then you have this legato and this legato works with mono."
+  },
+  {
+    "start": 5026.4,
+    "text": " It doesn't work on the other one."
+  },
+  {
+    "start": 5027.599999999999,
+    "text": " So if I go to eight voices and enable legato, I'm going to be playing the same thing."
+  },
+  {
+    "start": 5032.719999999999,
+    "text": " I'm going to play the same thing."
+  },
+  {
+    "start": 5034.08,
+    "text": " So if I go to eight voices and enable legato, I'm going to be playing it."
+  },
+  {
+    "start": 5043.44,
+    "text": " Notice that we are not getting that glide."
+  },
+  {
+    "start": 5045.6,
+    "text": " I'm just playing keys randomly."
+  },
+  {
+    "start": 5047.92,
+    "text": " We are not getting it."
+  },
+  {
+    "start": 5048.64,
+    "text": " So this works on mono."
+  },
+  {
+    "start": 5050.72,
+    "text": " Now, how this works when you enable the legato is that when you play a key,"
+  },
+  {
+    "start": 5055.36,
+    "text": " you're not going to get that glide."
+  },
+  {
+    "start": 5056.96,
+    "text": " So I'm going to be playing a key, another one, another one, another one."
+  },
+  {
+    "start": 5061.12,
+    "text": " I just don't get it."
+  },
+  {
+    "start": 5062.32,
+    "text": " Right?"
+  },
+  {
+    "start": 5063.200000000001,
+    "text": " But if I'm holding a key and I play a new key,"
+  },
+  {
+    "start": 5067.68,
+    "text": " it's going to glide from that key I was holding to the next one."
+  },
+  {
+    "start": 5071.360000000001,
+    "text": " Now, I'm going to really and I'm playing two keys right now."
+  },
+  {
+    "start": 5073.6,
+    "text": " I'm holding as the lower C and I on F, a higher F."
+  },
+  {
+    "start": 5078.080000000001,
+    "text": " If I release that F, it's going to go back to the key I was holding."
+  },
+  {
+    "start": 5083.360000000001,
+    "text": " So if I do the same, I play a higher C in this case,"
+  },
+  {
+    "start": 5086.64,
+    "text": " it's going to glide to that note."
+  },
+  {
+    "start": 5088.4800000000005,
+    "text": " And if I release the higher C,"
+  },
+  {
+    "start": 5090.72,
+    "text": " it's going to glide to the note that you were holding."
+  },
+  {
+    "start": 5093.360000000001,
+    "text": " The takeaway of this is that you need to hold a key in order to glide."
+  },
+  {
+    "start": 5098.240000000001,
+    "text": " So that's enough about about glide."
+  },
+  {
+    "start": 5100.72,
+    "text": " We need to talk about all of this that we have right here, which is highly important."
+  },
+  {
+    "start": 5105.68,
+    "text": " We need to talk about the keyboard and all the values that we have right there."
+  },
+  {
+    "start": 5109.4400000000005,
+    "text": " Now, some of these values are pretty, pretty simple and easy to understand."
+  },
+  {
+    "start": 5115.84,
+    "text": " Some of them of them are not."
+  },
+  {
+    "start": 5118.08,
+    "text": " You have the voices."
+  },
+  {
+    "start": 5119.04,
+    "text": " We already talked about this."
+  },
+  {
+    "start": 5120.4,
+    "text": " You can do eight voices or mono."
+  },
+  {
+    "start": 5122.719999999999,
+    "text": " Then you have your detune."
+  },
+  {
+    "start": 5124.08,
+    "text": " This one is pretty simple."
+  },
+  {
+    "start": 5125.36,
+    "text": " If I play a key, this is a global detune."
+  },
+  {
+    "start": 5128.4,
+    "text": " I'm going to be moving up or down."
+  },
+  {
+    "start": 5131.2,
+    "text": " And I'm going to show you the tune, the tuner."
+  },
+  {
+    "start": 5134.96,
+    "text": " I'm going to see."
+  },
+  {
+    "start": 5137.44,
+    "text": " So this is going to make it sharp or it's going to make it flat to the other way, pretty much."
+  },
+  {
+    "start": 5144.719999999999,
+    "text": " So you're just detuning just a tiny bit."
+  },
+  {
+    "start": 5146.96,
+    "text": " That is a very tiny detune."
+  },
+  {
+    "start": 5149.52,
+    "text": " Or you can go in semitones."
+  },
+  {
+    "start": 5154.32,
+    "text": " All right."
+  },
+  {
+    "start": 5155.04,
+    "text": " And then you can go in octaves."
+  },
+  {
+    "start": 5157.36,
+    "text": " And it's doing it for all the oscillator, all the voices."
+  },
+  {
+    "start": 5162.0,
+    "text": " So if I go to oscillator number two, it's going to do it for this one as well."
+  },
+  {
+    "start": 5166.72,
+    "text": " So it's a global control for all the whole synthesizer."
+  },
+  {
+    "start": 5170.08,
+    "text": " So then you have the PB range."
+  },
+  {
+    "start": 5172.24,
+    "text": " This one sounds weird, but it's very simple."
+  },
+  {
+    "start": 5175.2,
+    "text": " So you have your pitch bend."
+  },
+  {
+    "start": 5177.92,
+    "text": " That's what PB means, pitch bend."
+  },
+  {
+    "start": 5180.16,
+    "text": " So if I play a key and I go up on the pitch, I'm going to be getting that."
+  },
+  {
+    "start": 5184.4800000000005,
+    "text": " And I'm going to go down on the pitch bend."
+  },
+  {
+    "start": 5186.08,
+    "text": " And I'm using a MIDI or Arturia KeyLab."
+  },
+  {
+    "start": 5188.8,
+    "text": " If I go down on the pitch bend, all the way down, it's going that way."
+  },
+  {
+    "start": 5193.36,
+    "text": " Now, the thing is that right here, you're saying I want to go two semitones up or two semitones down"
+  },
+  {
+    "start": 5199.84,
+    "text": " when I use the pitch bend."
+  },
+  {
+    "start": 5201.2,
+    "text": " But you can go crazy right here and say I want to go a full octave."
+  },
+  {
+    "start": 5205.92,
+    "text": " So now if I play a key and I go up on the pitch bend,"
+  },
+  {
+    "start": 5210.4800000000005,
+    "text": " it's going to go 12 semitones up or 12 down, an octave, a full octave."
+  },
+  {
+    "start": 5216.32,
+    "text": " Now, I'm going to go back to mono because it's going to be easier to hear mono."
+  },
+  {
+    "start": 5220.16,
+    "text": " And actually, this priority works better in mono."
+  },
+  {
+    "start": 5223.6,
+    "text": " So when you play keys, sometimes it's going to let you play the higher keys"
+  },
+  {
+    "start": 5229.2,
+    "text": " if you're holding a key or it's not going to let you play a key"
+  },
+  {
+    "start": 5232.08,
+    "text": " if you're not holding the key that you need to press."
+  },
+  {
+    "start": 5236.64,
+    "text": " I know it sounds weird."
+  },
+  {
+    "start": 5237.68,
+    "text": " I just messed it up."
+  },
+  {
+    "start": 5238.64,
+    "text": " Let me just go right there."
+  },
+  {
+    "start": 5239.68,
+    "text": " So by default, the priority is last."
+  },
+  {
+    "start": 5242.56,
+    "text": " So I'm going to be playing a key and I'm going to be playing a low key, a C key, the C3."
+  },
+  {
+    "start": 5248.56,
+    "text": " And for now, I'm just going to disable the oscillator number two."
+  },
+  {
+    "start": 5250.64,
+    "text": " I'm going to be playing that key."
+  },
+  {
+    "start": 5251.84,
+    "text": " If I play a higher key, it's going to let me, right?"
+  },
+  {
+    "start": 5256.0,
+    "text": " And I'm still holding the C3."
+  },
+  {
+    "start": 5258.16,
+    "text": " So I'm playing a C3."
+  },
+  {
+    "start": 5259.76,
+    "text": " I'm going to play a C4."
+  },
+  {
+    "start": 5262.16,
+    "text": " So it's just letting me."
+  },
+  {
+    "start": 5263.76,
+    "text": " Now, if I play a lower key, I'm playing the C3."
+  },
+  {
+    "start": 5266.8,
+    "text": " If I go down to a lower key, it's going to let me."
+  },
+  {
+    "start": 5270.88,
+    "text": " Now, this is what the last note priority is going to work."
+  },
+  {
+    "start": 5275.12,
+    "text": " It's going to let you play and it's going to take the last note that you play."
+  },
+  {
+    "start": 5279.2,
+    "text": " It doesn't care if it's a higher note or if it's a lower note"
+  },
+  {
+    "start": 5282.08,
+    "text": " if you're holding a middle note, right?"
+  },
+  {
+    "start": 5284.320000000001,
+    "text": " So then you have the other options."
+  },
+  {
+    "start": 5286.320000000001,
+    "text": " It's going to say high."
+  },
+  {
+    "start": 5287.360000000001,
+    "text": " So this means that if you're playing a C, you can only and only play higher keys."
+  },
+  {
+    "start": 5293.84,
+    "text": " So I'm going to go high in pitch."
+  },
+  {
+    "start": 5295.92,
+    "text": " I'm going to play it right now."
+  },
+  {
+    "start": 5297.6,
+    "text": " And I'm going to go back to my C3."
+  },
+  {
+    "start": 5299.12,
+    "text": " Now, if I want to play a lower key, hopefully you can hear this."
+  },
+  {
+    "start": 5304.16,
+    "text": " I'm just tapping or playing the lower notes and it's not letting me."
+  },
+  {
+    "start": 5308.64,
+    "text": " That's why it's a high priority."
+  },
+  {
+    "start": 5310.56,
+    "text": " It will only play the higher keys if you're holding, I don't know, C3 and up."
+  },
+  {
+    "start": 5316.400000000001,
+    "text": " Then if you go to C2, it's going to be C2 and up."
+  },
+  {
+    "start": 5320.320000000001,
+    "text": " It's not going to let you play lower keys."
+  },
+  {
+    "start": 5322.56,
+    "text": " But the other one is just going to do the opposite."
+  },
+  {
+    "start": 5324.96,
+    "text": " If I play a key and I play higher keys, it's just not going to let me."
+  },
+  {
+    "start": 5329.6,
+    "text": " I can only play lower keys."
+  },
+  {
+    "start": 5333.76,
+    "text": " Right?"
+  },
+  {
+    "start": 5334.8,
+    "text": " Now, usually the best mode, it's the last because you can do whatever you want."
+  },
+  {
+    "start": 5339.200000000001,
+    "text": " Now, then we get to the air and we get to the stretch."
+  },
+  {
+    "start": 5342.080000000001,
+    "text": " And these ones are the weird ones."
+  },
+  {
+    "start": 5344.240000000001,
+    "text": " So the air, what it's going to be, it's actually super simple,"
+  },
+  {
+    "start": 5348.16,
+    "text": " is a deviation in pitch, a deviation in pitch."
+  },
+  {
+    "start": 5352.639999999999,
+    "text": " So I'm going to play something like that and I'm going to go up on the air."
+  },
+  {
+    "start": 5357.92,
+    "text": " And notice that it's moving."
+  },
+  {
+    "start": 5359.76,
+    "text": " I'm going to show you the tuner."
+  },
+  {
+    "start": 5361.36,
+    "text": " Let me just go back."
+  },
+  {
+    "start": 5362.4,
+    "text": " I'm playing C, right?"
+  },
+  {
+    "start": 5364.96,
+    "text": " And right there we have a C."
+  },
+  {
+    "start": 5366.72,
+    "text": " I'm going to go and say that I want 50% air, just to say something."
+  },
+  {
+    "start": 5371.12,
+    "text": " And I'm going to play that C again."
+  },
+  {
+    "start": 5373.599999999999,
+    "text": " I'm going to play it again."
+  },
+  {
+    "start": 5375.28,
+    "text": " And now notice that we get something different."
+  },
+  {
+    "start": 5378.48,
+    "text": " So it's like randomizing whatever pitch, sometimes going to be really up or really down."
+  },
+  {
+    "start": 5385.76,
+    "text": " It's always moving around this."
+  },
+  {
+    "start": 5387.84,
+    "text": " It's not going to go crazy."
+  },
+  {
+    "start": 5389.76,
+    "text": " Now, this is important sometimes when on analog synthesizers,"
+  },
+  {
+    "start": 5393.76,
+    "text": " because not everything is going to be really in tune, super highly in tune."
+  },
+  {
+    "start": 5398.72,
+    "text": " So if I play a chord."
+  },
+  {
+    "start": 5400.639999999999,
+    "text": " Oh, I'm in mono."
+  },
+  {
+    "start": 5402.08,
+    "text": " So let me just go to eight voices."
+  },
+  {
+    "start": 5404.96,
+    "text": " If I play a chord."
+  },
+  {
+    "start": 5408.5599999999995,
+    "text": " Can you hear that not everything is in tune?"
+  },
+  {
+    "start": 5411.12,
+    "text": " If I play again, it's even worse."
+  },
+  {
+    "start": 5415.599999999999,
+    "text": " So this error is going to do that."
+  },
+  {
+    "start": 5418.24,
+    "text": " It's going to give you that error in the tuning."
+  },
+  {
+    "start": 5422.4,
+    "text": " So if 100% it's too much, you can go to something and you're emulating that analog vibe."
+  },
+  {
+    "start": 5431.599999999999,
+    "text": " We just don't hear the difference that much."
+  },
+  {
+    "start": 5436.320000000001,
+    "text": " We can hear it, but not that much."
+  },
+  {
+    "start": 5439.12,
+    "text": " And this is, you know, part of the analog vibe."
+  },
+  {
+    "start": 5441.76,
+    "text": " Now, this stretch is a little bit similar."
+  },
+  {
+    "start": 5444.96,
+    "text": " I want to say equal to the key on the pitch mod."
+  },
+  {
+    "start": 5448.400000000001,
+    "text": " So this, what it will do, it will mess with your scale, with your keyboard."
+  },
+  {
+    "start": 5454.56,
+    "text": " So if I play C right now, we are going to be getting C."
+  },
+  {
+    "start": 5458.56,
+    "text": " Now, this one is going to be stretching your keyboard."
+  },
+  {
+    "start": 5462.4800000000005,
+    "text": " So it's going to mess with your tuning."
+  },
+  {
+    "start": 5465.52,
+    "text": " So right now it's called equally tempered."
+  },
+  {
+    "start": 5468.56,
+    "text": " We already talked about this."
+  },
+  {
+    "start": 5470.160000000001,
+    "text": " If I play a C, notice that it's already a little bit weird."
+  },
+  {
+    "start": 5475.360000000001,
+    "text": " It's deviating a little bit and we are not doing error, right?"
+  },
+  {
+    "start": 5478.88,
+    "text": " Now, I'm going to keep playing a C, a D, an E."
+  },
+  {
+    "start": 5484.240000000001,
+    "text": " And notice it's adjusting and it's trying to now be in tune."
+  },
+  {
+    "start": 5488.96,
+    "text": " But as I keep going up, it's going to keep detuning a little bit more."
+  },
+  {
+    "start": 5496.160000000001,
+    "text": " So this is what this control is going to do."
+  },
+  {
+    "start": 5497.92,
+    "text": " I'm going to go crazy so we can really hear this."
+  },
+  {
+    "start": 5500.160000000001,
+    "text": " I'm going to be playing a C3."
+  },
+  {
+    "start": 5501.92,
+    "text": " Let us just all the way, it's a little bit off."
+  },
+  {
+    "start": 5505.040000000001,
+    "text": " If I keep going up, or in this case, I'm going to go up."
+  },
+  {
+    "start": 5507.6,
+    "text": " I'm going to go down."
+  },
+  {
+    "start": 5509.040000000001,
+    "text": " So as I go down, it's going to detune even more, even more, and even more."
+  },
+  {
+    "start": 5514.88,
+    "text": " You're still, you know, on the right key."
+  },
+  {
+    "start": 5516.400000000001,
+    "text": " You're still playing an F, but it's a little bit off from the right tuning."
+  },
+  {
+    "start": 5521.52,
+    "text": " And if I keep going down in pitch, it's going to,"
+  },
+  {
+    "start": 5525.04,
+    "text": " it's going to detune even more."
+  },
+  {
+    "start": 5527.28,
+    "text": " Sometimes with some synthesizers, analog synthesizers, especially if you have a lot of oscillators,"
+  },
+  {
+    "start": 5532.96,
+    "text": " you're going to be tuning them the best you can."
+  },
+  {
+    "start": 5536.24,
+    "text": " Maybe if you open them up and you have the tools."
+  },
+  {
+    "start": 5539.76,
+    "text": " But not always, they're going to be right in the money, right in the pocket, right?"
+  },
+  {
+    "start": 5545.92,
+    "text": " Right in the spot."
+  },
+  {
+    "start": 5547.2,
+    "text": " So when you are tuning something, maybe you're tuning, let's say, C3 on an analog synth,"
+  },
+  {
+    "start": 5553.52,
+    "text": " and you're right there, sometimes if you didn't adjust it that well,"
+  },
+  {
+    "start": 5559.92,
+    "text": " you're going to be playing a higher C, and it's going to be a little bit off from the center."
+  },
+  {
+    "start": 5564.8,
+    "text": " Still going to be a C, but it's going to be a little bit off."
+  },
+  {
+    "start": 5567.52,
+    "text": " So this is something very common with analog synthesizers."
+  },
+  {
+    "start": 5571.040000000001,
+    "text": " You have maybe the C3 is going to be riding too, but maybe C4 is going to be a little bit off,"
+  },
+  {
+    "start": 5575.52,
+    "text": " or maybe C0 is going to be a little bit off."
+  },
+  {
+    "start": 5579.68,
+    "text": " It's something very common."
+  },
+  {
+    "start": 5581.040000000001,
+    "text": " So this is emulating that."
+  },
+  {
+    "start": 5583.12,
+    "text": " Okay, so let's talk about the last thing."
+  },
+  {
+    "start": 5585.5199999999995,
+    "text": " It's going to be the quick routing and the routing possibilities."
+  },
+  {
+    "start": 5589.36,
+    "text": " So this is just a fast way to, you know, adjust the routings."
+  },
+  {
+    "start": 5593.68,
+    "text": " So if I go to the first one, it says, right here you can see the chart."
+  },
+  {
+    "start": 5597.84,
+    "text": " It says the oscillator is going to the filters and then goes to the amp."
+  },
+  {
+    "start": 5602.16,
+    "text": " So this one is going to this one, and this going to this one, and goes out."
+  },
+  {
+    "start": 5605.599999999999,
+    "text": " This one to this one to this one, and goes out, and all the sound just merges right there,"
+  },
+  {
+    "start": 5610.64,
+    "text": " and we just get the sound."
+  },
+  {
+    "start": 5612.0,
+    "text": " That's how it works."
+  },
+  {
+    "start": 5613.12,
+    "text": " This is what the quick routing is going to do."
+  },
+  {
+    "start": 5615.2,
+    "text": " So the next one is going to be both oscillators are going to go to filter number one,"
+  },
+  {
+    "start": 5619.84,
+    "text": " and then going out on the amp."
+  },
+  {
+    "start": 5621.84,
+    "text": " The other one is a little bit different."
+  },
+  {
+    "start": 5624.48,
+    "text": " You notice right there, the chart, the oscillators are just like blending or just mixing at some point."
+  },
+  {
+    "start": 5630.8,
+    "text": " It's because if you take a look at right here, the oscillator number one, it's sending 5050."
+  },
+  {
+    "start": 5636.48,
+    "text": " So it's sending to this, and it's sending to this."
+  },
+  {
+    "start": 5639.599999999999,
+    "text": " And this one is doing the same thing."
+  },
+  {
+    "start": 5641.2,
+    "text": " It's sending to the filter one, and then the filter two, and then everything goes out to the amp one,"
+  },
+  {
+    "start": 5646.72,
+    "text": " and the amp two, and then we get the sound."
+  },
+  {
+    "start": 5649.44,
+    "text": " So we could do all of this manually."
+  },
+  {
+    "start": 5651.84,
+    "text": " For example, if I don't want to do this, but I still want to keep this routing,"
+  },
+  {
+    "start": 5656.48,
+    "text": " I can go right there and say, you know what?"
+  },
+  {
+    "start": 5658.4,
+    "text": " On this one, I want to go to filter two, to filter one, let's say, let's just pretend."
+  },
+  {
+    "start": 5662.8,
+    "text": " But on the oscillator number two, I'm going to keep the 5050."
+  },
+  {
+    "start": 5665.84,
+    "text": " So you still, you know, can create all of this manually."
+  },
+  {
+    "start": 5669.04,
+    "text": " You don't have to use the quick routing."
+  },
+  {
+    "start": 5671.6,
+    "text": " Now, the last one is going to be a little bit different."
+  },
+  {
+    "start": 5675.12,
+    "text": " It says it's going to grab the oscillators."
+  },
+  {
+    "start": 5677.84,
+    "text": " They are going to filter number one."
+  },
+  {
+    "start": 5679.92,
+    "text": " Notice we can see right there, filter one, filter one."
+  },
+  {
+    "start": 5682.56,
+    "text": " Then the filter one, it's grabbing whatever signal is doing its job,"
+  },
+  {
+    "start": 5686.08,
+    "text": " and then sending it to filter number two."
+  },
+  {
+    "start": 5688.48,
+    "text": " So now both are going here."
+  },
+  {
+    "start": 5690.8,
+    "text": " This one is going right there."
+  },
+  {
+    "start": 5692.32,
+    "text": " We can see it right there on the chart."
+  },
+  {
+    "start": 5694.08,
+    "text": " And then this one is going out through the amp number two, and then goes out."
+  },
+  {
+    "start": 5699.04,
+    "text": " So again, all of this, we just can change it manually."
+  },
+  {
+    "start": 5701.2,
+    "text": " Maybe I don't want this, but I want to keep this."
+  },
+  {
+    "start": 5703.84,
+    "text": " I'm going to go down on this one, and I'm going to enable the amp,"
+  },
+  {
+    "start": 5706.64,
+    "text": " and now this one is going out on this one."
+  },
+  {
+    "start": 5708.96,
+    "text": " Now, there's one thing that we didn't cover,"
+  },
+  {
+    "start": 5711.68,
+    "text": " and maybe I'm going to go to the analog number."
+  },
+  {
+    "start": 5714.4,
+    "text": " No, you know what? I'm going to go to this one, the quick routing number one."
+  },
+  {
+    "start": 5717.5199999999995,
+    "text": " I'm going to go to this one."
+  },
+  {
+    "start": 5718.8,
+    "text": " So there's something right here at the bottom that says follow."
+  },
+  {
+    "start": 5722.4,
+    "text": " And it's a little bit weird to explain, to be honest."
+  },
+  {
+    "start": 5725.759999999999,
+    "text": " Okay, so I'm going to go to the filter number one on the oscillator one,"
+  },
+  {
+    "start": 5730.639999999999,
+    "text": " and I'm going to go to oscillator number two, and it goes to filter number two."
+  },
+  {
+    "start": 5734.4,
+    "text": " Right? So everything is going out to its own amp envelope, amp section or VCA."
+  },
+  {
+    "start": 5742.719999999999,
+    "text": " So, okay. So right now, what I'm going to do, I'm going to enable the follow,"
+  },
+  {
+    "start": 5747.599999999999,
+    "text": " but what I want to do, I want to send from the filter number one to the filter number two."
+  },
+  {
+    "start": 5752.96,
+    "text": " So both oscillators, sorry, the one is going to filter number one."
+  },
+  {
+    "start": 5757.12,
+    "text": " This one is still going to number two, but this one, it's rerouting the signal to filter number two."
+  },
+  {
+    "start": 5762.72,
+    "text": " So I'm going to be turning off the amp number one."
+  },
+  {
+    "start": 5765.68,
+    "text": " So what we can do, if I play, we can hear the number one and the two going through the filter two,"
+  },
+  {
+    "start": 5773.52,
+    "text": " and then the amp number one, but the filter, the oscillator number one is going to this."
+  },
+  {
+    "start": 5777.84,
+    "text": " Right? So we're going to go up an octave, and we can hear"
+  },
+  {
+    "start": 5782.96,
+    "text": " that the rerouting to filter number two, it's doing its job, it's rerouting the signal."
+  },
+  {
+    "start": 5788.16,
+    "text": " And if I chop frequencies, it is chopping this."
+  },
+  {
+    "start": 5792.0,
+    "text": " Now, the thing is that the follow, and I'm going to go to filter number two now,"
+  },
+  {
+    "start": 5796.64,
+    "text": " and we can easily hear this. We are going to filter number two,"
+  },
+  {
+    "start": 5801.04,
+    "text": " but we are following, and I'm going to move this cut of frequencies."
+  },
+  {
+    "start": 5806.88,
+    "text": " What is happening? Why is chopping frequencies?"
+  },
+  {
+    "start": 5810.56,
+    "text": " Remember, the oscillator number two is going to filter number two."
+  },
+  {
+    "start": 5814.0,
+    "text": " The oscillator number, I'm sorry, the oscillator number one is going to filter number two,"
+  },
+  {
+    "start": 5818.0,
+    "text": " and the oscillator number two is going to the two."
+  },
+  {
+    "start": 5820.400000000001,
+    "text": " So why is the cut of frequencies of the number one affecting the sound?"
+  },
+  {
+    "start": 5824.72,
+    "text": " Because nothing is being routed to this, and it's because of the follow."
+  },
+  {
+    "start": 5829.84,
+    "text": " Now, this follow makes the cut of frequencies work as an offset."
+  },
+  {
+    "start": 5834.56,
+    "text": " So if I go all the way up on this one and all the way down on this one,"
+  },
+  {
+    "start": 5838.24,
+    "text": " this one acts like a main cut of frequencies."
+  },
+  {
+    "start": 5844.0,
+    "text": " It doesn't matter. We are not just not receiving signal from anywhere right here."
+  },
+  {
+    "start": 5848.719999999999,
+    "text": " It's going to react as a main cut of frequencies."
+  },
+  {
+    "start": 5851.84,
+    "text": " But when we use this one, and I'm going to maybe put it right here,"
+  },
+  {
+    "start": 5856.4,
+    "text": " this one is going to work as an offset. So we can use this part."
+  },
+  {
+    "start": 5860.32,
+    "text": " So if I move this one, it's going to be chopping frequencies,"
+  },
+  {
+    "start": 5863.679999999999,
+    "text": " but it's not going to chop all the frequencies."
+  },
+  {
+    "start": 5866.72,
+    "text": " So if I keep going up on this one, we are going to be getting more."
+  },
+  {
+    "start": 5870.8,
+    "text": " So it works like an offset. It's a little bit weird."
+  },
+  {
+    "start": 5874.08,
+    "text": " It's not very common on all synthesizers, but this is what it does."
+  },
+  {
+    "start": 5878.0,
+    "text": " The follow is just going to use it as an offset."
+  },
+  {
+    "start": 5880.4800000000005,
+    "text": " Now, if I disable the follow and I move this one, it does nothing."
+  },
+  {
+    "start": 5885.280000000001,
+    "text": " The main control or the main cut of frequencies is going to be this."
+  },
+  {
+    "start": 5889.76,
+    "text": " Right? So again, it's just a little bit weird, but that's the way it works."
+  },
+  {
+    "start": 5894.32,
+    "text": " All right. So we covered, I guess, pretty much everything."
+  },
+  {
+    "start": 5898.96,
+    "text": " It was long. Some of the options are confusing, but not anymore."
+  },
+  {
+    "start": 5903.599999999999,
+    "text": " So now you know how to use the whole synthesizer."
+  },
+  {
+    "start": 5906.96,
+    "text": " All right. So I'm a little bit tired because this was a little bit long, but well, you know."
+  },
+  {
+    "start": 5911.36,
+    "text": " So if you liked all this and maybe you learned something,"
+  },
+  {
+    "start": 5914.799999999999,
+    "text": " remember to like and subscribe."
+  },
+  {
+    "start": 5916.719999999999,
+    "text": " If you have the money and you want to buy me a coffee, you can."
+  },
+  {
+    "start": 5920.0,
+    "text": " You go to the links at the description. You have PayPal."
+  },
+  {
+    "start": 5923.2,
+    "text": " You have Patreon. If you want to be a one month patron, you can."
+  },
+  {
+    "start": 5926.5599999999995,
+    "text": " And you have the YouTube things. Okay. So see you on the next one."
+  }
+]

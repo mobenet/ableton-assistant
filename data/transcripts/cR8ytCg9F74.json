@@ -1,0 +1,634 @@
+[
+  {
+    "start": 0.0,
+    "text": " Hey friends, Matt aka Martillan here, and in this video I want to share with you five things that you"
+  },
+  {
+    "start": 4.5600000000000005,
+    "text": " probably didn't know about Ableton Live's Saturated Device, which is one of probably my most used"
+  },
+  {
+    "start": 11.120000000000001,
+    "text": " devices and audio effects inside of Ableton Live, and in figuring out what to do with this video,"
+  },
+  {
+    "start": 16.64,
+    "text": " I actually learned a few things as well. Now this video is going to get pretty audio nerdy,"
+  },
+  {
+    "start": 21.04,
+    "text": " it's not necessarily a saturated tutorial, but instead I want to get into the weeds and really"
+  },
+  {
+    "start": 25.92,
+    "text": " figure out and decipher how this effect is working and how it's affecting our audio signal. So"
+  },
+  {
+    "start": 32.160000000000004,
+    "text": " without any further ado, here are five things that you probably didn't know about Ableton Live's"
+  },
+  {
+    "start": 37.2,
+    "text": " Saturator Device. So we're going to start pretty basic here, and the first thing that you probably"
+  },
+  {
+    "start": 42.96,
+    "text": " didn't know about Ableton Live's Saturator is that all modes except for the Wave Shaper mode actually"
+  },
+  {
+    "start": 47.68000000000001,
+    "text": " clip the signal. So let me show you what I mean by this. Okay, so here I have a drum break which is"
+  },
+  {
+    "start": 53.12,
+    "text": " currently peaking on its track at negative 6 dB. If I play this drum break and have a look at the"
+  },
+  {
+    "start": 58.64,
+    "text": " track meter, you'll see that the peak level is showcasing at negative 6 dB maximum."
+  },
+  {
+    "start": 69.36,
+    "text": " In order to give ourselves a little bit more headroom on our master, I'm going to pull down"
+  },
+  {
+    "start": 72.96,
+    "text": " the track volume by 6 dB, so now our track is going to be peaking at negative 12 dB."
+  },
+  {
+    "start": 78.8,
+    "text": " And here I've got an instance of Saturator loaded up onto this break track. Now, Saturator comes"
+  },
+  {
+    "start": 83.52,
+    "text": " with a few different curve types. If I look at this drop down menu here, we have Analog Clip,"
+  },
+  {
+    "start": 87.67999999999999,
+    "text": " Soft Sine, Medium Curve, Hard Curve, Synoid Fold, Digital Clip and Wave Shaper. Now the first six"
+  },
+  {
+    "start": 93.52,
+    "text": " of these all clip the signal, meaning that when the signal hits its maximum possible value,"
+  },
+  {
+    "start": 98.47999999999999,
+    "text": " it won't be allowed to actually exceed that maximum possible value. To showcase this,"
+  },
+  {
+    "start": 102.96,
+    "text": " let's increase the drive of the Saturator by 10 dB. So remembering that our peak level was negative"
+  },
+  {
+    "start": 107.52,
+    "text": " 6 dB, if I've increased it by 10 dB, we should be pushing our signal to the point where it should be"
+  },
+  {
+    "start": 112.47999999999999,
+    "text": " going over the maximum allowable limit. Now take a listen to this signal and of course you'll hear"
+  },
+  {
+    "start": 117.67999999999999,
+    "text": " the saturation occurring, but you'll see that our peak level on our break track is not going to"
+  },
+  {
+    "start": 122.88,
+    "text": " exceed negative 6 dB, which is where we've brought our track fader down to."
+  },
+  {
+    "start": 133.12,
+    "text": " So there on Analog Clip our peak level is negative 6.09, if I change this to Soft Sine,"
+  },
+  {
+    "start": 138.8,
+    "text": " you'll hear it gets a little bit louder, a little bit more saturated, but still doesn't exceed that"
+  },
+  {
+    "start": 142.56,
+    "text": " negative 6 dB mark. Likewise, if we go to Medium Curve, Hard Curve,"
+  },
+  {
+    "start": 154.24,
+    "text": " you'll see that Hard Curve overshoots a little bit from negative 6 dB, but it's super negligible."
+  },
+  {
+    "start": 158.96,
+    "text": " And Digital Clip."
+  },
+  {
+    "start": 163.68,
+    "text": " And in all these different modes, we can push the input drive as much as we want and never exceed"
+  },
+  {
+    "start": 167.76000000000002,
+    "text": " that maximum level. So with this Digital Clip, I could just keep increasing the drive"
+  },
+  {
+    "start": 176.88,
+    "text": " and we're never going to go over negative 6 dB. Now as mentioned, this does not hold true for"
+  },
+  {
+    "start": 183.12,
+    "text": " the Wave Shaper mode, which will not clip the signal pretty much regardless of whatever effects"
+  },
+  {
+    "start": 190.8,
+    "text": " you choose in the Wave Shaper mode. So do just bear that in mind if you're trying to use Saturator"
+  },
+  {
+    "start": 196.72,
+    "text": " as a clipper. Now speaking of using Saturator as a clipper, this is something that I know a lot of"
+  },
+  {
+    "start": 200.64000000000001,
+    "text": " people, including myself, actually do. And in order to do this, I know that a lot of people use the"
+  },
+  {
+    "start": 204.8,
+    "text": " Soft Clip in Bill and Bill's videos, but I'm not going to go into that. So I'm going to go into"
+  },
+  {
+    "start": 210.16,
+    "text": " the Soft Clip. So this is a very simple way to do this. I know that a lot of people use the"
+  },
+  {
+    "start": 214.0,
+    "text": " Soft Clip in Bill's into the Saturator, and this showcases that that Soft Clip isn't really necessary,"
+  },
+  {
+    "start": 219.92,
+    "text": " except in a few cases that I'm about to show you now. So the second thing that you probably"
+  },
+  {
+    "start": 225.51999999999998,
+    "text": " didn't know about Ableton Live Saturator is that the high quality mode will actually produce"
+  },
+  {
+    "start": 230.8,
+    "text": " overshoots. What I mean by this is that if you set your Saturator to high quality mode and you push"
+  },
+  {
+    "start": 235.28,
+    "text": " the maximum output level of that Saturator, you will be exceeding zero decibels. Let me show you"
+  },
+  {
+    "start": 241.12,
+    "text": " what I mean. So for those of you who didn't know, if you right click on Saturator's device title bar,"
+  },
+  {
+    "start": 246.4,
+    "text": " there's an option right down the bottom for high quality mode. Now this mode is used to reduce"
+  },
+  {
+    "start": 251.92000000000002,
+    "text": " aliasing. Basically it oversamples the device, and if you don't know what that means, it basically"
+  },
+  {
+    "start": 257.36,
+    "text": " runs it at a higher sample rate in order to reduce excess distortion. That's kind of as far as I'm"
+  },
+  {
+    "start": 261.84,
+    "text": " going to go with it, and I'm going to assume that if you are watching this video, you kind of know"
+  },
+  {
+    "start": 265.44,
+    "text": " what aliasing is. But if you don't, stick around because I'm going to do a little bit more of an"
+  },
+  {
+    "start": 269.03999999999996,
+    "text": " explanation later on. But let's just assume that you kind of think this is going to be the best"
+  },
+  {
+    "start": 274.64,
+    "text": " option. So I'm going to engage high quality mode here on this Saturator, and we're still on that"
+  },
+  {
+    "start": 278.96,
+    "text": " drum break, and as we established before, as I increase the drive here, I'm on the Analog Clip"
+  },
+  {
+    "start": 283.52,
+    "text": " mode, we should be clipping the signal and not allowing it to exceed that kind of maximum level."
+  },
+  {
+    "start": 290.16,
+    "text": " However, as I increase the drive here, take a look at the peak level meter on our break,"
+  },
+  {
+    "start": 296.32000000000005,
+    "text": " which I'll just reset now. We've actually exceeded that maximum level by over 3dB. Granted,"
+  },
+  {
+    "start": 312.8,
+    "text": " we're pushing the input drive quite substantially, but this is because of how the anti-aliasing"
+  },
+  {
+    "start": 317.68,
+    "text": " in Saturator works. And this is regardless of any of the different modes. If we go through"
+  },
+  {
+    "start": 323.04,
+    "text": " something like Digital Clip as an example, which is a little bit of a harder clipping,"
+  },
+  {
+    "start": 326.96,
+    "text": " you'll see this still produces overshoots. If I turn off the high quality mode by right clicking"
+  },
+  {
+    "start": 337.04,
+    "text": " on the device title bar, turning off high quality, resetting our peak meter, you'll see that now we"
+  },
+  {
+    "start": 341.92,
+    "text": " do not have any overshoots. Our maximum peak level of this signal is now at negative 6dB,"
+  },
+  {
+    "start": 349.44,
+    "text": " which is the maximum kind of 0dB mark, right? It's where our output of our track is set to,"
+  },
+  {
+    "start": 355.6,
+    "text": " and it's not being exceeded. So although high quality mode might seem like a good idea to reduce"
+  },
+  {
+    "start": 361.12,
+    "text": " aliasing, it will not clip the signal, which means that you will potentially have to do some extra"
+  },
+  {
+    "start": 368.08,
+    "text": " clipping after the fact or turn down the signal if that's what you're trying to use Saturator for."
+  },
+  {
+    "start": 373.12,
+    "text": " If you're not worried about how loud the signal is, go for it. Turn on high quality mode. It will"
+  },
+  {
+    "start": 377.2,
+    "text": " reduce anti-aliasing, but just be aware it's not clipping the signal. However, this leads nicely"
+  },
+  {
+    "start": 382.08,
+    "text": " into our third point, which is talking about the soft clip section inside of Saturator, which is not"
+  },
+  {
+    "start": 388.71999999999997,
+    "text": " affected by the high quality mode. So if we take a look at our Saturator device, we'll see in the"
+  },
+  {
+    "start": 395.44,
+    "text": " right hand section, this little output section, this button that allows us to turn either on or"
+  },
+  {
+    "start": 400.0,
+    "text": " off a soft clip. And what this does is basically put another instance of Saturator after the main"
+  },
+  {
+    "start": 407.28,
+    "text": " Saturator, and it's set to analog clip, and therefore it's clipping the signal and not allowing it to"
+  },
+  {
+    "start": 412.64,
+    "text": " exceed that maximum level. However, in order to do this, it's not oversampling the signal, even if"
+  },
+  {
+    "start": 418.15999999999997,
+    "text": " we're set to high quality mode. To showcase that this works, let's set this back to digital clip."
+  },
+  {
+    "start": 423.36,
+    "text": " Let's set our drive to 20 decibels, and now let's set our Saturator to high quality mode once again,"
+  },
+  {
+    "start": 428.24,
+    "text": " and let's take a look at our peak level meter to see where we're peaking at."
+  },
+  {
+    "start": 434.16,
+    "text": " Negative 2.7 decibels, and as I engage the soft clip, now take a look at that peak level."
+  },
+  {
+    "start": 444.72,
+    "text": " So we are now clipping the signal, however it's again important to note that this soft clipping"
+  },
+  {
+    "start": 449.04,
+    "text": " is not doing any anti-aliasing and is not affected by the high quality mode. So in order to demonstrate"
+  },
+  {
+    "start": 455.04,
+    "text": " this a little bit clearer, I'm going to switch over to this sine wave that I have here on this second"
+  },
+  {
+    "start": 459.6,
+    "text": " track, which is a sine wave playing a 10 kilohertz tone. I'm going to reduce the level of this track"
+  },
+  {
+    "start": 467.28000000000003,
+    "text": " by about 30 dB, and I'm going to open up the spectrum analyzer on this track so that we can see"
+  },
+  {
+    "start": 472.88,
+    "text": " it a little bit clearer. As I play this sine wave, take a look at where it's appearing on the spectrum"
+  },
+  {
+    "start": 478.24,
+    "text": " analyzer. You'll see there that is our sine wave peak. Ignore kind of all this low level stuff"
+  },
+  {
+    "start": 485.6,
+    "text": " for the moment, just focus on this sine wave. Now here on this track, I also have this Saturator,"
+  },
+  {
+    "start": 491.84000000000003,
+    "text": " which is set to analog clip mode. I'm going to change that to digital clip, and you'll notice"
+  },
+  {
+    "start": 496.56,
+    "text": " if I right click that it is not set to high quality mode. As I start to increase the drive here,"
+  },
+  {
+    "start": 503.04,
+    "text": " take a look at what happens to our signal in terms of the amount of frequencies being introduced."
+  },
+  {
+    "start": 508.24,
+    "text": " You'll see that when I reach a certain point, we get all of these crazy frequencies being introduced,"
+  },
+  {
+    "start": 518.0,
+    "text": " and that is aliasing distortion. That is effectively the harmonics being introduced by this signal"
+  },
+  {
+    "start": 523.36,
+    "text": " folding back down into the audible frequency spectrum. Typically, it's only really a problem"
+  },
+  {
+    "start": 529.44,
+    "text": " on high frequency materials such as this, but you may want to avoid aliasing distortion in most cases,"
+  },
+  {
+    "start": 535.52,
+    "text": " or at least reduce it, which is why we have a high quality mode on Saturator. So if I right click"
+  },
+  {
+    "start": 540.48,
+    "text": " Saturator, engage the high quality mode, now take a look at the reduced level of these peaks."
+  },
+  {
+    "start": 549.4399999999999,
+    "text": " If I disengage high quality mode, re-engage it, you'll see the level of those aliasing distortion"
+  },
+  {
+    "start": 558.3199999999999,
+    "text": " peaks get reduced. However, now that we've engaged high quality mode, don't forget our peak level is"
+  },
+  {
+    "start": 564.08,
+    "text": " over where we want it to be. You can see here our peak level is just over 1 dB higher than what it"
+  },
+  {
+    "start": 571.9200000000001,
+    "text": " should be. So you might think, okay, let's engage our soft clip. Now take a look at the level of"
+  },
+  {
+    "start": 577.44,
+    "text": " those frequencies being reintroduced by the aliasing distortion. I'll turn off the soft clip,"
+  },
+  {
+    "start": 585.6800000000001,
+    "text": " and I'll turn it back on. As you can see there, when we engage the soft clip on the output of"
+  },
+  {
+    "start": 591.12,
+    "text": " the Saturator, those frequencies introduced by that aliasing distortion got louder. Now granted,"
+  },
+  {
+    "start": 596.32,
+    "text": " this isn't really going to be an issue in 9 out of 10 instances, but it is an important thing to"
+  },
+  {
+    "start": 603.12,
+    "text": " note. So to recap, the soft clipping mode on Ableton Live Saturator is effectively like we're"
+  },
+  {
+    "start": 607.12,
+    "text": " putting another Saturator after our initial Saturator, setting that second Saturator to"
+  },
+  {
+    "start": 611.44,
+    "text": " analog clip and not engaging the high quality mode. Because of this, it can introduce some more"
+  },
+  {
+    "start": 616.24,
+    "text": " aliasing distortion, except remembering aliasing distortion isn't really that huge of an issue"
+  },
+  {
+    "start": 621.44,
+    "text": " most of the time, unless you're really heavily distorting material or particularly high frequency"
+  },
+  {
+    "start": 627.12,
+    "text": " material. But it is an important thing to know about how this device works. The final two things"
+  },
+  {
+    "start": 633.04,
+    "text": " you probably didn't know about Ableton Live Saturator device have to do with the colour section."
+  },
+  {
+    "start": 639.2,
+    "text": " The first of which being that when you engage the colour section, there is a really subtle"
+  },
+  {
+    "start": 643.68,
+    "text": " noise floor actually introduced into the signal. So to show you what I mean here, let's go back to"
+  },
+  {
+    "start": 648.9599999999999,
+    "text": " that same sine wave, except this time let's have it playing at 2 kilohertz instead of 10 kilohertz."
+  },
+  {
+    "start": 653.76,
+    "text": " And this is because what I want to show you won't really work if we're playing a higher frequency."
+  },
+  {
+    "start": 657.5999999999999,
+    "text": " So let's play this sine wave and have a look at it on our spectrum analyzer."
+  },
+  {
+    "start": 663.52,
+    "text": " And as I go down to this Saturator, you can see that we're not driving the input signal at all."
+  },
+  {
+    "start": 667.8399999999999,
+    "text": " And let's engage the colour section of this Saturator. And now with this colour section engaged,"
+  },
+  {
+    "start": 673.44,
+    "text": " take a look at the spectrum analyzer. You'll see this subtle noise floor actually introduced"
+  },
+  {
+    "start": 681.5200000000001,
+    "text": " into the signal. Now I'm going to talk about what the colour section is used for in a little bit,"
+  },
+  {
+    "start": 685.44,
+    "text": " but for the moment let's take a listen to what this noise floor actually sounds like."
+  },
+  {
+    "start": 689.2,
+    "text": " And the way that we can do this is by grouping our Saturator into an audio effect rack by pressing"
+  },
+  {
+    "start": 693.5200000000001,
+    "text": " Command and G, opening up our chain list, right clicking, creating a new chain and inserting a"
+  },
+  {
+    "start": 698.08,
+    "text": " utility onto this new chain, and then inverting the polarity of both the left and the right"
+  },
+  {
+    "start": 703.44,
+    "text": " speakers. And now what we'll hear output is just the difference between our saturated version and"
+  },
+  {
+    "start": 709.12,
+    "text": " our unsaturated version of our sine wave. And because that's it, we're basically just getting"
+  },
+  {
+    "start": 716.64,
+    "text": " the noise floor. Now as we can see if we look at the track meter, this noise floor is super quiet"
+  },
+  {
+    "start": 720.4000000000001,
+    "text": " at negative 111 decibels, so it's really not going to affect the signal that much unless you're super"
+  },
+  {
+    "start": 725.6,
+    "text": " boosting or distorting it after the fact. But to hear what this noise actually sounds like,"
+  },
+  {
+    "start": 730.16,
+    "text": " let's increase the gain by about 90 dB with three different utilities all at 30 decibels."
+  },
+  {
+    "start": 737.76,
+    "text": " Now if I play this signal and increase the level of our track,"
+  },
+  {
+    "start": 743.9200000000001,
+    "text": " that is the noise floor minus that kind of sine wave introduced by the colour section of Ableton"
+  },
+  {
+    "start": 749.44,
+    "text": " Live's Saturator. Again looking at the saturated device, we aren't doing anything to either the"
+  },
+  {
+    "start": 754.24,
+    "text": " bass, frequency, width or depth controls, but it is still introducing some subtle differences."
+  },
+  {
+    "start": 761.76,
+    "text": " The last thing is that the colour section of Ableton Live's Saturator will actually cause"
+  },
+  {
+    "start": 766.5600000000001,
+    "text": " overshoots, meaning that the signal will exceed zero decibels if pushed too far, and if either"
+  },
+  {
+    "start": 771.92,
+    "text": " increasing or decreasing the bass and or depth controls of this section. So going back to our"
+  },
+  {
+    "start": 777.84,
+    "text": " drum break, I've clipped this drum break using the digital clip. The Saturator is not on high"
+  },
+  {
+    "start": 782.4,
+    "text": " quality mode, I've increased the input gain by 10 decibels, this is what our drum break sounds like."
+  },
+  {
+    "start": 791.1999999999999,
+    "text": " And as I increase the colour mode, don't forget we're slightly introducing some very very very"
+  },
+  {
+    "start": 795.92,
+    "text": " low level noise floor, and you'll see that we're not exceeding that maximum level yet."
+  },
+  {
+    "start": 802.0799999999999,
+    "text": " We're still at negative 6 dB,"
+  },
+  {
+    "start": 806.16,
+    "text": " which goes to show just how insignificant that noise floor actually is. But as we start to change"
+  },
+  {
+    "start": 811.44,
+    "text": " the bass control, take a look at our maximum peak level."
+  },
+  {
+    "start": 821.2,
+    "text": " And as I decrease it,"
+  },
+  {
+    "start": 827.2800000000001,
+    "text": " you'll see that we have some pretty significant overshoots there. This also happens if I increase"
+  },
+  {
+    "start": 832.32,
+    "text": " or decrease the depth control."
+  },
+  {
+    "start": 841.44,
+    "text": " And the reason that this is happening is because this colour section is actually filtering the"
+  },
+  {
+    "start": 849.2800000000001,
+    "text": " signal, passing it through that Saturator and not saturating the other aspects of the signal that"
+  },
+  {
+    "start": 855.7600000000001,
+    "text": " aren't being filtered. So then when everything is summed back together, we get this kind of combined"
+  },
+  {
+    "start": 859.7600000000001,
+    "text": " saturated unsaturated signal, which will then cause us to have overshoots in our summed version of"
+  },
+  {
+    "start": 866.48,
+    "text": " the sound. You could of course mitigate this by engaging the soft clip on the Saturator."
+  },
+  {
+    "start": 876.4,
+    "text": " And in fact, if you're playing around with the colour section on Saturator, I highly encourage"
+  },
+  {
+    "start": 881.28,
+    "text": " you to engage that soft clip because it's basically used for this exact purpose. And so there are five"
+  },
+  {
+    "start": 888.16,
+    "text": " things you probably didn't know about Ableton Live's Saturator device. I know that was pretty"
+  },
+  {
+    "start": 892.16,
+    "text": " advanced. I hope you enjoyed me getting nerdy and a little bit deep and into the weeds of that"
+  },
+  {
+    "start": 896.16,
+    "text": " device there. And if you'd like to get a little bit deeper into one more of Ableton Live's devices,"
+  },
+  {
+    "start": 900.3199999999999,
+    "text": " you can check out this video here for a detailed look at Ableton Live's Reverb. Otherwise,"
+  },
+  {
+    "start": 904.64,
+    "text": " thank you so much for watching. I hope you enjoyed. I hope you learned something and I'll see you all"
+  },
+  {
+    "start": 908.56,
+    "text": " in the next video."
+  }
+]
